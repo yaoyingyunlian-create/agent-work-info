@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.csv text eol=crlf
+*.cmd text eol=crlf
+*.jpg binary
+*.png binary
+*.mp4 binary
+*.pdf binary
+/资料库/原始资料/** -text -whitespace

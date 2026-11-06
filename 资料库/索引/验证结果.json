@@ -1,0 +1,15 @@
+{
+  "files": 292,
+  "types": {
+    "视频": 14,
+    "文档": 1,
+    "文字": 1,
+    "图片": 276
+  },
+  "bytes": 171209223,
+  "unique": 220,
+  "duplicate_copies": 72,
+  "pdf_pages": 16,
+  "errors": [],
+  "copy_hash_verified": true
+}

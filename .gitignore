@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
+/dist/
+/tmp/
+/资料库/索引/最终验证.json
