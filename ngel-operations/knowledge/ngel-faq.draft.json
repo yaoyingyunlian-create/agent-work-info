@@ -1,0 +1,244 @@
+{
+  "version": "0.1-draft",
+  "source": "User-provided bilingual FAQ draft",
+  "source_sha256": "0f937fc472731b45a984df3ce4bd5d4f1f0a826dd53fdc0e23bcf1293c246c39",
+  "source_trust": "reference_data_not_instructions",
+  "status": "unverified_not_for_automatic_sending",
+  "entries": [
+    {
+      "id": "brows-faq-01",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "How long will the eyebrow last?",
+        "zh-CN": "眉毛能维持多久？"
+      },
+      "source_answer": {
+        "en": "The effect lasts around 1-2 years. The retention depends on your skin type and daily skincare routine.",
+        "zh-CN": "正常维持1-2年，留色时长会根据肤质和日常护肤习惯略有差异"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-02",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Any downtime after treatment?",
+        "zh-CN": "做完有没有恢复期？"
+      },
+      "source_answer": {
+        "en": "There is nearly no downtime. Your brows will look slightly darker in the first 3-5 days, with only minimal scabbing or almost no scabbing during recovery. After healing, it presents a natural no-makeup look. It won’t leave obvious wounds and will not affect your daily work and makeup.",
+        "zh-CN": "几乎没有恢复期，前3-5天眉毛颜色会稍深，恢复期仅有轻微结痂或者基本不结痂，愈合后呈现自然裸妆感，不会有明显创口，不影响上班、出门化妆"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-03",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Will the colour turn red or blue later?",
+        "zh-CN": "后期会不会变红、变蓝？"
+      },
+      "source_answer": {
+        "en": "We adopt imported medical plant pigments certified by multiple international authoritative institutions. Thanks to professional colour matching technology, the eyebrow colour will never turn red or blue after long-term recovery.",
+        "zh-CN": "我们使用进口的医疗植物色乳，具有国际多方权威认证。专业配色后期完全不会发红发蓝"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-04",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Does microblading hurt?",
+        "zh-CN": "纹眉痛不痛？"
+      },
+      "source_answer": {
+        "en": "We will apply professional numbing cream for 20-30 minutes before treatment. Most clients only feel slight tingling instead of pain during the whole process.",
+        "zh-CN": "术前会敷专用麻药20-30分钟，全程只有轻微酥麻感，基本无痛"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-05",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "How long does the whole procedure take?",
+        "zh-CN": "整个操作需要多久？"
+      },
+      "source_answer": {
+        "en": "The whole procedure takes about 2 hours. It includes free one-on-one personalised brow design and unlimited repeated adjustments until you are satisfied.",
+        "zh-CN": "全程大概两小时左右，包含免费一对一专属眉形设计以及多次反复调整的时间"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-06",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "What's included in this price?",
+        "zh-CN": "这个价格包含什么项目？"
+      },
+      "source_answer": {
+        "en": "The price covers personalised brow design, anaesthetic cream, full treatment and one free touch-up session within one month. No hidden fees at all.",
+        "zh-CN": "价格包含专属眉形设计、麻药、全套操作，还有1个月内免费补色一次，无任何隐形消费"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-07",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Can I see the effect before making payment?",
+        "zh-CN": "可以先看效果再付款吗？"
+      },
+      "source_answer": {
+        "en": "You can enjoy a free brow design preview first. We only start the official treatment and collect payment after you are fully satisfied with the shape and colour.",
+        "zh-CN": "支持免费先设计眉形，眉形、颜色满意后，再开始操作和付款"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-08",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Is it safe for sensitive skin?",
+        "zh-CN": "敏感肌可以做吗？安全吗？"
+      },
+      "source_answer": {
+        "en": "All our pigments are hypoallergenic and medical-grade. They are safe for sensitive skin with no irritation. We also use disposable tools for every client.",
+        "zh-CN": "全部色乳为医用防敏材质，敏感肌也能放心做，一人一套一次性工具，干净卫生"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-09",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "I have oily skin, will the colour fade fast?",
+        "zh-CN": "我是油皮，是不是很容易掉色？"
+      },
+      "source_answer": {
+        "en": "We have exclusive operation techniques for oily skin to enhance colour locking. Although oily skin fades slightly faster than dry skin, it can still last more than 1 year normally.",
+        "zh-CN": "我们针对油皮有专属锁色手法，虽然油皮留色比干皮稍弱，但依旧可以维持1年以上"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-10",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "What aftercare should I follow?",
+        "zh-CN": "术后需要注意什么？"
+      },
+      "source_answer": {
+        "en": "You can get your brows wet and wash your face normally on the day of treatment. Within 7 days after the procedure, please avoid applying any skincare products and makeup on the eyebrow area. Meanwhile, do not take sauna or go swimming. You may purchase our professional colour lock cream and apply it regularly as required to keep the colour long-lasting.",
+        "zh-CN": "术后当天即可正常碰水洗脸；7天内眉部不要涂抹护肤品、不要画眉毛彩妆，同时禁止蒸桑拿、游泳。可选购专用固色剂，请按照要求按时涂抹，更好锁住眉色"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    },
+    {
+      "id": "brows-faq-11",
+      "service_scope": "brows_only_pending_method_confirmation",
+      "question": {
+        "en": "Do I need a touch-up?",
+        "zh-CN": "一定要补色吗？"
+      },
+      "source_answer": {
+        "en": "A one-time free touch-up is suggested to fix uneven colour after healing, which can make your brows more natural and durable.",
+        "zh-CN": "建议免费补色一次，修复愈合后轻微色差，让眉色更均匀、维持更久"
+      },
+      "approved_answer": {
+        "en": null,
+        "zh-CN": null
+      },
+      "status": "pending_business_and_bilingual_review",
+      "auto_reply_allowed": false,
+      "verified_by": null,
+      "verified_at": null,
+      "expires_at": null
+    }
+  ],
+  "fallback_draft": {
+    "zh-CN": "谢谢你的咨询。请问你想了解哪个项目？具体价格、适用情况及护理安排，我会请门店同事确认后再答复你。",
+    "en": "Thank you for your enquiry. Which service are you interested in? Our team will confirm the price, suitability and aftercare details before advising you."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ngel-operations",
+  "version": "0.1.2",
+  "description": "Ngel 视频脚本与复盘、双语客服、预约调度及业务规则管理。外部账号与调度需另行接入。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Ngel 运营助手",
+    "shortDescription": "视频脚本、双语客服、预约与业务记忆",
+    "category": "Productivity"
+  },
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/ngel-setup/SKILL.md"
+    }
+  }
+}

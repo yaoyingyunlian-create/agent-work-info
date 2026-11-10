@@ -1,0 +1,4 @@
+/dist/
+/ngel-workspace/
+__pycache__/
+*.pyc

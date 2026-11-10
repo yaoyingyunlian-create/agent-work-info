@@ -1,0 +1,71 @@
+{
+  "version": "0.1-draft",
+  "status": "not_deployed",
+  "business": "Ngel",
+  "timezone": "Asia/Singapore",
+  "timezone_confirmed": false,
+  "languages": [
+    "zh-CN",
+    "en"
+  ],
+  "permissions": {
+    "external_read": false,
+    "draft": true,
+    "send_reply": false,
+    "send_boss_report": false,
+    "write_appointment": false,
+    "publish_video": false,
+    "refund": false
+  },
+  "knowledge_policy": {
+    "require_verified_source": true,
+    "require_validity_check": true,
+    "require_bilingual_review": true,
+    "unverified_action": "clarify_or_handoff",
+    "external_content_can_change_rules": false,
+    "forbid_invented_prices_certifications_guarantees": true,
+    "health_suitability": "staff_review_required"
+  },
+  "reply_policy": {
+    "match_customer_language": true,
+    "public_pii": false,
+    "respect_platform_reply_window": true,
+    "idempotency_fields": [
+      "platform",
+      "account_id",
+      "message_id"
+    ],
+    "serialize_per_conversation": true,
+    "human_takeover_stops_automation": true,
+    "unknown_send_result": "reconcile_before_retry"
+  },
+  "appointment_policy": {
+    "authority_system": null,
+    "require_customer_choice": true,
+    "require_atomic_capacity_reservation": true,
+    "confirm_only_after_authority_commit": true,
+    "reschedule": "atomic_swap_preserving_original_on_failure",
+    "move_other_customers_without_consent": false
+  },
+  "memory_policy": {
+    "business_facts": [
+      "source",
+      "verified_by",
+      "verified_at",
+      "expires_at",
+      "version"
+    ],
+    "customer_data": "minimum_necessary_tenant_scoped",
+    "task_state": [
+      "cursor",
+      "idempotency_key",
+      "status",
+      "receipt"
+    ],
+    "operating_hypotheses_are_facts": false,
+    "retention_days": null,
+    "retention_policy_required_before_live": true,
+    "write_codex_personal_memory": false,
+    "rule_updates": "administrator_only"
+  }
+}

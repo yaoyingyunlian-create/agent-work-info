@@ -1,0 +1,28 @@
+{
+  "status": "specification_only_no_scheduler_installed",
+  "timezone": "Asia/Singapore",
+  "timezone_confirmed": false,
+  "jobs": [
+    {
+      "id": "customer_inbox_poll",
+      "enabled": false,
+      "cron": "*/30 * * * *",
+      "days": "every_day",
+      "no_new_messages": "silent",
+      "overlap": "skip_and_resume_from_persisted_cursor",
+      "requirements": ["authorized_platforms", "verified_knowledge", "durable_state", "human_handoff", "platform_policy_check"]
+    },
+    {
+      "id": "boss_daily_delivery",
+      "enabled": false,
+      "cron": "0 20 * * *",
+      "delivery_deadline_local": "20:00",
+      "preparation_job": "must_be_configured_before_enable",
+      "script_count": 5,
+      "recipient": null,
+      "channel": null,
+      "idempotency_fields": ["business", "local_date", "recipient", "report_version"],
+      "requirements": ["reference_videos", "platform_metrics_access_or_explicit_missing_data_report", "recipient", "delivery_channel", "quality_review", "preparation_job"]
+    }
+  ]
+}
