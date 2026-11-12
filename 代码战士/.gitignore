@@ -1,0 +1,22 @@
+# Local Python environments and caches
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+
+# Node and render caches
+**/node_modules/
+**/.cache/
+**/renders/tmp/
+
+# Local publishing credentials and browser sessions
+**/token.json
+**/client_secret*.json
+**/sessions/
+**/playwright/.auth/
+
+/thinknova-toolkit-v3/
+/成片/
+/运营/*.json
+/策划/创作状态*.json
+/素材库/素材总目录.csv
