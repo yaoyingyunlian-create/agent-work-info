@@ -1,21 +1,23 @@
 # Ngel 运营助手
 
-版本 0.1.2。Codex 技能插件，含初始化、脚本与复盘、双语客服与预约、规则与记忆四个入口。首次使用自动检查资料并分批询问，已回答内容保存后不重复询问，暂不能提供的项目可延期。随包附带 11 组待核验双语问答。不是已接通社交平台的 SaaS 服务，无内置平台 API、MCP 服务、后台调度或生产预约数据库。
+版本 0.1.3。Codex 技能插件，含初始化、脚本与复盘、双语客服与预约、规则与记忆四个入口。首次使用自动检查资料并分批询问，已回答内容保存后不重复询问，暂不能提供的项目可延期。随包附带 11 组待核验双语问答。不是已接通社交平台的 SaaS 服务，无内置平台 API、MCP 服务、后台调度或生产预约数据库。
 
 ## 安装
 
-推荐解压 ngel-marketplace-0.1.2.zip 到独立目录，保留隐藏的 .agents 目录及 plugins 目录。使用当前 Codex CLI：
+推荐解压 ngel-marketplace-0.1.3.zip 到独立目录，保留隐藏的 .agents 目录及 plugins 目录。使用当前 Codex CLI：
 
 ```powershell
 codex plugin marketplace add 'D:\path\to\extracted-marketplace'
 codex plugin add ngel-operations@ngel-local
 ```
 
-命令路径换成实际解压根目录。安装后开启新聊天，调用 `$ngel-setup`；如客户端未刷新插件列表，重启客户端。此包没有公开发布。当前开发机已安装；其他接收人需要自行安装。插件包 ngel-operations-0.1.2.zip 则适合接收端支持插件 ZIP 导入的场景；此入口是否可用取决于客户端。
+命令路径换成实际解压根目录。安装后开启新聊天，调用 `$ngel-setup`；如客户端未刷新插件列表，重启客户端。此包没有公开发布。当前开发机已安装；其他接收人需要自行安装。插件包 ngel-operations-0.1.3.zip 则适合接收端支持插件 ZIP 导入的场景；此入口是否可用取决于客户端。
 
 安装格式依据：https://developers.openai.com/plugins/build/plugins 。本机已使用 marketplace add、plugin add 完成安装，并通过 plugin list 检查 installed=true 和 enabled=true；新聊天中的技能自动选取仍需实际使用确认。
 
 ## 使用
+
+网页操作使用 Ego Lite，定时触发由 Codex 负责。客户可直接复制 [客户使用提示词](references/customer-prompts.md)。
 
 - `$ngel-setup` 初始化业务工作区并检查接入缺口。
 - `$ngel-content` 分析提供的视频，生成五篇标准脚本及数据复盘。

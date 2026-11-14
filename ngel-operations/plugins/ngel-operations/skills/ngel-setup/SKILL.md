@@ -5,6 +5,8 @@ description: 初始化 Ngel 运营插件的业务工作区，核对知识库、�
 
 # Ngel 初始化
 
+接入网页渠道时读取插件根目录 references/ego-lite.md，用 Ego Lite 验证业务账号、消息列表、预约与日报渠道的可访问性。将测试结果按渠道报告。
+
 插件根目录为本文件所在技能目录的上两级。读取根目录 references/requirements.md，使用 assets/config 和 assets/knowledge 的模板；插件安装目录只读，业务数据写入用户指定工作区。
 
 用户未指定工作区时使用当前项目下 ngel-workspace，先说明这个默认位置。执行根目录 scripts/workspace.py init --workspace <绝对目录>。脚本只创建不存在的文件；已有配置不覆盖。随后运行同一脚本的 check 子命令。

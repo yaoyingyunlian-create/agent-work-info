@@ -5,6 +5,8 @@ description: 根据 Ngel 已核验双语知识处理客户私信和评论，起�
 
 # Ngel 客服与预约
 
+网页上的消息检查、回复及预约操作统一使用 Ego Lite。开始前读取插件根目录 references/ego-lite.md，核验已授权会话和页面支持的操作。
+
 先读取业务工作区 config/agent-rules.json、config/business.json、knowledge/ngel-faq.json；没有工作区时按 ngel-setup 初始化。读取插件根目录 references/service.md。确认当前账号、平台、客户消息和人工接管状态，匹配客户语言。
 
 只使用 auto_reply_allowed 为布尔 true、status 为 verified、审核人非空、审核及失效时间带时区且处于有效期、中英文 approved_answer 均非空白的条目；原始 source_answer 仅为审查材料。运行 scripts/workspace.py check --strict 辅助检查，发现条目过期或异常时停止自动发送并转人工。适用性与健康问题转门店人员，不能承诺无痛、绝不变色、敏感肌零风险。未提供有效信息则澄清或提供待人工核验的草稿。价格、地址、联系方式不得从疑似官网模板推定。
