@@ -5,6 +5,8 @@ description: 根据 Ngel 已核验双语知识处理客户私信和评论，起�
 
 # Ngel 客服与预约
 
+咨询新增项目、价格或补色时，读取 references/poster-catalog.md 并按编号查 assets/media/index.json。海报目录是待审核证据，自动回复仍使用工作区已审核条目。
+
 网页上的消息检查、回复及预约操作统一使用 Ego Lite。开始前读取插件根目录 references/ego-lite.md，核验已授权会话和页面支持的操作。
 
 先读取业务工作区 config/agent-rules.json、config/business.json、knowledge/ngel-faq.json；没有工作区时按 ngel-setup 初始化。读取插件根目录 references/service.md。确认当前账号、平台、客户消息和人工接管状态，匹配客户语言。

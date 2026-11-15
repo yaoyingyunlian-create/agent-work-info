@@ -5,6 +5,8 @@ description: 管理 Ngel 的中英文知识核验、Agent 权限规则与业务�
 
 # Ngel 规则和记忆
 
+新版海报的原图在 assets/media，提取表及冲突在 references/poster-catalog.md。审核时结合编号证据形成中英文口径，保存到业务工作区。保留旧 FAQ 与各版海报的出处。
+
 读取业务工作区 config/agent-rules.json、knowledge/ngel-faq.json 和 memory/business.json。插件模板不是当前业务状态，不能用升级插件覆盖已维护资料。
 
 知识审查保留 source_answer 原文及来源；对照门店负责人提供的依据修改 approved_answer 中英文，核对同一事实 ID 的价格、范围、时效与承诺一致。仅有文本改写不等于业务核验。记录 verified_by、verified_at、expires_at，依据不足保持 pending 状态和 auto_reply_allowed=false。经明确业务核验后才可置 verified 并开放单条回复；全局发送权限仍独立受控。

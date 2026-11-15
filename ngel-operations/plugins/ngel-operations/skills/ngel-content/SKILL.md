@@ -5,6 +5,8 @@ description: 为 Ngel 拆解参考博主和视频结构，优化脚本，生成�
 
 # Ngel 内容运营
 
+需要品牌图、价目表或案例参考时，读取 assets/media/index.json 与 references/poster-catalog.md。索引路径相对索引所在目录。选图时核对项目和对外使用授权，案例画面只说明其来源。
+
 先确认业务工作区，读取 config/agent-rules.json、config/business.json 和 knowledge/ngel-faq.json。没有工作区时先按 ngel-setup 初始化。不把未核验 source_answer 当作业务事实。读取插件根目录 references/content.md 获取字段和指标定义。
 
 根据用户提供的视频或博主链接，用 Ego Lite 读取网页，或读取用户提供的本地素材。网页操作按插件根目录 references/ego-lite.md 执行，网页投递也使用 Ego Lite。区分看过画面、仅字幕、仅标题三种证据范围。拆解开头、受众问题、信息顺序、证据、镜头节奏和行动引导。链接不可访问时说明限制，继续用已取得资料，不虚构分析。

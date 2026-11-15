@@ -1,0 +1,201 @@
+{
+  "batch": "2026-11-15",
+  "items": [
+    {
+      "id": 24,
+      "path": "originals/24-brows-price.jpg",
+      "source_file": "微信图片_20261114165130_24_53.jpg",
+      "category": "brows-price",
+      "title": {
+        "zh-CN": "眉部综合价目",
+        "en": "Brow price menu"
+      },
+      "sha256": "a083ddbb415d14b7d03d34c5695fa9bf402655af3a58c7361dad097677852f83",
+      "bytes": 3162709,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 25,
+      "path": "originals/25-eye-lip-price.jpg",
+      "source_file": "微信图片_20261114165145_25_53.jpg",
+      "category": "eye-lip-price",
+      "title": {
+        "zh-CN": "眼唇价目",
+        "en": "Eyeliner and lip price menu"
+      },
+      "sha256": "d428bbe36780f21742bb178397904c1b0f3cf5e60ece2c4039230a4d371818a4",
+      "bytes": 3178154,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 26,
+      "path": "originals/26-hair-stroke-brows.jpg",
+      "source_file": "微信图片_20261114165149_26_53.jpg",
+      "category": "hair-stroke-brows",
+      "title": {
+        "zh-CN": "三款线条眉对照",
+        "en": "Hair-stroke brow comparison"
+      },
+      "sha256": "cbe9245b8b57782f4ed82a27f9c223431a836d61312b1e9b8d718f65606c99bd",
+      "bytes": 1671268,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 27,
+      "path": "originals/27-powder-brows.jpg",
+      "source_file": "微信图片_20261114165154_27_53.jpg",
+      "category": "powder-brows",
+      "title": {
+        "zh-CN": "三款雾眉及改色",
+        "en": "Powder brows and correction"
+      },
+      "sha256": "22fb7458d125d35bd3ceb03a2718a001d85db2cf0d2b356193a9b639767fc87b",
+      "bytes": 2044305,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 28,
+      "path": "originals/28-hybrid-brows.jpg",
+      "source_file": "微信图片_20261114165155_28_53.jpg",
+      "category": "hybrid-brows",
+      "title": {
+        "zh-CN": "线雾混合眉加项",
+        "en": "Hybrid brow add-ons"
+      },
+      "sha256": "74541325bfada58d3b9a635d6ff78a27429b8868c5007e9c4fb724892f4df94b",
+      "bytes": 390591,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 29,
+      "path": "originals/29-hairline.jpg",
+      "source_file": "微信图片_20261114165156_29_53.jpg",
+      "category": "hairline",
+      "title": {
+        "zh-CN": "发际线套餐",
+        "en": "Hairline packages"
+      },
+      "sha256": "97f7f573cfc03aee8e8ff608f88d1a1092ce2c7b0842d398ee71d8bb6daac31d",
+      "bytes": 216534,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 30,
+      "path": "originals/30-lips.jpg",
+      "source_file": "微信图片_20261114165157_30_53.jpg",
+      "category": "lips",
+      "title": {
+        "zh-CN": "唇部款式和改色",
+        "en": "Lip styles and correction"
+      },
+      "sha256": "a0e473105d813648208f47a7876ccbd5188b13b0ff0b559601540448b0376b5e",
+      "bytes": 247136,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 31,
+      "path": "originals/31-eyeliner.jpg",
+      "source_file": "微信图片_20261114165158_31_53.jpg",
+      "category": "eyeliner",
+      "title": {
+        "zh-CN": "眼线款式和精华",
+        "en": "Eyeliner styles and serum"
+      },
+      "sha256": "2b9e3e3d763d68e888dcae26161fbb7a7eea7022d513a42bad42263b9219bee5",
+      "bytes": 333594,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 32,
+      "path": "originals/32-brow-removal-zh.jpg",
+      "source_file": "微信图片_20261114165200_32_53.jpg",
+      "category": "brow-removal-zh",
+      "title": {
+        "zh-CN": "洗眉宣传中文版",
+        "en": "Brow removal promotion in Chinese"
+      },
+      "sha256": "efddd1b307027c6a715ba9f47e85fd976e6a7275c489fa126e691b3d8dcab528",
+      "bytes": 431026,
+      "external_use": "pending_review",
+      "companion_id": 33
+    },
+    {
+      "id": 33,
+      "path": "originals/33-brow-removal-en.jpg",
+      "source_file": "微信图片_20261114165211_33_53.jpg",
+      "category": "brow-removal-en",
+      "title": {
+        "zh-CN": "洗眉宣传英文版",
+        "en": "Brow removal promotion in English"
+      },
+      "sha256": "3cbdb15ece68adb8a6be2c97c7730b4c8db8df8965e67ecd3426e743b5b05f8d",
+      "bytes": 5383497,
+      "external_use": "pending_review",
+      "companion_id": 32
+    },
+    {
+      "id": 34,
+      "path": "originals/34-lashes.jpg",
+      "source_file": "微信图片_20261114165214_34_53.jpg",
+      "category": "lashes",
+      "title": {
+        "zh-CN": "美睫和修补价目",
+        "en": "Lash services and infills"
+      },
+      "sha256": "0f22badeafa76746fb55865e6cab5ce17e7737d1234f42e7e7455f715adc238e",
+      "bytes": 972112,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 35,
+      "path": "originals/35-touch-up-policy.jpg",
+      "source_file": "微信图片_20261114165215_35_53.jpg",
+      "category": "touch-up-policy",
+      "title": {
+        "zh-CN": "补色时间和收费",
+        "en": "Touch-up timing and fees"
+      },
+      "sha256": "7f2d5e8a97add9892c67492aa5c8c670608ed4865cf53cd4e622274f553db69a",
+      "bytes": 196224,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 36,
+      "path": "originals/36-touch-up-card.jpg",
+      "source_file": "微信图片_20261114165219_36_53.jpg",
+      "category": "touch-up-card",
+      "title": {
+        "zh-CN": "眉部补色年卡",
+        "en": "Brow touch-up membership"
+      },
+      "sha256": "c1c8ef1dacec931c2941761d05be356bc985c8bfb7d2461fc1bf7c59869d90bb",
+      "bytes": 1376984,
+      "external_use": "pending_review",
+      "companion_id": null
+    },
+    {
+      "id": 37,
+      "path": "originals/37-skin-care.jpg",
+      "source_file": "微信图片_20261114165224_37_53.jpg",
+      "category": "skin-care",
+      "title": {
+        "zh-CN": "皮肤护理价目",
+        "en": "Skin care price menu"
+      },
+      "sha256": "35aed6365e83ddf1b0861392c2cac36fef84c03cc93fc5671179e3281cef2934",
+      "bytes": 1535319,
+      "external_use": "pending_review",
+      "companion_id": null
+    }
+  ]
+}
