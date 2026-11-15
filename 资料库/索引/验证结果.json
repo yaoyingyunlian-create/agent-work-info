@@ -1,14 +1,14 @@
 {
-  "files": 292,
+  "files": 652,
   "types": {
-    "视频": 14,
+    "视频": 127,
     "文档": 1,
-    "文字": 1,
-    "图片": 276
+    "文字": 2,
+    "图片": 522
   },
-  "bytes": 171209223,
-  "unique": 220,
-  "duplicate_copies": 72,
+  "bytes": 803817696,
+  "unique": 503,
+  "duplicate_copies": 149,
   "pdf_pages": 16,
   "errors": [],
   "copy_hash_verified": true

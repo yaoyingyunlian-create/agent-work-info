@@ -35,14 +35,14 @@ for candidate in SOURCE.rglob('*'):
         if not target.exists(): shutil.copy2(candidate,target)
 SOURCE=(ROOT/'原始资料').resolve()
 rows=[]; seen={}; errors=[]
-for i,p in enumerate(sorted(SOURCE.rglob('*')),1):
+for p in sorted(SOURCE.rglob('*'), key=lambda path: (int(ids.get(path.relative_to(SOURCE).as_posix(), 'A0')[1:]) or next_id, path)):
     if not p.is_file(): continue
     rel=p.relative_to(SOURCE); dest=ROOT/'原始资料'/rel
     dest.parent.mkdir(parents=True,exist_ok=True)
     digest=hashlib.sha256(p.read_bytes()).hexdigest()
     if not dest.exists(): shutil.copy2(p,dest)
     if hashlib.sha256(dest.read_bytes()).hexdigest()!=digest: raise RuntimeError(str(dest))
-    kind={'.jpg':'图片','.mp4':'视频','.pdf':'文档','.txt':'文字'}.get(p.suffix.lower(),'其他')
+    kind={'.jpg':'图片','.jpeg':'图片','.png':'图片','.mp4':'视频','.pdf':'文档','.txt':'文字'}.get(p.suffix.lower(),'其他')
     if rel.as_posix() in ids: rid=ids[rel.as_posix()]
     else: rid=f'A{next_id:04d}'; next_id+=1
     duplicate=seen.get(digest,''); seen.setdefault(digest,rid)
