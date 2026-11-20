@@ -1,0 +1,9 @@
+*.txt text eol=lf -whitespace
+*.ps1 text eol=crlf
+/知识库和素材库/** -text -whitespace
+/整理成果/知识库/来源全文/** -text -whitespace
+*.wav binary
+*.jpg binary
+*.png binary
+*.pdf binary
+*.mp4 binary

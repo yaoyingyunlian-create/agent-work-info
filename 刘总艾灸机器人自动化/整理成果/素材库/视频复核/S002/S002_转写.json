@@ -1,0 +1,82 @@
+{
+  "source_id": "S002",
+  "engine": "faster-whisper 1.1.0 small multilingual CPU int8",
+  "language": "zh",
+  "language_probability": 0.29273658990859985,
+  "duration": 39.1253125,
+  "status": "低可靠度机器候选，非确认转写；见音频转写说明",
+  "segments": [
+    {
+      "start": 1.23,
+      "end": 3.17,
+      "text": "我們要去...",
+      "avg_logprob": -1.3533525466918945,
+      "no_speech_prob": 0.32435500621795654,
+      "words": [
+        {
+          "start": 1.23,
+          "end": 1.97,
+          "word": "我們",
+          "probability": 0.18531103432178497
+        },
+        {
+          "start": 1.97,
+          "end": 2.43,
+          "word": "要",
+          "probability": 0.06825326383113861
+        },
+        {
+          "start": 2.43,
+          "end": 2.57,
+          "word": "去",
+          "probability": 0.11366872489452362
+        },
+        {
+          "start": 2.57,
+          "end": 3.17,
+          "word": "...",
+          "probability": 0.050362203270196915
+        }
+      ]
+    },
+    {
+      "start": 3.17,
+      "end": 4.43,
+      "text": "我們要去找人",
+      "avg_logprob": -1.3533525466918945,
+      "no_speech_prob": 0.32435500621795654,
+      "words": [
+        {
+          "start": 3.17,
+          "end": 3.65,
+          "word": "我們",
+          "probability": 0.5118032097816467
+        },
+        {
+          "start": 3.65,
+          "end": 3.87,
+          "word": "要",
+          "probability": 0.3811175525188446
+        },
+        {
+          "start": 3.87,
+          "end": 3.91,
+          "word": "去",
+          "probability": 0.8436740636825562
+        },
+        {
+          "start": 3.91,
+          "end": 4.15,
+          "word": "找",
+          "probability": 0.17599883675575256
+        },
+        {
+          "start": 4.15,
+          "end": 4.43,
+          "word": "人",
+          "probability": 0.2314474731683731
+        }
+      ]
+    }
+  ]
+}

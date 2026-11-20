@@ -1,0 +1,28 @@
+{
+  "engine": "small multilingual, forced zh, no VAD, denoise+loudnorm",
+  "status": "复查候选，非确认文本",
+  "duration": 39.1253125,
+  "segments": [
+    {
+      "start": 1.3400000000000005,
+      "end": 2.86,
+      "text": "今天我們要來一個",
+      "avg_logprob": -1.7840182408690453,
+      "no_speech_prob": 0.5964875221252441
+    },
+    {
+      "start": 2.86,
+      "end": 5.1,
+      "text": "無人機的房間",
+      "avg_logprob": -1.7840182408690453,
+      "no_speech_prob": 0.5964875221252441
+    },
+    {
+      "start": 37.02,
+      "end": 38.42,
+      "text": "字幕by索兰娅",
+      "avg_logprob": -0.9668703079223633,
+      "no_speech_prob": 0.7513144612312317
+    }
+  ]
+}

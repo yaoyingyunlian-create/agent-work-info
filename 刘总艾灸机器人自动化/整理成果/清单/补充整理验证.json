@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-20",
+  "originals_sha256": "16/16 PASS",
+  "ocr_pages": 50,
+  "ocr_characters": 29316,
+  "videos": [
+    {
+      "id": "S001",
+      "audio_seconds": 47.872,
+      "timeline_frames": 48,
+      "decode": "PASS",
+      "first_pass_segments": 0,
+      "second_pass_segments": 0,
+      "confirmed_segments": 0
+    },
+    {
+      "id": "S002",
+      "audio_seconds": 39.125,
+      "timeline_frames": 39,
+      "decode": "PASS",
+      "first_pass_segments": 2,
+      "second_pass_segments": 3,
+      "confirmed_segments": 0
+    },
+    {
+      "id": "S003",
+      "audio_seconds": 88.96,
+      "timeline_frames": 89,
+      "decode": "PASS",
+      "first_pass_segments": 0,
+      "second_pass_segments": 0,
+      "confirmed_segments": 0
+    }
+  ]
+}

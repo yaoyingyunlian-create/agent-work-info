@@ -1,0 +1,9 @@
+{
+  "source_id": "S003",
+  "engine": "faster-whisper 1.1.0 small multilingual CPU int8",
+  "language": "en",
+  "language_probability": 0.3898560106754303,
+  "duration": 88.96,
+  "status": "低可靠度机器候选，非确认转写；见音频转写说明",
+  "segments": []
+}
