@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0",
+  "task_id": "junior-demo",
+  "profile": "junior",
+  "mode": "weekly_template",
+  "timezone": "Asia/Shanghai",
+  "fill_policy": "demand_only",
+  "external_scope_confirmed": true,
+  "external_scope_note": "仅本示例任务，已确认无其他占用",
+  "calendar": {
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "week_types": [
+      "odd",
+      "even"
+    ]
+  },
+  "groups": [
+    {
+      "id": "G1",
+      "name": "示例一组",
+      "size": 20,
+      "conflicts_confirmed": true
+    },
+    {
+      "id": "G2",
+      "name": "示例二组",
+      "size": 20,
+      "conflicts_confirmed": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "name": "示例教师1",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    },
+    {
+      "id": "T2",
+      "name": "示例教师2",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    }
+  ],
+  "students": [],
+  "resources": [
+    {
+      "id": "R1",
+      "name": "示例教室",
+      "capacity": 1,
+      "seats": 40,
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "campus_id": "A",
+      "features": [
+        "lab"
+      ]
+    }
+  ],
+  "slots": [
+    {
+      "id": "P1",
+      "start": "08:00",
+      "end": "08:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P2",
+      "start": "08:50",
+      "end": "09:30",
+      "half_day": "am"
+    },
+    {
+      "id": "P3",
+      "start": "10:00",
+      "end": "10:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P4",
+      "start": "14:00",
+      "end": "14:40",
+      "half_day": "pm"
+    },
+    {
+      "id": "LAB",
+      "start": "15:00",
+      "end": "16:20",
+      "half_day": "pm"
+    }
+  ],
+  "demands": [
+    {
+      "id": "LAB1",
+      "course_id": "实验",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        80
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 1,
+        "scope": "week"
+      },
+      "required_features": [
+        "lab"
+      ],
+      "rotation": {
+        "odd": {
+          "teacher_ids": [
+            "T1"
+          ],
+          "course_id": "物理实验"
+        },
+        "even": {
+          "teacher_ids": [
+            "T2"
+          ],
+          "course_id": "化学实验"
+        }
+      }
+    },
+    {
+      "id": "D2",
+      "course_id": "数学",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "轮换同位",
+      "type": "synchronize",
+      "demand_ids": [
+        "LAB1"
+      ],
+      "across_weeks": true,
+      "level": "hard"
+    }
+  ],
+  "external_occupancy": [],
+  "locks": []
+}

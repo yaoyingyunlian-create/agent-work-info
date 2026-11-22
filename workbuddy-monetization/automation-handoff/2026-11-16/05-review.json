@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-16",
+  "stage": "05-review",
+  "generated_at": "2026-11-16T21:17:29.092+08:00",
+  "state": "partial",
+  "items": [
+    {
+      "demand_id": "WB-20261116-01",
+      "type": "research",
+      "state": "blocked",
+      "evidence": [
+        "https://www.workbuddy.cn/docs/workbuddy/Buddy-One/Credits"
+      ],
+      "next_action": "Use a sanitized monthly statement to validate standalone reconciliation."
+    },
+    {
+      "demand_id": "WB-20261113-01",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "state": "under_review",
+      "type": "skill",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all"
+      ],
+      "next_action": "Check review status."
+    },
+    {
+      "demand_id": "WB-20261112-01",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.0",
+      "state": "under_review",
+      "type": "skill",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all"
+      ],
+      "next_action": "Check review status."
+    },
+    {
+      "demand_id": "legacy-os_f31dca6b57cff4e2",
+      "asset_id": "os_f31dca6b57cff4e2",
+      "version": "1.0.1",
+      "state": "published",
+      "type": "skill",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all"
+      ],
+      "next_action": "Track adoption."
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "confirmed",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "https://open.workbuddy.cn/skill/all"
+      ],
+      "next_action": "Review the first paid asset listing and collect comparable funnel data.",
+      "period": "2026-11-16 Asia/Shanghai through observation",
+      "paid_orders_observed": 1,
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "refunds": null,
+      "net_income": null
+    }
+  ],
+  "upstream_source": "chat",
+  "limitations": [
+    "No upstream JSON was present.",
+    "Only the first operations page was inspected; current income totals were placeholders."
+  ]
+}

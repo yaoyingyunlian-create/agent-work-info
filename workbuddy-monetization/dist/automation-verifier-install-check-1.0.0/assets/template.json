@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-11-06T18:00:00+08:00",
+  "days": 7,
+  "coverage_confirmed": false,
+  "tasks": [{
+    "id": "replace-task", "name": "替换为真实任务名称",
+    "runs": [{
+      "id": "2026-11-06", "start": "2026-11-06T09:00:00+08:00", "due": "2026-11-06T10:00:00+08:00",
+      "claimed_status": "unknown", "artifact": "exports/2026-11-06.csv",
+      "checks": {"mtime": true, "format": "csv", "min_rows": 1, "required_fields": ["id", "updated_at"], "data_time_field": "updated_at"}
+    }]
+  }]
+}

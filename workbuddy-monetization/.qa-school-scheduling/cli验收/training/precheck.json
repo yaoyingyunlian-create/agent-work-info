@@ -1,0 +1,18 @@
+{
+  "valid": true,
+  "input_hash": "94758f0abba48fe3101e780a1593b0066480368d7dc53e031bfdd22571bd7f10",
+  "errors": [],
+  "session_count": 5,
+  "candidate_count": 944,
+  "demands": {
+    "PACK": {
+      "sessions": 3,
+      "candidates": 864
+    },
+    "SMALL": {
+      "sessions": 2,
+      "candidates": 80
+    }
+  },
+  "note": "预检通过不保证存在可行解；完整硬约束由求解与独立校验判断"
+}

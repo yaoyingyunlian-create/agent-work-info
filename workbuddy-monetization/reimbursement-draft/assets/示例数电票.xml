@@ -1,0 +1,11 @@
+<EInvoice>
+  <!-- 合成样票，仅用于演示，不可用于报销或查验。 -->
+  <Header><InherentLabel><GeneralOrSpecialVAT><LabelName>增值税普通发票</LabelName></GeneralOrSpecialVAT></InherentLabel></Header>
+  <EInvoiceData>
+    <BuyerInformation><BuyerName>演示用报销单位</BuyerName><BuyerIdNum>900000000000000001</BuyerIdNum></BuyerInformation>
+    <SellerInformation><SellerName>演示销售单位</SellerName></SellerInformation>
+    <BasicInformation><TotalAmWithoutTax>100.00</TotalAmWithoutTax><TotalTaxAm>13.00</TotalTaxAm><TotalTax-includedAmount>113.00</TotalTax-includedAmount></BasicInformation>
+    <IssuItemInformation><ItemName>演示办公用品</ItemName><Amount>100.00</Amount><ComTaxAm>13.00</ComTaxAm><TaxRate>0.13</TaxRate></IssuItemInformation>
+  </EInvoiceData>
+  <TaxSupervisionInfo><InvoiceNumber>26000000000000000001</InvoiceNumber><IssueTime>2026-10-08</IssueTime></TaxSupervisionInfo>
+</EInvoice>

@@ -1,0 +1,7 @@
+{
+  "zip_integrity": true,
+  "source_bytes_match": true,
+  "no_site_packages_first_use": true,
+  "chinese_path_context": true,
+  "template_no_extra_questions": true
+}

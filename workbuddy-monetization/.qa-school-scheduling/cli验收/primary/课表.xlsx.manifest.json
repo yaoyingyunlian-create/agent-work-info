@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "input_hash": "2fe4b8af7d36e3c0ed93bae944fd4d7f9e639c5c0acb2be1c1ba9facbc07a272",
+  "solution_hash": "9949252cc93b15823ecb9b02b7ef70abe4ec6d393a3935308bbc1eaa4bf0bfbb",
+  "output": "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\cli验收\\primary\\课表.xlsx",
+  "file_sha256": "ee245dc91b949c430835e4a97a58f936e4b35c029e9dd4f553c3509778d0769c",
+  "parameters": {
+    "time_limit": 120.0,
+    "workers": 1,
+    "seed": 0
+  },
+  "layers": [
+    {
+      "tier": 2,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "delivery_status": "验收通过"
+}

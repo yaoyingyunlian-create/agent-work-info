@@ -1,0 +1,35 @@
+{
+  "observed_at": "2026-11-20T12:14:09.692590+08:00",
+  "source": "https://open.workbuddy.cn/monetization",
+  "platform_cumulative_income_cny": "24.75",
+  "account_balance_cny": "24.87",
+  "withdrawable_cny": "0",
+  "payer_count": 3,
+  "bills_observed": 3,
+  "orders": [
+    {
+      "asset_id": "os_52efb5f1213b6d5a",
+      "time": "2026-11-19T21:02:37+08:00",
+      "bill_amount_cny": "7.92",
+      "status": "pending_settlement"
+    },
+    {
+      "asset_id": "os_0c287fd18e58b0ff",
+      "time": "2026-11-18T11:43:51+08:00",
+      "bill_amount_cny": "8.91",
+      "status": "pending_settlement"
+    },
+    {
+      "asset_id": "os_52efb5f1213b6d5a",
+      "time": "2026-11-16T13:15:26+08:00",
+      "bill_amount_cny": "7.92",
+      "status": "pending_settlement"
+    }
+  ],
+  "order_key_limitation": "No visible order ID; asset + timestamp + amount + status used for this snapshot.",
+  "refunds": null,
+  "net_income": null,
+  "refresh_lag": null,
+  "previous_day_observed_bills": 1,
+  "today_observed_bills": 0
+}

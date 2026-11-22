@@ -1,0 +1,437 @@
+{
+  "schema_version": "1.0",
+  "task_id": "real-teachers-classes-2-3",
+  "profile": "senior",
+  "mode": "weekly_template",
+  "timezone": "Asia/Shanghai",
+  "fill_policy": "demand_only",
+  "calendar": {
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "week_types": [
+      "all"
+    ]
+  },
+  "groups": [
+    {
+      "id": "C2",
+      "name": "2班"
+    },
+    {
+      "id": "C3",
+      "name": "3班"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T001",
+      "name": "刘福根"
+    },
+    {
+      "id": "T002",
+      "name": "叶张强"
+    },
+    {
+      "id": "T003",
+      "name": "宋晓舟"
+    },
+    {
+      "id": "T004",
+      "name": "张丹阳"
+    },
+    {
+      "id": "T005",
+      "name": "李雨烟"
+    },
+    {
+      "id": "T006",
+      "name": "柯善学"
+    },
+    {
+      "id": "T007",
+      "name": "水兰"
+    },
+    {
+      "id": "T008",
+      "name": "焦媛"
+    },
+    {
+      "id": "T009",
+      "name": "胡琼"
+    },
+    {
+      "id": "T010",
+      "name": "谈荣庆"
+    },
+    {
+      "id": "T011",
+      "name": "邓彬"
+    },
+    {
+      "id": "T012",
+      "name": "黄俊辉"
+    }
+  ],
+  "students": [],
+  "resources": [],
+  "slots": [
+    {
+      "id": "P1",
+      "start": "08:00",
+      "end": "08:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P2",
+      "start": "08:50",
+      "end": "09:30",
+      "half_day": "am"
+    },
+    {
+      "id": "P3",
+      "start": "09:40",
+      "end": "10:20",
+      "half_day": "am"
+    },
+    {
+      "id": "P4",
+      "start": "10:30",
+      "end": "11:10",
+      "half_day": "am"
+    },
+    {
+      "id": "P5",
+      "start": "11:20",
+      "end": "12:00",
+      "half_day": "am"
+    },
+    {
+      "id": "P6",
+      "start": "14:00",
+      "end": "14:40",
+      "half_day": "pm"
+    },
+    {
+      "id": "P7",
+      "start": "14:50",
+      "end": "15:30",
+      "half_day": "pm"
+    },
+    {
+      "id": "P8",
+      "start": "15:40",
+      "end": "16:20",
+      "half_day": "pm"
+    },
+    {
+      "id": "P9",
+      "start": "16:30",
+      "end": "17:10",
+      "half_day": "pm"
+    }
+  ],
+  "demands": [
+    {
+      "id": "C2-语文",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-数学",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-英语",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-物理",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 6,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-化学",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 6,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-生物",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 5,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C2-体育",
+      "course_id": "体育",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-语文",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-数学",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-英语",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 7,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-物理",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 6,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-化学",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 6,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-生物",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 5,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "C3-体育",
+      "course_id": "体育",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    }
+  ],
+  "rules": [],
+  "external_scope_confirmed": false,
+  "external_occupancy": [],
+  "test_assumptions": [
+    "只排2、3班的已确定6科和体育，共每班40节；其余每班5节暂不排",
+    "40分钟及节间时间仅作课位编码，不是真实作息",
+    "旧规则仅做冲突对照，未启用固定/集备/个人偏好；教师未提供可用性视为未验证"
+  ],
+  "expanded_calendar": [
+    {
+      "date": "2000-01-03",
+      "weekday": 0,
+      "actual_weekday": 0,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-04",
+      "weekday": 1,
+      "actual_weekday": 1,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-05",
+      "weekday": 2,
+      "actual_weekday": 2,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-06",
+      "weekday": 3,
+      "actual_weekday": 3,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-07",
+      "weekday": 4,
+      "actual_weekday": 4,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    }
+  ]
+}

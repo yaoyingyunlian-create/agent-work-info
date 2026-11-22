@@ -1,0 +1,1790 @@
+{
+  "version": "1.0.0",
+  "input_hash": "e00e7aad4329b3d6b4241ad00cbe6cbe54a68a3efc6f8bae03dee96fd8f12625",
+  "rule_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "calendar_hash": "411abbbc9da7226defefe3905f6ab777bf4e92f8db85055f87dc3f69acf3bc43",
+  "generated_at": "2026-11-03T21:41:16+08:00",
+  "parameters": {
+    "time_limit": 120.0,
+    "workers": 1,
+    "seed": 0
+  },
+  "status": "OPTIMAL",
+  "assignments": [
+    {
+      "session_id": "C2-语文@2000-01-03#1",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#1",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#1",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#1",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#2",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#2",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-生物@2000-01-03#1",
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#3",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#1",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#1",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#3",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#2",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#1",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-生物@2000-01-03#1",
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-生物@2000-01-03#2",
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#1",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#2",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-体育@2000-01-03#1",
+      "demand_id": "C2-体育",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "体育",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-生物@2000-01-03#3",
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-生物@2000-01-03#2",
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#2",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#1",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#3",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#4",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-生物@2000-01-03#4",
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#3",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#4",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#2",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#3",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#5",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#1",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-生物@2000-01-03#3",
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#5",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#6",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#2",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#4",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-体育@2000-01-03#1",
+      "demand_id": "C3-体育",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "体育",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#2",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#4",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#5",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-体育@2000-01-03#2",
+      "demand_id": "C3-体育",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "体育",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#2",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#2",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#5",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#3",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#4",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#4",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#3",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#5",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-物理@2000-01-03#6",
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T002"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-物理@2000-01-03#6",
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "物理",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T004"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#6",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#6",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#4",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#3",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#5",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-语文@2000-01-03#7",
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#5",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#3",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#6",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-英语@2000-01-03#7",
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "英语",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T010"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#4",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#3",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P8",
+      "start": 940,
+      "end": 980,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#4",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-语文@2000-01-03#7",
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "语文",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T007"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#5",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#6",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#5",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#4",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-生物@2000-01-03#4",
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-生物@2000-01-03#5",
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P3",
+      "start": 580,
+      "end": 620,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T009"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-生物@2000-01-03#5",
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "生物",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T008"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-英语@2000-01-03#7",
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P4",
+      "start": 630,
+      "end": 670,
+      "half_day": "am",
+      "course_id": "英语",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T012"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-化学@2000-01-03#6",
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "化学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T005"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-数学@2000-01-03#7",
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P5",
+      "start": 680,
+      "end": 720,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T003"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#6",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#5",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P6",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-数学@2000-01-03#7",
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "数学",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T001"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C3-化学@2000-01-03#6",
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P7",
+      "start": 890,
+      "end": 930,
+      "half_day": "pm",
+      "course_id": "化学",
+      "group_ids": [
+        "C3"
+      ],
+      "teacher_ids": [
+        "T006"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "C2-体育@2000-01-03#2",
+      "demand_id": "C2-体育",
+      "scope": "2000-01-03",
+      "date": "2000-01-07",
+      "week_type": "all",
+      "weekday": 4,
+      "slot_id": "P9",
+      "start": 990,
+      "end": 1030,
+      "half_day": "pm",
+      "course_id": "体育",
+      "group_ids": [
+        "C2"
+      ],
+      "teacher_ids": [
+        "T011"
+      ],
+      "resource_ids": [],
+      "campus_id": "default",
+      "status": "scheduled"
+    }
+  ],
+  "layers": [
+    {
+      "tier": null,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "diagnostics": [],
+  "elapsed_seconds": 4.219,
+  "candidate_count": 3600,
+  "solution_hash": "c0da8aa48fcb491758c2eca08c81765ea7ef9243f4f884892afd3fadce52321a",
+  "revision": 1,
+  "version_hash": "f73bad2d54c6ecbeb20417160f12c27180183bc32b9bae9eb25076cfb7c06e21",
+  "delivery_status": "待独立校验"
+}

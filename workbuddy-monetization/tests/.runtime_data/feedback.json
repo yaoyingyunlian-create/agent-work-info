@@ -1,0 +1,254 @@
+[
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261001-01",
+    "date": "2026-10-01",
+    "answers": [
+      {
+        "number": 1,
+        "status": "错",
+        "ability": "数感计算"
+      },
+      {
+        "number": 2,
+        "status": "错",
+        "ability": "条件推理"
+      },
+      {
+        "number": 3,
+        "status": "错",
+        "ability": "列表整理"
+      },
+      {
+        "number": 4,
+        "status": "不会",
+        "ability": "图形空间"
+      },
+      {
+        "number": 5,
+        "status": "错",
+        "ability": "应用建模"
+      }
+    ],
+    "total_minutes": 25,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:48"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261002-01",
+    "date": "2026-10-02",
+    "answers": [
+      {
+        "number": 1,
+        "status": "错",
+        "ability": "列表整理"
+      },
+      {
+        "number": 2,
+        "status": "错",
+        "ability": "图形空间"
+      },
+      {
+        "number": 3,
+        "status": "错",
+        "ability": "数感计算"
+      },
+      {
+        "number": 4,
+        "status": "不会",
+        "ability": "条件推理"
+      },
+      {
+        "number": 5,
+        "status": "错",
+        "ability": "应用建模"
+      }
+    ],
+    "total_minutes": 26,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:48"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261003-01",
+    "date": "2026-10-03",
+    "answers": [
+      {
+        "number": 1,
+        "status": "对",
+        "ability": "应用建模"
+      },
+      {
+        "number": 2,
+        "status": "对",
+        "ability": "数感计算"
+      },
+      {
+        "number": 3,
+        "status": "对",
+        "ability": "条件推理"
+      },
+      {
+        "number": 4,
+        "status": "错",
+        "ability": "列表整理"
+      },
+      {
+        "number": 5,
+        "status": "对",
+        "ability": "数感计算"
+      }
+    ],
+    "total_minutes": 27,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:49"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261004-01",
+    "date": "2026-10-04",
+    "answers": [
+      {
+        "number": 1,
+        "status": "对",
+        "ability": "条件推理"
+      },
+      {
+        "number": 2,
+        "status": "对",
+        "ability": "列表整理"
+      },
+      {
+        "number": 3,
+        "status": "对",
+        "ability": "应用建模"
+      },
+      {
+        "number": 4,
+        "status": "错",
+        "ability": "数感计算"
+      },
+      {
+        "number": 5,
+        "status": "对",
+        "ability": "列表整理"
+      }
+    ],
+    "total_minutes": 28,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:50"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261005-01",
+    "date": "2026-10-05",
+    "answers": [
+      {
+        "number": 1,
+        "status": "对",
+        "ability": "图形空间"
+      },
+      {
+        "number": 2,
+        "status": "对",
+        "ability": "应用建模"
+      },
+      {
+        "number": 3,
+        "status": "对",
+        "ability": "数感计算"
+      },
+      {
+        "number": 4,
+        "status": "错",
+        "ability": "条件推理"
+      },
+      {
+        "number": 5,
+        "status": "对",
+        "ability": "图形空间"
+      }
+    ],
+    "total_minutes": 29,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:50"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261006-01",
+    "date": "2026-10-06",
+    "answers": [
+      {
+        "number": 1,
+        "status": "对",
+        "ability": "数感计算"
+      },
+      {
+        "number": 2,
+        "status": "对",
+        "ability": "条件推理"
+      },
+      {
+        "number": 3,
+        "status": "对",
+        "ability": "图形空间"
+      },
+      {
+        "number": 4,
+        "status": "错",
+        "ability": "应用建模"
+      },
+      {
+        "number": 5,
+        "status": "对",
+        "ability": "条件推理"
+      }
+    ],
+    "total_minutes": 30,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:51"
+  },
+  {
+    "profile": "测试孩子",
+    "practice_no": "PB-20261007-01",
+    "date": "2026-10-07",
+    "answers": [
+      {
+        "number": 1,
+        "status": "对",
+        "ability": "列表整理"
+      },
+      {
+        "number": 2,
+        "status": "对",
+        "ability": "应用建模"
+      },
+      {
+        "number": 3,
+        "status": "对",
+        "ability": "图形空间"
+      },
+      {
+        "number": 4,
+        "status": "错",
+        "ability": "列表整理"
+      },
+      {
+        "number": 5,
+        "status": "对",
+        "ability": "数感计算"
+      }
+    ],
+    "total_minutes": 31,
+    "blocker": "条件整理",
+    "note": "",
+    "recorded_at": "2026-10-27T11:56:52"
+  }
+]

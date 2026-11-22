@@ -1,0 +1,4880 @@
+[
+  {
+    "id": "G4-001",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "三位数加减法",
+    "method": "列竖式验算",
+    "stem": "计算：125+37。",
+    "answer": "162",
+    "solution": "按个位、十位、百位依次相加，得到 162。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "加法",
+      "125",
+      "37"
+    ],
+    "fingerprint": "g4-数感计算-基础-001"
+  },
+  {
+    "id": "G4-002",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "三位数加减法",
+    "method": "列竖式验算",
+    "stem": "计算：246+58。",
+    "answer": "304",
+    "solution": "按个位、十位、百位依次相加，得到 304。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "加法",
+      "246",
+      "58"
+    ],
+    "fingerprint": "g4-数感计算-基础-002"
+  },
+  {
+    "id": "G4-003",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "三位数加减法",
+    "method": "列竖式验算",
+    "stem": "计算：318+46。",
+    "answer": "364",
+    "solution": "按个位、十位、百位依次相加，得到 364。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "加法",
+      "318",
+      "46"
+    ],
+    "fingerprint": "g4-数感计算-基础-003"
+  },
+  {
+    "id": "G4-004",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "三位数减法",
+    "method": "补数与验算",
+    "stem": "计算：245-38。",
+    "answer": "207",
+    "solution": "从个位起借位相减，结果是 207；用结果加 38 验算。",
+    "pitfall": "借位后没有把前一位减1。",
+    "keywords": [
+      "减法",
+      "245",
+      "38"
+    ],
+    "fingerprint": "g4-数感计算-进阶-004"
+  },
+  {
+    "id": "G4-005",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "三位数减法",
+    "method": "补数与验算",
+    "stem": "计算：367-49。",
+    "answer": "318",
+    "solution": "从个位起借位相减，结果是 318；用结果加 49 验算。",
+    "pitfall": "借位后没有把前一位减1。",
+    "keywords": [
+      "减法",
+      "367",
+      "49"
+    ],
+    "fingerprint": "g4-数感计算-进阶-005"
+  },
+  {
+    "id": "G4-006",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "三位数减法",
+    "method": "补数与验算",
+    "stem": "计算：428-57。",
+    "answer": "371",
+    "solution": "从个位起借位相减，结果是 371；用结果加 57 验算。",
+    "pitfall": "借位后没有把前一位减1。",
+    "keywords": [
+      "减法",
+      "428",
+      "57"
+    ],
+    "fingerprint": "g4-数感计算-进阶-006"
+  },
+  {
+    "id": "G4-007",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "四则混合运算",
+    "method": "先乘除后加减",
+    "stem": "计算：128+36×2。",
+    "answer": "200",
+    "solution": "先算 36×2=72，再算 128+72=200。",
+    "pitfall": "把加法和乘法从左到右直接计算。",
+    "keywords": [
+      "混合运算",
+      "128",
+      "36"
+    ],
+    "fingerprint": "g4-数感计算-挑战-007"
+  },
+  {
+    "id": "G4-008",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "四则混合运算",
+    "method": "先乘除后加减",
+    "stem": "计算：175+48×2。",
+    "answer": "271",
+    "solution": "先算 48×2=96，再算 175+96=271。",
+    "pitfall": "把加法和乘法从左到右直接计算。",
+    "keywords": [
+      "混合运算",
+      "175",
+      "48"
+    ],
+    "fingerprint": "g4-数感计算-挑战-008"
+  },
+  {
+    "id": "G4-009",
+    "grade": 4,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "四则混合运算",
+    "method": "先乘除后加减",
+    "stem": "计算：236+59×2。",
+    "answer": "354",
+    "solution": "先算 59×2=118，再算 236+118=354。",
+    "pitfall": "把加法和乘法从左到右直接计算。",
+    "keywords": [
+      "混合运算",
+      "236",
+      "59"
+    ],
+    "fingerprint": "g4-数感计算-挑战-009"
+  },
+  {
+    "id": "G4-010",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球3个、蓝球5个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "3",
+    "solution": "拿走后红球有 2 个，5-(2)=3。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "3",
+      "5"
+    ],
+    "fingerprint": "g4-条件推理-基础-010"
+  },
+  {
+    "id": "G4-011",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球4个、蓝球6个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "3",
+    "solution": "拿走后红球有 3 个，6-(3)=3。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "4",
+      "6"
+    ],
+    "fingerprint": "g4-条件推理-基础-011"
+  },
+  {
+    "id": "G4-012",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球5个、蓝球7个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "3",
+    "solution": "拿走后红球有 4 个，7-(4)=3。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "5",
+      "7"
+    ],
+    "fingerprint": "g4-条件推理-基础-012"
+  },
+  {
+    "id": "G4-013",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球3个、蓝球8个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "6",
+    "solution": "拿走后红球有 2 个，8-(2)=6。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "3",
+      "8"
+    ],
+    "fingerprint": "g4-条件推理-进阶-013"
+  },
+  {
+    "id": "G4-014",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球4个、蓝球9个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "6",
+    "solution": "拿走后红球有 3 个，9-(3)=6。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "4",
+      "9"
+    ],
+    "fingerprint": "g4-条件推理-进阶-014"
+  },
+  {
+    "id": "G4-015",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球5个、蓝球10个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "6",
+    "solution": "拿走后红球有 4 个，10-(4)=6。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "5",
+      "10"
+    ],
+    "fingerprint": "g4-条件推理-进阶-015"
+  },
+  {
+    "id": "G4-016",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球4个、蓝球7个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "4",
+    "solution": "拿走后红球有 3 个，7-(3)=4。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "4",
+      "7"
+    ],
+    "fingerprint": "g4-条件推理-挑战-016"
+  },
+  {
+    "id": "G4-017",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球5个、蓝球8个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "4",
+    "solution": "拿走后红球有 4 个，8-(4)=4。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "5",
+      "8"
+    ],
+    "fingerprint": "g4-条件推理-挑战-017"
+  },
+  {
+    "id": "G4-018",
+    "grade": 4,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量关系",
+    "method": "先更新条件再比较",
+    "stem": "盒子里有红球6个、蓝球9个。拿走1个红球后，蓝球比红球多几个？",
+    "answer": "4",
+    "solution": "拿走后红球有 5 个，9-(5)=4。",
+    "pitfall": "比较时仍使用原来的红球数量。",
+    "keywords": [
+      "条件更新",
+      "红球",
+      "蓝球",
+      "6",
+      "9"
+    ],
+    "fingerprint": "g4-条件推理-挑战-018"
+  },
+  {
+    "id": "G4-019",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把12本书平均放进3个书架，每个书架放几本？",
+    "answer": "4",
+    "solution": "用 12÷3=4，每个书架放 4 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "12",
+      "3"
+    ],
+    "fingerprint": "g4-列表整理-基础-019"
+  },
+  {
+    "id": "G4-020",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把15本书平均放进4个书架，每个书架放几本？",
+    "answer": "3",
+    "solution": "用 15÷4=3，每个书架放 3 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "15",
+      "4"
+    ],
+    "fingerprint": "g4-列表整理-基础-020"
+  },
+  {
+    "id": "G4-021",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把18本书平均放进5个书架，每个书架放几本？",
+    "answer": "3",
+    "solution": "用 18÷5=3，每个书架放 3 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "18",
+      "5"
+    ],
+    "fingerprint": "g4-列表整理-基础-021"
+  },
+  {
+    "id": "G4-022",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把24本书平均放进4个书架，每个书架放几本？",
+    "answer": "6",
+    "solution": "用 24÷4=6，每个书架放 6 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "24",
+      "4"
+    ],
+    "fingerprint": "g4-列表整理-进阶-022"
+  },
+  {
+    "id": "G4-023",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把30本书平均放进5个书架，每个书架放几本？",
+    "answer": "6",
+    "solution": "用 30÷5=6，每个书架放 6 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "30",
+      "5"
+    ],
+    "fingerprint": "g4-列表整理-进阶-023"
+  },
+  {
+    "id": "G4-024",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把36本书平均放进6个书架，每个书架放几本？",
+    "answer": "6",
+    "solution": "用 36÷6=6，每个书架放 6 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "36",
+      "6"
+    ],
+    "fingerprint": "g4-列表整理-进阶-024"
+  },
+  {
+    "id": "G4-025",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把28本书平均放进4个书架，每个书架放几本？",
+    "answer": "7",
+    "solution": "用 28÷4=7，每个书架放 7 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "28",
+      "4"
+    ],
+    "fingerprint": "g4-列表整理-挑战-025"
+  },
+  {
+    "id": "G4-026",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把35本书平均放进5个书架，每个书架放几本？",
+    "answer": "7",
+    "solution": "用 35÷5=7，每个书架放 7 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "35",
+      "5"
+    ],
+    "fingerprint": "g4-列表整理-挑战-026"
+  },
+  {
+    "id": "G4-027",
+    "grade": 4,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "列表或画图平均分",
+    "stem": "把42本书平均放进6个书架，每个书架放几本？",
+    "answer": "7",
+    "solution": "用 42÷6=7，每个书架放 7 本。",
+    "pitfall": "把平均分误算成相减。",
+    "keywords": [
+      "平均分",
+      "42",
+      "6"
+    ],
+    "fingerprint": "g4-列表整理-挑战-027"
+  },
+  {
+    "id": "G4-028",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽4厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(6+4)×2=20。",
+    "pitfall": "只计算长加宽。",
+    "keywords": [
+      "长方形周长",
+      "6",
+      "4"
+    ],
+    "fingerprint": "g4-图形空间-基础-028"
+  },
+  {
+    "id": "G4-029",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽5厘米，周长是多少厘米？",
+    "answer": "26",
+    "solution": "周长=(长+宽)×2=(8+5)×2=26。",
+    "pitfall": "只计算长加宽。",
+    "keywords": [
+      "长方形周长",
+      "8",
+      "5"
+    ],
+    "fingerprint": "g4-图形空间-基础-029"
+  },
+  {
+    "id": "G4-030",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长9厘米、宽3厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(9+3)×2=24。",
+    "pitfall": "只计算长加宽。",
+    "keywords": [
+      "长方形周长",
+      "9",
+      "3"
+    ],
+    "fingerprint": "g4-图形空间-基础-030"
+  },
+  {
+    "id": "G4-031",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长7厘米、宽5厘米，面积是多少平方厘米？",
+    "answer": "35",
+    "solution": "面积=长×宽=7×5=35。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "7",
+      "5"
+    ],
+    "fingerprint": "g4-图形空间-进阶-031"
+  },
+  {
+    "id": "G4-032",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长9厘米、宽6厘米，面积是多少平方厘米？",
+    "answer": "54",
+    "solution": "面积=长×宽=9×6=54。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "9",
+      "6"
+    ],
+    "fingerprint": "g4-图形空间-进阶-032"
+  },
+  {
+    "id": "G4-033",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长12厘米、宽4厘米，面积是多少平方厘米？",
+    "answer": "48",
+    "solution": "面积=长×宽=12×4=48。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "12",
+      "4"
+    ],
+    "fingerprint": "g4-图形空间-进阶-033"
+  },
+  {
+    "id": "G4-034",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长8厘米、宽6厘米，面积是多少平方厘米？",
+    "answer": "48",
+    "solution": "面积=长×宽=8×6=48。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "8",
+      "6"
+    ],
+    "fingerprint": "g4-图形空间-挑战-034"
+  },
+  {
+    "id": "G4-035",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长10厘米、宽7厘米，面积是多少平方厘米？",
+    "answer": "70",
+    "solution": "面积=长×宽=10×7=70。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "10",
+      "7"
+    ],
+    "fingerprint": "g4-图形空间-挑战-035"
+  },
+  {
+    "id": "G4-036",
+    "grade": 4,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形面积",
+    "method": "面积公式",
+    "stem": "一块长方形纸长12厘米、宽5厘米，面积是多少平方厘米？",
+    "answer": "60",
+    "solution": "面积=长×宽=12×5=60。",
+    "pitfall": "把面积单位写成厘米。",
+    "keywords": [
+      "长方形面积",
+      "12",
+      "5"
+    ],
+    "fingerprint": "g4-图形空间-挑战-036"
+  },
+  {
+    "id": "G4-037",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔4元，买3支一共要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=4×3=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "4",
+      "3"
+    ],
+    "fingerprint": "g4-应用建模-基础-037"
+  },
+  {
+    "id": "G4-038",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔5元，买4支一共要多少元？",
+    "answer": "20",
+    "solution": "总价=单价×数量=5×4=20（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "5",
+      "4"
+    ],
+    "fingerprint": "g4-应用建模-基础-038"
+  },
+  {
+    "id": "G4-039",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔6元，买2支一共要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=6×2=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "6",
+      "2"
+    ],
+    "fingerprint": "g4-应用建模-基础-039"
+  },
+  {
+    "id": "G4-040",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔7元，买4支一共要多少元？",
+    "answer": "28",
+    "solution": "总价=单价×数量=7×4=28（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "7",
+      "4"
+    ],
+    "fingerprint": "g4-应用建模-进阶-040"
+  },
+  {
+    "id": "G4-041",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔8元，买5支一共要多少元？",
+    "answer": "40",
+    "solution": "总价=单价×数量=8×5=40（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "8",
+      "5"
+    ],
+    "fingerprint": "g4-应用建模-进阶-041"
+  },
+  {
+    "id": "G4-042",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔9元，买3支一共要多少元？",
+    "answer": "27",
+    "solution": "总价=单价×数量=9×3=27（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "9",
+      "3"
+    ],
+    "fingerprint": "g4-应用建模-进阶-042"
+  },
+  {
+    "id": "G4-043",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔6元，买5支一共要多少元？",
+    "answer": "30",
+    "solution": "总价=单价×数量=6×5=30（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "6",
+      "5"
+    ],
+    "fingerprint": "g4-应用建模-挑战-043"
+  },
+  {
+    "id": "G4-044",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔7元，买6支一共要多少元？",
+    "answer": "42",
+    "solution": "总价=单价×数量=7×6=42（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "7",
+      "6"
+    ],
+    "fingerprint": "g4-应用建模-挑战-044"
+  },
+  {
+    "id": "G4-045",
+    "grade": 4,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每支铅笔8元，买7支一共要多少元？",
+    "answer": "56",
+    "solution": "总价=单价×数量=8×7=56（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "单价数量",
+      "8",
+      "7"
+    ],
+    "fingerprint": "g4-应用建模-挑战-045"
+  },
+  {
+    "id": "G6-046",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 6/16 化成最简分数。",
+    "answer": "3/8",
+    "solution": "分子和分母同除以2，得到 3/8。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "6",
+      "16"
+    ],
+    "fingerprint": "g6-数感计算-基础-046"
+  },
+  {
+    "id": "G6-047",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 10/24 化成最简分数。",
+    "answer": "5/12",
+    "solution": "分子和分母同除以2，得到 5/12。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "10",
+      "24"
+    ],
+    "fingerprint": "g6-数感计算-基础-047"
+  },
+  {
+    "id": "G6-048",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 14/30 化成最简分数。",
+    "answer": "7/15",
+    "solution": "分子和分母同除以2，得到 7/15。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "14",
+      "30"
+    ],
+    "fingerprint": "g6-数感计算-进阶-048"
+  },
+  {
+    "id": "G6-049",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 18/40 化成最简分数。",
+    "answer": "9/20",
+    "solution": "分子和分母同除以2，得到 9/20。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "18",
+      "40"
+    ],
+    "fingerprint": "g6-数感计算-进阶-049"
+  },
+  {
+    "id": "G6-050",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 22/50 化成最简分数。",
+    "answer": "11/25",
+    "solution": "分子和分母同除以2，得到 11/25。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "22",
+      "50"
+    ],
+    "fingerprint": "g6-数感计算-挑战-050"
+  },
+  {
+    "id": "G6-051",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "分数化简",
+    "method": "求最大公因数后约分",
+    "stem": "把分数 26/60 化成最简分数。",
+    "answer": "13/30",
+    "solution": "分子和分母同除以2，得到 13/30。",
+    "pitfall": "只约分分子或分母。",
+    "keywords": [
+      "分数",
+      "26",
+      "60"
+    ],
+    "fingerprint": "g6-数感计算-挑战-051"
+  },
+  {
+    "id": "G6-052",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把24颗糖平均分给若干人，每人6颗，正好分完。有几人？",
+    "answer": "4",
+    "solution": "人数=总数÷每人颗数=24÷6=4。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "24",
+      "6"
+    ],
+    "fingerprint": "g6-条件推理-基础-052"
+  },
+  {
+    "id": "G6-053",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把35颗糖平均分给若干人，每人7颗，正好分完。有几人？",
+    "answer": "5",
+    "solution": "人数=总数÷每人颗数=35÷7=5。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "35",
+      "7"
+    ],
+    "fingerprint": "g6-条件推理-基础-053"
+  },
+  {
+    "id": "G6-054",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把48颗糖平均分给若干人，每人8颗，正好分完。有几人？",
+    "answer": "6",
+    "solution": "人数=总数÷每人颗数=48÷8=6。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "48",
+      "8"
+    ],
+    "fingerprint": "g6-条件推理-进阶-054"
+  },
+  {
+    "id": "G6-055",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把63颗糖平均分给若干人，每人9颗，正好分完。有几人？",
+    "answer": "7",
+    "solution": "人数=总数÷每人颗数=63÷9=7。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "63",
+      "9"
+    ],
+    "fingerprint": "g6-条件推理-进阶-055"
+  },
+  {
+    "id": "G6-056",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把72颗糖平均分给若干人，每人12颗，正好分完。有几人？",
+    "answer": "6",
+    "solution": "人数=总数÷每人颗数=72÷12=6。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "72",
+      "12"
+    ],
+    "fingerprint": "g6-条件推理-挑战-056"
+  },
+  {
+    "id": "G6-057",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "倍数关系",
+    "method": "设单位量",
+    "stem": "把84颗糖平均分给若干人，每人14颗，正好分完。有几人？",
+    "answer": "6",
+    "solution": "人数=总数÷每人颗数=84÷14=6。",
+    "pitfall": "把除法方向写反。",
+    "keywords": [
+      "倍数",
+      "84",
+      "14"
+    ],
+    "fingerprint": "g6-条件推理-挑战-057"
+  },
+  {
+    "id": "G6-058",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "3天一共读了120页书，平均每天读多少页？",
+    "answer": "40",
+    "solution": "平均每天页数=120÷3=40。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "120",
+      "3"
+    ],
+    "fingerprint": "g6-列表整理-基础-058"
+  },
+  {
+    "id": "G6-059",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "4天一共读了160页书，平均每天读多少页？",
+    "answer": "40",
+    "solution": "平均每天页数=160÷4=40。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "160",
+      "4"
+    ],
+    "fingerprint": "g6-列表整理-基础-059"
+  },
+  {
+    "id": "G6-060",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "5天一共读了180页书，平均每天读多少页？",
+    "answer": "36",
+    "solution": "平均每天页数=180÷5=36。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "180",
+      "5"
+    ],
+    "fingerprint": "g6-列表整理-进阶-060"
+  },
+  {
+    "id": "G6-061",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "6天一共读了240页书，平均每天读多少页？",
+    "answer": "40",
+    "solution": "平均每天页数=240÷6=40。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "240",
+      "6"
+    ],
+    "fingerprint": "g6-列表整理-进阶-061"
+  },
+  {
+    "id": "G6-062",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "7天一共读了280页书，平均每天读多少页？",
+    "answer": "40",
+    "solution": "平均每天页数=280÷7=40。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "280",
+      "7"
+    ],
+    "fingerprint": "g6-列表整理-挑战-062"
+  },
+  {
+    "id": "G6-063",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "8天一共读了360页书，平均每天读多少页？",
+    "answer": "45",
+    "solution": "平均每天页数=360÷8=45。",
+    "pitfall": "忘记平均数要用总量除以天数。",
+    "keywords": [
+      "平均数",
+      "360",
+      "8"
+    ],
+    "fingerprint": "g6-列表整理-挑战-063"
+  },
+  {
+    "id": "G6-064",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长12米、宽8米，面积是多少平方米？",
+    "answer": "96",
+    "solution": "面积=长×宽=12×8=96（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "12",
+      "8"
+    ],
+    "fingerprint": "g6-图形空间-基础-064"
+  },
+  {
+    "id": "G6-065",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长15米、宽6米，面积是多少平方米？",
+    "answer": "90",
+    "solution": "面积=长×宽=15×6=90（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "15",
+      "6"
+    ],
+    "fingerprint": "g6-图形空间-基础-065"
+  },
+  {
+    "id": "G6-066",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长18米、宽12米，面积是多少平方米？",
+    "answer": "216",
+    "solution": "面积=长×宽=18×12=216（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "18",
+      "12"
+    ],
+    "fingerprint": "g6-图形空间-进阶-066"
+  },
+  {
+    "id": "G6-067",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长20米、宽15米，面积是多少平方米？",
+    "answer": "300",
+    "solution": "面积=长×宽=20×15=300（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "20",
+      "15"
+    ],
+    "fingerprint": "g6-图形空间-进阶-067"
+  },
+  {
+    "id": "G6-068",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长24米、宽18米，面积是多少平方米？",
+    "answer": "432",
+    "solution": "面积=长×宽=24×18=432（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "24",
+      "18"
+    ],
+    "fingerprint": "g6-图形空间-挑战-068"
+  },
+  {
+    "id": "G6-069",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形面积与单位",
+    "method": "面积公式",
+    "stem": "一块长方形菜地长30米、宽16米，面积是多少平方米？",
+    "answer": "480",
+    "solution": "面积=长×宽=30×16=480（平方米）。",
+    "pitfall": "把平方米写成米。",
+    "keywords": [
+      "面积",
+      "30",
+      "16"
+    ],
+    "fingerprint": "g6-图形空间-挑战-069"
+  },
+  {
+    "id": "G6-070",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时10千米的速度骑行80千米，需要多少小时？",
+    "answer": "8",
+    "solution": "时间=路程÷速度=80÷10=8（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "80",
+      "10"
+    ],
+    "fingerprint": "g6-应用建模-基础-070"
+  },
+  {
+    "id": "G6-071",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时15千米的速度骑行120千米，需要多少小时？",
+    "answer": "8",
+    "solution": "时间=路程÷速度=120÷15=8（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "120",
+      "15"
+    ],
+    "fingerprint": "g6-应用建模-基础-071"
+  },
+  {
+    "id": "G6-072",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时20千米的速度骑行150千米，需要多少小时？",
+    "answer": "7",
+    "solution": "时间=路程÷速度=150÷20=7（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "150",
+      "20"
+    ],
+    "fingerprint": "g6-应用建模-进阶-072"
+  },
+  {
+    "id": "G6-073",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时30千米的速度骑行240千米，需要多少小时？",
+    "answer": "8",
+    "solution": "时间=路程÷速度=240÷30=8（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "240",
+      "30"
+    ],
+    "fingerprint": "g6-应用建模-进阶-073"
+  },
+  {
+    "id": "G6-074",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时45千米的速度骑行360千米，需要多少小时？",
+    "answer": "8",
+    "solution": "时间=路程÷速度=360÷45=8（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "360",
+      "45"
+    ],
+    "fingerprint": "g6-应用建模-挑战-074"
+  },
+  {
+    "id": "G6-075",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "路程速度时间",
+    "method": "路程除以速度",
+    "stem": "小华以每小时60千米的速度骑行480千米，需要多少小时？",
+    "answer": "8",
+    "solution": "时间=路程÷速度=480÷60=8（小时）。",
+    "pitfall": "把路程和速度相乘。",
+    "keywords": [
+      "路程速度时间",
+      "480",
+      "60"
+    ],
+    "fingerprint": "g6-应用建模-挑战-075"
+  },
+  {
+    "id": "G1-X001",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：9+5。",
+    "answer": "14",
+    "solution": "把 9 和 5 合起来，得到 14。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "1"
+    ],
+    "fingerprint": "g1-expanded-数感计算-基础-1"
+  },
+  {
+    "id": "G1-X002",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花4朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 3 朵，6-(3)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "2"
+    ],
+    "fingerprint": "g1-expanded-条件推理-基础-2"
+  },
+  {
+    "id": "G1-X003",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把12张卡片平均分给3个小朋友，每人几张？",
+    "answer": "4",
+    "solution": "12÷3=4，所以每人 4 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "3"
+    ],
+    "fingerprint": "g1-expanded-列表整理-基础-3"
+  },
+  {
+    "id": "G1-X004",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有2个三角形和3个正方形，一共有几个图形？",
+    "answer": "5",
+    "solution": "把两类图形相加：2+3=5。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "4"
+    ],
+    "fingerprint": "g1-expanded-图形空间-基础-4"
+  },
+  {
+    "id": "G1-X005",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本3元，买3本需要多少元？",
+    "answer": "9",
+    "solution": "总价=单价×数量=3×3=9（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "5"
+    ],
+    "fingerprint": "g1-expanded-应用建模-基础-5"
+  },
+  {
+    "id": "G1-X006",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：10+6。",
+    "answer": "16",
+    "solution": "把 10 和 6 合起来，得到 16。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "6"
+    ],
+    "fingerprint": "g1-expanded-数感计算-基础-6"
+  },
+  {
+    "id": "G1-X007",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 4 朵，7-(4)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "7"
+    ],
+    "fingerprint": "g1-expanded-条件推理-基础-7"
+  },
+  {
+    "id": "G1-X008",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把20张卡片平均分给4个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "20÷4=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "8"
+    ],
+    "fingerprint": "g1-expanded-列表整理-基础-8"
+  },
+  {
+    "id": "G1-X009",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有3个三角形和4个正方形，一共有几个图形？",
+    "answer": "7",
+    "solution": "把两类图形相加：3+4=7。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "9"
+    ],
+    "fingerprint": "g1-expanded-图形空间-基础-9"
+  },
+  {
+    "id": "G1-X010",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买4本需要多少元？",
+    "answer": "16",
+    "solution": "总价=单价×数量=4×4=16（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "10"
+    ],
+    "fingerprint": "g1-expanded-应用建模-基础-10"
+  },
+  {
+    "id": "G1-X011",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：11+7。",
+    "answer": "18",
+    "solution": "把 11 和 7 合起来，得到 18。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "11"
+    ],
+    "fingerprint": "g1-expanded-数感计算-基础-11"
+  },
+  {
+    "id": "G1-X012",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 5 朵，8-(5)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "12"
+    ],
+    "fingerprint": "g1-expanded-条件推理-基础-12"
+  },
+  {
+    "id": "G1-X013",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把30张卡片平均分给5个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "30÷5=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "13"
+    ],
+    "fingerprint": "g1-expanded-列表整理-基础-13"
+  },
+  {
+    "id": "G1-X014",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有4个三角形和5个正方形，一共有几个图形？",
+    "answer": "9",
+    "solution": "把两类图形相加：4+5=9。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "14"
+    ],
+    "fingerprint": "g1-expanded-图形空间-基础-14"
+  },
+  {
+    "id": "G1-X015",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买5本需要多少元？",
+    "answer": "25",
+    "solution": "总价=单价×数量=5×5=25（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "15"
+    ],
+    "fingerprint": "g1-expanded-应用建模-基础-15"
+  },
+  {
+    "id": "G1-X016",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：10+5。",
+    "answer": "15",
+    "solution": "把 10 和 5 合起来，得到 15。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "16"
+    ],
+    "fingerprint": "g1-expanded-数感计算-进阶-16"
+  },
+  {
+    "id": "G1-X017",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 4 朵，6-(4)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "17"
+    ],
+    "fingerprint": "g1-expanded-条件推理-进阶-17"
+  },
+  {
+    "id": "G1-X018",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把15张卡片平均分给3个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "15÷3=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "18"
+    ],
+    "fingerprint": "g1-expanded-列表整理-进阶-18"
+  },
+  {
+    "id": "G1-X019",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有2个三角形和3个正方形，一共有几个图形？",
+    "answer": "5",
+    "solution": "把两类图形相加：2+3=5。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "19"
+    ],
+    "fingerprint": "g1-expanded-图形空间-进阶-19"
+  },
+  {
+    "id": "G1-X020",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买3本需要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=4×3=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "20"
+    ],
+    "fingerprint": "g1-expanded-应用建模-进阶-20"
+  },
+  {
+    "id": "G1-X021",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：12+6。",
+    "answer": "18",
+    "solution": "把 12 和 6 合起来，得到 18。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "21"
+    ],
+    "fingerprint": "g1-expanded-数感计算-进阶-21"
+  },
+  {
+    "id": "G1-X022",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 5 朵，7-(5)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "22"
+    ],
+    "fingerprint": "g1-expanded-条件推理-进阶-22"
+  },
+  {
+    "id": "G1-X023",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把24张卡片平均分给4个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "24÷4=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "23"
+    ],
+    "fingerprint": "g1-expanded-列表整理-进阶-23"
+  },
+  {
+    "id": "G1-X024",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有3个三角形和4个正方形，一共有几个图形？",
+    "answer": "7",
+    "solution": "把两类图形相加：3+4=7。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "24"
+    ],
+    "fingerprint": "g1-expanded-图形空间-进阶-24"
+  },
+  {
+    "id": "G1-X025",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买4本需要多少元？",
+    "answer": "20",
+    "solution": "总价=单价×数量=5×4=20（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "25"
+    ],
+    "fingerprint": "g1-expanded-应用建模-进阶-25"
+  },
+  {
+    "id": "G1-X026",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：14+7。",
+    "answer": "21",
+    "solution": "把 14 和 7 合起来，得到 21。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "26"
+    ],
+    "fingerprint": "g1-expanded-数感计算-进阶-26"
+  },
+  {
+    "id": "G1-X027",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 6 朵，8-(6)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "27"
+    ],
+    "fingerprint": "g1-expanded-条件推理-进阶-27"
+  },
+  {
+    "id": "G1-X028",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把35张卡片平均分给5个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "35÷5=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "28"
+    ],
+    "fingerprint": "g1-expanded-列表整理-进阶-28"
+  },
+  {
+    "id": "G1-X029",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有4个三角形和5个正方形，一共有几个图形？",
+    "answer": "9",
+    "solution": "把两类图形相加：4+5=9。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "29"
+    ],
+    "fingerprint": "g1-expanded-图形空间-进阶-29"
+  },
+  {
+    "id": "G1-X030",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买5本需要多少元？",
+    "answer": "30",
+    "solution": "总价=单价×数量=6×5=30（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "30"
+    ],
+    "fingerprint": "g1-expanded-应用建模-进阶-30"
+  },
+  {
+    "id": "G1-X031",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：11+5。",
+    "answer": "16",
+    "solution": "把 11 和 5 合起来，得到 16。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "31"
+    ],
+    "fingerprint": "g1-expanded-数感计算-挑战-31"
+  },
+  {
+    "id": "G1-X032",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 5 朵，6-(5)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "32"
+    ],
+    "fingerprint": "g1-expanded-条件推理-挑战-32"
+  },
+  {
+    "id": "G1-X033",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把18张卡片平均分给3个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "18÷3=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "33"
+    ],
+    "fingerprint": "g1-expanded-列表整理-挑战-33"
+  },
+  {
+    "id": "G1-X034",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有2个三角形和3个正方形，一共有几个图形？",
+    "answer": "5",
+    "solution": "把两类图形相加：2+3=5。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "34"
+    ],
+    "fingerprint": "g1-expanded-图形空间-挑战-34"
+  },
+  {
+    "id": "G1-X035",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买3本需要多少元？",
+    "answer": "15",
+    "solution": "总价=单价×数量=5×3=15（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "35"
+    ],
+    "fingerprint": "g1-expanded-应用建模-挑战-35"
+  },
+  {
+    "id": "G1-X036",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：14+6。",
+    "answer": "20",
+    "solution": "把 14 和 6 合起来，得到 20。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "36"
+    ],
+    "fingerprint": "g1-expanded-数感计算-挑战-36"
+  },
+  {
+    "id": "G1-X037",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 6 朵，7-(6)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "37"
+    ],
+    "fingerprint": "g1-expanded-条件推理-挑战-37"
+  },
+  {
+    "id": "G1-X038",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把28张卡片平均分给4个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "28÷4=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "38"
+    ],
+    "fingerprint": "g1-expanded-列表整理-挑战-38"
+  },
+  {
+    "id": "G1-X039",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有3个三角形和4个正方形，一共有几个图形？",
+    "answer": "7",
+    "solution": "把两类图形相加：3+4=7。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "39"
+    ],
+    "fingerprint": "g1-expanded-图形空间-挑战-39"
+  },
+  {
+    "id": "G1-X040",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买4本需要多少元？",
+    "answer": "24",
+    "solution": "总价=单价×数量=6×4=24（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "40"
+    ],
+    "fingerprint": "g1-expanded-应用建模-挑战-40"
+  },
+  {
+    "id": "G1-X041",
+    "grade": 1,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "20以内加法",
+    "method": "凑十法",
+    "stem": "计算：17+7。",
+    "answer": "24",
+    "solution": "把 17 和 7 合起来，得到 24。",
+    "pitfall": "漏数或看错加号。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "41"
+    ],
+    "fingerprint": "g1-expanded-数感计算-挑战-41"
+  },
+  {
+    "id": "G1-X042",
+    "grade": 1,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花8朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 7 朵，8-(7)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "42"
+    ],
+    "fingerprint": "g1-expanded-条件推理-挑战-42"
+  },
+  {
+    "id": "G1-X043",
+    "grade": 1,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把40张卡片平均分给5个小朋友，每人几张？",
+    "answer": "8",
+    "solution": "40÷5=8，所以每人 8 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "43"
+    ],
+    "fingerprint": "g1-expanded-列表整理-挑战-43"
+  },
+  {
+    "id": "G1-X044",
+    "grade": 1,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "图形识别",
+    "method": "分类计数",
+    "stem": "桌上有4个三角形和5个正方形，一共有几个图形？",
+    "answer": "9",
+    "solution": "把两类图形相加：4+5=9。",
+    "pitfall": "漏掉其中一种图形。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "44"
+    ],
+    "fingerprint": "g1-expanded-图形空间-挑战-44"
+  },
+  {
+    "id": "G1-X045",
+    "grade": 1,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本7元，买5本需要多少元？",
+    "answer": "35",
+    "solution": "总价=单价×数量=7×5=35（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "45"
+    ],
+    "fingerprint": "g1-expanded-应用建模-挑战-45"
+  },
+  {
+    "id": "G2-X001",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：25+13。",
+    "answer": "38",
+    "solution": "个位和十位分别相加，得到 38。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "1"
+    ],
+    "fingerprint": "g2-expanded-数感计算-基础-1"
+  },
+  {
+    "id": "G2-X002",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花4朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 3 朵，6-(3)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "2"
+    ],
+    "fingerprint": "g2-expanded-条件推理-基础-2"
+  },
+  {
+    "id": "G2-X003",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把12张卡片平均分给3个小朋友，每人几张？",
+    "answer": "4",
+    "solution": "12÷3=4，所以每人 4 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "3"
+    ],
+    "fingerprint": "g2-expanded-列表整理-基础-3"
+  },
+  {
+    "id": "G2-X004",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长5厘米、宽3厘米，周长是多少厘米？",
+    "answer": "16",
+    "solution": "周长=(长+宽)×2=(5+3)×2=16。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "4"
+    ],
+    "fingerprint": "g2-expanded-图形空间-基础-4"
+  },
+  {
+    "id": "G2-X005",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本3元，买3本需要多少元？",
+    "answer": "9",
+    "solution": "总价=单价×数量=3×3=9（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "5"
+    ],
+    "fingerprint": "g2-expanded-应用建模-基础-5"
+  },
+  {
+    "id": "G2-X006",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：26+14。",
+    "answer": "40",
+    "solution": "个位和十位分别相加，得到 40。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "6"
+    ],
+    "fingerprint": "g2-expanded-数感计算-基础-6"
+  },
+  {
+    "id": "G2-X007",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 4 朵，7-(4)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "7"
+    ],
+    "fingerprint": "g2-expanded-条件推理-基础-7"
+  },
+  {
+    "id": "G2-X008",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把20张卡片平均分给4个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "20÷4=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "8"
+    ],
+    "fingerprint": "g2-expanded-列表整理-基础-8"
+  },
+  {
+    "id": "G2-X009",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽4厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(6+4)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "9"
+    ],
+    "fingerprint": "g2-expanded-图形空间-基础-9"
+  },
+  {
+    "id": "G2-X010",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买4本需要多少元？",
+    "answer": "16",
+    "solution": "总价=单价×数量=4×4=16（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "10"
+    ],
+    "fingerprint": "g2-expanded-应用建模-基础-10"
+  },
+  {
+    "id": "G2-X011",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：27+15。",
+    "answer": "42",
+    "solution": "个位和十位分别相加，得到 42。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "11"
+    ],
+    "fingerprint": "g2-expanded-数感计算-基础-11"
+  },
+  {
+    "id": "G2-X012",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 5 朵，8-(5)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "12"
+    ],
+    "fingerprint": "g2-expanded-条件推理-基础-12"
+  },
+  {
+    "id": "G2-X013",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把30张卡片平均分给5个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "30÷5=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "13"
+    ],
+    "fingerprint": "g2-expanded-列表整理-基础-13"
+  },
+  {
+    "id": "G2-X014",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽5厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(7+5)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "14"
+    ],
+    "fingerprint": "g2-expanded-图形空间-基础-14"
+  },
+  {
+    "id": "G2-X015",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买5本需要多少元？",
+    "answer": "25",
+    "solution": "总价=单价×数量=5×5=25（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "15"
+    ],
+    "fingerprint": "g2-expanded-应用建模-基础-15"
+  },
+  {
+    "id": "G2-X016",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：26+13。",
+    "answer": "39",
+    "solution": "个位和十位分别相加，得到 39。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "16"
+    ],
+    "fingerprint": "g2-expanded-数感计算-进阶-16"
+  },
+  {
+    "id": "G2-X017",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 4 朵，6-(4)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "17"
+    ],
+    "fingerprint": "g2-expanded-条件推理-进阶-17"
+  },
+  {
+    "id": "G2-X018",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把15张卡片平均分给3个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "15÷3=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "18"
+    ],
+    "fingerprint": "g2-expanded-列表整理-进阶-18"
+  },
+  {
+    "id": "G2-X019",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽3厘米，周长是多少厘米？",
+    "answer": "18",
+    "solution": "周长=(长+宽)×2=(6+3)×2=18。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "19"
+    ],
+    "fingerprint": "g2-expanded-图形空间-进阶-19"
+  },
+  {
+    "id": "G2-X020",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买3本需要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=4×3=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "20"
+    ],
+    "fingerprint": "g2-expanded-应用建模-进阶-20"
+  },
+  {
+    "id": "G2-X021",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：28+14。",
+    "answer": "42",
+    "solution": "个位和十位分别相加，得到 42。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "21"
+    ],
+    "fingerprint": "g2-expanded-数感计算-进阶-21"
+  },
+  {
+    "id": "G2-X022",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 5 朵，7-(5)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "22"
+    ],
+    "fingerprint": "g2-expanded-条件推理-进阶-22"
+  },
+  {
+    "id": "G2-X023",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把24张卡片平均分给4个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "24÷4=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "23"
+    ],
+    "fingerprint": "g2-expanded-列表整理-进阶-23"
+  },
+  {
+    "id": "G2-X024",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽4厘米，周长是多少厘米？",
+    "answer": "22",
+    "solution": "周长=(长+宽)×2=(7+4)×2=22。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "24"
+    ],
+    "fingerprint": "g2-expanded-图形空间-进阶-24"
+  },
+  {
+    "id": "G2-X025",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买4本需要多少元？",
+    "answer": "20",
+    "solution": "总价=单价×数量=5×4=20（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "25"
+    ],
+    "fingerprint": "g2-expanded-应用建模-进阶-25"
+  },
+  {
+    "id": "G2-X026",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：30+15。",
+    "answer": "45",
+    "solution": "个位和十位分别相加，得到 45。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "26"
+    ],
+    "fingerprint": "g2-expanded-数感计算-进阶-26"
+  },
+  {
+    "id": "G2-X027",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 6 朵，8-(6)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "27"
+    ],
+    "fingerprint": "g2-expanded-条件推理-进阶-27"
+  },
+  {
+    "id": "G2-X028",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把35张卡片平均分给5个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "35÷5=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "28"
+    ],
+    "fingerprint": "g2-expanded-列表整理-进阶-28"
+  },
+  {
+    "id": "G2-X029",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽5厘米，周长是多少厘米？",
+    "answer": "26",
+    "solution": "周长=(长+宽)×2=(8+5)×2=26。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "29"
+    ],
+    "fingerprint": "g2-expanded-图形空间-进阶-29"
+  },
+  {
+    "id": "G2-X030",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买5本需要多少元？",
+    "answer": "30",
+    "solution": "总价=单价×数量=6×5=30（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "30"
+    ],
+    "fingerprint": "g2-expanded-应用建模-进阶-30"
+  },
+  {
+    "id": "G2-X031",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：27+13。",
+    "answer": "40",
+    "solution": "个位和十位分别相加，得到 40。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "31"
+    ],
+    "fingerprint": "g2-expanded-数感计算-挑战-31"
+  },
+  {
+    "id": "G2-X032",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 5 朵，6-(5)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "32"
+    ],
+    "fingerprint": "g2-expanded-条件推理-挑战-32"
+  },
+  {
+    "id": "G2-X033",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把18张卡片平均分给3个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "18÷3=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "33"
+    ],
+    "fingerprint": "g2-expanded-列表整理-挑战-33"
+  },
+  {
+    "id": "G2-X034",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽3厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(7+3)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "34"
+    ],
+    "fingerprint": "g2-expanded-图形空间-挑战-34"
+  },
+  {
+    "id": "G2-X035",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买3本需要多少元？",
+    "answer": "15",
+    "solution": "总价=单价×数量=5×3=15（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "35"
+    ],
+    "fingerprint": "g2-expanded-应用建模-挑战-35"
+  },
+  {
+    "id": "G2-X036",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：30+14。",
+    "answer": "44",
+    "solution": "个位和十位分别相加，得到 44。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "36"
+    ],
+    "fingerprint": "g2-expanded-数感计算-挑战-36"
+  },
+  {
+    "id": "G2-X037",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 6 朵，7-(6)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "37"
+    ],
+    "fingerprint": "g2-expanded-条件推理-挑战-37"
+  },
+  {
+    "id": "G2-X038",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把28张卡片平均分给4个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "28÷4=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "38"
+    ],
+    "fingerprint": "g2-expanded-列表整理-挑战-38"
+  },
+  {
+    "id": "G2-X039",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽4厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(8+4)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "39"
+    ],
+    "fingerprint": "g2-expanded-图形空间-挑战-39"
+  },
+  {
+    "id": "G2-X040",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买4本需要多少元？",
+    "answer": "24",
+    "solution": "总价=单价×数量=6×4=24（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "40"
+    ],
+    "fingerprint": "g2-expanded-应用建模-挑战-40"
+  },
+  {
+    "id": "G2-X041",
+    "grade": 2,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "两位数加法",
+    "method": "列竖式",
+    "stem": "计算：33+15。",
+    "answer": "48",
+    "solution": "个位和十位分别相加，得到 48。",
+    "pitfall": "忘记进位。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "41"
+    ],
+    "fingerprint": "g2-expanded-数感计算-挑战-41"
+  },
+  {
+    "id": "G2-X042",
+    "grade": 2,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花8朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 7 朵，8-(7)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "42"
+    ],
+    "fingerprint": "g2-expanded-条件推理-挑战-42"
+  },
+  {
+    "id": "G2-X043",
+    "grade": 2,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把40张卡片平均分给5个小朋友，每人几张？",
+    "answer": "8",
+    "solution": "40÷5=8，所以每人 8 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "43"
+    ],
+    "fingerprint": "g2-expanded-列表整理-挑战-43"
+  },
+  {
+    "id": "G2-X044",
+    "grade": 2,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长9厘米、宽5厘米，周长是多少厘米？",
+    "answer": "28",
+    "solution": "周长=(长+宽)×2=(9+5)×2=28。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "44"
+    ],
+    "fingerprint": "g2-expanded-图形空间-挑战-44"
+  },
+  {
+    "id": "G2-X045",
+    "grade": 2,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本7元，买5本需要多少元？",
+    "answer": "35",
+    "solution": "总价=单价×数量=7×5=35（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "45"
+    ],
+    "fingerprint": "g2-expanded-应用建模-挑战-45"
+  },
+  {
+    "id": "G3-X001",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：121÷3。",
+    "answer": "40",
+    "solution": "用乘法想：3×40=121。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "1"
+    ],
+    "fingerprint": "g3-expanded-数感计算-基础-1"
+  },
+  {
+    "id": "G3-X002",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花4朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 3 朵，6-(3)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "2"
+    ],
+    "fingerprint": "g3-expanded-条件推理-基础-2"
+  },
+  {
+    "id": "G3-X003",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把12张卡片平均分给3个小朋友，每人几张？",
+    "answer": "4",
+    "solution": "12÷3=4，所以每人 4 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "3"
+    ],
+    "fingerprint": "g3-expanded-列表整理-基础-3"
+  },
+  {
+    "id": "G3-X004",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长5厘米、宽3厘米，周长是多少厘米？",
+    "answer": "16",
+    "solution": "周长=(长+宽)×2=(5+3)×2=16。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "4"
+    ],
+    "fingerprint": "g3-expanded-图形空间-基础-4"
+  },
+  {
+    "id": "G3-X005",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本3元，买3本需要多少元？",
+    "answer": "9",
+    "solution": "总价=单价×数量=3×3=9（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "5"
+    ],
+    "fingerprint": "g3-expanded-应用建模-基础-5"
+  },
+  {
+    "id": "G3-X006",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：122÷4。",
+    "answer": "30",
+    "solution": "用乘法想：4×30=122。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "6"
+    ],
+    "fingerprint": "g3-expanded-数感计算-基础-6"
+  },
+  {
+    "id": "G3-X007",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 4 朵，7-(4)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "7"
+    ],
+    "fingerprint": "g3-expanded-条件推理-基础-7"
+  },
+  {
+    "id": "G3-X008",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把20张卡片平均分给4个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "20÷4=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "8"
+    ],
+    "fingerprint": "g3-expanded-列表整理-基础-8"
+  },
+  {
+    "id": "G3-X009",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽4厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(6+4)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "9"
+    ],
+    "fingerprint": "g3-expanded-图形空间-基础-9"
+  },
+  {
+    "id": "G3-X010",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买4本需要多少元？",
+    "answer": "16",
+    "solution": "总价=单价×数量=4×4=16（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "10"
+    ],
+    "fingerprint": "g3-expanded-应用建模-基础-10"
+  },
+  {
+    "id": "G3-X011",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：123÷5。",
+    "answer": "24",
+    "solution": "用乘法想：5×24=123。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "11"
+    ],
+    "fingerprint": "g3-expanded-数感计算-基础-11"
+  },
+  {
+    "id": "G3-X012",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 5 朵，8-(5)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "12"
+    ],
+    "fingerprint": "g3-expanded-条件推理-基础-12"
+  },
+  {
+    "id": "G3-X013",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把30张卡片平均分给5个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "30÷5=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "13"
+    ],
+    "fingerprint": "g3-expanded-列表整理-基础-13"
+  },
+  {
+    "id": "G3-X014",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽5厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(7+5)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "14"
+    ],
+    "fingerprint": "g3-expanded-图形空间-基础-14"
+  },
+  {
+    "id": "G3-X015",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买5本需要多少元？",
+    "answer": "25",
+    "solution": "总价=单价×数量=5×5=25（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "15"
+    ],
+    "fingerprint": "g3-expanded-应用建模-基础-15"
+  },
+  {
+    "id": "G3-X016",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：122÷3。",
+    "answer": "40",
+    "solution": "用乘法想：3×40=122。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "16"
+    ],
+    "fingerprint": "g3-expanded-数感计算-进阶-16"
+  },
+  {
+    "id": "G3-X017",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 4 朵，6-(4)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "17"
+    ],
+    "fingerprint": "g3-expanded-条件推理-进阶-17"
+  },
+  {
+    "id": "G3-X018",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把15张卡片平均分给3个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "15÷3=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "18"
+    ],
+    "fingerprint": "g3-expanded-列表整理-进阶-18"
+  },
+  {
+    "id": "G3-X019",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽3厘米，周长是多少厘米？",
+    "answer": "18",
+    "solution": "周长=(长+宽)×2=(6+3)×2=18。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "19"
+    ],
+    "fingerprint": "g3-expanded-图形空间-进阶-19"
+  },
+  {
+    "id": "G3-X020",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买3本需要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=4×3=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "20"
+    ],
+    "fingerprint": "g3-expanded-应用建模-进阶-20"
+  },
+  {
+    "id": "G3-X021",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：124÷4。",
+    "answer": "31",
+    "solution": "用乘法想：4×31=124。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "21"
+    ],
+    "fingerprint": "g3-expanded-数感计算-进阶-21"
+  },
+  {
+    "id": "G3-X022",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 5 朵，7-(5)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "22"
+    ],
+    "fingerprint": "g3-expanded-条件推理-进阶-22"
+  },
+  {
+    "id": "G3-X023",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把24张卡片平均分给4个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "24÷4=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "23"
+    ],
+    "fingerprint": "g3-expanded-列表整理-进阶-23"
+  },
+  {
+    "id": "G3-X024",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽4厘米，周长是多少厘米？",
+    "answer": "22",
+    "solution": "周长=(长+宽)×2=(7+4)×2=22。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "24"
+    ],
+    "fingerprint": "g3-expanded-图形空间-进阶-24"
+  },
+  {
+    "id": "G3-X025",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买4本需要多少元？",
+    "answer": "20",
+    "solution": "总价=单价×数量=5×4=20（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "25"
+    ],
+    "fingerprint": "g3-expanded-应用建模-进阶-25"
+  },
+  {
+    "id": "G3-X026",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：126÷5。",
+    "answer": "25",
+    "solution": "用乘法想：5×25=126。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "26"
+    ],
+    "fingerprint": "g3-expanded-数感计算-进阶-26"
+  },
+  {
+    "id": "G3-X027",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 6 朵，8-(6)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "27"
+    ],
+    "fingerprint": "g3-expanded-条件推理-进阶-27"
+  },
+  {
+    "id": "G3-X028",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把35张卡片平均分给5个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "35÷5=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "28"
+    ],
+    "fingerprint": "g3-expanded-列表整理-进阶-28"
+  },
+  {
+    "id": "G3-X029",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽5厘米，周长是多少厘米？",
+    "answer": "26",
+    "solution": "周长=(长+宽)×2=(8+5)×2=26。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "29"
+    ],
+    "fingerprint": "g3-expanded-图形空间-进阶-29"
+  },
+  {
+    "id": "G3-X030",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买5本需要多少元？",
+    "answer": "30",
+    "solution": "总价=单价×数量=6×5=30（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "30"
+    ],
+    "fingerprint": "g3-expanded-应用建模-进阶-30"
+  },
+  {
+    "id": "G3-X031",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：123÷3。",
+    "answer": "41",
+    "solution": "用乘法想：3×41=123。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "31"
+    ],
+    "fingerprint": "g3-expanded-数感计算-挑战-31"
+  },
+  {
+    "id": "G3-X032",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 5 朵，6-(5)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "32"
+    ],
+    "fingerprint": "g3-expanded-条件推理-挑战-32"
+  },
+  {
+    "id": "G3-X033",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把18张卡片平均分给3个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "18÷3=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "33"
+    ],
+    "fingerprint": "g3-expanded-列表整理-挑战-33"
+  },
+  {
+    "id": "G3-X034",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽3厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(7+3)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "34"
+    ],
+    "fingerprint": "g3-expanded-图形空间-挑战-34"
+  },
+  {
+    "id": "G3-X035",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买3本需要多少元？",
+    "answer": "15",
+    "solution": "总价=单价×数量=5×3=15（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "35"
+    ],
+    "fingerprint": "g3-expanded-应用建模-挑战-35"
+  },
+  {
+    "id": "G3-X036",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：126÷4。",
+    "answer": "31",
+    "solution": "用乘法想：4×31=126。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "36"
+    ],
+    "fingerprint": "g3-expanded-数感计算-挑战-36"
+  },
+  {
+    "id": "G3-X037",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 6 朵，7-(6)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "37"
+    ],
+    "fingerprint": "g3-expanded-条件推理-挑战-37"
+  },
+  {
+    "id": "G3-X038",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把28张卡片平均分给4个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "28÷4=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "38"
+    ],
+    "fingerprint": "g3-expanded-列表整理-挑战-38"
+  },
+  {
+    "id": "G3-X039",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽4厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(8+4)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "39"
+    ],
+    "fingerprint": "g3-expanded-图形空间-挑战-39"
+  },
+  {
+    "id": "G3-X040",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买4本需要多少元？",
+    "answer": "24",
+    "solution": "总价=单价×数量=6×4=24（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "40"
+    ],
+    "fingerprint": "g3-expanded-应用建模-挑战-40"
+  },
+  {
+    "id": "G3-X041",
+    "grade": 3,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数除法",
+    "method": "乘除互逆",
+    "stem": "计算：129÷5。",
+    "answer": "25",
+    "solution": "用乘法想：5×25=129。",
+    "pitfall": "把除数和被除数颠倒。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "41"
+    ],
+    "fingerprint": "g3-expanded-数感计算-挑战-41"
+  },
+  {
+    "id": "G3-X042",
+    "grade": 3,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花8朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 7 朵，8-(7)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "42"
+    ],
+    "fingerprint": "g3-expanded-条件推理-挑战-42"
+  },
+  {
+    "id": "G3-X043",
+    "grade": 3,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把40张卡片平均分给5个小朋友，每人几张？",
+    "answer": "8",
+    "solution": "40÷5=8，所以每人 8 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "43"
+    ],
+    "fingerprint": "g3-expanded-列表整理-挑战-43"
+  },
+  {
+    "id": "G3-X044",
+    "grade": 3,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长9厘米、宽5厘米，周长是多少厘米？",
+    "answer": "28",
+    "solution": "周长=(长+宽)×2=(9+5)×2=28。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "44"
+    ],
+    "fingerprint": "g3-expanded-图形空间-挑战-44"
+  },
+  {
+    "id": "G3-X045",
+    "grade": 3,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本7元，买5本需要多少元？",
+    "answer": "35",
+    "solution": "总价=单价×数量=7×5=35（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "45"
+    ],
+    "fingerprint": "g3-expanded-应用建模-挑战-45"
+  },
+  {
+    "id": "G5-X001",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：241+121×2。",
+    "answer": "483",
+    "solution": "先算乘法 121×2，再与 241 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "1"
+    ],
+    "fingerprint": "g5-expanded-数感计算-基础-1"
+  },
+  {
+    "id": "G5-X002",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花4朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 3 朵，6-(3)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "2"
+    ],
+    "fingerprint": "g5-expanded-条件推理-基础-2"
+  },
+  {
+    "id": "G5-X003",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把12张卡片平均分给3个小朋友，每人几张？",
+    "answer": "4",
+    "solution": "12÷3=4，所以每人 4 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "3"
+    ],
+    "fingerprint": "g5-expanded-列表整理-基础-3"
+  },
+  {
+    "id": "G5-X004",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长5厘米、宽3厘米，周长是多少厘米？",
+    "answer": "16",
+    "solution": "周长=(长+宽)×2=(5+3)×2=16。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "4"
+    ],
+    "fingerprint": "g5-expanded-图形空间-基础-4"
+  },
+  {
+    "id": "G5-X005",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本3元，买3本需要多少元？",
+    "answer": "9",
+    "solution": "总价=单价×数量=3×3=9（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "5"
+    ],
+    "fingerprint": "g5-expanded-应用建模-基础-5"
+  },
+  {
+    "id": "G5-X006",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：242+122×3。",
+    "answer": "608",
+    "solution": "先算乘法 122×3，再与 242 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "6"
+    ],
+    "fingerprint": "g5-expanded-数感计算-基础-6"
+  },
+  {
+    "id": "G5-X007",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 4 朵，7-(4)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "7"
+    ],
+    "fingerprint": "g5-expanded-条件推理-基础-7"
+  },
+  {
+    "id": "G5-X008",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把20张卡片平均分给4个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "20÷4=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "8"
+    ],
+    "fingerprint": "g5-expanded-列表整理-基础-8"
+  },
+  {
+    "id": "G5-X009",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽4厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(6+4)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "9"
+    ],
+    "fingerprint": "g5-expanded-图形空间-基础-9"
+  },
+  {
+    "id": "G5-X010",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买4本需要多少元？",
+    "answer": "16",
+    "solution": "总价=单价×数量=4×4=16（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "10"
+    ],
+    "fingerprint": "g5-expanded-应用建模-基础-10"
+  },
+  {
+    "id": "G5-X011",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：243+123×4。",
+    "answer": "735",
+    "solution": "先算乘法 123×4，再与 243 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "11"
+    ],
+    "fingerprint": "g5-expanded-数感计算-基础-11"
+  },
+  {
+    "id": "G5-X012",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "3",
+    "solution": "红花剩 5 朵，8-(5)=3。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "12"
+    ],
+    "fingerprint": "g5-expanded-条件推理-基础-12"
+  },
+  {
+    "id": "G5-X013",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把30张卡片平均分给5个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "30÷5=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "13"
+    ],
+    "fingerprint": "g5-expanded-列表整理-基础-13"
+  },
+  {
+    "id": "G5-X014",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽5厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(7+5)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "14"
+    ],
+    "fingerprint": "g5-expanded-图形空间-基础-14"
+  },
+  {
+    "id": "G5-X015",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买5本需要多少元？",
+    "answer": "25",
+    "solution": "总价=单价×数量=5×5=25（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "15"
+    ],
+    "fingerprint": "g5-expanded-应用建模-基础-15"
+  },
+  {
+    "id": "G5-X016",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：242+121×2。",
+    "answer": "484",
+    "solution": "先算乘法 121×2，再与 242 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "16"
+    ],
+    "fingerprint": "g5-expanded-数感计算-进阶-16"
+  },
+  {
+    "id": "G5-X017",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花5朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 4 朵，6-(4)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "17"
+    ],
+    "fingerprint": "g5-expanded-条件推理-进阶-17"
+  },
+  {
+    "id": "G5-X018",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把15张卡片平均分给3个小朋友，每人几张？",
+    "answer": "5",
+    "solution": "15÷3=5，所以每人 5 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "18"
+    ],
+    "fingerprint": "g5-expanded-列表整理-进阶-18"
+  },
+  {
+    "id": "G5-X019",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长6厘米、宽3厘米，周长是多少厘米？",
+    "answer": "18",
+    "solution": "周长=(长+宽)×2=(6+3)×2=18。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "19"
+    ],
+    "fingerprint": "g5-expanded-图形空间-进阶-19"
+  },
+  {
+    "id": "G5-X020",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本4元，买3本需要多少元？",
+    "answer": "12",
+    "solution": "总价=单价×数量=4×3=12（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "20"
+    ],
+    "fingerprint": "g5-expanded-应用建模-进阶-20"
+  },
+  {
+    "id": "G5-X021",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：244+122×3。",
+    "answer": "610",
+    "solution": "先算乘法 122×3，再与 244 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "21"
+    ],
+    "fingerprint": "g5-expanded-数感计算-进阶-21"
+  },
+  {
+    "id": "G5-X022",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 5 朵，7-(5)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "22"
+    ],
+    "fingerprint": "g5-expanded-条件推理-进阶-22"
+  },
+  {
+    "id": "G5-X023",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把24张卡片平均分给4个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "24÷4=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "23"
+    ],
+    "fingerprint": "g5-expanded-列表整理-进阶-23"
+  },
+  {
+    "id": "G5-X024",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽4厘米，周长是多少厘米？",
+    "answer": "22",
+    "solution": "周长=(长+宽)×2=(7+4)×2=22。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "24"
+    ],
+    "fingerprint": "g5-expanded-图形空间-进阶-24"
+  },
+  {
+    "id": "G5-X025",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买4本需要多少元？",
+    "answer": "20",
+    "solution": "总价=单价×数量=5×4=20（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "25"
+    ],
+    "fingerprint": "g5-expanded-应用建模-进阶-25"
+  },
+  {
+    "id": "G5-X026",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：246+123×4。",
+    "answer": "738",
+    "solution": "先算乘法 123×4，再与 246 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "26"
+    ],
+    "fingerprint": "g5-expanded-数感计算-进阶-26"
+  },
+  {
+    "id": "G5-X027",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "2",
+    "solution": "红花剩 6 朵，8-(6)=2。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "27"
+    ],
+    "fingerprint": "g5-expanded-条件推理-进阶-27"
+  },
+  {
+    "id": "G5-X028",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把35张卡片平均分给5个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "35÷5=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "28"
+    ],
+    "fingerprint": "g5-expanded-列表整理-进阶-28"
+  },
+  {
+    "id": "G5-X029",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽5厘米，周长是多少厘米？",
+    "answer": "26",
+    "solution": "周长=(长+宽)×2=(8+5)×2=26。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "29"
+    ],
+    "fingerprint": "g5-expanded-图形空间-进阶-29"
+  },
+  {
+    "id": "G5-X030",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买5本需要多少元？",
+    "answer": "30",
+    "solution": "总价=单价×数量=6×5=30（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "30"
+    ],
+    "fingerprint": "g5-expanded-应用建模-进阶-30"
+  },
+  {
+    "id": "G5-X031",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：243+121×2。",
+    "answer": "485",
+    "solution": "先算乘法 121×2，再与 243 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "31"
+    ],
+    "fingerprint": "g5-expanded-数感计算-挑战-31"
+  },
+  {
+    "id": "G5-X032",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花6朵、黄花6朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 5 朵，6-(5)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "32"
+    ],
+    "fingerprint": "g5-expanded-条件推理-挑战-32"
+  },
+  {
+    "id": "G5-X033",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把18张卡片平均分给3个小朋友，每人几张？",
+    "answer": "6",
+    "solution": "18÷3=6，所以每人 6 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "33"
+    ],
+    "fingerprint": "g5-expanded-列表整理-挑战-33"
+  },
+  {
+    "id": "G5-X034",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长7厘米、宽3厘米，周长是多少厘米？",
+    "answer": "20",
+    "solution": "周长=(长+宽)×2=(7+3)×2=20。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "34"
+    ],
+    "fingerprint": "g5-expanded-图形空间-挑战-34"
+  },
+  {
+    "id": "G5-X035",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本5元，买3本需要多少元？",
+    "answer": "15",
+    "solution": "总价=单价×数量=5×3=15（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "35"
+    ],
+    "fingerprint": "g5-expanded-应用建模-挑战-35"
+  },
+  {
+    "id": "G5-X036",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：246+122×3。",
+    "answer": "612",
+    "solution": "先算乘法 122×3，再与 246 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "36"
+    ],
+    "fingerprint": "g5-expanded-数感计算-挑战-36"
+  },
+  {
+    "id": "G5-X037",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花7朵、黄花7朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 6 朵，7-(6)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "37"
+    ],
+    "fingerprint": "g5-expanded-条件推理-挑战-37"
+  },
+  {
+    "id": "G5-X038",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把28张卡片平均分给4个小朋友，每人几张？",
+    "answer": "7",
+    "solution": "28÷4=7，所以每人 7 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "38"
+    ],
+    "fingerprint": "g5-expanded-列表整理-挑战-38"
+  },
+  {
+    "id": "G5-X039",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长8厘米、宽4厘米，周长是多少厘米？",
+    "answer": "24",
+    "solution": "周长=(长+宽)×2=(8+4)×2=24。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "39"
+    ],
+    "fingerprint": "g5-expanded-图形空间-挑战-39"
+  },
+  {
+    "id": "G5-X040",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本6元，买4本需要多少元？",
+    "answer": "24",
+    "solution": "总价=单价×数量=6×4=24（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "40"
+    ],
+    "fingerprint": "g5-expanded-应用建模-挑战-40"
+  },
+  {
+    "id": "G5-X041",
+    "grade": 5,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "整数四则运算",
+    "method": "运算顺序",
+    "stem": "计算：249+123×4。",
+    "answer": "741",
+    "solution": "先算乘法 123×4，再与 249 相加。",
+    "pitfall": "没有先算乘法。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "41"
+    ],
+    "fingerprint": "g5-expanded-数感计算-挑战-41"
+  },
+  {
+    "id": "G5-X042",
+    "grade": 5,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "数量比较",
+    "method": "更新条件后比较",
+    "stem": "有红花8朵、黄花8朵。送出1朵红花后，黄花比红花多几朵？",
+    "answer": "1",
+    "solution": "红花剩 7 朵，8-(7)=1。",
+    "pitfall": "仍用送出前的红花数量比较。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "42"
+    ],
+    "fingerprint": "g5-expanded-条件推理-挑战-42"
+  },
+  {
+    "id": "G5-X043",
+    "grade": 5,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均分",
+    "method": "除法建模",
+    "stem": "把40张卡片平均分给5个小朋友，每人几张？",
+    "answer": "8",
+    "solution": "40÷5=8，所以每人 8 张。",
+    "pitfall": "把平均分写成减法。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "43"
+    ],
+    "fingerprint": "g5-expanded-列表整理-挑战-43"
+  },
+  {
+    "id": "G5-X044",
+    "grade": 5,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "长方形周长",
+    "method": "周长公式",
+    "stem": "一个长方形长9厘米、宽5厘米，周长是多少厘米？",
+    "answer": "28",
+    "solution": "周长=(长+宽)×2=(9+5)×2=28。",
+    "pitfall": "只算长加宽。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "44"
+    ],
+    "fingerprint": "g5-expanded-图形空间-挑战-44"
+  },
+  {
+    "id": "G5-X045",
+    "grade": 5,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "单价数量总价",
+    "method": "乘法建模",
+    "stem": "每本练习本7元，买5本需要多少元？",
+    "answer": "35",
+    "solution": "总价=单价×数量=7×5=35（元）。",
+    "pitfall": "把单价和数量相加。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "45"
+    ],
+    "fingerprint": "g5-expanded-应用建模-挑战-45"
+  },
+  {
+    "id": "G6-X031",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "基础",
+    "knowledge": "分数加法",
+    "method": "通分",
+    "stem": "计算：3/4+1/8。",
+    "answer": "7/8",
+    "solution": "通分后 3/4=6/8，6/8+1/8=7/8。",
+    "pitfall": "通分时只改分子。",
+    "keywords": [
+      "数感计算",
+      "基础",
+      "31"
+    ],
+    "fingerprint": "g6-expanded-数感计算-基础-31"
+  },
+  {
+    "id": "G6-X032",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "进阶",
+    "knowledge": "分数减法",
+    "method": "通分",
+    "stem": "计算：5/6-1/4。",
+    "answer": "7/12",
+    "solution": "通分为10/12-3/12=7/12。",
+    "pitfall": "分母直接相减。",
+    "keywords": [
+      "数感计算",
+      "进阶",
+      "32"
+    ],
+    "fingerprint": "g6-expanded-数感计算-进阶-32"
+  },
+  {
+    "id": "G6-X033",
+    "grade": 6,
+    "ability": "数感计算",
+    "difficulty": "挑战",
+    "knowledge": "分数乘法",
+    "method": "约分",
+    "stem": "计算：3/5×10/9。",
+    "answer": "2/3",
+    "solution": "先约分10和5，再算 1×2/(3×1)=2/3。",
+    "pitfall": "分子分母没有分别相乘。",
+    "keywords": [
+      "数感计算",
+      "挑战",
+      "33"
+    ],
+    "fingerprint": "g6-expanded-数感计算-挑战-33"
+  },
+  {
+    "id": "G6-X034",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "基础",
+    "knowledge": "倍数关系",
+    "method": "先求倍数",
+    "stem": "甲数是18，乙数比甲数的2倍少3，乙数是多少？",
+    "answer": "33",
+    "solution": "18×2-3=33。",
+    "pitfall": "先减3再乘2。",
+    "keywords": [
+      "条件推理",
+      "基础",
+      "34"
+    ],
+    "fingerprint": "g6-expanded-条件推理-基础-34"
+  },
+  {
+    "id": "G6-X035",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "进阶",
+    "knowledge": "倍数关系",
+    "method": "逆向思考",
+    "stem": "一个数的3倍是45，这个数是多少？",
+    "answer": "15",
+    "solution": "45÷3=15。",
+    "pitfall": "把45再乘3。",
+    "keywords": [
+      "条件推理",
+      "进阶",
+      "35"
+    ],
+    "fingerprint": "g6-expanded-条件推理-进阶-35"
+  },
+  {
+    "id": "G6-X036",
+    "grade": 6,
+    "ability": "条件推理",
+    "difficulty": "挑战",
+    "knowledge": "和差问题",
+    "method": "和差法",
+    "stem": "甲、乙共有54本书，甲比乙多6本，乙有多少本？",
+    "answer": "24",
+    "solution": "乙=(54-6)÷2=24。",
+    "pitfall": "没有先去掉多出的6本。",
+    "keywords": [
+      "条件推理",
+      "挑战",
+      "36"
+    ],
+    "fingerprint": "g6-expanded-条件推理-挑战-36"
+  },
+  {
+    "id": "G6-X037",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "基础",
+    "knowledge": "平均数",
+    "method": "总量除以份数",
+    "stem": "三次测验分数分别是82、88、90，平均分是多少？",
+    "answer": "260/3分",
+    "solution": "总分82+88+90=260，平均分为260÷3=260/3。",
+    "pitfall": "把三次分数相加后不除以3。",
+    "keywords": [
+      "列表整理",
+      "基础",
+      "37"
+    ],
+    "fingerprint": "g6-expanded-列表整理-基础-37"
+  },
+  {
+    "id": "G6-X038",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "进阶",
+    "knowledge": "平均数",
+    "method": "平均分配",
+    "stem": "5天共步行35千米，平均每天步行多少千米？",
+    "answer": "7",
+    "solution": "35÷5=7。",
+    "pitfall": "把35和5相加。",
+    "keywords": [
+      "列表整理",
+      "进阶",
+      "38"
+    ],
+    "fingerprint": "g6-expanded-列表整理-进阶-38"
+  },
+  {
+    "id": "G6-X039",
+    "grade": 6,
+    "ability": "列表整理",
+    "difficulty": "挑战",
+    "knowledge": "平均数",
+    "method": "逆推",
+    "stem": "四个数的平均数是15，其中三个数是12、16、18，第四个数是多少？",
+    "answer": "14",
+    "solution": "总数15×4=60，第四个数=60-12-16-18=14。",
+    "pitfall": "忘记先求四个数总和。",
+    "keywords": [
+      "列表整理",
+      "挑战",
+      "39"
+    ],
+    "fingerprint": "g6-expanded-列表整理-挑战-39"
+  },
+  {
+    "id": "G6-X040",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "基础",
+    "knowledge": "圆",
+    "method": "直径半径关系",
+    "stem": "半径为4厘米的圆，直径是多少厘米？",
+    "answer": "8",
+    "solution": "直径=半径×2=4×2=8厘米。",
+    "pitfall": "把半径当成直径。",
+    "keywords": [
+      "图形空间",
+      "基础",
+      "40"
+    ],
+    "fingerprint": "g6-expanded-图形空间-基础-40"
+  },
+  {
+    "id": "G6-X041",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "进阶",
+    "knowledge": "正方形面积",
+    "method": "面积公式",
+    "stem": "边长为6厘米的正方形，面积是多少平方厘米？",
+    "answer": "36",
+    "solution": "面积=边长×边长=6×6=36平方厘米。",
+    "pitfall": "把面积算成周长。",
+    "keywords": [
+      "图形空间",
+      "进阶",
+      "41"
+    ],
+    "fingerprint": "g6-expanded-图形空间-进阶-41"
+  },
+  {
+    "id": "G6-X042",
+    "grade": 6,
+    "ability": "图形空间",
+    "difficulty": "挑战",
+    "knowledge": "面积周长",
+    "method": "综合计算",
+    "stem": "长方形长12米、宽8米，周长比面积少多少？",
+    "answer": "56",
+    "solution": "周长=(12+8)×2=40，面积=12×8=96，96-40=56。",
+    "pitfall": "没有分别计算周长和面积。",
+    "keywords": [
+      "图形空间",
+      "挑战",
+      "42"
+    ],
+    "fingerprint": "g6-expanded-图形空间-挑战-42"
+  },
+  {
+    "id": "G6-X043",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "基础",
+    "knowledge": "路程速度时间",
+    "method": "乘法建模",
+    "stem": "一辆车每小时行60千米，行3小时行多少千米？",
+    "answer": "180",
+    "solution": "路程=速度×时间=60×3=180千米。",
+    "pitfall": "把速度和时间相加。",
+    "keywords": [
+      "应用建模",
+      "基础",
+      "43"
+    ],
+    "fingerprint": "g6-expanded-应用建模-基础-43"
+  },
+  {
+    "id": "G6-X044",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "进阶",
+    "knowledge": "百分数",
+    "method": "折扣",
+    "stem": "商品原价120元，打八折后售价多少元？",
+    "answer": "96",
+    "solution": "八折表示原价的80%，120×0.8=96元。",
+    "pitfall": "把八折理解成减8元。",
+    "keywords": [
+      "应用建模",
+      "进阶",
+      "44"
+    ],
+    "fingerprint": "g6-expanded-应用建模-进阶-44"
+  },
+  {
+    "id": "G6-X045",
+    "grade": 6,
+    "ability": "应用建模",
+    "difficulty": "挑战",
+    "knowledge": "百分数",
+    "method": "连续变化",
+    "stem": "一件商品先涨价20%，再降价20%，原价100元，现价多少元？",
+    "answer": "96",
+    "solution": "100×1.2×0.8=96元。",
+    "pitfall": "认为涨20%和降20%会抵消。",
+    "keywords": [
+      "应用建模",
+      "挑战",
+      "45"
+    ],
+    "fingerprint": "g6-expanded-应用建模-挑战-45"
+  }
+]

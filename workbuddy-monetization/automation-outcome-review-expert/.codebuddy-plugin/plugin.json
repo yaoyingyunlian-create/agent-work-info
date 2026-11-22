@@ -1,0 +1,60 @@
+{
+  "name": "automation-outcome-review-expert",
+  "version": "1.0.0",
+  "description": "Read-only verification of automation outcomes.",
+  "agents": [
+    "./agents/automation-outcome-review-expert.md"
+  ],
+  "skills": [
+    "./skills/automation-verifier"
+  ],
+  "expertType": "agent",
+  "agentName": "automation-outcome-review-expert",
+  "plugin": "automation-outcome-review-expert",
+  "displayName": {
+    "zh": "自动化任务验真巡检专家",
+    "en": "Automation Outcome Review Expert"
+  },
+  "profession": {
+    "zh": "自动化质量巡检",
+    "en": "Automation Quality Review"
+  },
+  "displayDescription": {
+    "zh": "逐次核验最近七天的自动化任务产出，识别真成功、假成功和需人工复核的运行，交付证据与修复建议。",
+    "en": "Review automation outputs for the last seven days and deliver verified successes, false successes, and items requiring manual review, with evidence and suggested fixes."
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "10-ProjectQuality",
+  "defaultInitPrompt": {
+    "zh": "请核验过去七天的自动化任务产出。",
+    "en": "Verify my automation outputs for the past seven days."
+  },
+  "quickPrompts": [
+    {
+      "zh": "请核验过去七天的自动化任务产出。",
+      "en": "Verify my automation outputs for the past seven days."
+    },
+    {
+      "zh": "哪些任务显示成功，但产出未达到验收要求？",
+      "en": "Which runs reported success but failed output checks?"
+    },
+    {
+      "zh": "请指出哪些任务缺少历史产出快照。",
+      "en": "Identify runs with missing historical output snapshots."
+    }
+  ],
+  "tags": [
+    {
+      "zh": "自动化巡检",
+      "en": "Automation Review"
+    },
+    {
+      "zh": "产出核验",
+      "en": "Output Verification"
+    },
+    {
+      "zh": "质量检查",
+      "en": "Quality Checks"
+    }
+  ]
+}

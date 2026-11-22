@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>会议待办拆解追踪 · 模拟对照样张</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#eef2f6;color:#18283c;font:15px/1.65 "Microsoft YaHei",sans-serif}main{max-width:1080px;margin:32px auto;background:white;padding:36px;border-radius:16px}h1{font-size:28px;margin:6px 0}h2{font-size:18px;margin:24px 0 10px}.tag{color:#8b4a00;background:#fff0d7;padding:5px 12px;border-radius:20px;display:inline-block}p{margin:10px 0}blockquote{background:#f5f7fa;border-left:3px solid #6689ae;margin:10px 0;padding:12px 18px}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid #dbe2eb;padding:10px;text-align:left;vertical-align:top}th{background:#edf4fa}.muted{color:#52647b}.good{color:#21645c}footer{border-top:1px solid #ddd;margin-top:24px;padding-top:12px;font-size:13px}@media(max-width:650px){main{margin:0;padding:18px;border-radius:0}table{font-size:12px}td,th{padding:6px}}@media print{body{background:white}main{margin:0;padding:12px;max-width:none}h1{font-size:24px}table{font-size:12px}}
+</style><main>
+<span class="tag">模拟数据 · 非官方输出实测</span>
+<h1>纪要有了，任务还差什么？</h1>
+<p class="muted">会议待办拆解追踪 / 2026-11-07 / 手动会前核对</p>
+<h2>同一段模拟逐字稿</h2>
+<blockquote>P001 主持：@张三，请提供渠道数据。<br>P002 李四：收到张三数据后我再核算预算，具体哪天交还没定。<br>P003 主持：客户访谈需要推进。<br>P004 多人重叠、标签存疑：我来汇总访谈，下周五给。</blockquote>
+<table><tr><th style="width:26%">句子抽取式模拟基线</th><th>技能待办卡草稿</th><th style="width:27%">需要补齐</th></tr>
+<tr><td>张三需要提供数据</td><td><b>T001 提供渠道数据</b><br>责任人 @张三（原文指派，接受未确认）<br>截止待定；依赖待确认<br>证据 P001</td><td>哪天交？字段范围及验收口径？是否存在前置条件？</td></tr>
+<tr><td>李四接下来核算预算</td><td><b>T002 核算预算</b><br>责任人李四；截止待定<br>前置 T001 未完成 → 阻塞<br>证据 P002</td><td>交付物格式及验收口径？收到数据后多久交？</td></tr>
+<tr><td>客户访谈需要推进</td><td><b>T003 推进客户访谈</b><br>待指派；截止待定；依赖待确认<br>证据 P003</td><td>由谁负责？访谈对象、数量、交付物、日期及验收口径？</td></tr>
+<tr><td>下周五汇总访谈</td><td><b>T004 汇总访谈（提议待确认）</b><br>说话人存疑 → 待指派<br>保留“下周五”，不直接换算<br>证据 P004</td><td>是谁承诺？是否与 T003 同一交付？具体日期与验收口径？</td></tr></table>
+<p class="good"><b>可执行 0 项 · 待澄清 4 项 · 其中依赖阻塞 1 项</b></p>
+<h2>会前跟催草稿</h2><p>给会议组织者：T001 的渠道数据尚无截止时间和最新进展，请确认交付日期、验收口径及是否已交付；T002 依赖该数据，请同步阻塞是否解除。T003/T004 请先确认责任人与交付关系。</p>
+<footer>这是一页产品样张，未自动发送催办。未提供真实逐字稿与官方待办输出，无法证明实际效果优于官方；不自动指派，不编造日期，不替代项目管理系统。</footer>
+</main></html>

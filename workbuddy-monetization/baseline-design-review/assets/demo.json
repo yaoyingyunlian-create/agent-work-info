@@ -1,0 +1,157 @@
+{
+  "label": "完全模拟资料，标准号、条文及工程数据均为虚构",
+  "config": {
+    "baseline_dir": "baseline",
+    "target_dir": "targets",
+    "baseline_confirmed": true,
+    "review_date": "2026-11-09",
+    "rules_version": "demo-1",
+    "baseline": [
+      {
+        "id": "DEMO-BASE",
+        "path": "approved.json",
+        "version": "DEMO-2026",
+        "effective_date": "2026-01-01",
+        "sha256": "由演示初始化脚本填入"
+      }
+    ],
+    "targets": [
+      {
+        "id": "DEMO-01",
+        "path": "sheet.json"
+      }
+    ],
+    "dimensions": [
+      "图签",
+      "图例与材料表"
+    ],
+    "standards": {
+      "GB/T 00000-2026": {
+        "state": "current",
+        "clauses": {
+          "1.2": {
+            "id": "DEMO-BASE",
+            "location": "条款/1.2"
+          }
+        }
+      },
+      "GB/T 00000-2021": {
+        "state": "superseded",
+        "replaced_by": "GB/T 00000-2026"
+      }
+    },
+    "suppressions": [
+      {
+        "id": "SUP-001",
+        "kind": "equivalent",
+        "dimension": "图签",
+        "field": "设计单位名称",
+        "reason": "演示同义简称已人工确认",
+        "values": [
+          "设计单位名称：演示设计研究院。",
+          "设计单位名称：演示设计院简称。"
+        ]
+      },
+      {
+        "id": "SUP-002",
+        "kind": "excluded_field",
+        "dimension": "图签",
+        "field": "可选备注",
+        "locations": [
+          "图签/备注"
+        ],
+        "reason": "模拟公司规则排除指定备注字段"
+      }
+    ],
+    "history": []
+  },
+  "baseline": {
+    "anchors": {
+      "条款/1.2": "关键材料牌号应与锁定材料基准一致。",
+      "材料表/管材": "主输送管材料牌号：演示甲级。",
+      "图签/简称": "设计单位名称：演示设计研究院。",
+      "图签/备注": "图签可选备注：模拟资料默认备注。"
+    }
+  },
+  "target": {
+    "anchors": {
+      "材料表/管材": "主输送管材料牌号：演示乙级。",
+      "图签/简称": "设计单位名称：演示设计院简称。",
+      "图签/备注": "图签可选备注：用于展示范围的备注。"
+    }
+  },
+  "candidates": {
+    "snapshot": "由演示初始化脚本填入",
+    "coverage": [
+      {
+        "sheet": "DEMO-01",
+        "dimension": "图签",
+        "state": "reviewed",
+        "note": "模拟样本的文本已逐项核对"
+      },
+      {
+        "sheet": "DEMO-01",
+        "dimension": "图例与材料表",
+        "state": "reviewed",
+        "note": "模拟样本的文本已逐项核对"
+      }
+    ],
+    "keep_new": [],
+    "candidates": [
+      {
+        "id": "F-01",
+        "sheet": "DEMO-01",
+        "location": "材料表/管材",
+        "dimension": "图例与材料表",
+        "field": "材料牌号",
+        "problem": "主管材料牌号与基准材料表要求不一致。",
+        "advice": "请人工复核锁定基准和待审图纸中的该字段。",
+        "severity": "中",
+        "evidence": "主输送管材料牌号：演示乙级。",
+        "baseline_ref": {
+          "id": "DEMO-BASE",
+          "location": "材料表/管材"
+        },
+        "baseline_quote": "主输送管材料牌号：演示甲级。",
+        "basis": "GB/T 00000-2026 第1.2条",
+        "basis_quote": "关键材料牌号应与锁定材料基准一致。"
+      },
+      {
+        "id": "F-02",
+        "sheet": "DEMO-01",
+        "location": "图签/简称",
+        "dimension": "图签",
+        "field": "设计单位名称",
+        "problem": "设计单位名称有简称差异。",
+        "advice": "请人工复核锁定基准和待审图纸中的该字段。",
+        "severity": "中",
+        "evidence": "设计单位名称：演示设计院简称。",
+        "baseline_ref": {
+          "id": "DEMO-BASE",
+          "location": "图签/简称"
+        },
+        "baseline_quote": "设计单位名称：演示设计研究院。",
+        "basis": "",
+        "basis_quote": ""
+      },
+      {
+        "id": "F-03",
+        "sheet": "DEMO-01",
+        "location": "图签/备注",
+        "dimension": "图签",
+        "field": "可选备注",
+        "problem": "图签可选备注与基准有差异。",
+        "advice": "请人工复核锁定基准和待审图纸中的该字段。",
+        "severity": "中",
+        "evidence": "图签可选备注：用于展示范围的备注。",
+        "baseline_ref": {
+          "id": "DEMO-BASE",
+          "location": "图签/备注"
+        },
+        "baseline_quote": "图签可选备注：模拟资料默认备注。",
+        "basis": "",
+        "basis_quote": ""
+      }
+    ]
+  }
+}

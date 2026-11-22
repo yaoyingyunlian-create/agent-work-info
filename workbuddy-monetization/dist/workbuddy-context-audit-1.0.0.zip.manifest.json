@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "sha256": "6a7e0e9ad483dfdaca53fd80a87aa37c66ee97f8808f34a83dfa386ec5b952b5",
+  "files": [
+    "SKILL.md",
+    "scripts/audit.py",
+    "scripts/package_release.py"
+  ]
+}

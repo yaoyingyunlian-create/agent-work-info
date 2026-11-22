@@ -1,0 +1,151 @@
+{
+  "version": "1.0.0",
+  "input_hash": "a7cefa2d2a16583b2539dd4e247a9b321ddae9b8a49776761aef4298ef026847",
+  "rule_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "calendar_hash": "411abbbc9da7226defefe3905f6ab777bf4e92f8db85055f87dc3f69acf3bc43",
+  "generated_at": "2026-11-03T20:54:34+08:00",
+  "parameters": {
+    "time_limit": 120,
+    "workers": 1,
+    "seed": 0
+  },
+  "status": "OPTIMAL",
+  "assignments": [
+    {
+      "session_id": "D3@2000-01-03#1",
+      "demand_id": "D3",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "合班活动",
+      "group_ids": [
+        "G1",
+        "G3"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D1@2000-01-03#1",
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "选修物理",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D2@2000-01-03#1",
+      "demand_id": "D2",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P3",
+      "start": 600,
+      "end": 640,
+      "half_day": "am",
+      "course_id": "选修化学",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D2@2000-01-03#2",
+      "demand_id": "D2",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P4",
+      "start": 840,
+      "end": 880,
+      "half_day": "pm",
+      "course_id": "选修化学",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D1@2000-01-03#2",
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "选修物理",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    }
+  ],
+  "layers": [
+    {
+      "tier": null,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "diagnostics": [],
+  "elapsed_seconds": 0.047,
+  "candidate_count": 100,
+  "solution_hash": "a49be0566fe1cb489b334c331aa109a0c98aeaf1a5fac9142c2460e79138695c",
+  "revision": 1,
+  "version_hash": "df05bca68271aca87b308ca274e779f9d5987c1d3aa412155ce76711946818dc",
+  "delivery_status": "待独立校验"
+}

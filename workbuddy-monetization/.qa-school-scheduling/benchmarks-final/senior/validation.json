@@ -1,0 +1,128 @@
+{
+  "valid": true,
+  "ready_for_acceptance": true,
+  "delivery_status": "验收通过",
+  "pending_makeup_sessions": [],
+  "coverage": {
+    "teacher": {
+      "status": "complete",
+      "missing": [],
+      "expected": 3,
+      "checked": 3
+    },
+    "teacher_availability": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "participants": {
+      "status": "complete",
+      "missing": [],
+      "expected": 3,
+      "checked": 3
+    },
+    "student_availability": {
+      "status": "complete",
+      "missing": [],
+      "expected": 3,
+      "checked": 3
+    },
+    "classroom": {
+      "status": "complete",
+      "missing": [],
+      "expected": 3,
+      "checked": 3
+    },
+    "resource_availability": {
+      "status": "complete",
+      "missing": [],
+      "expected": 1,
+      "checked": 1
+    },
+    "external_occupancy": {
+      "status": "complete",
+      "missing": [],
+      "expected": 1,
+      "checked": 1
+    },
+    "travel": {
+      "status": "not_applicable",
+      "missing": [],
+      "expected": 1,
+      "checked": 1
+    },
+    "calendar": {
+      "status": "complete",
+      "missing": [],
+      "expected": 5,
+      "checked": 5
+    }
+  },
+  "teacher_coverage": {
+    "status": "complete",
+    "missing": [],
+    "expected": 3,
+    "checked": 3
+  },
+  "classroom_coverage": {
+    "status": "complete",
+    "missing": [],
+    "expected": 3,
+    "checked": 3
+  },
+  "hard_violations": [],
+  "soft_violations": [],
+  "rule_results": [],
+  "quota_deltas": [
+    {
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 2,
+      "actual_sessions": 2,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 80,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "D2",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 2,
+      "actual_sessions": 2,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 80,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "D3",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 1,
+      "actual_sessions": 1,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 40,
+      "minute_delta": null
+    }
+  ],
+  "input_hash": "a7cefa2d2a16583b2539dd4e247a9b321ddae9b8a49776761aef4298ef026847",
+  "rule_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "calendar_hash": "411abbbc9da7226defefe3905f6ab777bf4e92f8db85055f87dc3f69acf3bc43",
+  "solution_hash": "a49be0566fe1cb489b334c331aa109a0c98aeaf1a5fac9142c2460e79138695c",
+  "checked_week_types": [
+    "all"
+  ],
+  "checked_dates": [
+    "2000-01-03",
+    "2000-01-04",
+    "2000-01-05",
+    "2000-01-06",
+    "2000-01-07"
+  ],
+  "calendar_scope": "周模板示意日期",
+  "generated_at": "2026-11-03T21:00:22+08:00"
+}

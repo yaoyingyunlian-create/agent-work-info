@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "files": 10,
+  "sha256": "b9f4ea7db8712ed06c9db02fe2c665033abf02fdefaa0e756061e4d27fa874cd",
+  "contents": [
+    "assets/batch.json",
+    "assets/history.csv",
+    "assets/示例数电票.xml",
+    "references/input.md",
+    "requirements.txt",
+    "scripts/package_release.py",
+    "scripts/precheck.py",
+    "scripts/sources.py",
+    "SKILL.md",
+    "tests/test_precheck.py"
+  ]
+}

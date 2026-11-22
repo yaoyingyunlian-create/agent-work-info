@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+@page { size: A4; margin: 14mm; }
+body { font-family: "Microsoft YaHei", sans-serif; color: #1f2937; font-size: 12pt; }
+.page { min-height: 267mm; page-break-after: always; }
+.page:last-child { page-break-after: auto; }
+.header { border-bottom: 1px solid #94a3b8; margin-bottom: 9mm; padding-bottom: 3mm; }
+.meta { color: #475569; font-size: 10pt; }
+.q, .a { margin: 0 0 7mm; break-inside: avoid; }
+.answer-space { height: 18mm; border-bottom: 1px dashed #cbd5e1; margin-top: 3mm; }
+.feedback { margin-top: 5mm; color: #475569; font-size: 10pt; }
+.tag { font-size: 9pt; color: #475569; }
+</style>
+</head>
+<body>
+<section class="page">
+  <div class="header"><strong>{{child}}的数学逻辑练习</strong><div class="meta">练习编号：{{practice_no}}　日期：{{date}}　训练重点：{{focus}}</div></div>
+  {{questions}}
+  <div class="feedback">家长反馈：总耗时：______ 分钟　卡点：________________　备注：________________</div>
+</section>
+<section class="page">
+  <div class="header"><strong>答案与解析</strong><div class="meta">对应练习编号：{{practice_no}}　日期：{{date}}</div></div>
+  {{answers}}
+</section>
+</body>
+</html>

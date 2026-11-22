@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "task_id": "senior-demo",
+  "profile": "senior",
+  "mode": "weekly_template",
+  "timezone": "Asia/Shanghai",
+  "fill_policy": "demand_only",
+  "external_scope_confirmed": true,
+  "external_scope_note": "仅本示例任务，已确认无其他占用",
+  "calendar": {
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "week_types": [
+      "all"
+    ]
+  },
+  "groups": [
+    {
+      "id": "G1",
+      "name": "选科组甲",
+      "student_ids": [
+        "S1",
+        "S2"
+      ],
+      "membership_complete": true
+    },
+    {
+      "id": "G2",
+      "name": "选科组乙",
+      "student_ids": [
+        "S2",
+        "S3"
+      ],
+      "membership_complete": true
+    },
+    {
+      "id": "G3",
+      "name": "拆班子组",
+      "student_ids": [
+        "S3"
+      ],
+      "membership_complete": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "name": "示例教师1",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    },
+    {
+      "id": "T2",
+      "name": "示例教师2",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "S1",
+      "name": "匿名学生1",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "匿名学生2",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "name": "匿名学生3",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "R1",
+      "name": "示例教室",
+      "capacity": 2,
+      "seats": 40,
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "campus_id": "A"
+    }
+  ],
+  "slots": [
+    {
+      "id": "P1",
+      "start": "08:00",
+      "end": "08:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P2",
+      "start": "08:50",
+      "end": "09:30",
+      "half_day": "am"
+    },
+    {
+      "id": "P3",
+      "start": "10:00",
+      "end": "10:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P4",
+      "start": "14:00",
+      "end": "14:40",
+      "half_day": "pm"
+    }
+  ],
+  "demands": [
+    {
+      "id": "D1",
+      "course_id": "选修物理",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "D2",
+      "course_id": "选修化学",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "D3",
+      "course_id": "合班活动",
+      "group_ids": [
+        "G1",
+        "G3"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 1,
+        "scope": "week"
+      }
+    }
+  ],
+  "rules": [],
+  "external_occupancy": [],
+  "locks": []
+}

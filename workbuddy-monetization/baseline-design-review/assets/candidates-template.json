@@ -1,0 +1,38 @@
+{
+  "snapshot": "填写本轮预检快照",
+  "coverage": [
+    {
+      "sheet": "DEMO-01",
+      "dimension": "图签",
+      "state": "reviewed",
+      "note": "模拟样本的文本已逐项核对"
+    },
+    {
+      "sheet": "DEMO-01",
+      "dimension": "图例与材料表",
+      "state": "reviewed",
+      "note": "模拟样本的文本已逐项核对"
+    }
+  ],
+  "keep_new": [],
+  "candidates": [
+    {
+      "id": "F-01",
+      "sheet": "DEMO-01",
+      "location": "材料表/管材",
+      "dimension": "图例与材料表",
+      "field": "材料牌号",
+      "problem": "主管材料牌号与基准材料表要求不一致。",
+      "advice": "请人工复核锁定基准和待审图纸中的该字段。",
+      "severity": "中",
+      "evidence": "主输送管材料牌号：演示乙级。",
+      "baseline_ref": {
+        "id": "DEMO-BASE",
+        "location": "材料表/管材"
+      },
+      "baseline_quote": "主输送管材料牌号：演示甲级。",
+      "basis": "GB/T 00000-2026 第1.2条",
+      "basis_quote": "关键材料牌号应与锁定材料基准一致。"
+    }
+  ]
+}

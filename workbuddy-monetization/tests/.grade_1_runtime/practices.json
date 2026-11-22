@@ -1,0 +1,205 @@
+[
+  {
+    "practice_no": "PB-20261001-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-01",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261001-01.html",
+    "question_ids": [
+      "G1-X001",
+      "G1-X002",
+      "G1-X018",
+      "G1-X019",
+      "G1-X035"
+    ],
+    "fingerprints": [
+      "g1-expanded-数感计算-基础-1",
+      "g1-expanded-条件推理-基础-2",
+      "g1-expanded-列表整理-进阶-18",
+      "g1-expanded-图形空间-进阶-19",
+      "g1-expanded-应用建模-挑战-35"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261002-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-02",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261002-01.html",
+    "question_ids": [
+      "G1-X003",
+      "G1-X004",
+      "G1-X016",
+      "G1-X017",
+      "G1-X040"
+    ],
+    "fingerprints": [
+      "g1-expanded-列表整理-基础-3",
+      "g1-expanded-图形空间-基础-4",
+      "g1-expanded-数感计算-进阶-16",
+      "g1-expanded-条件推理-进阶-17",
+      "g1-expanded-应用建模-挑战-40"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "数感计算",
+      "条件推理",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261003-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-03",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261003-01.html",
+    "question_ids": [
+      "G1-X005",
+      "G1-X006",
+      "G1-X022",
+      "G1-X023",
+      "G1-X034"
+    ],
+    "fingerprints": [
+      "g1-expanded-应用建模-基础-5",
+      "g1-expanded-数感计算-基础-6",
+      "g1-expanded-条件推理-进阶-22",
+      "g1-expanded-列表整理-进阶-23",
+      "g1-expanded-图形空间-挑战-34"
+    ],
+    "abilities": [
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261004-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-04",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261004-01.html",
+    "question_ids": [
+      "G1-X007",
+      "G1-X008",
+      "G1-X020",
+      "G1-X021",
+      "G1-X039"
+    ],
+    "fingerprints": [
+      "g1-expanded-条件推理-基础-7",
+      "g1-expanded-列表整理-基础-8",
+      "g1-expanded-应用建模-进阶-20",
+      "g1-expanded-数感计算-进阶-21",
+      "g1-expanded-图形空间-挑战-39"
+    ],
+    "abilities": [
+      "条件推理",
+      "列表整理",
+      "应用建模",
+      "数感计算",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261005-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-05",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261005-01.html",
+    "question_ids": [
+      "G1-X009",
+      "G1-X010",
+      "G1-X026",
+      "G1-X027",
+      "G1-X033"
+    ],
+    "fingerprints": [
+      "g1-expanded-图形空间-基础-9",
+      "g1-expanded-应用建模-基础-10",
+      "g1-expanded-数感计算-进阶-26",
+      "g1-expanded-条件推理-进阶-27",
+      "g1-expanded-列表整理-挑战-33"
+    ],
+    "abilities": [
+      "图形空间",
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261006-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-06",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261006-01.html",
+    "question_ids": [
+      "G1-X011",
+      "G1-X012",
+      "G1-X024",
+      "G1-X025",
+      "G1-X038"
+    ],
+    "fingerprints": [
+      "g1-expanded-数感计算-基础-11",
+      "g1-expanded-条件推理-基础-12",
+      "g1-expanded-图形空间-进阶-24",
+      "g1-expanded-应用建模-进阶-25",
+      "g1-expanded-列表整理-挑战-38"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "图形空间",
+      "应用建模",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261007-01",
+    "profile": "G1测试",
+    "grade": 1,
+    "date": "2026-10-07",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_1_runtime\\outputs\\PB-20261007-01.html",
+    "question_ids": [
+      "G1-X013",
+      "G1-X014",
+      "G1-X030",
+      "G1-X028",
+      "G1-X031"
+    ],
+    "fingerprints": [
+      "g1-expanded-列表整理-基础-13",
+      "g1-expanded-图形空间-基础-14",
+      "g1-expanded-应用建模-进阶-30",
+      "g1-expanded-列表整理-进阶-28",
+      "g1-expanded-数感计算-挑战-31"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "应用建模",
+      "列表整理",
+      "数感计算"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  }
+]

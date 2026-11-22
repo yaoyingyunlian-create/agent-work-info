@@ -1,0 +1,86 @@
+[
+  {
+    "profile": "G2测试",
+    "date": "2026-10-01",
+    "practice_no": "PB-20261001-01",
+    "fingerprints": [
+      "g2-expanded-数感计算-基础-1",
+      "g2-expanded-条件推理-基础-2",
+      "g2-expanded-列表整理-进阶-18",
+      "g2-expanded-图形空间-进阶-19",
+      "g2-expanded-应用建模-挑战-35"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-02",
+    "practice_no": "PB-20261002-01",
+    "fingerprints": [
+      "g2-expanded-列表整理-基础-3",
+      "g2-expanded-图形空间-基础-4",
+      "g2-expanded-数感计算-进阶-16",
+      "g2-expanded-条件推理-进阶-17",
+      "g2-expanded-应用建模-挑战-40"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-03",
+    "practice_no": "PB-20261003-01",
+    "fingerprints": [
+      "g2-expanded-应用建模-基础-5",
+      "g2-expanded-数感计算-基础-6",
+      "g2-expanded-条件推理-进阶-22",
+      "g2-expanded-列表整理-进阶-23",
+      "g2-expanded-图形空间-挑战-34"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-04",
+    "practice_no": "PB-20261004-01",
+    "fingerprints": [
+      "g2-expanded-条件推理-基础-7",
+      "g2-expanded-列表整理-基础-8",
+      "g2-expanded-应用建模-进阶-20",
+      "g2-expanded-数感计算-进阶-21",
+      "g2-expanded-图形空间-挑战-39"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-05",
+    "practice_no": "PB-20261005-01",
+    "fingerprints": [
+      "g2-expanded-图形空间-基础-9",
+      "g2-expanded-应用建模-基础-10",
+      "g2-expanded-数感计算-进阶-26",
+      "g2-expanded-条件推理-进阶-27",
+      "g2-expanded-列表整理-挑战-33"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-06",
+    "practice_no": "PB-20261006-01",
+    "fingerprints": [
+      "g2-expanded-数感计算-基础-11",
+      "g2-expanded-条件推理-基础-12",
+      "g2-expanded-图形空间-进阶-24",
+      "g2-expanded-应用建模-进阶-25",
+      "g2-expanded-列表整理-挑战-38"
+    ]
+  },
+  {
+    "profile": "G2测试",
+    "date": "2026-10-07",
+    "practice_no": "PB-20261007-01",
+    "fingerprints": [
+      "g2-expanded-列表整理-基础-13",
+      "g2-expanded-图形空间-基础-14",
+      "g2-expanded-应用建模-进阶-30",
+      "g2-expanded-列表整理-进阶-28",
+      "g2-expanded-数感计算-挑战-31"
+    ]
+  }
+]

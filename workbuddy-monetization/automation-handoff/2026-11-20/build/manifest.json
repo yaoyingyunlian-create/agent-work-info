@@ -1,0 +1,77 @@
+[
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\fixtures\\bad.pptx",
+    "bytes": 9,
+    "sha256": "a3989126344744ef800dbc88bf7e744853f3f2eac75c9ab3301f4e845ef22078"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\fixtures\\source.csv",
+    "bytes": 98,
+    "sha256": "f348c93660afc6aeb7c584c209ae1f8003467b3a8ff499e879b3b114736ace1c"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\fixtures\\synthetic.docx",
+    "bytes": 466,
+    "sha256": "7bfaa316cd2f405d62a37518cf3d7025a36ce6a6cd52db4b4d937d270131281a"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\fixtures\\synthetic.pptx",
+    "bytes": 488,
+    "sha256": "d6d0c28249777b510e333c54c4fd553561ecdfea68270cb5c54bc6bdfa644fa2"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\fixtures\\truth.json",
+    "bytes": 121,
+    "sha256": "71c7eeb64a7b17860c547a04f4323111b5b8192b8d841f7ba9d7c82232c363a1"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-coach-listing.md",
+    "bytes": 4249,
+    "sha256": "278e818cd34ff1b6d5bc5b202b1cc40aed404dbd4d6d4e0b0090e242cc57fb94"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-demo\\outputs\\PB-20261120-01.html",
+    "bytes": 3087,
+    "sha256": "0b6ad380fa3914aff241f88d316c6354f9a36d8120f7680ce4d5d5742748ff34"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-demo\\practices.json",
+    "bytes": 811,
+    "sha256": "1fe58054c1ee86363952fe84f905bbf1ccb8c103257c2efcdb3a01f531b10f46"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-preview.log",
+    "bytes": 338,
+    "sha256": "26d065594936880e21ca109014d4c089299829e4fd16606a4bf4dc0897934837"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\listing-fields.json",
+    "bytes": 1558,
+    "sha256": "4bae69aca7b99e7e5240dc489bd73a8d157ea353a90fb83c526adafca808f56d"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\numeric-validation.md",
+    "bytes": 1650,
+    "sha256": "7651aa198ebf2d64f52f61e5dfd2b35982789bd85166f5472b60794cb66137b1"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\numeric_prototype.py",
+    "bytes": 5137,
+    "sha256": "0aec781968a4c38eaa282dc1b0371707366f664ec32ade95461ddc0f13d7c6da"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\recalculation.json",
+    "bytes": 724,
+    "sha256": "727ac5b82499c05cab43fa33a65fb0639c2e2762a2a39191626ec24a98840413"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\validate.py",
+    "bytes": 5558,
+    "sha256": "8ce34932fdd2826d3f0ed6f8e266aea96119055c6bbf436fa658424d190af2f8"
+  },
+  {
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\validation.json",
+    "bytes": 1435,
+    "sha256": "4bf36a0d9e2b402fb1b605528c3d92420c80693849522695ce1ba77c64b31237"
+  }
+]

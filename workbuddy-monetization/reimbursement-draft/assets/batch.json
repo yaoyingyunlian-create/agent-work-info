@@ -1,0 +1,17 @@
+{
+  "expected_count": 1,
+  "files": ["示例数电票.xml"],
+  "buyer": "演示用报销单位",
+  "buyer_id": "900000000000000001",
+  "period": "2026-10",
+  "history": null,
+  "infer_reason": false,
+  "columns": [
+    {"label": "开票日期", "key": "date"},
+    {"label": "消费事由", "key": "reason"},
+    {"label": "金额", "key": "total"},
+    {"label": "发票号码", "key": "number"},
+    {"label": "附件", "key": "file"}
+  ],
+  "observations": {}
+}

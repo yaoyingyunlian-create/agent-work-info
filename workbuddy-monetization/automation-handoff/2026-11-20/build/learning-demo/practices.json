@@ -1,0 +1,31 @@
+[
+  {
+    "practice_no": "PB-20261120-01",
+    "profile": null,
+    "grade": 4,
+    "date": "2026-11-20",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-demo\\outputs\\PB-20261120-01.html",
+    "question_ids": [
+      "G4-001",
+      "G4-010",
+      "G4-022",
+      "G4-031",
+      "G4-043"
+    ],
+    "fingerprints": [
+      "g4-数感计算-基础-001",
+      "g4-条件推理-基础-010",
+      "g4-列表整理-进阶-022",
+      "g4-图形空间-进阶-031",
+      "g4-应用建模-挑战-043"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  }
+]

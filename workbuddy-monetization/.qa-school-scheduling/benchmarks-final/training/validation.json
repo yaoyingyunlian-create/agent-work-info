@@ -1,0 +1,162 @@
+{
+  "valid": true,
+  "ready_for_acceptance": true,
+  "delivery_status": "验收通过",
+  "pending_makeup_sessions": [],
+  "coverage": {
+    "teacher": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "teacher_availability": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "participants": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "student_availability": {
+      "status": "not_applicable",
+      "missing": [],
+      "expected": 0,
+      "checked": 0
+    },
+    "classroom": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "resource_availability": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "external_occupancy": {
+      "status": "complete",
+      "missing": [],
+      "expected": 1,
+      "checked": 1
+    },
+    "travel": {
+      "status": "complete",
+      "missing": [],
+      "expected": 2,
+      "checked": 2
+    },
+    "calendar": {
+      "status": "complete",
+      "missing": [],
+      "expected": 4,
+      "checked": 4
+    }
+  },
+  "teacher_coverage": {
+    "status": "complete",
+    "missing": [],
+    "expected": 2,
+    "checked": 2
+  },
+  "classroom_coverage": {
+    "status": "complete",
+    "missing": [],
+    "expected": 2,
+    "checked": 2
+  },
+  "hard_violations": [],
+  "soft_violations": [],
+  "rule_results": [
+    {
+      "rule_id": "连续到场",
+      "enabled": true,
+      "level": "soft",
+      "tier": 2,
+      "weight": 1,
+      "penalty": 0,
+      "details": [
+        {
+          "entity": "T1",
+          "scope": "2026-11-07",
+          "penalty": 0,
+          "sessions": 1,
+          "minutes": 90
+        },
+        {
+          "entity": "T1",
+          "scope": "2026-11-08",
+          "penalty": 0,
+          "sessions": 1,
+          "minutes": 45
+        },
+        {
+          "entity": "T1",
+          "scope": "2026-11-14",
+          "penalty": 0,
+          "sessions": 1,
+          "minutes": 45
+        },
+        {
+          "entity": "T2",
+          "scope": "2026-11-15",
+          "penalty": 0,
+          "sessions": 1,
+          "minutes": 60
+        },
+        {
+          "entity": "T1",
+          "scope": "2026-11-15",
+          "penalty": 0,
+          "sessions": 1,
+          "minutes": 90
+        }
+      ]
+    }
+  ],
+  "quota_deltas": [
+    {
+      "demand_id": "PACK",
+      "scope": "range",
+      "unit": "units",
+      "expected_sessions": 3,
+      "actual_sessions": 3,
+      "session_delta": 0,
+      "expected_minutes": 240,
+      "actual_minutes": 240,
+      "minute_delta": 0
+    },
+    {
+      "demand_id": "SMALL",
+      "scope": "range",
+      "unit": "sessions",
+      "expected_sessions": 2,
+      "actual_sessions": 2,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 90,
+      "minute_delta": null
+    }
+  ],
+  "input_hash": "94758f0abba48fe3101e780a1593b0066480368d7dc53e031bfdd22571bd7f10",
+  "rule_hash": "4e7ebff19b1577be6a893914d0a73358502cd44db4b5f1463250d17850bf812e",
+  "calendar_hash": "6a531cd9638966a6cb9fc4779ecb28a04c57f4f514c8b80812d1b18c060b5e9e",
+  "solution_hash": "bea12dfca2f3bcadfa2d11f4480f0770ea46512a840f0e72c4aec0b729c843c3",
+  "checked_week_types": [
+    "all"
+  ],
+  "checked_dates": [
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15"
+  ],
+  "calendar_scope": "实际日期范围",
+  "generated_at": "2026-11-03T21:00:32+08:00"
+}

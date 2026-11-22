@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-18",
+  "stage": "02-analysis",
+  "generated_at": "2026-11-18T13:28:36.527+08:00",
+  "state": "complete",
+  "items": [
+    {
+      "demand_id": "WB-20261117-01",
+      "type": "skill",
+      "state": "selected",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "D:/codex_work/projects/wrokbuddy变现开发/automation-handoff/2026-11-17/03-build.json"
+      ],
+      "next_action": "定位可授权使用的脱敏导出，直接复用昨日原型验证；无样本明确记录。",
+      "priority": "P0",
+      "action": "research",
+      "scope": "仅核对授权脱敏会话导出结构和映射",
+      "acceptance": "3份样本均可提取工具名、会话边界和参数结构，说明轮询识别与缺字段；不输出原文或凭据",
+      "dependencies": "3份授权脱敏导出；缺失则转备选",
+      "estimate": "1小时",
+      "fallback": "WB-20261118-01",
+      "pricing_basis": "19 元候选，原型阶段不发布。"
+    },
+    {
+      "demand_id": "WB-20261118-01",
+      "type": "skill",
+      "state": "queued",
+      "title": "前缀稳定性与闲置工具测量",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec7a288173aa2",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "https://www.workbuddy.cn/docs/workbuddy/Usage",
+        "https://github.com/microsoft/TokenEconomizer/blob/main/docs/PLUGIN.md",
+        "https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/prompt-caching.md",
+        "https://github.com/anthropics/claude-code/issues/53132"
+      ],
+      "next_action": "若主项受阻先核实字段，入口不可达则执行合成盘点。",
+      "pricing_options_cny": [
+        19,
+        39
+      ],
+      "paid_signal": "未验证",
+      "priority": "P1",
+      "action": "research",
+      "scope": "只读核实详细用量是否有缓存计数字段；若无，则验证脱敏配置快照的闲置项盘点",
+      "acceptance": "记录是否可见、字段名及口径；缺字段不报命中率。备选用20条样本检出至少19条正确状态，未知单列",
+      "dependencies": "已授权后台或脱敏账单；本地备选用合成配置及调用记录",
+      "estimate": "1–2小时",
+      "pricing_basis": "19/39 元建议冲突，待真实字段与商品归属明确。"
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "queued",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "补可比基线并拟草稿，不改线上字段。",
+      "orders_observed": 1,
+      "order_date": "2026-11-16",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "net_income": null,
+      "priority": "P2",
+      "action": "research",
+      "baseline": {
+        "paid_orders_observed": 1,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "pricing_basis": "本轮不改售价。"
+    },
+    {
+      "demand_id": "WB-20261113-01",
+      "type": "skill",
+      "state": "approved_pending_publish",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "核对原条目 os_dbbb2196fba9a727、v1.0.0 与 ¥19 买断，平台仍待发布则执行上架，回查公开状态。",
+      "priority": "P0",
+      "action": "update_asset",
+      "pricing_basis": "沿用已提审的 ¥19 买断。"
+    },
+    {
+      "demand_id": "WB-20261112-01",
+      "type": "skill",
+      "state": "rejected",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.0",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "读取完整驳回原因，按要求将原条目服务类目调整为包含工具 > 办公并核对资质；沿用已验证材料，交给发布重提。",
+      "reason": "服务类目与应用不符，至少应包含工具 > 办公。审核时间 2026-11-17 11:00。",
+      "priority": "P0",
+      "action": "update_asset",
+      "pricing_basis": "沿用已提审的 ¥19 买断。"
+    }
+  ],
+  "inputs": [
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\01-collect.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+  ],
+  "weekly_source": "11月15日聊天周复盘"
+}

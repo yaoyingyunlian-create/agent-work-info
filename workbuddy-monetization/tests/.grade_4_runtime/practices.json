@@ -1,0 +1,205 @@
+[
+  {
+    "practice_no": "PB-20261001-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-01",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261001-01.html",
+    "question_ids": [
+      "G4-001",
+      "G4-010",
+      "G4-022",
+      "G4-031",
+      "G4-043"
+    ],
+    "fingerprints": [
+      "g4-数感计算-基础-001",
+      "g4-条件推理-基础-010",
+      "g4-列表整理-进阶-022",
+      "g4-图形空间-进阶-031",
+      "g4-应用建模-挑战-043"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261002-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-02",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261002-01.html",
+    "question_ids": [
+      "G4-019",
+      "G4-028",
+      "G4-004",
+      "G4-013",
+      "G4-044"
+    ],
+    "fingerprints": [
+      "g4-列表整理-基础-019",
+      "g4-图形空间-基础-028",
+      "g4-数感计算-进阶-004",
+      "g4-条件推理-进阶-013",
+      "g4-应用建模-挑战-044"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "数感计算",
+      "条件推理",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261003-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-03",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261003-01.html",
+    "question_ids": [
+      "G4-037",
+      "G4-002",
+      "G4-014",
+      "G4-023",
+      "G4-034"
+    ],
+    "fingerprints": [
+      "g4-应用建模-基础-037",
+      "g4-数感计算-基础-002",
+      "g4-条件推理-进阶-014",
+      "g4-列表整理-进阶-023",
+      "g4-图形空间-挑战-034"
+    ],
+    "abilities": [
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261004-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-04",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261004-01.html",
+    "question_ids": [
+      "G4-011",
+      "G4-020",
+      "G4-040",
+      "G4-005",
+      "G4-035"
+    ],
+    "fingerprints": [
+      "g4-条件推理-基础-011",
+      "g4-列表整理-基础-020",
+      "g4-应用建模-进阶-040",
+      "g4-数感计算-进阶-005",
+      "g4-图形空间-挑战-035"
+    ],
+    "abilities": [
+      "条件推理",
+      "列表整理",
+      "应用建模",
+      "数感计算",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261005-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-05",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261005-01.html",
+    "question_ids": [
+      "G4-029",
+      "G4-038",
+      "G4-006",
+      "G4-015",
+      "G4-025"
+    ],
+    "fingerprints": [
+      "g4-图形空间-基础-029",
+      "g4-应用建模-基础-038",
+      "g4-数感计算-进阶-006",
+      "g4-条件推理-进阶-015",
+      "g4-列表整理-挑战-025"
+    ],
+    "abilities": [
+      "图形空间",
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261006-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-06",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261006-01.html",
+    "question_ids": [
+      "G4-003",
+      "G4-012",
+      "G4-032",
+      "G4-041",
+      "G4-026"
+    ],
+    "fingerprints": [
+      "g4-数感计算-基础-003",
+      "g4-条件推理-基础-012",
+      "g4-图形空间-进阶-032",
+      "g4-应用建模-进阶-041",
+      "g4-列表整理-挑战-026"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "图形空间",
+      "应用建模",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261007-01",
+    "profile": "G4测试",
+    "grade": 4,
+    "date": "2026-10-07",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_4_runtime\\outputs\\PB-20261007-01.html",
+    "question_ids": [
+      "G4-021",
+      "G4-030",
+      "G4-042",
+      "G4-024",
+      "G4-007"
+    ],
+    "fingerprints": [
+      "g4-列表整理-基础-021",
+      "g4-图形空间-基础-030",
+      "g4-应用建模-进阶-042",
+      "g4-列表整理-进阶-024",
+      "g4-数感计算-挑战-007"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "应用建模",
+      "列表整理",
+      "数感计算"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  }
+]

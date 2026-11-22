@@ -1,0 +1,5 @@
+{
+  "code": 0,
+  "stdout": "{\"status\": \"OPTIMAL\", \"candidate_count\": 39600, \"elapsed_seconds\": 182.125, \"diagnostics\": []}\n",
+  "stderr": ""
+}

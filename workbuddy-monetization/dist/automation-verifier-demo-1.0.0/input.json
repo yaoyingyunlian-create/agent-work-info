@@ -1,0 +1,403 @@
+{
+  "as_of": "2026-11-06T18:00:00+08:00",
+  "days": 7,
+  "coverage_confirmed": true,
+  "tasks": [
+    {
+      "id": "demo-0",
+      "name": "演示：竞品简报",
+      "runs": [
+        {
+          "id": "2026-10-31",
+          "start": "2026-10-31T09:00:00+08:00",
+          "due": "2026-10-31T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-10-31.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-01",
+          "start": "2026-11-01T09:00:00+08:00",
+          "due": "2026-11-01T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-01.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-02",
+          "start": "2026-11-02T09:00:00+08:00",
+          "due": "2026-11-02T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-02.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-03",
+          "start": "2026-11-03T09:00:00+08:00",
+          "due": "2026-11-03T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-03.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-04",
+          "start": "2026-11-04T09:00:00+08:00",
+          "due": "2026-11-04T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-04.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-05",
+          "start": "2026-11-05T09:00:00+08:00",
+          "due": "2026-11-05T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-05.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-06",
+          "start": "2026-11-06T09:00:00+08:00",
+          "due": "2026-11-06T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "0-2026-11-06.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        }
+      ]
+    },
+    {
+      "id": "demo-1",
+      "name": "演示：数据同步",
+      "runs": [
+        {
+          "id": "2026-10-31",
+          "start": "2026-10-31T09:00:00+08:00",
+          "due": "2026-10-31T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-10-31.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-01",
+          "start": "2026-11-01T09:00:00+08:00",
+          "due": "2026-11-01T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-01.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-02",
+          "start": "2026-11-02T09:00:00+08:00",
+          "due": "2026-11-02T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-02.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-03",
+          "start": "2026-11-03T09:00:00+08:00",
+          "due": "2026-11-03T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-03.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-04",
+          "start": "2026-11-04T09:00:00+08:00",
+          "due": "2026-11-04T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-04.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-05",
+          "start": "2026-11-05T09:00:00+08:00",
+          "due": "2026-11-05T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-05.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-06",
+          "start": "2026-11-06T09:00:00+08:00",
+          "due": "2026-11-06T10:00:00+08:00",
+          "claimed_status": "success",
+          "claim_source": "虚构运行声明，仅供演示",
+          "artifact": "1-2026-11-06.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        }
+      ]
+    },
+    {
+      "id": "demo-2",
+      "name": "演示：签到记录",
+      "runs": [
+        {
+          "id": "2026-10-31",
+          "start": "2026-10-31T09:00:00+08:00",
+          "due": "2026-10-31T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-10-31.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-01",
+          "start": "2026-11-01T09:00:00+08:00",
+          "due": "2026-11-01T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-01.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-02",
+          "start": "2026-11-02T09:00:00+08:00",
+          "due": "2026-11-02T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-02.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-03",
+          "start": "2026-11-03T09:00:00+08:00",
+          "due": "2026-11-03T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-03.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-04",
+          "start": "2026-11-04T09:00:00+08:00",
+          "due": "2026-11-04T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-04.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-05",
+          "start": "2026-11-05T09:00:00+08:00",
+          "due": "2026-11-05T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-05.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        },
+        {
+          "id": "2026-11-06",
+          "start": "2026-11-06T09:00:00+08:00",
+          "due": "2026-11-06T10:00:00+08:00",
+          "claimed_status": "unknown",
+          "claim_source": "",
+          "artifact": "2-2026-11-06.csv",
+          "checks": {
+            "mtime": true,
+            "format": "csv",
+            "min_rows": 1,
+            "required_fields": [
+              "id",
+              "updated_at"
+            ],
+            "data_time_field": "updated_at"
+          }
+        }
+      ]
+    }
+  ]
+}

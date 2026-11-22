@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "input_hash": "0359fda3e330d58618b739106aa7857b62008affbeec1ffc914f24f1f88bc45d",
+  "solution_hash": "78a792cbff0a1f05c12b53fe0173b97040f25ab09af61c788887ec7183930458",
+  "output": "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实22班联排_20261103_214558\\真实22班联排_未通过校验.xlsx",
+  "file_sha256": "9a83df9dab79e8181c592f23ce52e392f1617f5343b40f802b3d5d907b50ac76",
+  "parameters": {
+    "time_limit": 120.0,
+    "workers": 8,
+    "seed": 0
+  },
+  "layers": [
+    {
+      "tier": null,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "delivery_status": "有限范围通过"
+}

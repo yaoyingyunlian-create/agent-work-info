@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "sha256": "ecc3fbd303c33fcdf29ad9be6c1aeb48ae4b73086c6f19db62b66040092ca4c0",
+  "files": [
+    "SKILL.md",
+    "assets/candidates-template.json",
+    "assets/config-template.json",
+    "assets/demo.json",
+    "references/workflow.md",
+    "scripts/demo.py",
+    "scripts/package_release.py",
+    "scripts/review.py",
+    "tests/test_review.py"
+  ]
+}

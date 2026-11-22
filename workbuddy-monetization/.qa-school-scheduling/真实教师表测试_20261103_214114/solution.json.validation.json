@@ -1,0 +1,297 @@
+{
+  "valid": true,
+  "ready_for_acceptance": false,
+  "delivery_status": "有限范围通过",
+  "pending_makeup_sessions": [],
+  "coverage": {
+    "teacher": {
+      "status": "complete",
+      "missing": [],
+      "expected": 14,
+      "checked": 14
+    },
+    "teacher_availability": {
+      "status": "not_provided",
+      "missing": [
+        "T001",
+        "T002",
+        "T003",
+        "T004",
+        "T005",
+        "T006",
+        "T007",
+        "T008",
+        "T009",
+        "T010",
+        "T011",
+        "T012"
+      ],
+      "expected": 12,
+      "checked": 0
+    },
+    "participants": {
+      "status": "not_provided",
+      "missing": [
+        "C2",
+        "C3"
+      ],
+      "expected": 2,
+      "checked": 0
+    },
+    "student_availability": {
+      "status": "not_applicable",
+      "missing": [],
+      "expected": 0,
+      "checked": 0
+    },
+    "classroom": {
+      "status": "not_provided",
+      "missing": [
+        "C2-语文",
+        "C2-数学",
+        "C2-英语",
+        "C2-物理",
+        "C2-化学",
+        "C2-生物",
+        "C2-体育",
+        "C3-语文",
+        "C3-数学",
+        "C3-英语",
+        "C3-物理",
+        "C3-化学",
+        "C3-生物",
+        "C3-体育"
+      ],
+      "expected": 14,
+      "checked": 0
+    },
+    "resource_availability": {
+      "status": "not_applicable",
+      "missing": [],
+      "expected": 0,
+      "checked": 0
+    },
+    "external_occupancy": {
+      "status": "not_provided",
+      "missing": [
+        "未确认本任务之外的占用范围"
+      ],
+      "expected": 1,
+      "checked": 0
+    },
+    "travel": {
+      "status": "not_applicable",
+      "missing": [],
+      "expected": 1,
+      "checked": 1
+    },
+    "calendar": {
+      "status": "complete",
+      "missing": [],
+      "expected": 5,
+      "checked": 5
+    }
+  },
+  "teacher_coverage": {
+    "status": "complete",
+    "missing": [],
+    "expected": 14,
+    "checked": 14
+  },
+  "classroom_coverage": {
+    "status": "not_provided",
+    "missing": [
+      "C2-语文",
+      "C2-数学",
+      "C2-英语",
+      "C2-物理",
+      "C2-化学",
+      "C2-生物",
+      "C2-体育",
+      "C3-语文",
+      "C3-数学",
+      "C3-英语",
+      "C3-物理",
+      "C3-化学",
+      "C3-生物",
+      "C3-体育"
+    ],
+    "expected": 14,
+    "checked": 0
+  },
+  "hard_violations": [],
+  "soft_violations": [],
+  "rule_results": [],
+  "quota_deltas": [
+    {
+      "demand_id": "C2-语文",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-数学",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-英语",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-物理",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 6,
+      "actual_sessions": 6,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 240,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-化学",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 6,
+      "actual_sessions": 6,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 240,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-生物",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 5,
+      "actual_sessions": 5,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 200,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C2-体育",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 2,
+      "actual_sessions": 2,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 80,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-语文",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-数学",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-英语",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 7,
+      "actual_sessions": 7,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 280,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-物理",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 6,
+      "actual_sessions": 6,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 240,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-化学",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 6,
+      "actual_sessions": 6,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 240,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-生物",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 5,
+      "actual_sessions": 5,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 200,
+      "minute_delta": null
+    },
+    {
+      "demand_id": "C3-体育",
+      "scope": "2000-01-03",
+      "unit": "sessions",
+      "expected_sessions": 2,
+      "actual_sessions": 2,
+      "session_delta": 0,
+      "expected_minutes": null,
+      "actual_minutes": 80,
+      "minute_delta": null
+    }
+  ],
+  "input_hash": "e00e7aad4329b3d6b4241ad00cbe6cbe54a68a3efc6f8bae03dee96fd8f12625",
+  "rule_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "calendar_hash": "411abbbc9da7226defefe3905f6ab777bf4e92f8db85055f87dc3f69acf3bc43",
+  "solution_hash": "c0da8aa48fcb491758c2eca08c81765ea7ef9243f4f884892afd3fadce52321a",
+  "checked_week_types": [
+    "all"
+  ],
+  "checked_dates": [
+    "2000-01-03",
+    "2000-01-04",
+    "2000-01-05",
+    "2000-01-06",
+    "2000-01-07"
+  ],
+  "calendar_scope": "周模板示意日期",
+  "generated_at": "2026-11-03T21:41:20+08:00"
+}

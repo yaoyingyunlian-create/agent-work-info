@@ -1,0 +1,174 @@
+{
+  "version": "1.0.0",
+  "input_hash": "2fe4b8af7d36e3c0ed93bae944fd4d7f9e639c5c0acb2be1c1ba9facbc07a272",
+  "rule_hash": "b0aa647af252045b8a7d52d78528b572e284537432efd16898c04d40cb320f8f",
+  "calendar_hash": "411abbbc9da7226defefe3905f6ab777bf4e92f8db85055f87dc3f69acf3bc43",
+  "generated_at": "2026-11-03T20:54:33+08:00",
+  "parameters": {
+    "time_limit": 120,
+    "workers": 1,
+    "seed": 0
+  },
+  "status": "OPTIMAL",
+  "assignments": [
+    {
+      "session_id": "D3@2000-01-03#1",
+      "demand_id": "D3",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P1",
+      "start": 480,
+      "end": 520,
+      "half_day": "am",
+      "course_id": "课后活动",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D2@2000-01-03#1",
+      "demand_id": "D2",
+      "scope": "2000-01-03",
+      "date": "2000-01-03",
+      "week_type": "all",
+      "weekday": 0,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D1@2000-01-03#1",
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "date": "2000-01-04",
+      "week_type": "all",
+      "weekday": 1,
+      "slot_id": "P2",
+      "start": 530,
+      "end": 570,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D1@2000-01-03#2",
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "date": "2000-01-05",
+      "week_type": "all",
+      "weekday": 2,
+      "slot_id": "P3",
+      "start": 600,
+      "end": 640,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D2@2000-01-03#2",
+      "demand_id": "D2",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "G2-P1",
+      "start": 500,
+      "end": 540,
+      "half_day": "am",
+      "course_id": "语文",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "D1@2000-01-03#3",
+      "demand_id": "D1",
+      "scope": "2000-01-03",
+      "date": "2000-01-06",
+      "week_type": "all",
+      "weekday": 3,
+      "slot_id": "P3",
+      "start": 600,
+      "end": 640,
+      "half_day": "am",
+      "course_id": "数学",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    }
+  ],
+  "layers": [
+    {
+      "tier": 2,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "diagnostics": [],
+  "elapsed_seconds": 0.032,
+  "candidate_count": 120,
+  "solution_hash": "9949252cc93b15823ecb9b02b7ef70abe4ec6d393a3935308bbc1eaa4bf0bfbb",
+  "revision": 1,
+  "version_hash": "4aab854ee31b5d912e8854d0e3bc24ae38dd6a00e5b4a418cfd3f66fa99e2d01",
+  "delivery_status": "待独立校验"
+}

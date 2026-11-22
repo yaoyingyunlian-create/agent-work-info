@@ -1,0 +1,6 @@
+{
+  "returncode": 0,
+  "stdout": "{\"status\": \"OPTIMAL\", \"candidate_count\": 39600, \"elapsed_seconds\": 116.156, \"diagnostics\": []}\n",
+  "stderr": "",
+  "elapsed_seconds": 118.75
+}

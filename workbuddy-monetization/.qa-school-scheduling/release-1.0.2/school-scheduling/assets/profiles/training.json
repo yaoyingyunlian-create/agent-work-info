@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "task_id": "training-demo",
+  "profile": "training",
+  "mode": "date_range",
+  "timezone": "Asia/Shanghai",
+  "fill_policy": "demand_only",
+  "external_scope_confirmed": true,
+  "external_scope_note": "仅本示例任务，已确认无其他占用",
+  "calendar": {
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-15",
+    "week_anchor": "2026-11-02",
+    "weekdays": [
+      5,
+      6
+    ],
+    "week_types": [
+      "all"
+    ]
+  },
+  "groups": [
+    {
+      "id": "G1",
+      "name": "示例一组",
+      "size": 1,
+      "conflicts_confirmed": true
+    },
+    {
+      "id": "G2",
+      "name": "示例二组",
+      "size": 6,
+      "conflicts_confirmed": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "name": "示例教师1",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    },
+    {
+      "id": "T2",
+      "name": "示例教师2",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    }
+  ],
+  "students": [],
+  "resources": [
+    {
+      "id": "R1",
+      "name": "示例教室",
+      "capacity": 1,
+      "seats": 40,
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "campus_id": "A"
+    },
+    {
+      "id": "R2",
+      "name": "示例教室",
+      "capacity": 1,
+      "seats": 40,
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "campus_id": "B"
+    }
+  ],
+  "slots": [
+    {
+      "id": "周末上午",
+      "weekdays": [
+        5,
+        6
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "flexible": true,
+      "step_minutes": 30,
+      "half_day": "am"
+    },
+    {
+      "id": "周末晚间",
+      "weekdays": [
+        5,
+        6
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "flexible": true,
+      "step_minutes": 30,
+      "half_day": "pm"
+    }
+  ],
+  "demands": [
+    {
+      "id": "PACK",
+      "course_id": "一对一课程包",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [],
+      "resource_ids": [],
+      "duration_options": [
+        60,
+        90
+      ],
+      "quota": {
+        "unit": "units",
+        "value": 4,
+        "minutes_per_unit": 60,
+        "scope": "range"
+      },
+      "session_count": 3,
+      "eligible_teacher_ids": [
+        "T1",
+        "T2"
+      ],
+      "eligible_resource_ids": [
+        "R1",
+        "R2"
+      ]
+    },
+    {
+      "id": "SMALL",
+      "course_id": "小班课程",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        45
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "range"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "连续到场",
+      "type": "minimize_gaps",
+      "by": "teacher",
+      "level": "soft",
+      "tier": 2
+    }
+  ],
+  "external_occupancy": [],
+  "locks": [],
+  "travel_minutes": {
+    "A": {
+      "B": 30
+    },
+    "B": {
+      "A": 30
+    }
+  }
+}

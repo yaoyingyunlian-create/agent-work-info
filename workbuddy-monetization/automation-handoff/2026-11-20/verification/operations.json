@@ -1,0 +1,130 @@
+{
+  "window_label": "7天",
+  "date_boundaries": null,
+  "refresh_lag": null,
+  "observed_at": "2026-11-20T04:05:33.227Z",
+  "source": "https://open.workbuddy.cn/operations",
+  "rows": [
+    {
+      "asset_id": "os_dbbb2196fba9a727",
+      "title": "定时任务上下文体检",
+      "installs": 0,
+      "calls": 0,
+      "active_users": 0,
+      "frequency_label": "0.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_cd1ae1518368bb04",
+      "title": "工作空间膨胀体检",
+      "installs": 0,
+      "calls": 5,
+      "active_users": 1,
+      "frequency_label": "5.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "oe_fbd13b93107b105e",
+      "title": "自动化质量巡检",
+      "installs": 1,
+      "calls": 1,
+      "active_users": 1,
+      "frequency_label": "1.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_f31dca6b57cff4e2",
+      "title": "报销底稿-单据预审版",
+      "installs": 0,
+      "calls": 4,
+      "active_users": 1,
+      "frequency_label": "4.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_6baa99523fe4b3d7",
+      "title": "会议待办拆解追踪",
+      "installs": 0,
+      "calls": 0,
+      "active_users": 0,
+      "frequency_label": "0.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_3b43aaacd20c8cf6",
+      "title": "任务产物验收-标准版",
+      "installs": 0,
+      "calls": 0,
+      "active_users": 0,
+      "frequency_label": "0.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_0c287fd18e58b0ff",
+      "title": "学校与培训机构排课",
+      "installs": 1,
+      "calls": 0,
+      "active_users": 0,
+      "frequency_label": "0.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_0eff5b43a5a7e038",
+      "title": "对照校审（基准唯一版）",
+      "installs": 0,
+      "calls": 0,
+      "active_users": 0,
+      "frequency_label": "0.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_52efb5f1213b6d5a",
+      "title": "智能学习陪练",
+      "installs": 2,
+      "calls": 37,
+      "active_users": 32,
+      "frequency_label": "1.1",
+      "next_week_retention_label": "4.8%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "os_6efe644b235b2813",
+      "title": "自动化任务验真巡检",
+      "installs": 0,
+      "calls": 4,
+      "active_users": 1,
+      "frequency_label": "4.0",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    },
+    {
+      "asset_id": "oe_a04fff43e6c321af",
+      "title": "本地美业获客专家",
+      "installs": 6,
+      "calls": 51,
+      "active_users": 9,
+      "frequency_label": "5.3",
+      "next_week_retention_label": "0.0%",
+      "impressions": null,
+      "detail_views": null
+    }
+  ]
+}

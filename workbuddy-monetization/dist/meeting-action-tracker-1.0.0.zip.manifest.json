@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "sha256": "ad651b96edcbf221960a0a34236a100583ff91bc825a2b1a726319b689d90010",
+  "files": [
+    "assets/demo.json",
+    "references/ledger.md",
+    "scripts/check_ledger.py",
+    "scripts/package_release.py",
+    "SKILL.md",
+    "tests/test_ledger.py"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "version": "1.0.0",
+  "input_hash": "94758f0abba48fe3101e780a1593b0066480368d7dc53e031bfdd22571bd7f10",
+  "rule_hash": "4e7ebff19b1577be6a893914d0a73358502cd44db4b5f1463250d17850bf812e",
+  "calendar_hash": "6a531cd9638966a6cb9fc4779ecb28a04c57f4f514c8b80812d1b18c060b5e9e",
+  "generated_at": "2026-11-03T21:34:34+08:00",
+  "parameters": {
+    "time_limit": 120.0,
+    "workers": 1,
+    "seed": 0
+  },
+  "status": "OPTIMAL",
+  "assignments": [
+    {
+      "session_id": "PACK@range#1",
+      "demand_id": "PACK",
+      "scope": "range",
+      "date": "2026-11-07",
+      "week_type": "all",
+      "weekday": 5,
+      "slot_id": "周末上午",
+      "start": 540,
+      "end": 630,
+      "half_day": "am",
+      "course_id": "一对一课程包",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "SMALL@range#1",
+      "demand_id": "SMALL",
+      "scope": "range",
+      "date": "2026-11-08",
+      "week_type": "all",
+      "weekday": 6,
+      "slot_id": "周末上午",
+      "start": 540,
+      "end": 585,
+      "half_day": "am",
+      "course_id": "小班课程",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "SMALL@range#2",
+      "demand_id": "SMALL",
+      "scope": "range",
+      "date": "2026-11-14",
+      "week_type": "all",
+      "weekday": 5,
+      "slot_id": "周末晚间",
+      "start": 1170,
+      "end": 1215,
+      "half_day": "pm",
+      "course_id": "小班课程",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "campus_id": "A",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "PACK@range#2",
+      "demand_id": "PACK",
+      "scope": "range",
+      "date": "2026-11-15",
+      "week_type": "all",
+      "weekday": 6,
+      "slot_id": "周末晚间",
+      "start": 1110,
+      "end": 1170,
+      "half_day": "pm",
+      "course_id": "一对一课程包",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R2"
+      ],
+      "campus_id": "B",
+      "status": "scheduled"
+    },
+    {
+      "session_id": "PACK@range#3",
+      "demand_id": "PACK",
+      "scope": "range",
+      "date": "2026-11-15",
+      "week_type": "all",
+      "weekday": 6,
+      "slot_id": "周末晚间",
+      "start": 1170,
+      "end": 1260,
+      "half_day": "pm",
+      "course_id": "一对一课程包",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R2"
+      ],
+      "campus_id": "B",
+      "status": "scheduled"
+    }
+  ],
+  "layers": [
+    {
+      "tier": 2,
+      "status": "OPTIMAL",
+      "value": 0,
+      "bound": 0.0
+    }
+  ],
+  "diagnostics": [],
+  "elapsed_seconds": 13.125,
+  "candidate_count": 944,
+  "solution_hash": "bea12dfca2f3bcadfa2d11f4480f0770ea46512a840f0e72c4aec0b729c843c3",
+  "revision": 1,
+  "version_hash": "d21611088914a0382a05704622b7104b46cff28e7d6c14f874cb9226b431c65b",
+  "delivery_status": "待独立校验"
+}

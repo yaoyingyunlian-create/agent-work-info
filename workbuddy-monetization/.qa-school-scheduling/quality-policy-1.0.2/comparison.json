@@ -1,0 +1,24 @@
+{
+  "old": {
+    "valid": false,
+    "quality": {
+      "daily_over_limit": 120,
+      "split_half_day": 149,
+      "nonconsecutive": 184
+    },
+    "quality_gate": false,
+    "draft_reason": "硬约束失败",
+    "hard_violations": 3
+  },
+  "improved": {
+    "valid": true,
+    "quality": {
+      "daily_over_limit": 0,
+      "split_half_day": 0,
+      "nonconsecutive": 0
+    },
+    "quality_gate": true,
+    "draft_reason": "资料待补全",
+    "hard_violations": 0
+  }
+}

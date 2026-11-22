@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": {
+    "P001": "【模拟会议，2026-11-07，Asia/Shanghai】主持：@张三，请提供渠道数据。",
+    "P002": "李四：收到张三数据后我再核算预算，具体哪天交还没定。",
+    "P003": "主持：客户访谈需要推进。",
+    "P004": "多人重叠，转写标签疑似错误：我来汇总访谈，下周五给。"
+  },
+  "tasks": [
+    {"id":"T001","action":"提供渠道数据","deliverable":"渠道数据","acceptance":null,"owner":"@张三","owner_confirmation":"原文指派，接受情况未确认","due":null,"dependency_state":"unknown","depends_on":[],"status":"open","evidence":[{"paragraph":"P001","quote":"@张三，请提供渠道数据。","supports":["action","owner","deliverable"]}]},
+    {"id":"T002","action":"核算预算","deliverable":null,"acceptance":null,"owner":"李四","due":null,"dependency_state":"explicit","depends_on":["T001"],"status":"open","evidence":[{"paragraph":"P002","quote":"李四：收到张三数据后我再核算预算，具体哪天交还没定。","supports":["action","owner","dependency"]}]},
+    {"id":"T003","action":"推进客户访谈","deliverable":null,"acceptance":null,"owner":null,"due":null,"dependency_state":"unknown","depends_on":[],"status":"open","evidence":[{"paragraph":"P003","quote":"客户访谈需要推进。","supports":["action"]}]},
+    {"id":"T004","action":"汇总访谈","deliverable":"访谈汇总","acceptance":null,"owner":null,"due":{"raw":"下周五","date":null,"basis":"说话人及日期含义需确认"},"dependency_state":"unknown","depends_on":[],"status":"proposed","conflicts":["转写说话人疑似错误，不据此指派"],"evidence":[{"paragraph":"P004","quote":"我来汇总访谈，下周五给。","supports":["action","deliverable","due"]}]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "sha256": "36098efc7836457a7f828738d40ca75920cadda883d6ea517a6146d1d999cfa3",
+  "files": [
+    "SKILL.md",
+    "references/evidence.md",
+    "scripts/inspect_artifact.py",
+    "scripts/package_release.py",
+    "tests/test_inspect.py"
+  ]
+}

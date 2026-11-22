@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-18",
+  "stage": "01-collect",
+  "generated_at": "2026-11-18T13:04:36.150+08:00",
+  "state": "partial",
+  "gmail_checkpoint": {
+    "from": "2026-11-17T12:47:00+08:00",
+    "through": "2026-11-18T13:04:36.150+08:00",
+    "matches": 3,
+    "processed_ids": [
+      "1a1ec7a288173aa2",
+      "1a1ec3e0bc08eb40",
+      "1a1e9d1d0c865926"
+    ]
+  },
+  "coverage": {
+    "domestic": "邮件及公开定向检索；SkillHub 同类功能未实测。",
+    "official": "https://www.workbuddy.cn/docs/workbuddy/Usage",
+    "overseas": {
+      "references": [
+        "https://github.com/microsoft/TokenEconomizer/blob/main/docs/PLUGIN.md",
+        "https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/prompt-caching.md",
+        "https://github.com/anthropics/claude-code/issues/53132"
+      ],
+      "trend_7d": "未核实",
+      "paid_signal": "未核实"
+    },
+    "business": "读取上次正式回查，未复查实时后台。"
+  },
+  "items": [
+    {
+      "demand_id": "WB-20261118-01",
+      "type": "skill",
+      "state": "candidate",
+      "title": "前缀稳定性与闲置工具测量",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec7a288173aa2",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "https://www.workbuddy.cn/docs/workbuddy/Usage",
+        "https://github.com/microsoft/TokenEconomizer/blob/main/docs/PLUGIN.md",
+        "https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/prompt-caching.md",
+        "https://github.com/anthropics/claude-code/issues/53132"
+      ],
+      "next_action": "核对实际消耗明细是否提供缓存输入字段；没有字段则不能计算命中率，单独评估脱敏清单能否做只读盘点。",
+      "pricing_options_cny": [
+        19,
+        39
+      ],
+      "paid_signal": "未验证"
+    },
+    {
+      "demand_id": "WB-20261117-01",
+      "type": "skill",
+      "state": "prototype_validated",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "D:/codex_work/projects/wrokbuddy变现开发/automation-handoff/2026-11-17/03-build.json"
+      ],
+      "next_action": "优先找到三份已授权脱敏会话或导出样本做解析验证。"
+    },
+    {
+      "demand_id": "WB-20261113-01",
+      "type": "skill",
+      "state": "approved_pending_publish",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "核对价格和版本后，从发布阶段执行平台的发布按钮。"
+    },
+    {
+      "demand_id": "WB-20261112-01",
+      "type": "skill",
+      "state": "rejected",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.0",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "在原条目补选工具 > 办公；核对完整驳回原因和资质要求后重提。",
+      "reason": "服务类目与应用不符，至少应包含工具 > 办公。审核时间 2026-11-17 11:00。"
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "confirmed",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json"
+      ],
+      "next_action": "补同口径漏斗指标。",
+      "orders_observed": 1,
+      "order_date": "2026-11-16",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "net_income": null
+    }
+  ],
+  "weekly_source": "11月15日聊天周复盘，未取得周报 JSON"
+}

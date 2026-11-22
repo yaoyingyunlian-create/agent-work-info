@@ -1,0 +1,36 @@
+{
+  "interpreter": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\.venv\\Scripts\\python.exe",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "checks_passed": 16,
+  "checks": [
+    "docx_body_table_numbers_3_of_3",
+    "docx_unmapped_not_guessed",
+    "docx_source_bytes_unchanged",
+    "pptx_body_table_numbers_3_of_3",
+    "pptx_unmapped_not_guessed",
+    "pptx_source_bytes_unchanged",
+    "three_recomputed_truth_values",
+    "wrong_amount_flagged",
+    "exact_status_excludes_substring_false_positive",
+    "unknown_field_rejected",
+    "unit_mismatch_rejected",
+    "empty_mean_rejected",
+    "corrupt_package_rejected",
+    "grade4_preview_process_success",
+    "preview_two_pages_five_questions_five_answers",
+    "no_nickname_profile_or_history_ledger"
+  ],
+  "numeric_coverage": {
+    "synthetic_truth_numbers": 6,
+    "matched_numbers": 6,
+    "ratio": 1.0
+  },
+  "recomputed_metrics": 3,
+  "fixtures_kind": "minimal OOXML body/table fixtures, not full real Office documents",
+  "limitations": [
+    "explicit metric mappings required; no automatic business inference",
+    "OCR, charts, dates, IDs, thousands separators and real file coverage not accepted",
+    "real Office opening/rendering and PDF printing not tested",
+    "no online listing changes, uploads or paid skill execution"
+  ]
+}

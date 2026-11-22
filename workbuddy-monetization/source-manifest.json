@@ -1,0 +1,3112 @@
+{
+  "source_directory": "D:\\codex_work\\projects\\wrokbuddy变现开发",
+  "exported_at": "2026-11-22T18:34:03.900029+08:00",
+  "files": [
+    {
+      "path": ".qa-school-scheduling/final-tests.txt",
+      "bytes": 2391,
+      "sha256": "3cb86b0dc82d68505b8d5f1b795e541fd0d18c78dbf3db224db9d6b7a419b77e"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/benchmark.json",
+      "bytes": 3474,
+      "sha256": "98f104f2d9ea4ecdb04d8d416699a34aab81af16b3174a9b2c40aeffe72625e7"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/junior/input.json",
+      "bytes": 4665,
+      "sha256": "1ccbb47007390bdbb1984cc13672cfd1bbe223ef693494c674dfb8b67bc4730a"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/junior/solution.json",
+      "bytes": 3774,
+      "sha256": "fc383389305b1940cc1ba06ce6568a9102a06683fdc6d0a837c08f4b43ed3a86"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/junior/validation.json",
+      "bytes": 3470,
+      "sha256": "03e0a47b77c4b1c6f7d1d3fe244c29024d8f693377962bb392092ca6b57f1f31"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/junior/课表.xlsx",
+      "bytes": 14706,
+      "sha256": "40191bac5d94329661b409638c357d4cd4761436fa3a505c4006d158dcaa8bcb"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/primary/input.json",
+      "bytes": 4006,
+      "sha256": "d28f0392652807cb40c30e565bbdf3b450059bb1a5771ccc1a68711bdb884613"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/primary/solution.json",
+      "bytes": 3756,
+      "sha256": "cec003279e9729bf6539f4e0d2d3dd5683a0165b8ce021f757d05278e87a558b"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/primary/validation.json",
+      "bytes": 3253,
+      "sha256": "669ef6755f07bb2cb71f4095cb851bf001b3cf42b16aefaf5a2407265fb17c0e"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/primary/课表.xlsx",
+      "bytes": 14606,
+      "sha256": "97344c14626f9360670a3ae2460d91de8780e93d19e2dc6b721abfcd4c75e14d"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior/input.json",
+      "bytes": 4391,
+      "sha256": "4506bccae2d074bb7b27537743978b7ae537f2df00f239c06f4b13f071981a02"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior/solution.json",
+      "bytes": 3314,
+      "sha256": "d199c308edeb14dffff8c8e59d3f4e1c991407aa02b9b6f48103cb1d6ef57d8e"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior/validation.json",
+      "bytes": 2922,
+      "sha256": "26804212a484f4e3186ac038e8c51acff0e0437b8d9035375b7b9ff84cafe028"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior/课表.xlsx",
+      "bytes": 15472,
+      "sha256": "4abcd06f31092597073a4e22c73cb162851e4f2b5fd7fcacb9ec1e585cbfd4d5"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior-22classes-synthetic/input.json",
+      "bytes": 254449,
+      "sha256": "f096b05f0f4b7a891d2a6d44f8f67765a3381c41dd5e2eb23ab2f7552f3be6e7"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior-22classes-synthetic/solution.json",
+      "bytes": 485729,
+      "sha256": "57cd5039dbc1618e3041f4399e54396464fe7583c31e8703e43dab7acab3cb70"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior-22classes-synthetic/validation.json",
+      "bytes": 96614,
+      "sha256": "f2610d769688ab58983cca81db1135fbb33f9a642d5b61d2c6683016cc0141c8"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/senior-22classes-synthetic/课表.xlsx",
+      "bytes": 216486,
+      "sha256": "f299a16189cd66d62262088f88d32dcabcc48e7aaa04ed49e5eabc2e7bb21977"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/training/input.json",
+      "bytes": 3883,
+      "sha256": "c4200d47476c767e7e3101f4d17b29d5c5c7e5988bc7b9feb505c1f99fa0e641"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/training/solution.json",
+      "bytes": 3345,
+      "sha256": "805931f5cc4544276be339f22726a361c47bd22e7e677d5a664d25ec7436c7f6"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/training/validation.json",
+      "bytes": 3567,
+      "sha256": "19f9795539658aff836613fd52618fe0869a306099b9e9ad01ff5e353c058c0f"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks/training/课表.xlsx",
+      "bytes": 14468,
+      "sha256": "16ef83ffcdbd069ff30c5574f0f804afd8bf477d983a6018767a4691586a0f64"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/benchmark.json",
+      "bytes": 3504,
+      "sha256": "fd8a7e911697194fef5e9baf58bdf428995beee12337e5578b213da75e2623fa"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/junior/input.json",
+      "bytes": 4665,
+      "sha256": "1ccbb47007390bdbb1984cc13672cfd1bbe223ef693494c674dfb8b67bc4730a"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/junior/solution.json",
+      "bytes": 3774,
+      "sha256": "208b141695f2814e674f9b0277531275a6c2907f49cf63e887a37d8f8217e2a1"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/junior/validation.json",
+      "bytes": 3470,
+      "sha256": "7b0f42a6b962361ddc789ecaf20da8161679ac6d02e68df0c15a36d67f24c734"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/junior/课表.xlsx",
+      "bytes": 18945,
+      "sha256": "4e0fcb9b52af654c275739e72b508490f0162c00307475e8dca9610d1c377f51"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/primary/input.json",
+      "bytes": 4006,
+      "sha256": "d28f0392652807cb40c30e565bbdf3b450059bb1a5771ccc1a68711bdb884613"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/primary/solution.json",
+      "bytes": 3756,
+      "sha256": "e4aef5d82efcf5c0a7992701602a4c9c7750d81523b4d1b574b70cf0cbe09af1"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/primary/validation.json",
+      "bytes": 3253,
+      "sha256": "97ade48c7ac456b1daa6f7a8ed0208325f8591f38042d1b5c0572c046d5f21fa"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/primary/课表.xlsx",
+      "bytes": 16721,
+      "sha256": "ab1610b422ed4f9dea436aa98800a1ce1dca211a239f5bfd58687565f33fd461"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior/input.json",
+      "bytes": 4391,
+      "sha256": "4506bccae2d074bb7b27537743978b7ae537f2df00f239c06f4b13f071981a02"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior/solution.json",
+      "bytes": 3314,
+      "sha256": "cf2d440215fce3009944d4d671f3af67be27334c204f4684de6274a182b1853d"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior/validation.json",
+      "bytes": 2922,
+      "sha256": "a5e6f5310810369591c0f80fd6f0e58cd4b65dde1c5fa002110363964ec44f45"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior/课表.xlsx",
+      "bytes": 18585,
+      "sha256": "5dc163ca3641551795566a5354bbe07b6b53708d00a8607bdaeb2dcc19e4d0bc"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior-22classes-synthetic/input.json",
+      "bytes": 254449,
+      "sha256": "f096b05f0f4b7a891d2a6d44f8f67765a3381c41dd5e2eb23ab2f7552f3be6e7"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior-22classes-synthetic/solution.json",
+      "bytes": 485729,
+      "sha256": "ada3b752f88349eec1882dd0a98e53646149ba397a3d7a0b0b2133d3b7c631e9"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior-22classes-synthetic/validation.json",
+      "bytes": 96614,
+      "sha256": "76f42c4e53b7d76bcdf875b585e57fa0b85cb908de01068ac9704c854cd9ed29"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/senior-22classes-synthetic/课表.xlsx",
+      "bytes": 247715,
+      "sha256": "91e50966914a038afbaac259010a1dd046ff83eaf5b551ecf1125f30c0e3c730"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/training/input.json",
+      "bytes": 3883,
+      "sha256": "c4200d47476c767e7e3101f4d17b29d5c5c7e5988bc7b9feb505c1f99fa0e641"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/training/solution.json",
+      "bytes": 3345,
+      "sha256": "ae1ec3bb61da5f299f9cd76404aeba2027d0e66a3b8f052d556b2c4c459072d9"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/training/validation.json",
+      "bytes": 3567,
+      "sha256": "8584d1ffc33b32858f6caa5f61b779388162f7fa5c6b965e60000b7a197478ee"
+    },
+    {
+      "path": ".qa-school-scheduling/benchmarks-final/training/课表.xlsx",
+      "bytes": 14466,
+      "sha256": "aba8aa496d67809b1b8491dfc4a53527313c3423150745ff59ebafec54fcbb11"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/results.json",
+      "bytes": 370,
+      "sha256": "ef85dbb4772cf3d76f7dc512bfd4bb4f59d5d91ce160372ec92f8963e31130b4"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/input.json",
+      "bytes": 4665,
+      "sha256": "1ccbb47007390bdbb1984cc13672cfd1bbe223ef693494c674dfb8b67bc4730a"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/input.xlsx",
+      "bytes": 14419,
+      "sha256": "fd3f547b7dc0cb61f2f58b34bf206d7780fe57d2270e10836dac62b5b51b25d3"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/precheck.json",
+      "bytes": 412,
+      "sha256": "1f68ca8ef8cbd125c4b8638d2d00efd82ab60735ab47c315df1a0d9c1ad6dfeb"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/solution.json",
+      "bytes": 3776,
+      "sha256": "c289db20216815087949af66c0f7e3004493cabeedaeefc5ddffbcd09f6f76d5"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/solution.json.input.json",
+      "bytes": 4665,
+      "sha256": "1ccbb47007390bdbb1984cc13672cfd1bbe223ef693494c674dfb8b67bc4730a"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/solution.json.validation.json",
+      "bytes": 3470,
+      "sha256": "5eaa69ca0c411f08f86a7731695e2f39b350177a159662a775c240a85e5ef23c"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/validation.json",
+      "bytes": 3470,
+      "sha256": "05bc4e381abf9e6504fd482825a13fc946c478c13897bb4763a97b125e89e06a"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/课表.xlsx",
+      "bytes": 18946,
+      "sha256": "e7f818127dd1706561a3130ba650014bb053bebaffd80156910a26fb2a1dc16b"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/junior/课表.xlsx.manifest.json",
+      "bytes": 631,
+      "sha256": "107caaf0a0975e8782b34af424c9ead56e5c5573e1693b76f0408a0732562f6d"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/input.json",
+      "bytes": 4006,
+      "sha256": "d28f0392652807cb40c30e565bbdf3b450059bb1a5771ccc1a68711bdb884613"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/input.xlsx",
+      "bytes": 14386,
+      "sha256": "425627a6dd2e491ad1ac89db9023ac7a6d62f6ad667df2f1f0c5c7a7d1bf523b"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/precheck.json",
+      "bytes": 474,
+      "sha256": "15d636e1caca429d5506e5c208bbb4b9306e3f9dcbf544f85f632c47dc029616"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/solution.json",
+      "bytes": 3758,
+      "sha256": "186ad316145e9b940b255bec89fc268bc082da7054d0c5f8db07611435b83a14"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/solution.json.input.json",
+      "bytes": 4006,
+      "sha256": "d28f0392652807cb40c30e565bbdf3b450059bb1a5771ccc1a68711bdb884613"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/solution.json.validation.json",
+      "bytes": 3253,
+      "sha256": "f0b7f0b206a14644e12528e133f40a00e539fb3895b4bc38964aaddebf9c19af"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/validation.json",
+      "bytes": 3253,
+      "sha256": "f0b7f0b206a14644e12528e133f40a00e539fb3895b4bc38964aaddebf9c19af"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/课表.xlsx",
+      "bytes": 16722,
+      "sha256": "ee245dc91b949c430835e4a97a58f936e4b35c029e9dd4f553c3509778d0769c"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/primary/课表.xlsx.manifest.json",
+      "bytes": 629,
+      "sha256": "337a0dfe1bc9470279b1fdc7d4cc826569d288e87ed9f6944e9a7714674e1e1d"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/input.json",
+      "bytes": 4391,
+      "sha256": "4506bccae2d074bb7b27537743978b7ae537f2df00f239c06f4b13f071981a02"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/input.xlsx",
+      "bytes": 14391,
+      "sha256": "3c00ae91e4675eb329f0dd2d84cff6305ad12aefa25f67fcdc7d91e30b03c905"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/precheck.json",
+      "bytes": 474,
+      "sha256": "c2738dc3021c23aa4b9dd3bf6ccc173cb5adb37d351d6a3bf5888d00b90853c6"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/solution.json",
+      "bytes": 3316,
+      "sha256": "f33a6e2cd6361fe8e70fe2f1e1504ed7e12cfad6bf842d0ace79454d47241dbf"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/solution.json.input.json",
+      "bytes": 4391,
+      "sha256": "4506bccae2d074bb7b27537743978b7ae537f2df00f239c06f4b13f071981a02"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/solution.json.validation.json",
+      "bytes": 2922,
+      "sha256": "ecba15bc83a96c19c35aed85d468c2076af17f4e225e468e83b60a1b2866f9b1"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/validation.json",
+      "bytes": 2922,
+      "sha256": "ecba15bc83a96c19c35aed85d468c2076af17f4e225e468e83b60a1b2866f9b1"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/课表.xlsx",
+      "bytes": 18586,
+      "sha256": "eecf7ff981bdb66e8768a55a7ecc069844c204b549a5969cf55ab60bcca85ce5"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/senior/课表.xlsx.manifest.json",
+      "bytes": 631,
+      "sha256": "e2550103c4c558b3f5c0bd1b616b2b8cc4a82128a19f81983889e285875ba3fc"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/input.json",
+      "bytes": 3883,
+      "sha256": "668e5aa3810eaa44dee016aae454afe4153789cc4ddc31181ae191537197e7a0"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/input.xlsx",
+      "bytes": 14610,
+      "sha256": "cd1552add9f212fe59d451d32f97077653418d62d0269d435c74d1914c2077f4"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/precheck.json",
+      "bytes": 417,
+      "sha256": "928b0e101765e6bb1ce25a9e5799432d0b57195dd89346c93061dc6891058fbf"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/solution.json",
+      "bytes": 3346,
+      "sha256": "9a137aaa1bbc8454f54d1e4f0f0d59dc883979774098914807a793433df45556"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/solution.json.input.json",
+      "bytes": 3883,
+      "sha256": "668e5aa3810eaa44dee016aae454afe4153789cc4ddc31181ae191537197e7a0"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/solution.json.validation.json",
+      "bytes": 3567,
+      "sha256": "96bfb572408b5399725bf903896fa927fe6e8fde60c60cd4702ffeedd16bc4a7"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/validation.json",
+      "bytes": 3567,
+      "sha256": "96bfb572408b5399725bf903896fa927fe6e8fde60c60cd4702ffeedd16bc4a7"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/课表.xlsx",
+      "bytes": 14467,
+      "sha256": "89b2f3e7688ff036093cad1be0f31b4e8c1ce8b32edfef5fe8747c0b157dae11"
+    },
+    {
+      "path": ".qa-school-scheduling/cli验收/training/课表.xlsx.manifest.json",
+      "bytes": 630,
+      "sha256": "be755421a739ae58685365fc022ad8a0d76207260fd4044de5176522be91e194"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/verification.json",
+      "bytes": 172,
+      "sha256": "a2d479450db8016b0303faa87cedaf5fe01cb4e6772b6a00a73ad133700e752f"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/高中首次资料.json",
+      "bytes": 41,
+      "sha256": "c84fa761b2b8ccef38b20efe12ccead6eef09704820ffea0dd682f317834dcdc"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/requirements.txt",
+      "bytes": 197,
+      "sha256": "22916c84ab5b6562c133c22fef8dfcd2078f70f9c777ee2107dd45cab26a4c68"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/SKILL.md",
+      "bytes": 7318,
+      "sha256": "57189ef5b29ea3e5d22c45e7f3cb865de28c7b20c520c1493e4817f1a2af045a"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/profiles/junior.json",
+      "bytes": 3211,
+      "sha256": "6226978ec38b9972d2d6f3d2fe49dde20f5cc9713893c545708d8fce2b7353a2"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/profiles/primary.json",
+      "bytes": 3267,
+      "sha256": "9b4578d5aa74e564e1143abd2d0f1ba95741af1d4d28c75e72535033ce1b75d7"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/profiles/senior-22classes-synthetic.json",
+      "bytes": 253819,
+      "sha256": "d3994b276bae8c3ab5f6dfabfc213cd3ceaee80e1feb720cde069d0cc0cbad0d"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/profiles/senior.json",
+      "bytes": 4000,
+      "sha256": "37989588e3c5b6603619d5b44eb6699d3dffbb574b12afc21dedf20cde6c7d4d"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/profiles/training.json",
+      "bytes": 3286,
+      "sha256": "f75c5aa0d1063b5801370b1220b4d409070d317ebbab4506e8a7b2849df09b46"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/templates/junior.xlsx",
+      "bytes": 14419,
+      "sha256": "09819e03a12f980f561b0629ee1f5b7375e1da2ac115bc2d2a987785312569a8"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/templates/primary.xlsx",
+      "bytes": 14386,
+      "sha256": "7b2156fe66404016e9e1ccf3c316986ef343cb64b8074349d912739987581e1a"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/templates/senior.xlsx",
+      "bytes": 14646,
+      "sha256": "a4b5bac1a10c523b2a1df27e3f37765e0988bf655e83a0cca68d40b2a9a85170"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/assets/templates/training.xlsx",
+      "bytes": 14610,
+      "sha256": "614a2a29da536e9d91fa3eca1c2df48e0fad195e0a62eb51e10fec8f17cc55b3"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/references/input-schema.md",
+      "bytes": 8540,
+      "sha256": "954cce7217c2b573b1cfd6cc43639e8b3fced29e97cbfbbffe6be1f58e6dbaab"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/references/onboarding.md",
+      "bytes": 2751,
+      "sha256": "07b63956f589bf44daac4fd59a952d824f8a5ae786e7247684e33776716fc821"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/references/rule-catalog.md",
+      "bytes": 3607,
+      "sha256": "db50aacad9d2f299f01c92a16c1093a9c73dac6eb04ba96d53960cbb6dc1db52"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/references/scenario-profiles.md",
+      "bytes": 2818,
+      "sha256": "f81a52c6665c33a12e4d63d6c05404b7f4a2717e3f1607fff5173c28da7b9038"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/references/workbuddy-integration.md",
+      "bytes": 2534,
+      "sha256": "ef9ca0aecbb6911c8b032ab239911aa85dfb063d1379a9349043cfec19a11903"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/adjust_schedule.py",
+      "bytes": 5449,
+      "sha256": "fe81f48103d21e7aa54ea45bed3ff44db6bf00eaf1ee26121dfeb9373711f5f5"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/benchmark.py",
+      "bytes": 3811,
+      "sha256": "ddaa9b484b797166db2886e4437fcd0bf461c1e8922555a372d37610a6f85692"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/build_assets.py",
+      "bytes": 8165,
+      "sha256": "4b5c3525a8544ac21c4402858a196cfefb519c0febf3463583fea6121a6e1625"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/cli.py",
+      "bytes": 7094,
+      "sha256": "ca4e76ad78a2dd9927e53029ccb19cd9117bb6aacfc904f412af98052572a47a"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/common.py",
+      "bytes": 2484,
+      "sha256": "4b6ae33509d886469fe8a270655cf5c1878e172d579d4831b219618e665baa21"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/cp_sat_scheduler.py",
+      "bytes": 16564,
+      "sha256": "d5531ff939f9e8be1d78086600cbdde9119a7a4cb978b7eb48b27a23f6c6643a"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/excel_io.py",
+      "bytes": 15195,
+      "sha256": "f5e79e7cf07503e46167814b84c1cac6044e6bddaac05fc24726732c301ee367"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/expand_calendar.py",
+      "bytes": 3108,
+      "sha256": "c5855b395e42c805c8744f2e0062dcd0d872b9e1185dc05b9bfbc6d414f32d90"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/model_data.py",
+      "bytes": 11227,
+      "sha256": "c2f084ec23df5214642e4408e56b9c1574df76db4e6a26d98d102bc2d5a439ee"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/normalize_input.py",
+      "bytes": 10995,
+      "sha256": "2a19b52f0b3ae976daebfb966cacc70586af82641e6ede13a3b7a159ec74c3c5"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/onboarding.py",
+      "bytes": 5375,
+      "sha256": "ea4d2d3632df003c205734b4ae6511fda76d3687e68a819f53d678e0d06b5b3b"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/package_release.py",
+      "bytes": 1802,
+      "sha256": "664280811d1af67c9422b0fd6949db5db77736e7ad74106662be2c57a532fd82"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/precheck.py",
+      "bytes": 982,
+      "sha256": "5fcb77c5f2c544358f39ed24d46a18a07a27029297ab019d24532ff360b77c6c"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/quality.py",
+      "bytes": 3392,
+      "sha256": "3b9665194062f2780abcbb2dae5664f86c3dc28bd765d943eb144caab7d6e14d"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/rule_spec.py",
+      "bytes": 1296,
+      "sha256": "25ebe44f92680df6f2a8fd14202341a6be1fb99585c3cec79499b0321d814154"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/run.ps1",
+      "bytes": 826,
+      "sha256": "ce05700dc1fd5f8f3ba51287f357458f43e0100ea0b60e73db2476a37972eaa7"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/setup.ps1",
+      "bytes": 1970,
+      "sha256": "67a538e58c41dc29d3071ab297bfe0a0ecbfef0df2799e9ebf33faa6d2c9d83e"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/validate_schedule.py",
+      "bytes": 22728,
+      "sha256": "f057badc69b5ab6b31aa089d553f5dd26eafa4d716949017dc599db701ecb15d"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/tests/test_onboarding.py",
+      "bytes": 2188,
+      "sha256": "55fd22f0720c68a463c15d438eec53211427272b1f5f1ebeef5ba0d424da7c9d"
+    },
+    {
+      "path": ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/tests/test_workflow.py",
+      "bytes": 19855,
+      "sha256": "069159f1d119a1f6ed4e827840bd7b5902f36c6bdc762eb80cbd10bc3b24b6e1"
+    },
+    {
+      "path": ".qa-school-scheduling/quality-policy-1.0.2/22班质量复核_资料待补全_草稿.xlsx",
+      "bytes": 191969,
+      "sha256": "c06e8c5a08c98a2164415c1693f2260e6f3272c79f6dc6dc2e63fe9b4304165a"
+    },
+    {
+      "path": ".qa-school-scheduling/quality-policy-1.0.2/comparison.json",
+      "bytes": 478,
+      "sha256": "f4842b6eeb6e2417f5463e17962fa2978cf201f7bc0382f8db8c7e91f01dce4c"
+    },
+    {
+      "path": ".qa-school-scheduling/quality-policy-1.0.2/improved-validation.json",
+      "bytes": 449459,
+      "sha256": "dce7142fd85e949c16a181c04678e87192608e943cddc7580c8d2ea40e8190d5"
+    },
+    {
+      "path": ".qa-school-scheduling/quality-policy-1.0.2/old-validation.json",
+      "bytes": 578030,
+      "sha256": "424952a0906473b9c4a5384c693020cc528adbc22742031899c66c203efeddd5"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/direct-input.json",
+      "bytes": 3870,
+      "sha256": "c24a4342cc3f91b6fc2373911479cfe1ff9bbd9f5dd52e6c14853129b960cd99"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/solution.json",
+      "bytes": 3315,
+      "sha256": "2e3da08eb91c594ee911bfd4dc5b678930a401d83f1861a477e688bf9799973e"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/solution.json.input.json",
+      "bytes": 4775,
+      "sha256": "38ef405d4fde4ee974e87a9d1d4c9b0a009793f53ebf4dfd685b9b212c6beb98"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/solution.json.validation.json",
+      "bytes": 6542,
+      "sha256": "b21311e9d2421f0d44d055d3c0e137abaec3418c0dd2b497a965552c84244948"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/requirements.txt",
+      "bytes": 197,
+      "sha256": "22916c84ab5b6562c133c22fef8dfcd2078f70f9c777ee2107dd45cab26a4c68"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/SKILL.md",
+      "bytes": 5589,
+      "sha256": "482b41882fb321ce86239ba4a5bf75818dcb52d194ad5e3e59e649d0ade738d0"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/profiles/junior.json",
+      "bytes": 3211,
+      "sha256": "6226978ec38b9972d2d6f3d2fe49dde20f5cc9713893c545708d8fce2b7353a2"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/profiles/primary.json",
+      "bytes": 3267,
+      "sha256": "9b4578d5aa74e564e1143abd2d0f1ba95741af1d4d28c75e72535033ce1b75d7"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/profiles/senior-22classes-synthetic.json",
+      "bytes": 253819,
+      "sha256": "d3994b276bae8c3ab5f6dfabfc213cd3ceaee80e1feb720cde069d0cc0cbad0d"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/profiles/senior.json",
+      "bytes": 4000,
+      "sha256": "37989588e3c5b6603619d5b44eb6699d3dffbb574b12afc21dedf20cde6c7d4d"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/profiles/training.json",
+      "bytes": 3286,
+      "sha256": "f75c5aa0d1063b5801370b1220b4d409070d317ebbab4506e8a7b2849df09b46"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/templates/junior.xlsx",
+      "bytes": 14419,
+      "sha256": "09819e03a12f980f561b0629ee1f5b7375e1da2ac115bc2d2a987785312569a8"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/templates/primary.xlsx",
+      "bytes": 14386,
+      "sha256": "7b2156fe66404016e9e1ccf3c316986ef343cb64b8074349d912739987581e1a"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/templates/senior.xlsx",
+      "bytes": 14646,
+      "sha256": "a4b5bac1a10c523b2a1df27e3f37765e0988bf655e83a0cca68d40b2a9a85170"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/assets/templates/training.xlsx",
+      "bytes": 14610,
+      "sha256": "614a2a29da536e9d91fa3eca1c2df48e0fad195e0a62eb51e10fec8f17cc55b3"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/references/input-schema.md",
+      "bytes": 8540,
+      "sha256": "954cce7217c2b573b1cfd6cc43639e8b3fced29e97cbfbbffe6be1f58e6dbaab"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/references/rule-catalog.md",
+      "bytes": 3607,
+      "sha256": "db50aacad9d2f299f01c92a16c1093a9c73dac6eb04ba96d53960cbb6dc1db52"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/references/scenario-profiles.md",
+      "bytes": 2818,
+      "sha256": "f81a52c6665c33a12e4d63d6c05404b7f4a2717e3f1607fff5173c28da7b9038"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/references/workbuddy-integration.md",
+      "bytes": 2195,
+      "sha256": "6e60bfbe91bdb61a83c79c1cb2ceac8367239ae2451ca3350c567d20fc5cf272"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/adjust_schedule.py",
+      "bytes": 5449,
+      "sha256": "fe81f48103d21e7aa54ea45bed3ff44db6bf00eaf1ee26121dfeb9373711f5f5"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/benchmark.py",
+      "bytes": 3811,
+      "sha256": "ddaa9b484b797166db2886e4437fcd0bf461c1e8922555a372d37610a6f85692"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/build_assets.py",
+      "bytes": 8165,
+      "sha256": "4b5c3525a8544ac21c4402858a196cfefb519c0febf3463583fea6121a6e1625"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/cli.py",
+      "bytes": 6298,
+      "sha256": "55bb137d84a5327ddbf9157930fe76bb24623aa4903fc996ecc4b9858aa83b1d"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/common.py",
+      "bytes": 2484,
+      "sha256": "9ddb87d9be9e4fa7b5818c3880cd1955de59237be127a387e71e82d070f47601"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/cp_sat_scheduler.py",
+      "bytes": 16564,
+      "sha256": "d5531ff939f9e8be1d78086600cbdde9119a7a4cb978b7eb48b27a23f6c6643a"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/excel_io.py",
+      "bytes": 15195,
+      "sha256": "f5e79e7cf07503e46167814b84c1cac6044e6bddaac05fc24726732c301ee367"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/expand_calendar.py",
+      "bytes": 3108,
+      "sha256": "c5855b395e42c805c8744f2e0062dcd0d872b9e1185dc05b9bfbc6d414f32d90"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/model_data.py",
+      "bytes": 11227,
+      "sha256": "c2f084ec23df5214642e4408e56b9c1574df76db4e6a26d98d102bc2d5a439ee"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/normalize_input.py",
+      "bytes": 10995,
+      "sha256": "2a19b52f0b3ae976daebfb966cacc70586af82641e6ede13a3b7a159ec74c3c5"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/package_release.py",
+      "bytes": 1802,
+      "sha256": "664280811d1af67c9422b0fd6949db5db77736e7ad74106662be2c57a532fd82"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/precheck.py",
+      "bytes": 894,
+      "sha256": "3a6ab9be8223215fba5f9649320b6bd42520d10b27062f3e75a5b11a3c8b0f92"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/quality.py",
+      "bytes": 3392,
+      "sha256": "3b9665194062f2780abcbb2dae5664f86c3dc28bd765d943eb144caab7d6e14d"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/rule_spec.py",
+      "bytes": 1296,
+      "sha256": "25ebe44f92680df6f2a8fd14202341a6be1fb99585c3cec79499b0321d814154"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/run.ps1",
+      "bytes": 647,
+      "sha256": "0e3223b3f54873ba41194b1e9b72c9d31a69daf3a9fcc6aa26121511c412c865"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/setup.ps1",
+      "bytes": 1970,
+      "sha256": "67a538e58c41dc29d3071ab297bfe0a0ecbfef0df2799e9ebf33faa6d2c9d83e"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/validate_schedule.py",
+      "bytes": 22728,
+      "sha256": "f057badc69b5ab6b31aa089d553f5dd26eafa4d716949017dc599db701ecb15d"
+    },
+    {
+      "path": ".qa-school-scheduling/release-1.0.2/school-scheduling/tests/test_workflow.py",
+      "bytes": 19855,
+      "sha256": "069159f1d119a1f6ed4e827840bd7b5902f36c6bdc762eb80cbd10bc3b24b6e1"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/requirements.txt",
+      "bytes": 197,
+      "sha256": "22916c84ab5b6562c133c22fef8dfcd2078f70f9c777ee2107dd45cab26a4c68"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/SKILL.md",
+      "bytes": 4597,
+      "sha256": "2fde6e2a9011fa2fe92d77934eb6e3433963d6a7a14c6b3b24811ea59df0d18b"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/profiles/junior.json",
+      "bytes": 3211,
+      "sha256": "6226978ec38b9972d2d6f3d2fe49dde20f5cc9713893c545708d8fce2b7353a2"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/profiles/primary.json",
+      "bytes": 3267,
+      "sha256": "9b4578d5aa74e564e1143abd2d0f1ba95741af1d4d28c75e72535033ce1b75d7"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/profiles/senior-22classes-synthetic.json",
+      "bytes": 253710,
+      "sha256": "c74df6cb7773809c80e7622fbe59a87861a126df10f9db480d0539e9b480e7f2"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/profiles/senior.json",
+      "bytes": 3652,
+      "sha256": "492b4b82e8c5b080e594a6213bff31b8b89cab929ea538a1dbffbd10e781323a"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/profiles/training.json",
+      "bytes": 3286,
+      "sha256": "f75c5aa0d1063b5801370b1220b4d409070d317ebbab4506e8a7b2849df09b46"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/templates/junior.xlsx",
+      "bytes": 14419,
+      "sha256": "aa77007e7c4a880000a249591333770cd9d6d4ae2046632a60ad563444a33175"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/templates/primary.xlsx",
+      "bytes": 14386,
+      "sha256": "efdf9938f1067f2f347b8cbe420892a89eed3659f1b95bbab31acc498b6657f9"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/templates/senior.xlsx",
+      "bytes": 14391,
+      "sha256": "999de3c81c4b107ea1b245ceb3a8c3749bb051d31dc21270f5f35b59a1e6c316"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/assets/templates/training.xlsx",
+      "bytes": 14610,
+      "sha256": "75155701487a153e83e0781fc305cfc8cc7ccd1865c93f77ac18d623bbe7afb5"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/references/input-schema.md",
+      "bytes": 7324,
+      "sha256": "516b89c1a92bfed0e6445e5c152bd0e33922768efd4e37e9dc7115a299a84460"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/references/rule-catalog.md",
+      "bytes": 3607,
+      "sha256": "db50aacad9d2f299f01c92a16c1093a9c73dac6eb04ba96d53960cbb6dc1db52"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/references/scenario-profiles.md",
+      "bytes": 2399,
+      "sha256": "04c5e573982c323ae66e42eac5a9abb76fd49a79c18499f6fec4865814a9433a"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/references/workbuddy-integration.md",
+      "bytes": 2195,
+      "sha256": "6e60bfbe91bdb61a83c79c1cb2ceac8367239ae2451ca3350c567d20fc5cf272"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/adjust_schedule.py",
+      "bytes": 5449,
+      "sha256": "fe81f48103d21e7aa54ea45bed3ff44db6bf00eaf1ee26121dfeb9373711f5f5"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/benchmark.py",
+      "bytes": 3811,
+      "sha256": "ddaa9b484b797166db2886e4437fcd0bf461c1e8922555a372d37610a6f85692"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/build_assets.py",
+      "bytes": 7748,
+      "sha256": "f33e5f924bd524814e99a8373a8e9bbb3f4842998a0bdf42fc419cbfc2114993"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/cli.py",
+      "bytes": 6170,
+      "sha256": "2e2ddf6773798943f301c57bba05ac366df248b5a1ab45f01dfa97f85161b465"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/common.py",
+      "bytes": 2484,
+      "sha256": "2348fb9b23077961ec23d456d87950011e6608464720e059f0fc340490f4776a"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/cp_sat_scheduler.py",
+      "bytes": 16363,
+      "sha256": "e65bd1d2f4be17cdc274bca6ed2bba3e1117bac4a43d16e4a743f9a3ab6c656c"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/excel_io.py",
+      "bytes": 15025,
+      "sha256": "3db0de2f05d6bf0bb6c697735fe505a95a6ed795c69f47f92e2c48b04ef9ca20"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/expand_calendar.py",
+      "bytes": 3108,
+      "sha256": "c5855b395e42c805c8744f2e0062dcd0d872b9e1185dc05b9bfbc6d414f32d90"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/model_data.py",
+      "bytes": 11227,
+      "sha256": "c2f084ec23df5214642e4408e56b9c1574df76db4e6a26d98d102bc2d5a439ee"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/normalize_input.py",
+      "bytes": 10935,
+      "sha256": "76ccfee95d6e9fb9e988cc84303f07c976c1d16a9ea9b5fe2ac1d69560fc6f56"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/package_release.py",
+      "bytes": 1802,
+      "sha256": "664280811d1af67c9422b0fd6949db5db77736e7ad74106662be2c57a532fd82"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/precheck.py",
+      "bytes": 894,
+      "sha256": "3a6ab9be8223215fba5f9649320b6bd42520d10b27062f3e75a5b11a3c8b0f92"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/rule_spec.py",
+      "bytes": 1296,
+      "sha256": "25ebe44f92680df6f2a8fd14202341a6be1fb99585c3cec79499b0321d814154"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/run.ps1",
+      "bytes": 647,
+      "sha256": "0e3223b3f54873ba41194b1e9b72c9d31a69daf3a9fcc6aa26121511c412c865"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/setup.ps1",
+      "bytes": 1970,
+      "sha256": "67a538e58c41dc29d3071ab297bfe0a0ecbfef0df2799e9ebf33faa6d2c9d83e"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/scripts/validate_schedule.py",
+      "bytes": 22318,
+      "sha256": "9560441ba174a7ea41402033ade3bece623a61e8605608d69c6a2ba6fa9aef3d"
+    },
+    {
+      "path": ".qa-school-scheduling/unpacked/school-scheduling/tests/test_workflow.py",
+      "bytes": 17464,
+      "sha256": "382e66451a47c806a5a228b9114d0847abd6f0ad6d2cfadc307945afa894cd10"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/commands.json",
+      "bytes": 5401,
+      "sha256": "c6c73aaf9c16c01cc49b98e693712e9bcefea08d533ebe1af97c919557ea2511"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/input.json",
+      "bytes": 3883,
+      "sha256": "668e5aa3810eaa44dee016aae454afe4153789cc4ddc31181ae191537197e7a0"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/precheck.json",
+      "bytes": 417,
+      "sha256": "928b0e101765e6bb1ce25a9e5799432d0b57195dd89346c93061dc6891058fbf"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/solution.json",
+      "bytes": 3348,
+      "sha256": "fe9c5bc12168f97fd286857700efb1a679846aadd6093084b8306dbc262f8a58"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/solution.json.input.json",
+      "bytes": 3883,
+      "sha256": "668e5aa3810eaa44dee016aae454afe4153789cc4ddc31181ae191537197e7a0"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/solution.json.validation.json",
+      "bytes": 3567,
+      "sha256": "ae8e7dfe9a8f8c9a6df35cecb13daff994e49acd3926771187705d6568260b50"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/validation.json",
+      "bytes": 3567,
+      "sha256": "da431b82403c23964ddec32c796bcd045aedb3d0b2382b8460d3247f11f3d383"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/撞课校验.json",
+      "bytes": 3791,
+      "sha256": "47ca984280dd7d06f1bc3d8acdb9dab7e3862817ebc26e45f11b3bbb94360c7e"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/故意撞课方案.json",
+      "bytes": 3494,
+      "sha256": "9e5628432518ea441c5aa2dd03d2a55d72ccee4a932aa0d248accd37899b39e8"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/测试报告.md",
+      "bytes": 1720,
+      "sha256": "a62e097bfcd9d08a956dcf0af74447260690108dcfe62af86b75d9f856e82ccb"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/测试摘要.json",
+      "bytes": 674,
+      "sha256": "c93e1a72144a16a8444134a03a15a329130347f8e67ec961b67c21fb665d4c0a"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/课表.xlsx",
+      "bytes": 14467,
+      "sha256": "5aaee04c8c4fd48c84aae1b31256c6a9094cad0f8936be8715a675947964d539"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/课表.xlsx.manifest.json",
+      "bytes": 639,
+      "sha256": "89e2ca7eeedce3998792b3d48608a37097bd910bbaf8855b47acba54d04ee210"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/输入模板.xlsx",
+      "bytes": 14610,
+      "sha256": "7a128d1c9bc3c685ca5f703c628635196b2c9cebfcb868ee977b6a7038508c98"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/requirements.txt",
+      "bytes": 197,
+      "sha256": "22916c84ab5b6562c133c22fef8dfcd2078f70f9c777ee2107dd45cab26a4c68"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/SKILL.md",
+      "bytes": 4597,
+      "sha256": "2fde6e2a9011fa2fe92d77934eb6e3433963d6a7a14c6b3b24811ea59df0d18b"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/profiles/junior.json",
+      "bytes": 3211,
+      "sha256": "6226978ec38b9972d2d6f3d2fe49dde20f5cc9713893c545708d8fce2b7353a2"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/profiles/primary.json",
+      "bytes": 3267,
+      "sha256": "9b4578d5aa74e564e1143abd2d0f1ba95741af1d4d28c75e72535033ce1b75d7"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/profiles/senior-22classes-synthetic.json",
+      "bytes": 253710,
+      "sha256": "c74df6cb7773809c80e7622fbe59a87861a126df10f9db480d0539e9b480e7f2"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/profiles/senior.json",
+      "bytes": 3652,
+      "sha256": "492b4b82e8c5b080e594a6213bff31b8b89cab929ea538a1dbffbd10e781323a"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/profiles/training.json",
+      "bytes": 3286,
+      "sha256": "f75c5aa0d1063b5801370b1220b4d409070d317ebbab4506e8a7b2849df09b46"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/templates/junior.xlsx",
+      "bytes": 14419,
+      "sha256": "aa77007e7c4a880000a249591333770cd9d6d4ae2046632a60ad563444a33175"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/templates/primary.xlsx",
+      "bytes": 14386,
+      "sha256": "efdf9938f1067f2f347b8cbe420892a89eed3659f1b95bbab31acc498b6657f9"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/templates/senior.xlsx",
+      "bytes": 14391,
+      "sha256": "999de3c81c4b107ea1b245ceb3a8c3749bb051d31dc21270f5f35b59a1e6c316"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/assets/templates/training.xlsx",
+      "bytes": 14610,
+      "sha256": "75155701487a153e83e0781fc305cfc8cc7ccd1865c93f77ac18d623bbe7afb5"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/references/input-schema.md",
+      "bytes": 7324,
+      "sha256": "516b89c1a92bfed0e6445e5c152bd0e33922768efd4e37e9dc7115a299a84460"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/references/rule-catalog.md",
+      "bytes": 3607,
+      "sha256": "db50aacad9d2f299f01c92a16c1093a9c73dac6eb04ba96d53960cbb6dc1db52"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/references/scenario-profiles.md",
+      "bytes": 2399,
+      "sha256": "04c5e573982c323ae66e42eac5a9abb76fd49a79c18499f6fec4865814a9433a"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/references/workbuddy-integration.md",
+      "bytes": 2195,
+      "sha256": "6e60bfbe91bdb61a83c79c1cb2ceac8367239ae2451ca3350c567d20fc5cf272"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/adjust_schedule.py",
+      "bytes": 5449,
+      "sha256": "fe81f48103d21e7aa54ea45bed3ff44db6bf00eaf1ee26121dfeb9373711f5f5"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/benchmark.py",
+      "bytes": 3811,
+      "sha256": "ddaa9b484b797166db2886e4437fcd0bf461c1e8922555a372d37610a6f85692"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/build_assets.py",
+      "bytes": 7748,
+      "sha256": "f33e5f924bd524814e99a8373a8e9bbb3f4842998a0bdf42fc419cbfc2114993"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/cli.py",
+      "bytes": 6170,
+      "sha256": "2e2ddf6773798943f301c57bba05ac366df248b5a1ab45f01dfa97f85161b465"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/common.py",
+      "bytes": 2484,
+      "sha256": "2348fb9b23077961ec23d456d87950011e6608464720e059f0fc340490f4776a"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/cp_sat_scheduler.py",
+      "bytes": 16363,
+      "sha256": "e65bd1d2f4be17cdc274bca6ed2bba3e1117bac4a43d16e4a743f9a3ab6c656c"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/excel_io.py",
+      "bytes": 15025,
+      "sha256": "3db0de2f05d6bf0bb6c697735fe505a95a6ed795c69f47f92e2c48b04ef9ca20"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/expand_calendar.py",
+      "bytes": 3108,
+      "sha256": "c5855b395e42c805c8744f2e0062dcd0d872b9e1185dc05b9bfbc6d414f32d90"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/model_data.py",
+      "bytes": 11227,
+      "sha256": "c2f084ec23df5214642e4408e56b9c1574df76db4e6a26d98d102bc2d5a439ee"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/normalize_input.py",
+      "bytes": 10935,
+      "sha256": "76ccfee95d6e9fb9e988cc84303f07c976c1d16a9ea9b5fe2ac1d69560fc6f56"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/package_release.py",
+      "bytes": 1802,
+      "sha256": "664280811d1af67c9422b0fd6949db5db77736e7ad74106662be2c57a532fd82"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/precheck.py",
+      "bytes": 894,
+      "sha256": "3a6ab9be8223215fba5f9649320b6bd42520d10b27062f3e75a5b11a3c8b0f92"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/rule_spec.py",
+      "bytes": 1296,
+      "sha256": "25ebe44f92680df6f2a8fd14202341a6be1fb99585c3cec79499b0321d814154"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/run.ps1",
+      "bytes": 647,
+      "sha256": "0e3223b3f54873ba41194b1e9b72c9d31a69daf3a9fcc6aa26121511c412c865"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/setup.ps1",
+      "bytes": 1970,
+      "sha256": "67a538e58c41dc29d3071ab297bfe0a0ecbfef0df2799e9ebf33faa6d2c9d83e"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/validate_schedule.py",
+      "bytes": 22318,
+      "sha256": "9560441ba174a7ea41402033ade3bece623a61e8605608d69c6a2ba6fa9aef3d"
+    },
+    {
+      "path": ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/tests/test_workflow.py",
+      "bytes": 17464,
+      "sha256": "382e66451a47c806a5a228b9114d0847abd6f0ad6d2cfadc307945afa894cd10"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/export-log.json",
+      "bytes": 722,
+      "sha256": "9f12b66ce1286cbbc3581224e7a636818bbf8b837a3a9316e5260b0e5eb1aae6"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/input.json",
+      "bytes": 57667,
+      "sha256": "9f5b7d0a006a18861ba78c50e11a287bb27b7565b3c96f111d6925f49eadb2c8"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/solution.json",
+      "bytes": 426680,
+      "sha256": "2c05ed9217a3117906ad5a5540870ac30cbf9c78e93047d9f473f86281822215"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/solution.json.input.json",
+      "bytes": 55124,
+      "sha256": "7aff585fa17c8aa86a67790a0718982c31b5defea2e36d118c0cf782e346035a"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/solution.json.validation.json",
+      "bytes": 52210,
+      "sha256": "ab8b2a39f3581fd426c31912417ecae3257eabff3b6e44a102924e521f2db972"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/solve-log.json",
+      "bytes": 193,
+      "sha256": "669a96aa926da6e9430b079309d62f194cb1ff39896abb014b63b80f3b827f73"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/测试报告.md",
+      "bytes": 2034,
+      "sha256": "b8dbc20edf58ed7e975a4356a915c388e90a0950fe47c15ba6fb95fd5f223b16"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/测试摘要.json",
+      "bytes": 796,
+      "sha256": "7467bc192f7cb5dff3974cd0d6d3e1f3bae5adfc4d021338cb1823b3f1df00d1"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/真实22班联排_未通过校验.xlsx",
+      "bytes": 182039,
+      "sha256": "9a83df9dab79e8181c592f23ce52e392f1617f5343b40f802b3d5d907b50ac76"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班联排_20261103_214558/真实22班联排_未通过校验.xlsx.manifest.json",
+      "bytes": 680,
+      "sha256": "9a4fe1352d0b94710bb4c637a760545bb15968a7a3d83ed17f3fb65c065cf1fb"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/input.json",
+      "bytes": 85092,
+      "sha256": "6985b066dfa88b29035cd538258d7b223a9697955ec39bc04f57e01e3f6539a2"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/solution.json",
+      "bytes": 426677,
+      "sha256": "218df6bdf59a2ab646a74d6b81e24abbd86b3d8356ef8347d4293ffa9e726dd8"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/solution.json.input.json",
+      "bytes": 81210,
+      "sha256": "34d0375e8993d634592f622ea37415956cf68bc4ddec73e7adf4bc90f5ba47c0"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/solution.json.validation.json",
+      "bytes": 434796,
+      "sha256": "45a7c2ec28565ae93414eab137c8213f24577641d2d8c205a93a0a494ca6cc26"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/solve-log.json",
+      "bytes": 157,
+      "sha256": "173b2b6e504501d878e21c404d6416d888e074ef3f8d5631f3a6fe32f0579d18"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/真实22班连堂优化_未通过校验.xlsx",
+      "bytes": 190994,
+      "sha256": "634ee58c699458eb48ab44dd21d34feecb45e7455d758d35b2c60a71a728f7fa"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/真实22班连堂优化_未通过校验.xlsx.manifest.json",
+      "bytes": 689,
+      "sha256": "54bc87194e085590b795980b3a27a5eb8de532cfa737ea747aa3e1a57c4b347b"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/质量修正报告.md",
+      "bytes": 1692,
+      "sha256": "88ebd54d0a10563d2dab318232e9e8c74d1fdf17b9907845889683ae2253a65f"
+    },
+    {
+      "path": ".qa-school-scheduling/真实22班质量重排_20261103_215941/质量对比.json",
+      "bytes": 6971,
+      "sha256": "aca367861d1c8ec0d0aecb72840601668eb65ebf78125b24b94e4bba90bfa1dd"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/22班数据核对.json",
+      "bytes": 21097,
+      "sha256": "9156548c3b4ff63cc87781fb56437c4e4f4348db6eb7ab4ae5ffd94c5db5eed4"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/commands.json",
+      "bytes": 3040,
+      "sha256": "ea34bb79813e1c35437496ed1bc6c248b797b31e753170a365a44f234989dceb"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/precheck.json",
+      "bytes": 1279,
+      "sha256": "c2b8baa314436b98d64b9492a2365fd80b40057bcfd56936248200a37178ce71"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/solution.json",
+      "bytes": 39442,
+      "sha256": "a48284feb806ba486d96f58ae227c883895682d40576f03c1ebf2b5d3df45d26"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/solution.json.input.json",
+      "bytes": 7478,
+      "sha256": "b5da329db57c32b7a3a7eb9e471d221f78d4730bd7bc9adb50e69a53f4e5dfd4"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/solution.json.validation.json",
+      "bytes": 6841,
+      "sha256": "4aa1916aebdb459bc0f3db4cdef3ec289a2e3fb87f3eb6dbc87bb74974507cc5"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/validation.json",
+      "bytes": 6841,
+      "sha256": "4aa1916aebdb459bc0f3db4cdef3ec289a2e3fb87f3eb6dbc87bb74974507cc5"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/测试报告.md",
+      "bytes": 2283,
+      "sha256": "bd2e58de3c518fda6461bfa12c515b799fb04a44ef95af6dad148028d87eba1c"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/测试摘要.json",
+      "bytes": 420,
+      "sha256": "d672d94f68a42a889caccd53f2dedf2e1f45d62193c1dac6a1c4cee388630194"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/真实2-3班试排_未通过校验.xlsx",
+      "bytes": 29432,
+      "sha256": "d77b4b4288de445d26c74f07d466c2241c9d8c67ba95ff529364affa0232305e"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/真实2-3班试排_未通过校验.xlsx.manifest.json",
+      "bytes": 685,
+      "sha256": "1ebff7673c0de9d32efee30f12892fe1e43383d58dfcdca2ba40a24d887c36c9"
+    },
+    {
+      "path": ".qa-school-scheduling/真实教师表测试_20261103_214114/试排输入.json",
+      "bytes": 7137,
+      "sha256": "019831ef9403825a5bd6f9e679ca2f058642b5ebcb88bc8d458ab760e8788484"
+    },
+    {
+      "path": "artifact-verifier/SKILL.md",
+      "bytes": 2205,
+      "sha256": "96b4c2bd4eab54ee50dd042e13de0132d57ee312f07b491d26c0583c950cbabd"
+    },
+    {
+      "path": "artifact-verifier/references/evidence.md",
+      "bytes": 3216,
+      "sha256": "036dc1fc554064ee50b8834c8764ceb5e8fea605813fcf8b3cf3a5acdeaf6282"
+    },
+    {
+      "path": "artifact-verifier/scripts/inspect_artifact.py",
+      "bytes": 16230,
+      "sha256": "efa610ab3b0378da456df3e2361ffeabad3b23493455d61f05e64ddf6157be73"
+    },
+    {
+      "path": "artifact-verifier/scripts/package_release.py",
+      "bytes": 2241,
+      "sha256": "c9b692facec6bb61be2e31b1ab47646832882e59b3c0de343ea5a933939e1280"
+    },
+    {
+      "path": "artifact-verifier/tests/test_inspect.py",
+      "bytes": 10946,
+      "sha256": "37d3d0dc228ff167e54cea4565e4d7d0b0430e59b4c92c8c1c89c4e976dc2e5e"
+    },
+    {
+      "path": "automation-handoff/checkpoint.py",
+      "bytes": 1484,
+      "sha256": "7da4434e0dc75df7b934caf1d1bd8fe85e5719339edbc3c8f405344629714bf9"
+    },
+    {
+      "path": "automation-handoff/2026-11-16/05-review.json",
+      "bytes": 2276,
+      "sha256": "432b8884c9372ec4530447d9dd4f80b215d0bcfef7e99a217349a5362aeaaa0d"
+    },
+    {
+      "path": "automation-handoff/2026-11-17/01-collect.json",
+      "bytes": 3093,
+      "sha256": "1d6331c503ed05a744aaf2df13bbf7714b676fbad0bbe33f277f9cb9517e5ac0"
+    },
+    {
+      "path": "automation-handoff/2026-11-17/02-analysis.json",
+      "bytes": 4455,
+      "sha256": "c633b8b3fd6eda58e664e71382b0c1945fe2b005ff33c64c3c56d283596761b5"
+    },
+    {
+      "path": "automation-handoff/2026-11-17/03-build.json",
+      "bytes": 4688,
+      "sha256": "ea434c55aec8dd259c691531738c6d8ab175871e540c115482606da687133ed0"
+    },
+    {
+      "path": "automation-handoff/2026-11-17/04-release.json",
+      "bytes": 4696,
+      "sha256": "3d4107eaa9bc4987d4cd269cd0396d1e0d3ae70ef63b5151c309991e89e92188"
+    },
+    {
+      "path": "automation-handoff/2026-11-17/05-review.json",
+      "bytes": 5120,
+      "sha256": "da285e0bc03eb07ce5d37ec6e274ce23af466e0aafa04606b0ee3ff0489ff1bc"
+    },
+    {
+      "path": "automation-handoff/2026-11-18/01-collect.json",
+      "bytes": 4259,
+      "sha256": "ad2149f9505af3d697cbd98865aafd2b09ca4ebe6b0833a594ba0699f6d30dca"
+    },
+    {
+      "path": "automation-handoff/2026-11-18/02-analysis.json",
+      "bytes": 5376,
+      "sha256": "c4655b9ca4d969ed80f7303c1b6f044b9f3cbc8b76180706388da0bc093d3c6f"
+    },
+    {
+      "path": "automation-handoff/2026-11-18/03-build.json",
+      "bytes": 6736,
+      "sha256": "8d225f7dcb066bc6c53ab9df8d67bc62bd327e0b7129282ec6f684fb9bd85218"
+    },
+    {
+      "path": "automation-handoff/2026-11-18/04-release.json",
+      "bytes": 4880,
+      "sha256": "0cf1eca6a2d4fc72b334af986fb5f4cd949a6a2d5d0e20e74187f262a2bb049b"
+    },
+    {
+      "path": "automation-handoff/2026-11-18/05-review.json",
+      "bytes": 6549,
+      "sha256": "66f9e749948d501910fb783aa5b25b6b72c5e29d139adbee0a7e93bdcfedc5d2"
+    },
+    {
+      "path": "automation-handoff/2026-11-19/01-collect.json",
+      "bytes": 6494,
+      "sha256": "8e70c85575c4d337488fe87a12f94d1fc26dc6da1fc8f99795f9812f63389020"
+    },
+    {
+      "path": "automation-handoff/2026-11-19/02-analysis.json",
+      "bytes": 8931,
+      "sha256": "3fe3e94dcaa6afacf931bc004151d5f5880f0792a2cca83a1685b88b4bdb75d4"
+    },
+    {
+      "path": "automation-handoff/2026-11-19/03-build.json",
+      "bytes": 9116,
+      "sha256": "4bdcf0c6fda1a0b297e0483a5280538576e4e4dd49dee0a9902650a0979560ed"
+    },
+    {
+      "path": "automation-handoff/2026-11-19/04-release.json",
+      "bytes": 9228,
+      "sha256": "a329b993b53c04ca0aa3106ca7159bd24a3379ef05985645d5ed9ab874a53bcc"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/01-collect.json",
+      "bytes": 27408,
+      "sha256": "404d66ce60401418a416899a4a40472bf43e0e758e9794fe7951e3a37c378ea4"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/02-analysis.json",
+      "bytes": 29879,
+      "sha256": "c814bd69286d481bfb7995edd563616cf1d34e749e0ffcc4e8f0991b6c7a48b5"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/03-build.json",
+      "bytes": 35322,
+      "sha256": "6ea4e711b6401bcde96e7d07808fa2cea16ca3aeec5be55b679084758cc7adce"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/04-release.json",
+      "bytes": 39114,
+      "sha256": "80cf34bbe5d5a40ccd5825ce816214b7afee65341bfa8dce70f6a30253fa486f"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/05-review.json",
+      "bytes": 45036,
+      "sha256": "10564e83e96d416c334235700fd81e1898ac429cbe26e1efed65468efde3bc24"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/learning-coach-listing.md",
+      "bytes": 4249,
+      "sha256": "278e818cd34ff1b6d5bc5b202b1cc40aed404dbd4d6d4e0b0090e242cc57fb94"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/learning-preview.log",
+      "bytes": 338,
+      "sha256": "26d065594936880e21ca109014d4c089299829e4fd16606a4bf4dc0897934837"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/listing-fields.json",
+      "bytes": 1558,
+      "sha256": "4bae69aca7b99e7e5240dc489bd73a8d157ea353a90fb83c526adafca808f56d"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/manifest.json",
+      "bytes": 3591,
+      "sha256": "fc806ab5b4d069891b74f61a7ba1dedc6d36170d24f12bf7d6f40f05b707de91"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/numeric-validation.md",
+      "bytes": 1650,
+      "sha256": "7651aa198ebf2d64f52f61e5dfd2b35982789bd85166f5472b60794cb66137b1"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/numeric_prototype.py",
+      "bytes": 5137,
+      "sha256": "0aec781968a4c38eaa282dc1b0371707366f664ec32ade95461ddc0f13d7c6da"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/recalculation.json",
+      "bytes": 724,
+      "sha256": "727ac5b82499c05cab43fa33a65fb0639c2e2762a2a39191626ec24a98840413"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/validate.py",
+      "bytes": 5558,
+      "sha256": "8ce34932fdd2826d3f0ed6f8e266aea96119055c6bbf436fa658424d190af2f8"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/validation.json",
+      "bytes": 1435,
+      "sha256": "4bf36a0d9e2b402fb1b605528c3d92420c80693849522695ce1ba77c64b31237"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/fixtures/bad.pptx",
+      "bytes": 9,
+      "sha256": "a3989126344744ef800dbc88bf7e744853f3f2eac75c9ab3301f4e845ef22078"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/fixtures/source.csv",
+      "bytes": 98,
+      "sha256": "f348c93660afc6aeb7c584c209ae1f8003467b3a8ff499e879b3b114736ace1c"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/fixtures/synthetic.docx",
+      "bytes": 466,
+      "sha256": "7bfaa316cd2f405d62a37518cf3d7025a36ce6a6cd52db4b4d937d270131281a"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/fixtures/synthetic.pptx",
+      "bytes": 488,
+      "sha256": "d6d0c28249777b510e333c54c4fd553561ecdfea68270cb5c54bc6bdfa644fa2"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/fixtures/truth.json",
+      "bytes": 121,
+      "sha256": "71c7eeb64a7b17860c547a04f4323111b5b8192b8d841f7ba9d7c82232c363a1"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/learning-demo/practices.json",
+      "bytes": 811,
+      "sha256": "1fe58054c1ee86363952fe84f905bbf1ccb8c103257c2efcdb3a01f531b10f46"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/build/learning-demo/outputs/PB-20261120-01.html",
+      "bytes": 3087,
+      "sha256": "0b6ad380fa3914aff241f88d316c6354f9a36d8120f7680ce4d5d5742748ff34"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/billing.json",
+      "bytes": 1187,
+      "sha256": "3db41fe4bc90b38983e1e21d4c024d4565fa530f005576ceb145cb47c2a463cc"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/experts.txt",
+      "bytes": 949,
+      "sha256": "d7c0f7308720646dc8d7f6ee9b28b953e0d9f0d5fc623d1e9ca3f10441d69a5b"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/operations.json",
+      "bytes": 3752,
+      "sha256": "07543f713407435d8995b200fb4b5a509df937759e5d51c63893b64a49b03287"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/platform-status.json",
+      "bytes": 4002,
+      "sha256": "49035e93bce276c2b93deadfdbf32202ead682cb3efec0c2afbbc3a3fac913b3"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/review-before-evening.json",
+      "bytes": 27473,
+      "sha256": "3b55b1f4d73e8dc64673ae944e5fc35a245607583b920bf6089817ee7da7a05b"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/review-evidence/skills.txt",
+      "bytes": 2350,
+      "sha256": "faafa03e923223e101f935c73d33a8e2de02960745e56d2c902e447be7baeab2"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/automation-config-before.json",
+      "bytes": 25981,
+      "sha256": "9c40f387099526128197335a91e267089e2172ac5cc57ef08553535f8e95dcdd"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/billing.json",
+      "bytes": 1052,
+      "sha256": "679b3d983fa4e8475f1dd5f2efe70e2a764b0392aeffdb049dc9c7ddbf451c06"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/experts.txt",
+      "bytes": 935,
+      "sha256": "7a80af95de34803decdebdae2fedd8c666369fdff5b14216afe2117af635c26a"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/operations.json",
+      "bytes": 3532,
+      "sha256": "86c1f73acd16a0ecaa2c13e73f257ff2692dcd805411c2179d7d3bec2a430c8d"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/platform-status.json",
+      "bytes": 3364,
+      "sha256": "bea62e24f27b9e1736110e0fd023b95f56c18a75295ff9be029d7a49b5d7f32f"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/report.md",
+      "bytes": 5350,
+      "sha256": "5d2d6e32e91c4db0cda1088d2d80da60eb7e41078a9bef2afb863c2d0aebdb42"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/save_review.py",
+      "bytes": 7372,
+      "sha256": "1645d2139364128bbdc73a3fa301c15fd1eb767c963746335566b29ff19bd250"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/skills.txt",
+      "bytes": 2336,
+      "sha256": "a08ff0bb9b176f0475a5329677f3e6f159ad723488ded9c5c8c61dda156d8ff4"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/validation.json",
+      "bytes": 4336,
+      "sha256": "034cdf97264ff97765c65dab43e295da3cda41e3b2e639832d0867dbc0a2ef39"
+    },
+    {
+      "path": "automation-handoff/2026-11-20/verification/verify.py",
+      "bytes": 3677,
+      "sha256": "cbc5c46068323705f625200e7531b52a72f8244c9d4eaa6ff5b53a000ebd12ad"
+    },
+    {
+      "path": "automation-outcome-review-expert/package_release.py",
+      "bytes": 1792,
+      "sha256": "4f784f8bd633f39fe8885ce2f5c03ba70959cebaca768fee22796dd86670ed59"
+    },
+    {
+      "path": "automation-outcome-review-expert/.codebuddy-plugin/plugin.json",
+      "bytes": 1900,
+      "sha256": "e06e94a6e171b4cd9cd443fd8da4ddeac3bc186c9d75a134367e8db4427da6c4"
+    },
+    {
+      "path": "automation-outcome-review-expert/agents/automation-outcome-review-expert.md",
+      "bytes": 1019,
+      "sha256": "2eea2cbc937549731070ea61f90984e5c63faff6f1d994549da2d1454051e6bf"
+    },
+    {
+      "path": "automation-outcome-review-expert/avatars/expert.png",
+      "bytes": 5043,
+      "sha256": "95da4f92aa47fefa75c9062c51567042849a068d90cc34e71aba9ecb56a88878"
+    },
+    {
+      "path": "automation-verifier/SKILL.md",
+      "bytes": 4345,
+      "sha256": "cc7f859f4ef5233d0bbfe33cf92fbfecca2b2ea52d152a1e1b81f8f716f6cb56"
+    },
+    {
+      "path": "automation-verifier/assets/demo.json",
+      "bytes": 308,
+      "sha256": "070e4fdd5106b2e0efc366398fc17b16699062bd0ec4f4c0b8b3c9a21b6a0709"
+    },
+    {
+      "path": "automation-verifier/assets/template.json",
+      "bytes": 505,
+      "sha256": "f990cea0f21166730c74909cb4b55c8967f15d2e20aab6b4ed9c770a3343e390"
+    },
+    {
+      "path": "automation-verifier/references/input-schema.md",
+      "bytes": 2930,
+      "sha256": "210cd53f82d791f70769c5d96e6988e01e4dda411b5da81b3ceff4337d8d03fa"
+    },
+    {
+      "path": "automation-verifier/scripts/make_demo.py",
+      "bytes": 2147,
+      "sha256": "fca6b751dcbd8589a651ad8a85f00c164a2a3944d7fa8fe5b7e3702acc39a228"
+    },
+    {
+      "path": "automation-verifier/scripts/package_release.py",
+      "bytes": 2308,
+      "sha256": "d14a01f98a21aacc4a32e506a660d692a0f6880e9f5f455312ad1ce1035a4987"
+    },
+    {
+      "path": "automation-verifier/scripts/verify.py",
+      "bytes": 13137,
+      "sha256": "78e7451bb473c74a3b8d8fb60f6e62ab0e4741d2885830618062ee3cb83953e3"
+    },
+    {
+      "path": "automation-verifier/tests/test_verify.py",
+      "bytes": 5188,
+      "sha256": "5b3377cc9695ac9e5bc5b61ba8e82001e67ece20bec640edac0d41ea3a8869ae"
+    },
+    {
+      "path": "baseline-design-review/SKILL.md",
+      "bytes": 3961,
+      "sha256": "96edd9d60047487ca057851fcf78c639126e506fa097644f3f2bff01f12fd45a"
+    },
+    {
+      "path": "baseline-design-review/assets/candidates-template.json",
+      "bytes": 1115,
+      "sha256": "6a6e982e89c7ebb55dd0da7a08054f11ac9d5eda45f3d1c9baa6120b37f0e70b"
+    },
+    {
+      "path": "baseline-design-review/assets/config-template.json",
+      "bytes": 635,
+      "sha256": "9944858b2217f9435e149876c750d432b1884451f20eafe69fa44a8bc9a2e5e9"
+    },
+    {
+      "path": "baseline-design-review/assets/demo.json",
+      "bytes": 4720,
+      "sha256": "005d88826a6cb6d2c31f90885734a669266b02a2ac16e8df5d7b4ccc1032d365"
+    },
+    {
+      "path": "baseline-design-review/references/workflow.md",
+      "bytes": 4207,
+      "sha256": "e5a297b66c5b612173f2188bb799983427876b094a21b17c1123e24507a7ff27"
+    },
+    {
+      "path": "baseline-design-review/scripts/demo.py",
+      "bytes": 1873,
+      "sha256": "6f52461bd7ba3a4b157322f1d8c2dd9021d9bc3f0f75e7de50152ada03f86007"
+    },
+    {
+      "path": "baseline-design-review/scripts/package_release.py",
+      "bytes": 2040,
+      "sha256": "4d706d65aa88f2dc2ec8349df704f955914f030c96b6e82f13857100e1d1fbdf"
+    },
+    {
+      "path": "baseline-design-review/scripts/review.py",
+      "bytes": 21708,
+      "sha256": "6c93ca8d5e63e6960ba148625d901ba911aad0dbc2ba80a26a18c8cd509dc2e3"
+    },
+    {
+      "path": "baseline-design-review/tests/test_review.py",
+      "bytes": 10998,
+      "sha256": "2c83b6c6f072c9637699f1b9478e1aa0f3035cb1ac96ad2a7953605a8be1f7af"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.0.zip",
+      "bytes": 6715,
+      "sha256": "93f9ee91d2b555978f65fab4503e6469e32e7ff92925aa79e680091e3bf4a8d2"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.0.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "abb99262eebfdad8e70c95923d634f9e376e27f4d6033be74529c6a2790ce43c"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.1.zip",
+      "bytes": 8877,
+      "sha256": "36098efc7836457a7f828738d40ca75920cadda883d6ea517a6146d1d999cfa3"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.1.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "7438f8def2e31e50217819322a9767bc07331f008bf23316d86bcf8a6f074c80"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.2.zip",
+      "bytes": 9477,
+      "sha256": "0161ee2467509e0c0de603f15254b22be7d326f60071b07ec691a34a47d03783"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.2.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "d0ce750e8e3b1025e4be3b0db6306e0720c74721dfbb494d1e3c360205cc0520"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.3.zip",
+      "bytes": 10703,
+      "sha256": "0d401f0fc3baff385a590ebe987fb4f8e3fbc4d9cc2800b8e595889d7ba85426"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.3.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "c27d92520268bcdf4b31ccd5168a17be287c4daba54fefd2e10416e5983ec225"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.4.zip",
+      "bytes": 12254,
+      "sha256": "56cace51a74de67f7b34a9c23e38de2029a4014fe3da7f048a6c2a329bb9e553"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.4.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "32c36caf99965f1ad24ff98683f6fa6e5ff7aa62c91f84a6668df9e0ec970698"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.5.zip",
+      "bytes": 12325,
+      "sha256": "70f30f5c13e5af66619f6974dc118dfead851e3d326f791f41d945a8905f3ab0"
+    },
+    {
+      "path": "dist/artifact-verifier-1.0.5.zip.manifest.json",
+      "bytes": 275,
+      "sha256": "ca2820d49e218dbf2ed11b29889c4f883ac5a1e5ee1ff6bbe56b1751d80a4bcc"
+    },
+    {
+      "path": "dist/artifact-verifier-avatar-512.png",
+      "bytes": 302909,
+      "sha256": "d02d90924dae4e625abfa0eb39cbd77e5287a7e30f644463a2eca2c8bb05c34e"
+    },
+    {
+      "path": "dist/automation-outcome-review-expert-1.0.0.zip",
+      "bytes": 20988,
+      "sha256": "a3bed65f2ec5a62b71e2f9120e0e841648886d74a8c834e1ca50a795edc41415"
+    },
+    {
+      "path": "dist/automation-verifier-1.0.0-交付验收.md",
+      "bytes": 2666,
+      "sha256": "86ea25a18ce6501db18e35c72a5415bdcc0e707edf283d1049b70d7d0d6fe899"
+    },
+    {
+      "path": "dist/automation-verifier-1.0.0.manifest.json",
+      "bytes": 354,
+      "sha256": "ac801e79a7dd3753f771e5f2eb60fabb2a2acbd22d7a6e2718580aa6bf944490"
+    },
+    {
+      "path": "dist/automation-verifier-1.0.0.zip",
+      "bytes": 14218,
+      "sha256": "6474c874188bc461c51b677d0feaafedae6304f6b2bfb335238e0f6e3b958aab"
+    },
+    {
+      "path": "dist/baseline-design-review-1.0.0.zip",
+      "bytes": 20299,
+      "sha256": "ecc3fbd303c33fcdf29ad9be6c1aeb48ae4b73086c6f19db62b66040092ca4c0"
+    },
+    {
+      "path": "dist/baseline-design-review-1.0.0.zip.manifest.json",
+      "bytes": 389,
+      "sha256": "9bfd04e2d3e6ffd8a80758f0c39bf1d7aa2e8acab3185ebf2c3addf9e10017ee"
+    },
+    {
+      "path": "dist/baseline-design-review-avatar-512.png",
+      "bytes": 250408,
+      "sha256": "82f7aafbee1c8c28ebcddff8183d5918805dbf6f2b50b2d159c3822f696c111f"
+    },
+    {
+      "path": "dist/learning-coach-cover-512.png",
+      "bytes": 244001,
+      "sha256": "f96dcb6221d06486bbcd284f607094bf593faac335ac8d67d0f729007aab77d8"
+    },
+    {
+      "path": "dist/learning-coach.zip",
+      "bytes": 23208,
+      "sha256": "b096ccc9f7cf4a34af4b5162b088691cc3a1af12ead65371c222b887a44d65b9"
+    },
+    {
+      "path": "dist/meeting-action-tracker-1.0.0.zip",
+      "bytes": 8737,
+      "sha256": "ad651b96edcbf221960a0a34236a100583ff91bc825a2b1a726319b689d90010"
+    },
+    {
+      "path": "dist/meeting-action-tracker-1.0.0.zip.manifest.json",
+      "bytes": 293,
+      "sha256": "087efdd29d2c035089e94c1770799eb6612997e05bacaac2862f8e8101dfac99"
+    },
+    {
+      "path": "dist/meeting-action-tracker-avatar-512.png",
+      "bytes": 296230,
+      "sha256": "df79a895424afa5b323cb6314c409c7069fc13e6fba8a4b4dc66848257df1206"
+    },
+    {
+      "path": "dist/reimbursement-draft-1.0.0.zip",
+      "bytes": 23738,
+      "sha256": "d34f12b0614d5279d54e01ec02afb86040ba07815abdc9e2ed0064e80eb718ce"
+    },
+    {
+      "path": "dist/reimbursement-draft-1.0.0.zip.manifest.json",
+      "bytes": 426,
+      "sha256": "02a05527592017d27c3d321fdeb50ae9ef46be0d6500cbecf4a8c788e742e9d7"
+    },
+    {
+      "path": "dist/reimbursement-draft-1.0.1.zip",
+      "bytes": 24042,
+      "sha256": "b9f4ea7db8712ed06c9db02fe2c665033abf02fdefaa0e756061e4d27fa874cd"
+    },
+    {
+      "path": "dist/reimbursement-draft-1.0.1.zip.manifest.json",
+      "bytes": 426,
+      "sha256": "ba85b03d29670275cf927c6bd2435448f7b43c25ccab7b26f0bfadeec0b86cd8"
+    },
+    {
+      "path": "dist/reimbursement-draft-avatar-512.png",
+      "bytes": 275770,
+      "sha256": "c6e307454517b2ff449f5370bf90387623329c303067b9c18da1a65f159a4f4c"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.0-benchmark.json",
+      "bytes": 3604,
+      "sha256": "0e11a4c262137b1e3f0eb66b53281dbc72a13677fa0901600a383d7c970e9549"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.0-tests.txt",
+      "bytes": 2391,
+      "sha256": "3cb86b0dc82d68505b8d5f1b795e541fd0d18c78dbf3db224db9d6b7a419b77e"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.0-验证摘要.md",
+      "bytes": 4119,
+      "sha256": "41f5cb833aba04a3c107fa5654d7cc195d25fae6b5ce80fa6ee50525df74cc89"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.0.zip",
+      "bytes": 116657,
+      "sha256": "075201fded6131fa010924a7145b1a2a23bbd2fc07e951bbb38eaf8b8589c0e7"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.0.zip.manifest.json",
+      "bytes": 1177,
+      "sha256": "9b8a96e6937cb04f4c3721f129ae8eb2c453a232f93551aa8a4f759189ac50d9"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.1.zip",
+      "bytes": 118339,
+      "sha256": "84a7b4c27d0c26b84dabe38bbf4f747a93958d33cde6b823a8207d7a8513ba7e"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.1.zip.manifest.json",
+      "bytes": 1177,
+      "sha256": "c51f6c31c7423d0a890c06414ea325eed044100b4292157b1fba9eeb01a1abeb"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.2-验证摘要.md",
+      "bytes": 1498,
+      "sha256": "5402c5c5c42eebb7f2e787b33167dbb9363d44b7ae527bda71288ad3a245d053"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.2.zip",
+      "bytes": 121440,
+      "sha256": "2ca296fd198cf5ceccd48d4e4dbc7d04bf82de071d186738177b9518e13efb24"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.2.zip.manifest.json",
+      "bytes": 1203,
+      "sha256": "6ecf58bdf1d103d9f69864e7d95b8f4e3a08c6f380c390a710d7ac3774b12ee0"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.3-验证摘要.md",
+      "bytes": 1881,
+      "sha256": "c7202dd004ccc71742d099be67e07a8b3b363e9be3d93b6b9255ee83ed16d7a6"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.3.zip",
+      "bytes": 128219,
+      "sha256": "614ee3421337803b3f0c9d49bff824ec90f8ae083553b3e933093ac3451a5290"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.3.zip.manifest.json",
+      "bytes": 1296,
+      "sha256": "277cbf95ee18849784e0ba73b190676addc64c902d68cdf6deb4ccd3c5d27927"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.4-验证摘要.md",
+      "bytes": 1268,
+      "sha256": "6731c54ebe39104f8cb09e82c647751c68934154677c152d464da92f3564f3fa"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.4.zip",
+      "bytes": 127757,
+      "sha256": "d297ad632ea261517a10d5bdd1979699c0ecf62c0b355a354f9ade17895ab613"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.4.zip.manifest.json",
+      "bytes": 1240,
+      "sha256": "7568414351a6be234ff7654221a588c0df6f923865ab790e6bc735e656c7c0c0"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.5-验证摘要.md",
+      "bytes": 1123,
+      "sha256": "6ab21a6f71b59a8500d689c4c321559701fdf15878764dc7569f4b165c640174"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.5.zip",
+      "bytes": 129188,
+      "sha256": "8a3f02def384413cfb43d432e8dfb19f20d623063ac51d574a59cfb34c0cc7a3"
+    },
+    {
+      "path": "dist/school-scheduling-1.0.5.zip.manifest.json",
+      "bytes": 1240,
+      "sha256": "9dda38e62faba9f0aebdc6330da39dc8bad7b0f3061a8cd6e419d036c1dbd354"
+    },
+    {
+      "path": "dist/school-scheduling-avatar-512.png",
+      "bytes": 290273,
+      "sha256": "ee4edf7d3b7dd6648879433267e7ecffbd5c2b29463a00c1f376189e7759bc7f"
+    },
+    {
+      "path": "dist/thinknova-meeting-actions-7b39c2-1.0.0.zip",
+      "bytes": 8752,
+      "sha256": "4766879e9f29bee836e2412afced2d727ac338920c8e441a338a85b7786d4d6c"
+    },
+    {
+      "path": "dist/thinknova-meeting-actions-7b39c2-1.0.0.zip.manifest.json",
+      "bytes": 293,
+      "sha256": "e952ff23ecf3d8f9bd6538a385596752e4aef74493d4050101a8b6709ae65e6e"
+    },
+    {
+      "path": "dist/workbuddy-context-audit-1.0.0.zip",
+      "bytes": 3946,
+      "sha256": "6a7e0e9ad483dfdaca53fd80a87aa37c66ee97f8808f34a83dfa386ec5b952b5"
+    },
+    {
+      "path": "dist/workbuddy-context-audit-1.0.0.zip.manifest.json",
+      "bytes": 203,
+      "sha256": "97f90fb6bcb5eef66370649978e2ba79d258ad354a6d22208bf912dcc9f6898d"
+    },
+    {
+      "path": "dist/workbuddy-context-audit-avatar-512.jpg",
+      "bytes": 32243,
+      "sha256": "bee5384b8e60a21756d2e6ead520fa20063ce7bca5b5ca4bff463aa7eb2086cb"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-1.0.1.zip",
+      "bytes": 499792,
+      "sha256": "0e867a3abe41ffd3d4496cecc8c7d2e1607025ef8e6bc96d138a2053b8e3dd20"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-1.0.2.zip",
+      "bytes": 499922,
+      "sha256": "f2d7e5d065f41c200c33e9229121d9f0a2e7b102b6ad7c2a7eb2430f5f2a8e2e"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-1.0.3.zip",
+      "bytes": 499922,
+      "sha256": "555e7b925e3df28d86ab6c38e69f927aac9286047a62c52a0e5b59fe2ef89593"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-bundle.zip",
+      "bytes": 10708,
+      "sha256": "6fb6110dd0787471c85370f60340ee3ab35a7e223b07508fefab0e3330c031c0"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-codebuddy-1.0.1.zip",
+      "bytes": 13020,
+      "sha256": "c8ac4e5bec02df3d6d6e5f63eee4204bbca9a7935bd708513f9e3c2a5862be7b"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert-codebuddy.zip",
+      "bytes": 10714,
+      "sha256": "0dd28ddf59636a87fe52aff00d1e7dac8e5a97eb3d77f5da1107c7ca4a4fab55"
+    },
+    {
+      "path": "dist/workbuddy-local-business-expert.zip",
+      "bytes": 9344,
+      "sha256": "f682af01fb83d78522b1b9ee3153afe27fa3a5c5ada1e0a6319a7b710dee1f54"
+    },
+    {
+      "path": "dist/workbuddy-migration-audit-1.0.0.zip",
+      "bytes": 2474,
+      "sha256": "ea536e4344debb0c94893b5a9d4e0edc486c47816b411f7148f1c62c82247e1a"
+    },
+    {
+      "path": "dist/workbuddy-repeat-audit-1.0.0.zip",
+      "bytes": 2027,
+      "sha256": "0e94d43d78b0743fc5da3491a8ec0a5ce44c368c598336d8a6989e62b330b3e1"
+    },
+    {
+      "path": "dist/workbuddy-storage-audit-1.0.0.zip",
+      "bytes": 2463,
+      "sha256": "56bc0905f6520f64415daa976572758c1311cbae0793588259ae1dc6e5f032c9"
+    },
+    {
+      "path": "dist/workbuddy-storage-audit-1.0.1.zip",
+      "bytes": 2463,
+      "sha256": "43cf7d4e481fea727831cb9926332770f3f87073af2f2cf6c8932de2a8d224c3"
+    },
+    {
+      "path": "dist/workbuddy-storage-audit-avatar-512.jpg",
+      "bytes": 43176,
+      "sha256": "4605a976612577695516204f1d9f9bbfbbba8fef344af366ee8988ae5c847c2d"
+    },
+    {
+      "path": "dist/workbuddy-task-config-audit-1.0.0.zip",
+      "bytes": 2324,
+      "sha256": "255971794319d1bf823b8f0f321f7bc5e21a797d003a3aee4d51fd3200452c06"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-10-31.csv",
+      "bytes": 52,
+      "sha256": "58de1ce6eb6aa0afda830e8ed3ebb1e5e8185a647d816378596f3e2099035ced"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-01.csv",
+      "bytes": 52,
+      "sha256": "8c6a2f1bee0192946909d811bcb879696b28aa0152eb7036431da18a696af626"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-02.csv",
+      "bytes": 52,
+      "sha256": "71c89ce52b6ba1ae8da894a2749f1285fa60e444722d12f4665c2f29e1f4e926"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-03.csv",
+      "bytes": 52,
+      "sha256": "4ee9772a0156fa95eca673ae0ea179ca43f053618e77faed5983d0b0ac13349d"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-04.csv",
+      "bytes": 52,
+      "sha256": "c04620968bba227d959eb59df251bb7504ee031ba66419ef2f7763bb36b0eca5"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-05.csv",
+      "bytes": 52,
+      "sha256": "bf9fe92d306a2ffbdf24ebc3bc1e409e1ffb0fdc792f1102c8242770d220d8bb"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/0-2026-11-06.csv",
+      "bytes": 52,
+      "sha256": "d1494300131d5f38136a41243f30c066d87fed8063f36b728e73a74b178f809f"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-10-31.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-01.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-02.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-03.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-04.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-05.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/1-2026-11-06.csv",
+      "bytes": 15,
+      "sha256": "6f6ee6e16194c9d4674178863f27668caf4d12cd4c98b707d6c61c4d14891330"
+    },
+    {
+      "path": "dist/automation-verifier-demo-1.0.0/input.json",
+      "bytes": 12009,
+      "sha256": "0cbc69b961465967cf14afacf87f6106820b52fc589464268a80891372cde6d3"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/SKILL.md",
+      "bytes": 4345,
+      "sha256": "cc7f859f4ef5233d0bbfe33cf92fbfecca2b2ea52d152a1e1b81f8f716f6cb56"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/assets/demo.json",
+      "bytes": 308,
+      "sha256": "070e4fdd5106b2e0efc366398fc17b16699062bd0ec4f4c0b8b3c9a21b6a0709"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/assets/template.json",
+      "bytes": 505,
+      "sha256": "f990cea0f21166730c74909cb4b55c8967f15d2e20aab6b4ed9c770a3343e390"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/references/input-schema.md",
+      "bytes": 2930,
+      "sha256": "210cd53f82d791f70769c5d96e6988e01e4dda411b5da81b3ceff4337d8d03fa"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/scripts/make_demo.py",
+      "bytes": 2147,
+      "sha256": "fca6b751dcbd8589a651ad8a85f00c164a2a3944d7fa8fe5b7e3702acc39a228"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/scripts/package_release.py",
+      "bytes": 2308,
+      "sha256": "d14a01f98a21aacc4a32e506a660d692a0f6880e9f5f455312ad1ce1035a4987"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/scripts/verify.py",
+      "bytes": 13137,
+      "sha256": "78e7451bb473c74a3b8d8fb60f6e62ab0e4741d2885830618062ee3cb83953e3"
+    },
+    {
+      "path": "dist/automation-verifier-install-check-1.0.0/tests/test_verify.py",
+      "bytes": 5188,
+      "sha256": "5b3377cc9695ac9e5bc5b61ba8e82001e67ece20bec640edac0d41ea3a8869ae"
+    },
+    {
+      "path": "dist/automation-verifier-install-report-1.0.0/report.html",
+      "bytes": 11214,
+      "sha256": "9b975455d0be749387d2e129d4618573ab37d40058ed20360e468b1c25706da1"
+    },
+    {
+      "path": "dist/automation-verifier-install-report-1.0.0/report.json",
+      "bytes": 23540,
+      "sha256": "df520ac2fd13d789328ea1518cbef4c7599030cea68643513732bf7b9d112930"
+    },
+    {
+      "path": "dist/automation-verifier-install-report-1.0.0/report.md",
+      "bytes": 9323,
+      "sha256": "4dc25b4d1c2d89d0b0fe98eeb038fc8fddbfe73362ae469fdcbaf05b1b56f0fb"
+    },
+    {
+      "path": "dist/automation-verifier-report-1.0.0/report.html",
+      "bytes": 11214,
+      "sha256": "9b975455d0be749387d2e129d4618573ab37d40058ed20360e468b1c25706da1"
+    },
+    {
+      "path": "dist/automation-verifier-report-1.0.0/report.json",
+      "bytes": 23540,
+      "sha256": "df520ac2fd13d789328ea1518cbef4c7599030cea68643513732bf7b9d112930"
+    },
+    {
+      "path": "dist/automation-verifier-report-1.0.0/report.md",
+      "bytes": 9323,
+      "sha256": "4dc25b4d1c2d89d0b0fe98eeb038fc8fddbfe73362ae469fdcbaf05b1b56f0fb"
+    },
+    {
+      "path": "docs/会议待办拆解追踪-对照样张.html",
+      "bytes": 3434,
+      "sha256": "33a72db91590f9ae55ddda9c6e947ae892e7bf3327ceae8c06cf602a1beced12"
+    },
+    {
+      "path": "docs/会议待办拆解追踪-验证说明.md",
+      "bytes": 1678,
+      "sha256": "188b45e98a52d9b87b987da89a488ddee66088d428987b4fbb73d9a1287e609e"
+    },
+    {
+      "path": "docs/本地商家获客专家-MVP需求与实施计划.md",
+      "bytes": 6497,
+      "sha256": "a5d89ebe28e8c58537ef065127e1f3ff04cab2398dc05756274b61debab155d6"
+    },
+    {
+      "path": "docs/自动化任务验真巡检-专家发布稿.md",
+      "bytes": 2939,
+      "sha256": "035244aa14a9f9fed89dcb69b32bce7cf506f7b22ba7ef6e7502d086f0f7f392"
+    },
+    {
+      "path": "learning-coach/SKILL.md",
+      "bytes": 3099,
+      "sha256": "8431491540aba874679bb0f0f04623aee63f85142cf8c21007579abf7662458a"
+    },
+    {
+      "path": "learning-coach/assets/practice_template.html",
+      "bytes": 1245,
+      "sha256": "7f7bf7b1eec74d33854840da681387f6aa7937b1efe2b0eccffc9c150cae2c55"
+    },
+    {
+      "path": "learning-coach/data/question_bank.json",
+      "bytes": 137647,
+      "sha256": "cd4635fde1b5ab8c3d03651dd71c86a13cba6c543ea414f9539c95cb2c103f7d"
+    },
+    {
+      "path": "learning-coach/references/adaptive-rules.md",
+      "bytes": 829,
+      "sha256": "00a61b6eebd7feff524deca4469ea641e127bdfa6735f913ce5ab3ce58773952"
+    },
+    {
+      "path": "learning-coach/references/quality-rules.md",
+      "bytes": 699,
+      "sha256": "62661ea08a9c2946c4a932b1d87a924e00b99c144c12f126a11fe3f2ded75093"
+    },
+    {
+      "path": "learning-coach/scripts/adaptive.py",
+      "bytes": 1694,
+      "sha256": "b015ac5635f03f96d9bf15db1d2e5424fdd03a0d36cce24fb1af82c00c68b33e"
+    },
+    {
+      "path": "learning-coach/scripts/common.py",
+      "bytes": 1959,
+      "sha256": "cdd97ec3b08d7bfbbb158e5ba06d1785f0a2d79192973edfa14efbd8e3eec02d"
+    },
+    {
+      "path": "learning-coach/scripts/generate_practice.py",
+      "bytes": 8054,
+      "sha256": "6a819a3e3f3ce11702ea5a680cb21636d259f6b0ed0fe46ace165bd1f2d8bcb8"
+    },
+    {
+      "path": "learning-coach/scripts/manage_profile.py",
+      "bytes": 1731,
+      "sha256": "17cca6ab24dc467638d01dc4d3ffe340531627dcf98ac36db7fbaa6c738035e0"
+    },
+    {
+      "path": "learning-coach/scripts/record_feedback.py",
+      "bytes": 2078,
+      "sha256": "757638b1bb3f455ad3e3ec5fdacf2f2bf47e8df6d767e31a43edf753a2607935"
+    },
+    {
+      "path": "learning-coach/scripts/weekly_report.py",
+      "bytes": 2103,
+      "sha256": "65eaea06d941ad82bb0204825200defac577cb583f55ea9ab1f700cebb594d0a"
+    },
+    {
+      "path": "meeting-action-tracker/SKILL.md",
+      "bytes": 5390,
+      "sha256": "eea4813e740fa1015d79d440ad6d35d0d79b5c61496c50daccd0a03215a61dc6"
+    },
+    {
+      "path": "meeting-action-tracker/assets/demo.json",
+      "bytes": 1818,
+      "sha256": "14c2f69eed30eca7e55c04a496e53807ed7c5cd36b5881a7aab3d1aed1f24e3e"
+    },
+    {
+      "path": "meeting-action-tracker/references/ledger.md",
+      "bytes": 1537,
+      "sha256": "918ad38f4d4a2e22e079dbca0229c639becdf04874370c142140e593b02e499a"
+    },
+    {
+      "path": "meeting-action-tracker/scripts/check_ledger.py",
+      "bytes": 5427,
+      "sha256": "dcad06863f6b68a2074103912e60ab3db227bf0bcc2dacc66e9834ebc722055a"
+    },
+    {
+      "path": "meeting-action-tracker/scripts/package_release.py",
+      "bytes": 1591,
+      "sha256": "49685b41707dcddd5bdea41b71898cfc0dcf73862b52bbde0a8118edd35a0a87"
+    },
+    {
+      "path": "meeting-action-tracker/tests/test_ledger.py",
+      "bytes": 2532,
+      "sha256": "1d5e8a164123e7c0ec4bef5eea7f565621aa439be5e7ac84071723e9be0b1a1d"
+    },
+    {
+      "path": "pptx-font-audit/scripts/audit.py",
+      "bytes": 4835,
+      "sha256": "821340ee418491b35365e1393c19e13e382f6538a28f7b9e20afa278f2ecd437"
+    },
+    {
+      "path": "reimbursement-draft/requirements.txt",
+      "bytes": 14,
+      "sha256": "6b9d3af92e9bdb2317e9ac845c8349f4b6a44b7d05e628ea717938589b583fc2"
+    },
+    {
+      "path": "reimbursement-draft/SKILL.md",
+      "bytes": 3236,
+      "sha256": "f024efb9186f53683fa5d4bc71ff742d4ca2141961dcb7947e11d7c3e1640600"
+    },
+    {
+      "path": "reimbursement-draft/assets/batch.json",
+      "bytes": 465,
+      "sha256": "292e4773e82b69796c24e60422df119fc3eb606996875b1bfed1981352515015"
+    },
+    {
+      "path": "reimbursement-draft/assets/history.csv",
+      "bytes": 36,
+      "sha256": "0826b850aefd08884f9fae4c19a51d49ba55e6940780f59a84373fb503bf9725"
+    },
+    {
+      "path": "reimbursement-draft/assets/示例数电票.xml",
+      "bytes": 948,
+      "sha256": "8bd7db48fb02bdedb6116248648320e0a8c4b97c5acc0800c05d84577ab3d528"
+    },
+    {
+      "path": "reimbursement-draft/references/input.md",
+      "bytes": 4995,
+      "sha256": "935b04f6060cc09a94775a455da58251b4dafe8b10edd8c96831f9ea90b88115"
+    },
+    {
+      "path": "reimbursement-draft/scripts/package_release.py",
+      "bytes": 3692,
+      "sha256": "c3ad64f9b6dd272d49e5a17b0e2aada9ebd8107eaa0ea0ba893d199b07f7d4ce"
+    },
+    {
+      "path": "reimbursement-draft/scripts/precheck.py",
+      "bytes": 21673,
+      "sha256": "1ac60e442d28c8913e0e7eaa645eb8d600dc6a8f8ae1d15198c33054fd6c4e48"
+    },
+    {
+      "path": "reimbursement-draft/scripts/sources.py",
+      "bytes": 8288,
+      "sha256": "55fb26548298ab35b81d9cd6e4f514ed319564fcf05b6b3868a20c900e5f4289"
+    },
+    {
+      "path": "reimbursement-draft/tests/test_precheck.py",
+      "bytes": 14826,
+      "sha256": "b25715c9de65c47e6178e3f262351d003b9fa817bbc22f83c31d9494378818da"
+    },
+    {
+      "path": "school-scheduling/requirements.txt",
+      "bytes": 197,
+      "sha256": "22916c84ab5b6562c133c22fef8dfcd2078f70f9c777ee2107dd45cab26a4c68"
+    },
+    {
+      "path": "school-scheduling/SKILL.md",
+      "bytes": 8017,
+      "sha256": "ab97982cc8862bbbab829a7a7472594fb4cf4b0607e5ef50979b81ce38a75429"
+    },
+    {
+      "path": "school-scheduling/assets/junior.json",
+      "bytes": 3211,
+      "sha256": "6226978ec38b9972d2d6f3d2fe49dde20f5cc9713893c545708d8fce2b7353a2"
+    },
+    {
+      "path": "school-scheduling/assets/junior.xlsx",
+      "bytes": 14419,
+      "sha256": "09819e03a12f980f561b0629ee1f5b7375e1da2ac115bc2d2a987785312569a8"
+    },
+    {
+      "path": "school-scheduling/assets/primary.json",
+      "bytes": 3267,
+      "sha256": "9b4578d5aa74e564e1143abd2d0f1ba95741af1d4d28c75e72535033ce1b75d7"
+    },
+    {
+      "path": "school-scheduling/assets/primary.xlsx",
+      "bytes": 14386,
+      "sha256": "7b2156fe66404016e9e1ccf3c316986ef343cb64b8074349d912739987581e1a"
+    },
+    {
+      "path": "school-scheduling/assets/senior-22classes-synthetic.json",
+      "bytes": 253819,
+      "sha256": "d3994b276bae8c3ab5f6dfabfc213cd3ceaee80e1feb720cde069d0cc0cbad0d"
+    },
+    {
+      "path": "school-scheduling/assets/senior.json",
+      "bytes": 4000,
+      "sha256": "37989588e3c5b6603619d5b44eb6699d3dffbb574b12afc21dedf20cde6c7d4d"
+    },
+    {
+      "path": "school-scheduling/assets/senior.xlsx",
+      "bytes": 14646,
+      "sha256": "a4b5bac1a10c523b2a1df27e3f37765e0988bf655e83a0cca68d40b2a9a85170"
+    },
+    {
+      "path": "school-scheduling/assets/training.json",
+      "bytes": 3286,
+      "sha256": "f75c5aa0d1063b5801370b1220b4d409070d317ebbab4506e8a7b2849df09b46"
+    },
+    {
+      "path": "school-scheduling/assets/training.xlsx",
+      "bytes": 14610,
+      "sha256": "614a2a29da536e9d91fa3eca1c2df48e0fad195e0a62eb51e10fec8f17cc55b3"
+    },
+    {
+      "path": "school-scheduling/references/input-schema.md",
+      "bytes": 8558,
+      "sha256": "58054736cdabf834107dacfff9b69b652f671d5c0ecb2778902c299a0c1c0411"
+    },
+    {
+      "path": "school-scheduling/references/onboarding.md",
+      "bytes": 2751,
+      "sha256": "07b63956f589bf44daac4fd59a952d824f8a5ae786e7247684e33776716fc821"
+    },
+    {
+      "path": "school-scheduling/references/rule-catalog.md",
+      "bytes": 3607,
+      "sha256": "db50aacad9d2f299f01c92a16c1093a9c73dac6eb04ba96d53960cbb6dc1db52"
+    },
+    {
+      "path": "school-scheduling/references/scenario-profiles.md",
+      "bytes": 2818,
+      "sha256": "f81a52c6665c33a12e4d63d6c05404b7f4a2717e3f1607fff5173c28da7b9038"
+    },
+    {
+      "path": "school-scheduling/references/workbuddy-integration.md",
+      "bytes": 3167,
+      "sha256": "84d82cbd9dd87ee434b741f472c2c6a7f90239bf159687aa9ef027f3c6319a6d"
+    },
+    {
+      "path": "school-scheduling/scripts/adjust_schedule.py",
+      "bytes": 5449,
+      "sha256": "fe81f48103d21e7aa54ea45bed3ff44db6bf00eaf1ee26121dfeb9373711f5f5"
+    },
+    {
+      "path": "school-scheduling/scripts/benchmark.py",
+      "bytes": 3802,
+      "sha256": "b2b55d0763adb346fcec9c473554475a59c9a4ae033e745c8f8e4f27f770fc5d"
+    },
+    {
+      "path": "school-scheduling/scripts/build_assets.py",
+      "bytes": 8125,
+      "sha256": "5f82e176c942f7484560d770977a4f23fd5b530bfa9b82c1918fc67432a405fb"
+    },
+    {
+      "path": "school-scheduling/scripts/cli.py",
+      "bytes": 7081,
+      "sha256": "c9f595f49ffc57680b869e7cc6e85f4260e7cf25eac669b1babedb775766182d"
+    },
+    {
+      "path": "school-scheduling/scripts/common.py",
+      "bytes": 2484,
+      "sha256": "239127c672fd70a2086ec3c5bee570f941d44df8088a0c129742d90ca0b726f2"
+    },
+    {
+      "path": "school-scheduling/scripts/cp_sat_scheduler.py",
+      "bytes": 16564,
+      "sha256": "d5531ff939f9e8be1d78086600cbdde9119a7a4cb978b7eb48b27a23f6c6643a"
+    },
+    {
+      "path": "school-scheduling/scripts/excel_io.py",
+      "bytes": 15195,
+      "sha256": "f5e79e7cf07503e46167814b84c1cac6044e6bddaac05fc24726732c301ee367"
+    },
+    {
+      "path": "school-scheduling/scripts/expand_calendar.py",
+      "bytes": 3108,
+      "sha256": "c5855b395e42c805c8744f2e0062dcd0d872b9e1185dc05b9bfbc6d414f32d90"
+    },
+    {
+      "path": "school-scheduling/scripts/model_data.py",
+      "bytes": 11227,
+      "sha256": "c2f084ec23df5214642e4408e56b9c1574df76db4e6a26d98d102bc2d5a439ee"
+    },
+    {
+      "path": "school-scheduling/scripts/normalize_input.py",
+      "bytes": 10995,
+      "sha256": "2a19b52f0b3ae976daebfb966cacc70586af82641e6ede13a3b7a159ec74c3c5"
+    },
+    {
+      "path": "school-scheduling/scripts/onboarding.py",
+      "bytes": 5375,
+      "sha256": "ea4d2d3632df003c205734b4ae6511fda76d3687e68a819f53d678e0d06b5b3b"
+    },
+    {
+      "path": "school-scheduling/scripts/package_release.py",
+      "bytes": 3272,
+      "sha256": "97a611d5b21f1ed740ec9a42c673a8c78e9dc40ac89606614cfa0ef520138699"
+    },
+    {
+      "path": "school-scheduling/scripts/precheck.py",
+      "bytes": 982,
+      "sha256": "5fcb77c5f2c544358f39ed24d46a18a07a27029297ab019d24532ff360b77c6c"
+    },
+    {
+      "path": "school-scheduling/scripts/quality.py",
+      "bytes": 3392,
+      "sha256": "3b9665194062f2780abcbb2dae5664f86c3dc28bd765d943eb144caab7d6e14d"
+    },
+    {
+      "path": "school-scheduling/scripts/rule_spec.py",
+      "bytes": 1296,
+      "sha256": "25ebe44f92680df6f2a8fd14202341a6be1fb99585c3cec79499b0321d814154"
+    },
+    {
+      "path": "school-scheduling/scripts/run.ps1",
+      "bytes": 826,
+      "sha256": "ce05700dc1fd5f8f3ba51287f357458f43e0100ea0b60e73db2476a37972eaa7"
+    },
+    {
+      "path": "school-scheduling/scripts/setup.ps1",
+      "bytes": 1970,
+      "sha256": "67a538e58c41dc29d3071ab297bfe0a0ecbfef0df2799e9ebf33faa6d2c9d83e"
+    },
+    {
+      "path": "school-scheduling/scripts/validate_schedule.py",
+      "bytes": 22728,
+      "sha256": "f057badc69b5ab6b31aa089d553f5dd26eafa4d716949017dc599db701ecb15d"
+    },
+    {
+      "path": "school-scheduling/tests/test_onboarding.py",
+      "bytes": 2188,
+      "sha256": "55fd22f0720c68a463c15d438eec53211427272b1f5f1ebeef5ba0d424da7c9d"
+    },
+    {
+      "path": "school-scheduling/tests/test_release.py",
+      "bytes": 3066,
+      "sha256": "d82ef37bf0276d9f2edae1f1eb543961788e0ee6487c8d9a01612d381fa5a2cc"
+    },
+    {
+      "path": "school-scheduling/tests/test_workflow.py",
+      "bytes": 19855,
+      "sha256": "069159f1d119a1f6ed4e827840bd7b5902f36c6bdc762eb80cbd10bc3b24b6e1"
+    },
+    {
+      "path": "tests/self_test.py",
+      "bytes": 2257,
+      "sha256": "52492acf610ff6b3beb69e71c84b539b60441c0f22fa44134de00b9167a11c21"
+    },
+    {
+      "path": "tests/.grade6_runtime/ledger.json",
+      "bytes": 328,
+      "sha256": "9184c22ad8961cc92135329fe343731bc00371e9b8397f9b820098b4def4576b"
+    },
+    {
+      "path": "tests/.grade6_runtime/practices.json",
+      "bytes": 818,
+      "sha256": "e760d4c10dc443295c2a7e6bf5058694884a801d4e7a35a4d7909233f1e6d77e"
+    },
+    {
+      "path": "tests/.grade6_runtime/profiles.json",
+      "bytes": 278,
+      "sha256": "f458eb878a44196d1182784306743b88d5bc13e0faa6ff406144ad67d74fa7a1"
+    },
+    {
+      "path": "tests/.grade6_runtime/outputs/PB-20261027-01.html",
+      "bytes": 3135,
+      "sha256": "9d3183aa729e1cb08a9cbaafa387706f005dc03b31e26fb1c50d0c1eea547c86"
+    },
+    {
+      "path": "tests/.grade_1_runtime/ledger.json",
+      "bytes": 2500,
+      "sha256": "88a6fe181ab0467722981834ae963a07eebc2ceed4a69683fba7bbca811258a1"
+    },
+    {
+      "path": "tests/.grade_1_runtime/practices.json",
+      "bytes": 5804,
+      "sha256": "9d680356d4b9321343718afeaa420e0741738a1721cc66c4d6ff8c80619e033a"
+    },
+    {
+      "path": "tests/.grade_1_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "d6325ababfb5fdb2271b444b6db683bf6a764d12dfe47fa14bdb56c78b016273"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3021,
+      "sha256": "a79e741c2b97b83ff81c296f7e3b55b55c536ac54c5bcd602ab975a5768585e5"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3023,
+      "sha256": "2a5bfb9ab43e99b56f2357046d47a56eafe4cea79cd8ae789c43dee4ece660a5"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3021,
+      "sha256": "1bb2e0f1092d1e082e55096aa8c88f3eef38e1bc972bea160bfbcf6604c8baa3"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3023,
+      "sha256": "bf57695c906788ff71c4f91f0cfdbb0c6404ef57964d1ec28d997c19257d07f1"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261005-01.html",
+      "bytes": 3023,
+      "sha256": "8b70061eb60741728301ebb8c6ca266fe28314d597e6de9023c396cae2080ba9"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3023,
+      "sha256": "4b5f0a1a71fdc1ea7aa680e96fdbbc7db267362901c1a728e92ff61e141f6b2d"
+    },
+    {
+      "path": "tests/.grade_1_runtime/outputs/PB-20261007-01.html",
+      "bytes": 2993,
+      "sha256": "64ebf7b71b19362dc4162e73fdc20187e284739f1398c6b76c3e89611ab6f085"
+    },
+    {
+      "path": "tests/.grade_2_runtime/ledger.json",
+      "bytes": 2500,
+      "sha256": "c660d4529c7f507d61e56b89ffc1877ae162407ecb0b224584fc3c17df23dd79"
+    },
+    {
+      "path": "tests/.grade_2_runtime/practices.json",
+      "bytes": 5804,
+      "sha256": "ac0371c1d878eede4f47b282b37cd5e595af130f76da9a15f3f78276d3747039"
+    },
+    {
+      "path": "tests/.grade_2_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "ff0f42513147bfda70e43422cac93d9ac8366d9ee7272be68b404336cce6d0c2"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3014,
+      "sha256": "2bfcc1ec0bae090c154ab63137ad55918a8214819e7f6708eed4f07ff296f38c"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3014,
+      "sha256": "6353e1ad08f89e7bde7a50c1a4e0938c747b19e68c554af76aef88822fa75b0b"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3012,
+      "sha256": "807da7ae2c2a5ad90d023b28414b95b19eed567223165603f0c442cb9a36f4b5"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3014,
+      "sha256": "b401f9bafc924d0d6e32a8e1dc5141a0ee3d8c1824a5e5ceb7b0882da142b62d"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261005-01.html",
+      "bytes": 3014,
+      "sha256": "3148926a9e9881385827d1ecb8961556ace259e5559db090212ae8d69afa2552"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3014,
+      "sha256": "8e1c1c8982fc7c913e86f1e6000a15d8b76f4f2b56d0878c493abcc6b4f03959"
+    },
+    {
+      "path": "tests/.grade_2_runtime/outputs/PB-20261007-01.html",
+      "bytes": 2984,
+      "sha256": "ace50c59e2b5566d8a273d223b834f2cb048cb23d8d9dea826e7d444bee34220"
+    },
+    {
+      "path": "tests/.grade_3_runtime/ledger.json",
+      "bytes": 2500,
+      "sha256": "f2a8817c9d5e10411cde3bc80e8a7a67f6e609479c3fc2f1fd7170fa35204c88"
+    },
+    {
+      "path": "tests/.grade_3_runtime/practices.json",
+      "bytes": 5804,
+      "sha256": "65f1316bbc80ccaec17797557777d735106e3d03aa53188e1100b17206a21512"
+    },
+    {
+      "path": "tests/.grade_3_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "351477be4ab76fb850019310dfb5666320ef4b0b6d483590be9f1a21bfe26428"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3015,
+      "sha256": "8e9742ec1d4a9a250cb35acbba412fbd5c29e0d54624252e7d3e44d345953926"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3015,
+      "sha256": "865120a1e74ddd31c2c0690a7c03cd29e48af3bc9e133dd1560c56f07598633c"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3013,
+      "sha256": "5b6243bb294ca9a8d633bc5693f3ef55981c6dd68e6f9fc81b957b091037611a"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3015,
+      "sha256": "6be7e52fe28413c43f71a1d3883d70a5aa9009f2ddb6a6934246d23bbe6a777f"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261005-01.html",
+      "bytes": 3015,
+      "sha256": "c0adf31821271d0d1da7302824a1f94aa05a0270737983b432090869def64e39"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3015,
+      "sha256": "8f8e1ae40fe8282ffc15cbe6faff6bd8949b21d175c34fe54593cbe8890294aa"
+    },
+    {
+      "path": "tests/.grade_3_runtime/outputs/PB-20261007-01.html",
+      "bytes": 2985,
+      "sha256": "387b53df60a23abd985d26887672033ae31b0ed095dc7f59b364fc382427ebbe"
+    },
+    {
+      "path": "tests/.grade_4_runtime/ledger.json",
+      "bytes": 2229,
+      "sha256": "c0475b8e915bd251ec51452b75dfb6a698f8b1708f157064a8a6ddda28691bf2"
+    },
+    {
+      "path": "tests/.grade_4_runtime/practices.json",
+      "bytes": 5498,
+      "sha256": "a56c98829c9e5761cbf15ba0ade20437df31510fb4c2c7aef3aa367b2f3b0199"
+    },
+    {
+      "path": "tests/.grade_4_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "b47d740e3f3697742a669cc02b5abfd3b98babe8549073678e675254613237e7"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3076,
+      "sha256": "d54c4d79a1ad0123fe604ce7acc8df0a2c5157b89fa161706a283e5e73935554"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3098,
+      "sha256": "6478b568878c6c1577f6c14a211f515c5484fa6db37e798058631be83de2ae1b"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3076,
+      "sha256": "0e6bfc0849f46d0dd9b32699ce3f22b279cc74125fe740473bf1fd878c085a98"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3110,
+      "sha256": "e1c25e198150f8296c4e4555e07afde14b6359381409e6775690532fc6e8638e"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261005-01.html",
+      "bytes": 3100,
+      "sha256": "206984633ce8a736bee016d864c51019a3c1ba6fa86483c557fefde8bacd5b37"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3076,
+      "sha256": "59b5f2347452075c5087e45006a3f498e5b039e5f4362c6ed029092cc2876c6c"
+    },
+    {
+      "path": "tests/.grade_4_runtime/outputs/PB-20261007-01.html",
+      "bytes": 3044,
+      "sha256": "2fbc120aa90b41bb3e9d9f9faa07e5877ab569cd24271299005b7a89b5014d6f"
+    },
+    {
+      "path": "tests/.grade_5_runtime/ledger.json",
+      "bytes": 2500,
+      "sha256": "b3159dcbc9bea837b35dd9d6803b21a2101c6f7b7b0582ed6d12304025fab86f"
+    },
+    {
+      "path": "tests/.grade_5_runtime/practices.json",
+      "bytes": 5804,
+      "sha256": "015bbe139b9c47ca47bbb1557cef94d4b1ae18877b1807a39cec9ccfe1af3d5b"
+    },
+    {
+      "path": "tests/.grade_5_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "d292eb15c200e02e774aaa79e0547ee8f9af5e88f0a0726597402bbaf5c6248e"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3026,
+      "sha256": "1ab8b511897de601d20ee9ad44419f33c9c794a17c25ead5f486ad3d47f8cca6"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3026,
+      "sha256": "3d0943a6a554253d4ad81b3802224716d9bb77b00d42d1bd9afcf0c64ef0546d"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3024,
+      "sha256": "8304014ba6440959259ba0d6d33db98e543aed428443d9d6e57f6fd5d1d78be9"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3026,
+      "sha256": "3eb5b719abf263530be626ab2ecc80cdf94263fbad186e8a40c6e3121f60c3f9"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261005-01.html",
+      "bytes": 3026,
+      "sha256": "117f6d492599f96f249316c822309e1a60225cf0b002137e079299d0b9ecbc7c"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3026,
+      "sha256": "cf9e2d0a569492154110c71f8c1786016ae105fea2b02c95f0c692fc30449f52"
+    },
+    {
+      "path": "tests/.grade_5_runtime/outputs/PB-20261007-01.html",
+      "bytes": 2996,
+      "sha256": "3bd5de0ad25b3e6a8e2505d5a2f72bf8a12276e7b9bfc9c248c956ebfaa0f073"
+    },
+    {
+      "path": "tests/.grade_6_runtime/ledger.json",
+      "bytes": 2293,
+      "sha256": "330a7671c01975250e3fd840904eb916b87853e91f82b0da1af31c02705a550f"
+    },
+    {
+      "path": "tests/.grade_6_runtime/practices.json",
+      "bytes": 5570,
+      "sha256": "cb2c4e2e539c9ce277f1444d9e162cd0b54d3470363016c852b917a551505c6d"
+    },
+    {
+      "path": "tests/.grade_6_runtime/profiles.json",
+      "bytes": 271,
+      "sha256": "48151e8ffb6775e04f614a6e531a6660d1a0601b6abbe367f102b2c22a1b9409"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261001-01.html",
+      "bytes": 3104,
+      "sha256": "2e8562ee1b9150f6881703c4488a36d49d2db71a204c0bc9f46d7d5944b7a31a"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261002-01.html",
+      "bytes": 3103,
+      "sha256": "92461df79c797739d197aa2e46533887d095f840cf89282bded39d0704c7a092"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261003-01.html",
+      "bytes": 3105,
+      "sha256": "3192e56ec04334e31975f72c963f49db5e45e28aeff29dc62745119fe4a547ed"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261004-01.html",
+      "bytes": 3107,
+      "sha256": "e5247bfb76c206c364613317b29fedec69e32d731e7a09e7f046a7f3cb4775ae"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261005-01.html",
+      "bytes": 2999,
+      "sha256": "6635b4f70c18e8c946bd32b0704434bab437e61065d34611d43b4303fbe240b6"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261006-01.html",
+      "bytes": 3032,
+      "sha256": "bd55eab4fa81729e35771f71c0c77730bccfb243a4df64da0e9fd92fd9edb29d"
+    },
+    {
+      "path": "tests/.grade_6_runtime/outputs/PB-20261007-01.html",
+      "bytes": 3025,
+      "sha256": "79ad8c32c89a7435be2fef75c73d3c47d6c6fa450caf80a5facebd1fe464066b"
+    },
+    {
+      "path": "tests/.runtime_data/feedback.json",
+      "bytes": 5329,
+      "sha256": "1a5cfdb89b471a7403868f3fbc26fa3d925878ea5986168cf973be3342fe337d"
+    },
+    {
+      "path": "tests/.runtime_data/ledger.json",
+      "bytes": 2257,
+      "sha256": "9b64f1f44e1250ff76e5e1fca61940df0f8e550752f9044fd31465f14340c03e"
+    },
+    {
+      "path": "tests/.runtime_data/practices.json",
+      "bytes": 5823,
+      "sha256": "a5d29ee667dfca4aaf6b340a26bb8204c11477cec436b026c97063b707ad68f9"
+    },
+    {
+      "path": "tests/.runtime_data/profiles.json",
+      "bytes": 275,
+      "sha256": "e1a3208b7d946c79fcb0bb596af68cc290ea7118bbbcc8081ce9d73f0788c15c"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261001-01.html",
+      "bytes": 3104,
+      "sha256": "d84b7526397cc78e17e03dfed19d6da2a27df6ff3506335c2291bff462a2e602"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261002-01.html",
+      "bytes": 3126,
+      "sha256": "1ac327b05182d42cc9e581a9852303b1304d5314fb2de61b3ffb2ff552f2f704"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261003-01.html",
+      "bytes": 3109,
+      "sha256": "906a4f741d7819fe8d277cdbe6903cf2922e93edf99c0ff90ad341dbf02fcf9e"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261004-01.html",
+      "bytes": 3163,
+      "sha256": "983436c3318c64b5513a13d4adebce352508a89ef980aa415c4ac24269054185"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261005-01.html",
+      "bytes": 3161,
+      "sha256": "1d7c64156e39161cf8e9c7722b7db92800f55e85efd7748735affc664b0b3886"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261006-01.html",
+      "bytes": 3172,
+      "sha256": "e2ec590e343da1ecde7eedee91e6804df1b73a171e8e05f7d292b9b400cc6fef"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/PB-20261007-01.html",
+      "bytes": 3114,
+      "sha256": "3ebd897d8c7e472d42f77aa2f8028373e0847ed6669035e81d3b204b949fc36a"
+    },
+    {
+      "path": "tests/.runtime_data/outputs/测试孩子_2026-W40_周报.md",
+      "bytes": 299,
+      "sha256": "9b594451937a362d4e1f620c32aaa0ca26daf33583daf39d3af01cc680870bb5"
+    },
+    {
+      "path": "workbuddy-context-audit/SKILL.md",
+      "bytes": 1423,
+      "sha256": "76a8bc0e3509d63914dab9b018aa97e97e6ac48b977e1bd32b396ca6e35134ca"
+    },
+    {
+      "path": "workbuddy-context-audit/scripts/audit.py",
+      "bytes": 3999,
+      "sha256": "5f07de7fe9fac1f399a30e3405c16b6e3bd8a64619281996908a9ccb99484fb6"
+    },
+    {
+      "path": "workbuddy-context-audit/scripts/package_release.py",
+      "bytes": 2241,
+      "sha256": "c9b692facec6bb61be2e31b1ab47646832882e59b3c0de343ea5a933939e1280"
+    },
+    {
+      "path": "workbuddy-local-business-expert/SKILL.md",
+      "bytes": 2508,
+      "sha256": "5e34d2d96ff655581836b1255d81a9028f41f721263dcdd976e9595b54cfe83a"
+    },
+    {
+      "path": "workbuddy-local-business-expert/.codebuddy-plugin/plugin.json",
+      "bytes": 1946,
+      "sha256": "da9f50b8fb255be25019592374189c280c6eeb9d007f22f3f15175c4b79e0c94"
+    },
+    {
+      "path": "workbuddy-local-business-expert/agents/local-business-acquisition-expert.md",
+      "bytes": 1602,
+      "sha256": "116b179e19cbdcb304527fcfad97aa7fa21471d8513beb2d538dcb7e72b0d889"
+    },
+    {
+      "path": "workbuddy-local-business-expert/avatars/local-business-expert.png",
+      "bytes": 490047,
+      "sha256": "3dbc3d336ce04e94eea9b34e7b50284447967c55078eb59df85f94de0ab74171"
+    },
+    {
+      "path": "workbuddy-local-business-expert/scripts/common.py",
+      "bytes": 1760,
+      "sha256": "4f33ac3265cdc5c1477f51414a2c3649eba74f4415d24233defd68af22d2bf29"
+    },
+    {
+      "path": "workbuddy-local-business-expert/scripts/generate_plan.py",
+      "bytes": 4717,
+      "sha256": "032ebf99c77429ddb7f89be130845de9ee1e08543dc20025128be744b1131331"
+    },
+    {
+      "path": "workbuddy-local-business-expert/scripts/manage_store.py",
+      "bytes": 2696,
+      "sha256": "e0c07a4885d585c7e8b291449c02a6ee19b5bbdab55986f6f2298b7e243dc3dc"
+    },
+    {
+      "path": "workbuddy-local-business-expert/scripts/record_review.py",
+      "bytes": 3516,
+      "sha256": "a47f560ca3211735ad44b4728ec5304c21e9c0acc81f28f1b4af887fff919241"
+    },
+    {
+      "path": "workbuddy-local-business-expert/skills/local-business-acquisition/SKILL.md",
+      "bytes": 2526,
+      "sha256": "cb91e935d0959fd1e9acf1d72994377843f4552c0f18e405ddde300a03b7ac7c"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/self_test.py",
+      "bytes": 2000,
+      "sha256": "22730b23b74178da00adaffe048ba2750c3c67fad2c1ec6127296ac344e043c9"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/.runtime_data/plans.json",
+      "bytes": 309,
+      "sha256": "3a4da23011f914e242acfd8edff456c3ab20bd2a76e25c478233ac9563ff39ef"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/.runtime_data/reviews.json",
+      "bytes": 359,
+      "sha256": "cb9647a23f60fa88442a733684b88bedf99fdbf10a0addb92df60b8cf5d93cc1"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/.runtime_data/stores.json",
+      "bytes": 419,
+      "sha256": "64f1e9619106363e1030dd0eebc4b342e445d696237f642b45435e04c6592706"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/.runtime_data/outputs/WBA-20261027-001-day1-review.md",
+      "bytes": 217,
+      "sha256": "738793b154d1b7b3b5be2729a8818c3fa585a25ebda7202bdbb419783ff743bd"
+    },
+    {
+      "path": "workbuddy-local-business-expert/tests/.runtime_data/outputs/WBA-20261027-001.md",
+      "bytes": 3564,
+      "sha256": "204481c03f237791e1b713521923edb7b83a20e860806873325e12cc9409aa07"
+    },
+    {
+      "path": "workbuddy-migration-audit/SKILL.md",
+      "bytes": 1856,
+      "sha256": "9c663abf9d3342b932716208a4ae0bdcc4e5bb4758b036dee0b5e8a5fc25ce36"
+    },
+    {
+      "path": "workbuddy-migration-audit/scripts/compare.py",
+      "bytes": 3007,
+      "sha256": "da3da544d49056b451ee69906c798b4bb3f5c7f42530394e079e5bb232c49dcb"
+    },
+    {
+      "path": "workbuddy-repeat-audit/SKILL.md",
+      "bytes": 1675,
+      "sha256": "03c48d45cf2f862768d91b6b4bdf5043efa48e543a78a60c8424c57a44019be8"
+    },
+    {
+      "path": "workbuddy-repeat-audit/scripts/audit.py",
+      "bytes": 1856,
+      "sha256": "2d25ad7dc202cd994d373a10b60e3012281f0c9c3ba38bc4da09aea7d3fb92f8"
+    },
+    {
+      "path": "workbuddy-storage-audit/SKILL.md",
+      "bytes": 1192,
+      "sha256": "16e83279cb217013d0252227760daf924ac5ae30ef9a893c4b804e303071349b"
+    },
+    {
+      "path": "workbuddy-storage-audit/scripts/audit.py",
+      "bytes": 4743,
+      "sha256": "9922f3b6c07d9d0b93a184e3ba3ed5cf5fbb34fbf4ab66780e2abeb14ad93454"
+    },
+    {
+      "path": "workbuddy-task-config-audit/SKILL.md",
+      "bytes": 2048,
+      "sha256": "653c13d9abf254ac303e13b4eb03b9ba89bdcbaff02d40d3c52ca36df758e689"
+    },
+    {
+      "path": "workbuddy-task-config-audit/scripts/audit.py",
+      "bytes": 2325,
+      "sha256": "f7cb51fede5203b69c92e9d0bcfe23ae9525750a798fc40165a86df286bb92e7"
+    }
+  ],
+  "excluded_directories": [
+    ".venv-school-scheduling",
+    ".qa-school-scheduling/onboarding-1.0.3/school-scheduling/scripts/__pycache__",
+    ".qa-school-scheduling/release-1.0.2/school-scheduling/scripts/__pycache__",
+    ".qa-school-scheduling/unpacked/school-scheduling/.venv",
+    ".qa-school-scheduling/unpacked/school-scheduling/scripts/__pycache__",
+    ".qa-school-scheduling/unpacked/school-scheduling/tests/__pycache__",
+    ".qa-school-scheduling/排课测试_20261103_213431/release/school-scheduling/scripts/__pycache__",
+    "artifact-verifier/scripts/__pycache__",
+    "automation-handoff/__pycache__",
+    "automation-handoff/2026-11-20/build/.venv",
+    "automation-handoff/2026-11-20/build/__pycache__",
+    "automation-verifier/scripts/__pycache__",
+    "automation-verifier/tests/__pycache__",
+    "learning-coach/scripts/__pycache__",
+    "meeting-action-tracker/scripts/__pycache__",
+    "meeting-action-tracker/tests/__pycache__",
+    "reimbursement-draft/scripts/__pycache__",
+    "reimbursement-draft/tests/__pycache__",
+    "school-scheduling/scripts/__pycache__",
+    "school-scheduling/tests/__pycache__",
+    "workbuddy-local-business-expert/scripts/__pycache__",
+    "workbuddy-migration-audit/scripts/__pycache__",
+    "workbuddy-repeat-audit/scripts/__pycache__",
+    "workbuddy-task-config-audit/scripts/__pycache__"
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "args": [
+      "precheck",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\试排输入.json",
+      "--report",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\precheck.json"
+    ],
+    "code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "solve",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\试排输入.json",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\solution.json",
+      "--time-limit",
+      "120"
+    ],
+    "code": 0,
+    "stdout": "{\"status\": \"OPTIMAL\", \"candidate_count\": 3600, \"elapsed_seconds\": 4.219, \"diagnostics\": []}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "validate",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\solution.json",
+      "--report",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\validation.json"
+    ],
+    "code": 0,
+    "stdout": "{\"valid\": true, \"ready_for_acceptance\": false}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "export",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\solution.json",
+      "--validation",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\validation.json",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114\\真实2-3班试排.xlsx",
+      "--draft"
+    ],
+    "code": 0,
+    "stdout": "{\"version\": \"1.0.0\", \"input_hash\": \"e00e7aad4329b3d6b4241ad00cbe6cbe54a68a3efc6f8bae03dee96fd8f12625\", \"solution_hash\": \"c0da8aa48fcb491758c2eca08c81765ea7ef9243f4f884892afd3fadce52321a\", \"output\": \"D:\\\\codex_work\\\\projects\\\\wrokbuddy变现开发\\\\.qa-school-scheduling\\\\真实教师表测试_20261103_214114\\\\真实2-3班试排_未通过校验.xlsx\", \"file_sha256\": \"d77b4b4288de445d26c74f07d466c2241c9d8c67ba95ff529364affa0232305e\", \"parameters\": {\"time_limit\": 120.0, \"workers\": 1, \"seed\": 0}, \"layers\": [{\"tier\": null, \"status\": \"OPTIMAL\", \"value\": 0, \"bound\": 0.0}], \"delivery_status\": \"有限范围通过\"}\n",
+    "stderr": ""
+  }
+]

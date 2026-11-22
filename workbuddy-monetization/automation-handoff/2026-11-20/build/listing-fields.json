@@ -1,0 +1,33 @@
+{
+  "asset_id": "os_52efb5f1213b6d5a",
+  "version": "1.0.1",
+  "action": "optimize_listing",
+  "state": "draft_ready",
+  "online_original_fields": null,
+  "online_original_state": "not_verified",
+  "local_original_source": "D:\\codex_work\\projects\\wrokbuddy变现开发\\learning-coach\\SKILL.md",
+  "local_description_zh": "为一至六年级孩子生成可打印的数学逻辑与解决问题练习，记录作答反馈，并提供自适应训练建议与学习周报。",
+  "draft_file": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\learning-coach-listing.md",
+  "proposed_fields": [
+    "适用场景 / Who it is for",
+    "首次交付示例 / Your first delivery"
+  ],
+  "platform_field_names_verified": false,
+  "execution_authorized": false,
+  "draft_authorized": true,
+  "price_cny": 8,
+  "price_change": false,
+  "baseline": {
+    "observed_at": "2026-11-20T12:14:09.692590+08:00",
+    "window": "7天",
+    "installs": 2,
+    "calls": 37,
+    "active_users": 32,
+    "cumulative_observed_bills": 2,
+    "impressions": null,
+    "detail_views": null
+  },
+  "bilingual_review": "中文与英文场景、题量、年级、交付格式、能力边界一致；英文明确实际练习为简体中文",
+  "validation_file": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\build\\validation.json",
+  "next_action": "04仅登记草稿；先核实平台原文与修改字段，当前执行授权标记false，不据此直接修改线上。"
+}

@@ -1,0 +1,27 @@
+test_22class_capacity (test_workflow.Workflow.test_22class_capacity) ... ok
+test_calendar_exceptions_and_rotation (test_workflow.Workflow.test_calendar_exceptions_and_rotation) ... ok
+test_cancel_makeup_and_version (test_workflow.Workflow.test_cancel_makeup_and_version) ... ok
+test_changed_activity_status_and_rotation_missing_teacher (test_workflow.Workflow.test_changed_activity_status_and_rotation_missing_teacher) ... ok
+test_duplicate_missing_and_malformed_assignments (test_workflow.Workflow.test_duplicate_missing_and_malformed_assignments) ... ok
+test_excel_and_stale_report (test_workflow.Workflow.test_excel_and_stale_report) ... ok
+test_excluded_dates_do_not_drop_weekly_quota (test_workflow.Workflow.test_excluded_dates_do_not_drop_weekly_quota) ... ok
+test_fixed_conflict_and_unavailable (test_workflow.Workflow.test_fixed_conflict_and_unavailable) ... ok
+test_four_scenarios (test_workflow.Workflow.test_four_scenarios) ... ok
+test_hard_gap_and_priority_bottom_line (test_workflow.Workflow.test_hard_gap_and_priority_bottom_line) ... ok
+test_import_errors_have_locations (test_workflow.Workflow.test_import_errors_have_locations) ... ok
+test_interval_student_and_resource_conflicts (test_workflow.Workflow.test_interval_student_and_resource_conflicts) ... ok
+test_partial_coverage_blocks_final_export (test_workflow.Workflow.test_partial_coverage_blocks_final_export) ... ok
+test_qualification_seats_buffer_and_workload (test_workflow.Workflow.test_qualification_seats_buffer_and_workload) ... ok
+test_rule_layers_match_independent_metrics (test_workflow.Workflow.test_rule_layers_match_independent_metrics) ... ok
+test_student_availability_and_split_parallel (test_workflow.Workflow.test_student_availability_and_split_parallel) ... ok
+test_swap_lock_and_replan (test_workflow.Workflow.test_swap_lock_and_replan) ... ok
+test_template_roundtrip (test_workflow.Workflow.test_template_roundtrip) ... ok
+test_timeout_and_cli (test_workflow.Workflow.test_timeout_and_cli) ... ok
+test_travel_and_external_conflict (test_workflow.Workflow.test_travel_and_external_conflict) ... ok
+test_unknown_rules_and_ids (test_workflow.Workflow.test_unknown_rules_and_ids) ... ok
+test_variable_length_cancel (test_workflow.Workflow.test_variable_length_cancel) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 12.770s
+
+OK

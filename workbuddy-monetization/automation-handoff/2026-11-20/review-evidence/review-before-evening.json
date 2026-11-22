@@ -1,0 +1,666 @@
+{
+  "date": "2026-11-20",
+  "stage": "05-review",
+  "generated_at": "2026-11-20T12:14:09.692590+08:00",
+  "state": "partial",
+  "items": [
+    {
+      "demand_id": "WB-20261116-01",
+      "type": "research",
+      "state": "blocked",
+      "evidence": [
+        "https://www.workbuddy.cn/docs/workbuddy/Buddy-One/Credits"
+      ],
+      "next_action": "Use a sanitized monthly statement to validate standalone reconciliation."
+    },
+    {
+      "demand_id": "WB-20261113-01",
+      "type": "skill",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": 19,
+      "payment_mode": "one_time",
+      "platform_last_edit": "2026-11-18T17:09:00+08:00",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。",
+      "submitted_this_run": false,
+      "action": "research",
+      "priority": "P3",
+      "title": "定时任务上下文体检",
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00"
+    },
+    {
+      "demand_id": "WB-20261112-01",
+      "type": "skill",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.1",
+      "state": "published",
+      "price_cny": 19,
+      "payment_mode": "one_time",
+      "platform_last_edit": "2026-11-18T17:08:00+08:00",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。",
+      "submitted_this_run": false,
+      "action": "research",
+      "priority": "P3",
+      "title": "工作空间膨胀体检",
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00"
+    },
+    {
+      "demand_id": "legacy-os_f31dca6b57cff4e2",
+      "asset_id": "os_f31dca6b57cff4e2",
+      "version": "1.0.1",
+      "state": "published",
+      "type": "skill",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。",
+      "title": "报销底稿-单据预审版",
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00"
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "queued",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "为两款成交资产准备可直接填写的草稿，交接原字段和拟改字段。",
+      "orders_observed": 1,
+      "order_date": "2026-11-16",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "net_income": null,
+      "priority": "P1",
+      "action": "research",
+      "baseline": {
+        "observed_orders": null,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "pricing_basis": "本轮不改价。",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null
+    },
+    {
+      "demand_id": "WB-20261117-01",
+      "type": "skill",
+      "state": "awaiting_samples",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "D:/codex_work/projects/wrokbuddy变现开发/automation-handoff/2026-11-17/03-build.json"
+      ],
+      "next_action": "待三份授权脱敏会话导出，当前未发现交接样本。",
+      "priority": "P0",
+      "action": "research",
+      "scope": "仅核对授权脱敏会话导出结构和映射",
+      "acceptance": "3份样本均可提取工具名、会话边界和参数结构，说明轮询识别与缺字段；不输出原文或凭据",
+      "dependencies": "3份授权脱敏导出；缺失则转备选",
+      "estimate": "1小时",
+      "fallback": "WB-20261118-01",
+      "pricing_basis": "19 元候选，原型阶段不发布。"
+    },
+    {
+      "demand_id": "WB-20261117-02",
+      "priority": "P1",
+      "action": "prototype",
+      "scope": "仅用本地模拟表单核对字段映射、必填识别和草稿保存。",
+      "acceptance": "映射准确；缺字段时不保存；无发布或其他线上操作。",
+      "dependencies": "自建 HTML 表单和合成草稿。",
+      "estimate": "1–2小时",
+      "proposed_price_cny": 29,
+      "pricing_mode": "买断候选",
+      "pricing_basis": "需求日报建议价。",
+      "next_action": "主项输入受阻时同轮执行。",
+      "type": "skill",
+      "state": "queued",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e7179a4718b45",
+        "https://community.n8n.io/t/free-workflow-json-a-real-human-approval-gate-for-ai-content-drafts-wait-node-slack-approve-reject-7-nodes/317593"
+      ],
+      "title": "本地草稿到后台表单",
+      "paid_signal": "unverified",
+      "domestic_coverage": "有通用自动化供给，专用交付覆盖未确认",
+      "overseas": "n8n community draft approval example posted September 29, outside 7-day window; reference not trend."
+    },
+    {
+      "demand_id": "legacy-oe_fbd13b93107b105e",
+      "type": "expert",
+      "state": "published",
+      "asset_id": "oe_fbd13b93107b105e",
+      "version": "1.0.0",
+      "evidence": [
+        "https://open.workbuddy.cn/expert/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。",
+      "title": "自动化质量巡检",
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00"
+    },
+    {
+      "demand_id": "WB-20261118-01",
+      "type": "skill",
+      "state": "prototype_validated",
+      "title": "前缀稳定性与闲置工具测量",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec7a288173aa2",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1ec3e0bc08eb40",
+        "https://www.workbuddy.cn/docs/workbuddy/Usage",
+        "https://github.com/microsoft/TokenEconomizer/blob/main/docs/PLUGIN.md",
+        "https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/prompt-caching.md",
+        "https://github.com/anthropics/claude-code/issues/53132"
+      ],
+      "next_action": "待真实明细字段样本；不得根据空字段计算命中率。",
+      "pricing_options_cny": [
+        19,
+        39
+      ],
+      "paid_signal": "未验证",
+      "priority": "P1",
+      "action": "research",
+      "scope": "只读核实详细用量是否有缓存计数字段；若无，则验证脱敏配置快照的闲置项盘点",
+      "acceptance": "记录是否可见、字段名及口径；缺字段不报命中率。备选用20条样本检出至少19条正确状态，未知单列",
+      "dependencies": "已授权后台或脱敏账单；本地备选用合成配置及调用记录",
+      "estimate": "1–2小时",
+      "pricing_basis": "19/39 元建议冲突，待真实字段与商品归属明确。",
+      "validation": {
+        "synthetic_correct": 20,
+        "synthetic_total": 20,
+        "cache_field_verified": false
+      }
+    },
+    {
+      "demand_id": "billing-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "confirmed",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "title": "智能学习陪练",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\billing.json"
+      ],
+      "next_action": "将成交及近7天使用指标交分析阶段；保持价格，优先验证学习陪练的场景与首次交付文案。",
+      "paid_orders_observed": 2,
+      "order_time": "2026-11-16T13:15:26+08:00",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "action": "research",
+      "priority": "P1",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "baseline": {
+        "observed_orders": 1,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null,
+      "pricing_basis": "本轮不改价。",
+      "order_events": [
+        {
+          "asset_id": "os_52efb5f1213b6d5a",
+          "time": "2026-11-19T21:02:37+08:00",
+          "bill_amount_cny": "7.92",
+          "status": "pending_settlement"
+        },
+        {
+          "asset_id": "os_52efb5f1213b6d5a",
+          "time": "2026-11-16T13:15:26+08:00",
+          "bill_amount_cny": "7.92",
+          "status": "pending_settlement"
+        }
+      ]
+    },
+    {
+      "demand_id": "billing-os_0c287fd18e58b0ff",
+      "type": "business_metrics",
+      "state": "confirmed",
+      "asset_id": "os_0c287fd18e58b0ff",
+      "version": "1.0.5",
+      "title": "学校与培训机构排课",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\billing.json"
+      ],
+      "next_action": "将成交及近7天使用指标交分析阶段；保持价格，优先验证学习陪练的场景与首次交付文案。",
+      "paid_orders_observed": 1,
+      "order_time": "2026-11-18T11:43:51+08:00",
+      "bill_amount_cny": "8.91",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "action": "research",
+      "priority": "P1",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "baseline": {
+        "observed_orders": 1,
+        "pending_bill_cny": "8.91",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null,
+      "pricing_basis": "本轮不改价。",
+      "order_events": [
+        {
+          "asset_id": "os_0c287fd18e58b0ff",
+          "time": "2026-11-18T11:43:51+08:00",
+          "bill_amount_cny": "8.91",
+          "status": "pending_settlement"
+        }
+      ]
+    },
+    {
+      "demand_id": "WB-20261119-01",
+      "type": "skill",
+      "title": "PPT字体回退体检",
+      "state": "prototype_validated",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f19bee9411675",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f166b7844de9f",
+        "https://github.com/nexu-io/open-design/blob/main/skills/pptx-html-fidelity-audit/references/font-discipline.md",
+        "https://github.com/GoblinEater/PPTX-Font-Audit/blob/main/README.md",
+        "https://github.com/office-kit/pptx/blob/main/CHANGELOG.md",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\pptx-font-audit\\scripts\\audit.py"
+      ],
+      "next_action": "补真实 PPTX 与嵌入字体关系样本，再完成 ZIP、封面和本地发布验收。",
+      "proposed_price_cny": 19,
+      "paid_signal": "unverified",
+      "domestic_gap": "unverified",
+      "overseas_supply": "已有开源字体审计及多语言字体槽位处理。",
+      "scope": "只读解析用户提供的 PPTX：显式字体槽位、主题字体和嵌入关系，中文报告定位到具体 XML 部件。",
+      "action": "prototype",
+      "priority": "P0",
+      "acceptance": "20个构造样本字体引用零漏检；主题继承与未显式ea均标待核实；损坏文件明确报错；输入字节不变。",
+      "dependencies": "本地构造PPTX及可取得的真实样本；无需读系统字体库即可验证提取。",
+      "estimate": "2–4小时",
+      "fallback": "从现有三个已授权本地PPTX抽取字体清单，若无真实样本则用构造样本验证20例并明确覆盖范围。",
+      "pricing_basis": "需求日报建议19元买断；只在完整本地验收通过后进入打包。",
+      "validation": {
+        "synthetic_xml_packages": 20,
+        "font_references_matched": true,
+        "source_unchanged": true,
+        "real_pptx_verified": false,
+        "embedding_relationship_fixtures_tested": false
+      }
+    },
+    {
+      "demand_id": "WB-20261119-02",
+      "type": "skill",
+      "title": "系统行为隐私体检",
+      "state": "observation",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f166b7844de9f"
+      ],
+      "next_action": "只保留观察，不当作已确认隐私问题。",
+      "proposed_price_cny": 9.9,
+      "paid_signal": "unverified",
+      "action": "research",
+      "priority": "P3",
+      "scope": "核实公开设置说明与个体反馈",
+      "acceptance": "取得可核对设置字段和独立需求证据",
+      "dependencies": "实际权限或设置入口及独立反馈",
+      "estimate": "本轮不开发",
+      "fallback": null,
+      "pricing_basis": "9.9元为候选建议"
+    },
+    {
+      "demand_id": "asset-os_6baa99523fe4b3d7",
+      "type": "skill",
+      "asset_id": "os_6baa99523fe4b3d7",
+      "version": "1.0.0",
+      "state": "published",
+      "title": "会议待办拆解追踪",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-os_3b43aaacd20c8cf6",
+      "type": "skill",
+      "asset_id": "os_3b43aaacd20c8cf6",
+      "version": "1.0.5",
+      "state": "published",
+      "title": "任务产物验收-标准版",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-os_0c287fd18e58b0ff",
+      "type": "skill",
+      "asset_id": "os_0c287fd18e58b0ff",
+      "version": "1.0.5",
+      "state": "published",
+      "title": "学校与培训机构排课",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-os_0eff5b43a5a7e038",
+      "type": "skill",
+      "asset_id": "os_0eff5b43a5a7e038",
+      "version": "1.0.0",
+      "state": "published",
+      "title": "对照校审（基准唯一版）",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-os_52efb5f1213b6d5a",
+      "type": "skill",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "state": "published",
+      "title": "智能学习陪练",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-os_6efe644b235b2813",
+      "type": "skill",
+      "asset_id": "os_6efe644b235b2813",
+      "version": "1.0.0",
+      "state": "published",
+      "title": "自动化任务验真巡检",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "asset-oe_a04fff43e6c321af",
+      "type": "expert",
+      "asset_id": "oe_a04fff43e6c321af",
+      "version": "1.0.3",
+      "state": "published",
+      "title": "本地美业获客专家",
+      "evidence": [
+        "https://open.workbuddy.cn/expert/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\platform-status.json"
+      ],
+      "status_verified_at": "2026-11-20T12:14:09.692590+08:00",
+      "next_action": "继续观测真实使用和经营数据；首次运行未在本轮验证。"
+    },
+    {
+      "demand_id": "FLOW-20261120-01",
+      "type": "automation_verification",
+      "state": "partial",
+      "evidence": [
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\validation.json",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\verification\\report.md"
+      ],
+      "next_action": "观察修正后的完整定时运行；记录周目标生产消费、补跑以及真实发布证据。",
+      "known_gaps": [
+        "2026-11-19缺05交接，未补造历史记录",
+        "尚无正式06周复盘文件",
+        "周目标共享协议已保存，尚无实际调度运行证据",
+        "PPTX仍缺真实样本、嵌入字体用例和ZIP封面"
+      ]
+    }
+  ],
+  "inputs": [
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-16\\05-review.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\01-collect.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\02-analysis.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\03-build.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\04-release.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\01-collect.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\02-analysis.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\03-build.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\04-release.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\01-collect.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\02-analysis.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\03-build.json",
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\04-release.json"
+  ],
+  "today_upstream": {
+    "state": "no_input",
+    "reason": "检查发生在今日13:00收集前，01至04尚未到时；继续回查历史。"
+  },
+  "business_summary": {
+    "observed_at": "2026-11-20T12:14:09.692590+08:00",
+    "source": "https://open.workbuddy.cn/monetization",
+    "platform_cumulative_income_cny": "24.75",
+    "account_balance_cny": "24.87",
+    "withdrawable_cny": "0",
+    "payer_count": 3,
+    "bills_observed": 3,
+    "orders": [
+      {
+        "asset_id": "os_52efb5f1213b6d5a",
+        "time": "2026-11-19T21:02:37+08:00",
+        "bill_amount_cny": "7.92",
+        "status": "pending_settlement"
+      },
+      {
+        "asset_id": "os_0c287fd18e58b0ff",
+        "time": "2026-11-18T11:43:51+08:00",
+        "bill_amount_cny": "8.91",
+        "status": "pending_settlement"
+      },
+      {
+        "asset_id": "os_52efb5f1213b6d5a",
+        "time": "2026-11-16T13:15:26+08:00",
+        "bill_amount_cny": "7.92",
+        "status": "pending_settlement"
+      }
+    ],
+    "order_key_limitation": "No visible order ID; asset + timestamp + amount + status used for this snapshot.",
+    "refunds": null,
+    "net_income": null,
+    "refresh_lag": null,
+    "previous_day_observed_bills": 1,
+    "today_observed_bills": 0
+  },
+  "operations": {
+    "window_label": "7天",
+    "date_boundaries": null,
+    "rows": [
+      {
+        "asset_id": "os_dbbb2196fba9a727",
+        "title": "定时任务上下文体检",
+        "installs": 0,
+        "calls": 0,
+        "active_users": 0,
+        "frequency_label": "0.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_cd1ae1518368bb04",
+        "title": "工作空间膨胀体检",
+        "installs": 0,
+        "calls": 5,
+        "active_users": 1,
+        "frequency_label": "5.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "oe_fbd13b93107b105e",
+        "title": "自动化质量巡检",
+        "installs": 1,
+        "calls": 1,
+        "active_users": 1,
+        "frequency_label": "1.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_f31dca6b57cff4e2",
+        "title": "报销底稿-单据预审版",
+        "installs": 0,
+        "calls": 4,
+        "active_users": 1,
+        "frequency_label": "4.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_6baa99523fe4b3d7",
+        "title": "会议待办拆解追踪",
+        "installs": 0,
+        "calls": 0,
+        "active_users": 0,
+        "frequency_label": "0.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_3b43aaacd20c8cf6",
+        "title": "任务产物验收-标准版",
+        "installs": 0,
+        "calls": 0,
+        "active_users": 0,
+        "frequency_label": "0.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_0c287fd18e58b0ff",
+        "title": "学校与培训机构排课",
+        "installs": 1,
+        "calls": 0,
+        "active_users": 0,
+        "frequency_label": "0.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_0eff5b43a5a7e038",
+        "title": "对照校审（基准唯一版）",
+        "installs": 0,
+        "calls": 0,
+        "active_users": 0,
+        "frequency_label": "0.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_52efb5f1213b6d5a",
+        "title": "智能学习陪练",
+        "installs": 2,
+        "calls": 37,
+        "active_users": 32,
+        "frequency_label": "1.1",
+        "next_week_retention_label": "4.8%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "os_6efe644b235b2813",
+        "title": "自动化任务验真巡检",
+        "installs": 0,
+        "calls": 4,
+        "active_users": 1,
+        "frequency_label": "4.0",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      },
+      {
+        "asset_id": "oe_a04fff43e6c321af",
+        "title": "本地美业获客专家",
+        "installs": 6,
+        "calls": 51,
+        "active_users": 9,
+        "frequency_label": "5.3",
+        "next_week_retention_label": "0.0%",
+        "impressions": null,
+        "detail_views": null
+      }
+    ],
+    "single_day_metrics": null,
+    "conversion_rate": null,
+    "limitation": "滚动运营数据和累计/单日账单不同口径，不计算转化率；平台更新时间未显示。"
+  },
+  "listing_optimization": {
+    "asset_id": "os_52efb5f1213b6d5a",
+    "state": "queued",
+    "baseline_observed_at": "2026-11-20T12:14:09.692590+08:00",
+    "observation_window": "7天（后台原标签）",
+    "changes_applied": false,
+    "next_validation": "交付有现有能力支撑的适用场景、首次交付示例草稿；无曝光数据，不判断漏斗掉点。"
+  },
+  "new_submissions": 0,
+  "online_changes": 0,
+  "runtime_end_to_end_verified": false
+}

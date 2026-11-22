@@ -1,0 +1,33 @@
+{
+  "baseline_dir": "baseline",
+  "target_dir": "targets",
+  "baseline_confirmed": false,
+  "review_date": "2026-11-09",
+  "rules_version": "demo-1",
+  "baseline": [
+    {
+      "id": "DEMO-BASE",
+      "path": "approved.json",
+      "version": "DEMO-2026",
+      "effective_date": "2026-01-01",
+      "sha256": "填写用户确认的SHA-256"
+    }
+  ],
+  "targets": [
+    {
+      "id": "DEMO-01",
+      "path": "sheet.json"
+    }
+  ],
+  "dimensions": [
+    "图签",
+    "图号",
+    "图例与材料表",
+    "说明条款",
+    "标准引用",
+    "图间一致性"
+  ],
+  "standards": {},
+  "suppressions": [],
+  "history": []
+}

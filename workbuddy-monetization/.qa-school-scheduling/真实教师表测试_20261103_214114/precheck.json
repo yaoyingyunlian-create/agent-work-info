@@ -1,0 +1,66 @@
+{
+  "valid": true,
+  "input_hash": "e00e7aad4329b3d6b4241ad00cbe6cbe54a68a3efc6f8bae03dee96fd8f12625",
+  "errors": [],
+  "session_count": 80,
+  "candidate_count": 3600,
+  "demands": {
+    "C2-语文": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C2-数学": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C2-英语": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C2-物理": {
+      "sessions": 6,
+      "candidates": 270
+    },
+    "C2-化学": {
+      "sessions": 6,
+      "candidates": 270
+    },
+    "C2-生物": {
+      "sessions": 5,
+      "candidates": 225
+    },
+    "C2-体育": {
+      "sessions": 2,
+      "candidates": 90
+    },
+    "C3-语文": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C3-数学": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C3-英语": {
+      "sessions": 7,
+      "candidates": 315
+    },
+    "C3-物理": {
+      "sessions": 6,
+      "candidates": 270
+    },
+    "C3-化学": {
+      "sessions": 6,
+      "candidates": 270
+    },
+    "C3-生物": {
+      "sessions": 5,
+      "candidates": 225
+    },
+    "C3-体育": {
+      "sessions": 2,
+      "candidates": 90
+    }
+  },
+  "note": "预检通过不保证存在可行解；完整硬约束由求解与独立校验判断"
+}

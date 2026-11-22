@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-17",
+  "stage": "01-collect",
+  "generated_at": "2026-11-17T12:57:14.900+08:00",
+  "state": "partial",
+  "gmail_checkpoint": {
+    "from": "2026-11-16T12:50:00+08:00",
+    "through": "2026-11-17T12:57:14.900+08:00",
+    "matches": 2,
+    "processed_ids": [
+      "1a1e75162817576a",
+      "1a1e7179a4718b45"
+    ]
+  },
+  "coverage": {
+    "gmail": "complete",
+    "domestic": "Email and targeted SkillHub search; supply gap not established",
+    "overseas": "Two relevant signals across GitHub and n8n Community; below target, recent trend and sales unverified",
+    "business": "Latest review 2026-11-16; no fresh account read",
+    "official": "OpenRouter repository documentation checked; WorkBuddy update claims in mail not independently verified"
+  },
+  "items": [
+    {
+      "demand_id": "WB-20261117-01",
+      "type": "skill",
+      "state": "candidate",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e75162817576a",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e7179a4718b45",
+        "https://github.com/OpenRouterTeam/typescript-agent/blob/main/packages/agent/README.md"
+      ],
+      "next_action": "Verify parsing three authorized sanitized transcripts; test >=9/10 duplicate detections and <=2/20 expected repeats flagged.",
+      "title": "会话重复调用审计",
+      "proposed_price_cny": 19,
+      "professional_variant_cny": 39,
+      "paid_signal": "unverified",
+      "domestic_coverage": "未确认",
+      "overseas": "OpenRouter TypeScript Agent doom-loop fingerprinting is live runtime detection; candidate is offline audit."
+    },
+    {
+      "demand_id": "WB-20261117-02",
+      "type": "skill",
+      "state": "candidate",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e7179a4718b45",
+        "https://community.n8n.io/t/free-workflow-json-a-real-human-approval-gate-for-ai-content-drafts-wait-node-slack-approve-reject-7-nodes/317593"
+      ],
+      "next_action": "Use a local mock form to verify field mapping and draft-only flow; confirm domestic coverage.",
+      "title": "本地草稿到后台表单",
+      "proposed_price_cny": 29,
+      "paid_signal": "unverified",
+      "domestic_coverage": "有通用自动化供给，专用交付覆盖未确认",
+      "overseas": "n8n community draft approval example posted September 29, outside 7-day window; reference not trend."
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "optimize_listing",
+      "state": "observed",
+      "evidence": [
+        "D:/codex_work/projects/wrokbuddy变现开发/automation-handoff/2026-11-16/05-review.json",
+        "https://open.workbuddy.cn/monetization"
+      ],
+      "next_action": "Collect comparable listing metrics and propose one measurable change.",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "paid_signal": "one observed bill, pending settlement"
+    }
+  ]
+}

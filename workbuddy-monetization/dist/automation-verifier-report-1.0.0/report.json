@@ -1,0 +1,629 @@
+{
+  "version": "1.0.0",
+  "as_of": "2026-11-06T18:00:00+08:00",
+  "window_start_exclusive": "2026-10-30T18:00:00+08:00",
+  "coverage_confirmed_by_user": true,
+  "counts": {
+    "verified": 7,
+    "false_success": 7,
+    "manual": 7
+  },
+  "entries": [
+    {
+      "run_id": "2026-10-31",
+      "start": "2026-10-31T09:00:00+08:00",
+      "due": "2026-10-31T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-10-31.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-10-31T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-01",
+      "start": "2026-11-01T09:00:00+08:00",
+      "due": "2026-11-01T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-01.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-01T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-02",
+      "start": "2026-11-02T09:00:00+08:00",
+      "due": "2026-11-02T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-02.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-02T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-03",
+      "start": "2026-11-03T09:00:00+08:00",
+      "due": "2026-11-03T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-03.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-03T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-04",
+      "start": "2026-11-04T09:00:00+08:00",
+      "due": "2026-11-04T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-04.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-04T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-05",
+      "start": "2026-11-05T09:00:00+08:00",
+      "due": "2026-11-05T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-05.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-05T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-11-06",
+      "start": "2026-11-06T09:00:00+08:00",
+      "due": "2026-11-06T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\0-2026-11-06.csv",
+      "status": "verified",
+      "label": "真成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-06T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "pass",
+          "item": "行数：1，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "pass",
+          "item": "业务时间字段：达标",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-0",
+      "task_name": "演示：竞品简报"
+    },
+    {
+      "run_id": "2026-10-31",
+      "start": "2026-10-31T09:00:00+08:00",
+      "due": "2026-10-31T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-10-31.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-10-31T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-01",
+      "start": "2026-11-01T09:00:00+08:00",
+      "due": "2026-11-01T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-01.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-01T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-02",
+      "start": "2026-11-02T09:00:00+08:00",
+      "due": "2026-11-02T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-02.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-02T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-03",
+      "start": "2026-11-03T09:00:00+08:00",
+      "due": "2026-11-03T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-03.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-03T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-04",
+      "start": "2026-11-04T09:00:00+08:00",
+      "due": "2026-11-04T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-04.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-04T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-05",
+      "start": "2026-11-05T09:00:00+08:00",
+      "due": "2026-11-05T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-05.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-05T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-11-06",
+      "start": "2026-11-06T09:00:00+08:00",
+      "due": "2026-11-06T10:00:00+08:00",
+      "claimed_status": "success",
+      "claim_source": "虚构运行声明，仅供演示",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\1-2026-11-06.csv",
+      "status": "false_success",
+      "label": "假成功",
+      "checks": [
+        {
+          "state": "pass",
+          "item": "文件修改时间：2026-11-06T09:25:00+08:00",
+          "advice": "核对是否过期、迟到或时间口径不适用；不能仅修改时间戳来通过验收"
+        },
+        {
+          "state": "fail",
+          "item": "行数：0，要求至少1",
+          "advice": "核对上游数据与导出范围"
+        },
+        {
+          "state": "pass",
+          "item": "必填字段不达标数：0",
+          "advice": "核对字段映射、空值与源数据；参照输入中的required_fields"
+        },
+        {
+          "state": "fail",
+          "item": "业务时间字段：缺失或超出时段",
+          "advice": "核对数据实际更新时间、时区及适用范围"
+        }
+      ],
+      "task_id": "demo-1",
+      "task_name": "演示：数据同步"
+    },
+    {
+      "run_id": "2026-10-31",
+      "start": "2026-10-31T09:00:00+08:00",
+      "due": "2026-10-31T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-10-31.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-01",
+      "start": "2026-11-01T09:00:00+08:00",
+      "due": "2026-11-01T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-01.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-02",
+      "start": "2026-11-02T09:00:00+08:00",
+      "due": "2026-11-02T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-02.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-03",
+      "start": "2026-11-03T09:00:00+08:00",
+      "due": "2026-11-03T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-03.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-04",
+      "start": "2026-11-04T09:00:00+08:00",
+      "due": "2026-11-04T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-04.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-05",
+      "start": "2026-11-05T09:00:00+08:00",
+      "due": "2026-11-05T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-05.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    },
+    {
+      "run_id": "2026-11-06",
+      "start": "2026-11-06T09:00:00+08:00",
+      "due": "2026-11-06T10:00:00+08:00",
+      "claimed_status": "unknown",
+      "claim_source": "",
+      "artifact": "D:\\codex_work\\projects\\wrokbuddy变现开发\\dist\\automation-verifier-demo-1.0.0\\2-2026-11-06.csv",
+      "status": "manual",
+      "label": "需人工",
+      "checks": [
+        {
+          "state": "fail",
+          "item": "本次产出文件不存在",
+          "advice": "核对路径、连接器登录和上游数据；如需补跑由用户人工决定"
+        }
+      ],
+      "task_id": "demo-2",
+      "task_name": "演示：签到记录"
+    }
+  ],
+  "excluded": [],
+  "tasks_without_due_runs": [],
+  "limitations": [
+    "仅核验输入清单和配置口径，不能独立证明应执行清单完整",
+    "无日志不推断成功声明；无按次快照不还原历史",
+    "只读手动快照，不提供后台监控、重跑或通知"
+  ]
+}

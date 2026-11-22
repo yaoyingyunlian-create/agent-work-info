@@ -1,0 +1,205 @@
+[
+  {
+    "practice_no": "PB-20261001-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-01",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261001-01.html",
+    "question_ids": [
+      "G6-046",
+      "G6-052",
+      "G6-060",
+      "G6-066",
+      "G6-074"
+    ],
+    "fingerprints": [
+      "g6-数感计算-基础-046",
+      "g6-条件推理-基础-052",
+      "g6-列表整理-进阶-060",
+      "g6-图形空间-进阶-066",
+      "g6-应用建模-挑战-074"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261002-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-02",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261002-01.html",
+    "question_ids": [
+      "G6-058",
+      "G6-064",
+      "G6-048",
+      "G6-054",
+      "G6-075"
+    ],
+    "fingerprints": [
+      "g6-列表整理-基础-058",
+      "g6-图形空间-基础-064",
+      "g6-数感计算-进阶-048",
+      "g6-条件推理-进阶-054",
+      "g6-应用建模-挑战-075"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "数感计算",
+      "条件推理",
+      "应用建模"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261003-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-03",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261003-01.html",
+    "question_ids": [
+      "G6-070",
+      "G6-047",
+      "G6-055",
+      "G6-061",
+      "G6-068"
+    ],
+    "fingerprints": [
+      "g6-应用建模-基础-070",
+      "g6-数感计算-基础-047",
+      "g6-条件推理-进阶-055",
+      "g6-列表整理-进阶-061",
+      "g6-图形空间-挑战-068"
+    ],
+    "abilities": [
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261004-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-04",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261004-01.html",
+    "question_ids": [
+      "G6-053",
+      "G6-059",
+      "G6-072",
+      "G6-049",
+      "G6-069"
+    ],
+    "fingerprints": [
+      "g6-条件推理-基础-053",
+      "g6-列表整理-基础-059",
+      "g6-应用建模-进阶-072",
+      "g6-数感计算-进阶-049",
+      "g6-图形空间-挑战-069"
+    ],
+    "abilities": [
+      "条件推理",
+      "列表整理",
+      "应用建模",
+      "数感计算",
+      "图形空间"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261005-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-05",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261005-01.html",
+    "question_ids": [
+      "G6-065",
+      "G6-071",
+      "G6-X032",
+      "G6-X035",
+      "G6-062"
+    ],
+    "fingerprints": [
+      "g6-图形空间-基础-065",
+      "g6-应用建模-基础-071",
+      "g6-expanded-数感计算-进阶-32",
+      "g6-expanded-条件推理-进阶-35",
+      "g6-列表整理-挑战-062"
+    ],
+    "abilities": [
+      "图形空间",
+      "应用建模",
+      "数感计算",
+      "条件推理",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261006-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-06",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261006-01.html",
+    "question_ids": [
+      "G6-X031",
+      "G6-X034",
+      "G6-067",
+      "G6-073",
+      "G6-063"
+    ],
+    "fingerprints": [
+      "g6-expanded-数感计算-基础-31",
+      "g6-expanded-条件推理-基础-34",
+      "g6-图形空间-进阶-067",
+      "g6-应用建模-进阶-073",
+      "g6-列表整理-挑战-063"
+    ],
+    "abilities": [
+      "数感计算",
+      "条件推理",
+      "图形空间",
+      "应用建模",
+      "列表整理"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  },
+  {
+    "practice_no": "PB-20261007-01",
+    "profile": "G6测试",
+    "grade": 6,
+    "date": "2026-10-07",
+    "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\tests\\.grade_6_runtime\\outputs\\PB-20261007-01.html",
+    "question_ids": [
+      "G6-X037",
+      "G6-X040",
+      "G6-X044",
+      "G6-X038",
+      "G6-050"
+    ],
+    "fingerprints": [
+      "g6-expanded-列表整理-基础-37",
+      "g6-expanded-图形空间-基础-40",
+      "g6-expanded-应用建模-进阶-44",
+      "g6-expanded-列表整理-进阶-38",
+      "g6-数感计算-挑战-050"
+    ],
+    "abilities": [
+      "列表整理",
+      "图形空间",
+      "应用建模",
+      "列表整理",
+      "数感计算"
+    ],
+    "adaptive_note": "未使用档案自适应，采用均衡轮换。"
+  }
+]

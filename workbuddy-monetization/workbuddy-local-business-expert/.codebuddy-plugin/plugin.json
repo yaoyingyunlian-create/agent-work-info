@@ -1,0 +1,46 @@
+{
+  "name": "workbuddy-local-business-expert",
+  "version": "1.0.3",
+  "description": "A customer acquisition expert for local beauty businesses.",
+  "author": {
+    "name": "WorkBuddy Expert Studio",
+    "email": "expert-studio@example.com"
+  },
+  "agents": [
+    "./agents/local-business-acquisition-expert.md"
+  ],
+  "skills": [
+    "./skills/local-business-acquisition"
+  ],
+  "expertType": "agent",
+  "agentName": "local-business-acquisition-expert",
+  "plugin": "workbuddy-local-business-expert",
+  "displayName": {
+    "zh": "获客小店长",
+    "en": "Growth Storekeeper"
+  },
+  "profession": {
+    "zh": "本地美业获客专家",
+    "en": "Local Beauty Growth Expert"
+  },
+  "displayDescription": {
+    "zh": "为美业单店提供内容引流、预约承接、到店成交和老客复购的实操方案，并按每日经营数据给出可执行复盘建议。",
+    "en": "Creates practical acquisition plans for local beauty businesses, covering content, bookings, visits, conversion, retention, and daily funnel reviews."
+  },
+  "avatar": "avatars/local-business-expert.png",
+  "categoryId": "05-MarketingGrowth",
+  "defaultInitPrompt": {
+    "zh": "请为我的美业门店制定一份 7 天到店获客计划。",
+    "en": "Create a 7-day customer acquisition plan for my beauty business."
+  },
+  "tags": [
+    {"zh": "美业获客", "en": "Beauty Acquisition"},
+    {"zh": "到店转化", "en": "Visit Conversion"},
+    {"zh": "私域复购", "en": "Customer Retention"}
+  ],
+  "quickPrompts": [
+    {"zh": "请为我的美业门店制定一份 7 天到店获客计划。", "en": "Create a 7-day customer acquisition plan for my beauty business."},
+    {"zh": "帮我测算一个新客体验活动是否能保本。", "en": "Check whether my new-customer promotion can break even."},
+    {"zh": "根据今天的曝光、咨询和到店数据帮我复盘。", "en": "Review today's views, inquiries, and store visits."}
+  ]
+}

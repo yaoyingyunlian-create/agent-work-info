@@ -1,0 +1,20 @@
+[
+  {
+    "nickname": "小鹿美甲",
+    "business_type": "美甲",
+    "stage": "新店",
+    "city_tier": "二线",
+    "district": "商圈",
+    "average_ticket": 168.0,
+    "daily_capacity": 8,
+    "daily_visits": 2,
+    "budget": 1200.0,
+    "channels": [
+      "抖音",
+      "小红书",
+      "朋友圈"
+    ],
+    "main_problem": "缺咨询",
+    "created_at": "2026-10-27T17:30:15"
+  }
+]

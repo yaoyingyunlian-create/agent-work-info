@@ -1,0 +1,22 @@
+[
+  {
+    "profile": "primary",
+    "commands": 6,
+    "ready_for_acceptance": true
+  },
+  {
+    "profile": "junior",
+    "commands": 6,
+    "ready_for_acceptance": true
+  },
+  {
+    "profile": "senior",
+    "commands": 6,
+    "ready_for_acceptance": true
+  },
+  {
+    "profile": "training",
+    "commands": 6,
+    "ready_for_acceptance": true
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "fictional": true,
+  "description": "3个虚构任务各7次：7真成功、7假成功、7需人工；非用户真实数据",
+  "generate": "py -3 -X utf8 scripts/make_demo.py --output NEW_DEMO_DIR",
+  "verify": "py -3 -X utf8 scripts/verify.py --input NEW_DEMO_DIR/input.json --output NEW_REPORT_DIR"
+}

@@ -1,0 +1,139 @@
+{
+  "scope": "saved configuration, historical handoff schema, historical no-ready guard",
+  "automations": [
+    {
+      "automation_id": "workbuddy",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-02",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-03",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-04",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-05",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-06",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    },
+    {
+      "automation_id": "workbuddy-2",
+      "status": "ACTIVE",
+      "schedule_preserved": true,
+      "thread_preserved": true
+    }
+  ],
+  "documents": [
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-16\\05-review.json",
+      "state": "partial",
+      "items": 5
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\01-collect.json",
+      "state": "partial",
+      "items": 3
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\02-analysis.json",
+      "state": "complete",
+      "items": 3
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\03-build.json",
+      "state": "partial",
+      "items": 3
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\04-release.json",
+      "state": "complete",
+      "items": 3
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json",
+      "state": "partial",
+      "items": 6
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\01-collect.json",
+      "state": "partial",
+      "items": 5
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\02-analysis.json",
+      "state": "complete",
+      "items": 5
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\03-build.json",
+      "state": "partial",
+      "items": 5
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\04-release.json",
+      "state": "complete",
+      "items": 5
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json",
+      "state": "partial",
+      "items": 7
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\01-collect.json",
+      "state": "partial",
+      "items": 7
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\02-analysis.json",
+      "state": "complete",
+      "items": 7
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\03-build.json",
+      "state": "partial",
+      "items": 7
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\04-release.json",
+      "state": "complete",
+      "items": 7
+    },
+    {
+      "path": "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-20\\05-review.json",
+      "state": "partial",
+      "items": 21
+    }
+  ],
+  "errors": [],
+  "runtime_end_to_end_verified": false,
+  "production_submission_performed": false,
+  "historical_no_ready_guard_verified": true,
+  "known_gaps": [
+    "2026-11-19/05-review.json absent; this run records a later observation only",
+    "No formal 06-weekly.json found before this run",
+    "Revised weekly-target producer and daily consumers not yet scheduler-tested together",
+    "PPTX prototype has no release ZIP/cover and incomplete real-file/embed evidence"
+  ]
+}

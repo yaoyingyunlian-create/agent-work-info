@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "sha256": "6474c874188bc461c51b677d0feaafedae6304f6b2bfb335238e0f6e3b958aab",
+  "contents": [
+    "SKILL.md",
+    "scripts/make_demo.py",
+    "scripts/package_release.py",
+    "scripts/verify.py",
+    "tests/test_verify.py",
+    "references/input-schema.md",
+    "assets/demo.json",
+    "assets/template.json"
+  ]
+}

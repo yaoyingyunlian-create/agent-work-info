@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-17",
+  "stage": "04-release",
+  "generated_at": "2026-11-17T18:55:16.705602+08:00",
+  "state": "complete",
+  "items": [
+    {
+      "demand_id": "WB-20261117-01",
+      "priority": "P0",
+      "action": "prototype",
+      "scope": "只读重复检测，不输出原始会话或凭据。先确认三份授权脱敏记录的格式；无真实样本则用合成 JSONL 验证计数。",
+      "acceptance": "注入重复至少检出9/10；正常轮询或重试20条至多误报2条；计数可复算。",
+      "dependencies": "三份实际脱敏会话用于格式验证；真实消耗明细用于积分估算。",
+      "estimate": "2–4小时本地验证",
+      "proposed_price_cny": 19,
+      "pricing_mode": "买断候选",
+      "pricing_basis": "日报标准版建议；39 元为独立专业版设想。",
+      "fallback": "WB-20261117-02",
+      "next_action": "取得三份授权脱敏样本验证实际会话格式及未标注轮询，再决定是否打包。",
+      "type": "skill",
+      "state": "awaiting_samples",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e75162817576a",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e7179a4718b45",
+        "https://github.com/OpenRouterTeam/typescript-agent/blob/main/packages/agent/README.md",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\workbuddy-repeat-audit\\scripts\\audit.py"
+      ],
+      "title": "会话重复调用审计",
+      "professional_variant_cny": 39,
+      "paid_signal": "unverified",
+      "domestic_coverage": "未确认",
+      "overseas": "OpenRouter TypeScript Agent doom-loop fingerprinting is live runtime detection; candidate is offline audit.",
+      "validation": {
+        "synthetic_detected": 10,
+        "synthetic_expected_exempt": 20,
+        "synthetic_false_positives": 0,
+        "invalid_input_rejected": true,
+        "actual_session_format_verified": false
+      }
+    },
+    {
+      "demand_id": "WB-20261117-02",
+      "priority": "P1",
+      "action": "prototype",
+      "scope": "仅用本地模拟表单核对字段映射、必填识别和草稿保存。",
+      "acceptance": "映射准确；缺字段时不保存；无发布或其他线上操作。",
+      "dependencies": "自建 HTML 表单和合成草稿。",
+      "estimate": "1–2小时",
+      "proposed_price_cny": 29,
+      "pricing_mode": "买断候选",
+      "pricing_basis": "需求日报建议价。",
+      "next_action": "主项输入受阻时同轮执行。",
+      "type": "skill",
+      "state": "queued",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1e7179a4718b45",
+        "https://community.n8n.io/t/free-workflow-json-a-real-human-approval-gate-for-ai-content-drafts-wait-node-slack-approve-reject-7-nodes/317593"
+      ],
+      "title": "本地草稿到后台表单",
+      "paid_signal": "unverified",
+      "domestic_coverage": "有通用自动化供给，专用交付覆盖未确认",
+      "overseas": "n8n community draft approval example posted September 29, outside 7-day window; reference not trend."
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "priority": "P2",
+      "action": "research",
+      "scope": "整理详情页优化草案，保留现有页面和价格。",
+      "baseline": {
+        "observed_paid_orders": 1,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "acceptance": "记录可见字段和同口径基线；缺曝光时仅观察安装、调用及订单。",
+      "dependencies": "资产详情和运营后台；可比曝光和详情访问量未取得。",
+      "estimate": "1小时只读补证",
+      "pricing_basis": "本轮无调价方案。",
+      "next_action": "核对指标可见性并准备一条可回测文案。",
+      "type": "optimize_listing",
+      "state": "research_pending",
+      "evidence": [
+        "D:/codex_work/projects/wrokbuddy变现开发/automation-handoff/2026-11-16/05-review.json",
+        "https://open.workbuddy.cn/monetization"
+      ],
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "paid_signal": "one observed bill, pending settlement"
+    }
+  ],
+  "inputs": [
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\03-build.json"
+  ],
+  "new_submissions": 0
+}

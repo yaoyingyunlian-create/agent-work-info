@@ -1,0 +1,18 @@
+{
+  "output": "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\真实教师表测试_20261103_214114",
+  "source_classes": 22,
+  "test_classes": [
+    2,
+    3
+  ],
+  "activities": 80,
+  "shared_teachers": [
+    "水兰",
+    "邓彬"
+  ],
+  "status": "OPTIMAL",
+  "hard_violations": 0,
+  "ready_for_acceptance": false,
+  "old_pe_collision_groups": 6,
+  "solver_seconds": 4.219
+}

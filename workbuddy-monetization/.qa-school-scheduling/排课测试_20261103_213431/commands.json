@@ -1,0 +1,120 @@
+[
+  {
+    "args": [
+      "template",
+      "--profile",
+      "training",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\输入模板.xlsx"
+    ],
+    "returncode": 0,
+    "seconds": 0.782,
+    "stdout": "{\"output\": \"D:\\\\codex_work\\\\projects\\\\wrokbuddy变现开发\\\\.qa-school-scheduling\\\\排课测试_20261103_213431\\\\输入模板.xlsx\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "import",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\输入模板.xlsx",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\input.json"
+    ],
+    "returncode": 0,
+    "seconds": 0.625,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "precheck",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\input.json",
+      "--report",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\precheck.json"
+    ],
+    "returncode": 0,
+    "seconds": 0.218,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "solve",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\input.json",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json",
+      "--time-limit",
+      "120"
+    ],
+    "returncode": 0,
+    "seconds": 14.313,
+    "stdout": "{\"status\": \"OPTIMAL\", \"candidate_count\": 944, \"elapsed_seconds\": 13.125, \"diagnostics\": []}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "validate",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json",
+      "--report",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\validation.json"
+    ],
+    "returncode": 0,
+    "seconds": 0.219,
+    "stdout": "{\"valid\": true, \"ready_for_acceptance\": true}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "export",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json",
+      "--validation",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\validation.json",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\课表.xlsx"
+    ],
+    "returncode": 0,
+    "seconds": 0.656,
+    "stdout": "{\"version\": \"1.0.0\", \"input_hash\": \"94758f0abba48fe3101e780a1593b0066480368d7dc53e031bfdd22571bd7f10\", \"solution_hash\": \"bea12dfca2f3bcadfa2d11f4480f0770ea46512a840f0e72c4aec0b729c843c3\", \"output\": \"D:\\\\codex_work\\\\projects\\\\wrokbuddy变现开发\\\\.qa-school-scheduling\\\\排课测试_20261103_213431\\\\课表.xlsx\", \"file_sha256\": \"5aaee04c8c4fd48c84aae1b31256c6a9094cad0f8936be8715a675947964d539\", \"parameters\": {\"time_limit\": 120.0, \"workers\": 1, \"seed\": 0}, \"layers\": [{\"tier\": 2, \"status\": \"OPTIMAL\", \"value\": 0, \"bound\": 0.0}], \"delivery_status\": \"验收通过\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "validate",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\故意撞课方案.json",
+      "--report",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\撞课校验.json"
+    ],
+    "returncode": 5,
+    "seconds": 0.203,
+    "stdout": "{\"valid\": false, \"ready_for_acceptance\": false}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "export",
+      "--input",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\solution.json.input.json",
+      "--solution",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\故意撞课方案.json",
+      "--validation",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\撞课校验.json",
+      "--output",
+      "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431\\应被阻止.xlsx"
+    ],
+    "returncode": 2,
+    "seconds": 0.609,
+    "stdout": "",
+    "stderr": "{\"error_code\": \"NOT_READY\", \"path\": \"input\", \"message\": \"未满足完整验收条件；仅可使用 --draft 导出带标记草稿\"}\n"
+  }
+]

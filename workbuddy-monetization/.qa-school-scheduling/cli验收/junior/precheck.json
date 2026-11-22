@@ -1,0 +1,18 @@
+{
+  "valid": true,
+  "input_hash": "4fc988b0e92c8a2e49184ed2dbe4f64671388d3dbe6b4a42d10e387bab155a7e",
+  "errors": [],
+  "session_count": 6,
+  "candidate_count": 90,
+  "demands": {
+    "LAB1": {
+      "sessions": 2,
+      "candidates": 10
+    },
+    "D2": {
+      "sessions": 4,
+      "candidates": 80
+    }
+  },
+  "note": "预检通过不保证存在可行解；完整硬约束由求解与独立校验判断"
+}

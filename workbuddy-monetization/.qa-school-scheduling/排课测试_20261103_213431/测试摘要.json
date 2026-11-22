@@ -1,0 +1,20 @@
+{
+  "result": "PASS",
+  "scenario": "training",
+  "data_source": "技能包脱敏培训样例",
+  "date_range": "2026-11-07至2026-11-15",
+  "activities": 5,
+  "quota_minutes_PACK": 240,
+  "small_group_sessions": 2,
+  "solver_status": "OPTIMAL",
+  "solver_seconds": 13.125,
+  "positive_valid": true,
+  "ready_for_acceptance": true,
+  "injected_conflict_codes": [
+    "PERSON_CONFLICT",
+    "RESOURCE_CAPACITY"
+  ],
+  "invalid_final_export_blocked": true,
+  "zip_sha256": "075201fded6131fa010924a7145b1a2a23bbd2fc07e951bbb38eaf8b8589c0e7",
+  "folder": "D:\\codex_work\\projects\\wrokbuddy变现开发\\.qa-school-scheduling\\排课测试_20261103_213431"
+}

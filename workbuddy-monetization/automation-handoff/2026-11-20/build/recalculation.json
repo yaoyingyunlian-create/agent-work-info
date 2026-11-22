@@ -1,0 +1,38 @@
+[
+  {
+    "field": "status",
+    "condition": {
+      "status": "已完成"
+    },
+    "operation": "count",
+    "matched_rows": 3,
+    "recomputed": "3",
+    "reported": "3",
+    "unit": "个",
+    "state": "matches"
+  },
+  {
+    "field": "amount",
+    "condition": {
+      "status": "已完成"
+    },
+    "operation": "sum",
+    "matched_rows": 3,
+    "recomputed": "1234.56",
+    "reported": "1234.65",
+    "unit": "元",
+    "state": "difference"
+  },
+  {
+    "field": "amount",
+    "condition": {
+      "status": "已完成"
+    },
+    "operation": "mean",
+    "matched_rows": 3,
+    "recomputed": "411.52",
+    "reported": "411.52",
+    "unit": "元",
+    "state": "matches"
+  }
+]

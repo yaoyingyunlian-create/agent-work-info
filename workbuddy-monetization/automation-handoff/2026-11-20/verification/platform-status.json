@@ -1,0 +1,115 @@
+{
+  "observed_at": "2026-11-20T12:14:09.692590+08:00",
+  "assets": [
+    {
+      "title": "定时任务上下文体检",
+      "type": "skill",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": "19",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "工作空间膨胀体检",
+      "type": "skill",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.1",
+      "state": "published",
+      "price_cny": "19",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "报销底稿-单据预审版",
+      "type": "skill",
+      "asset_id": "os_f31dca6b57cff4e2",
+      "version": "1.0.1",
+      "state": "published",
+      "price_cny": "28",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "会议待办拆解追踪",
+      "type": "skill",
+      "asset_id": "os_6baa99523fe4b3d7",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": "6",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "任务产物验收-标准版",
+      "type": "skill",
+      "asset_id": "os_3b43aaacd20c8cf6",
+      "version": "1.0.5",
+      "state": "published",
+      "price_cny": "19",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "学校与培训机构排课",
+      "type": "skill",
+      "asset_id": "os_0c287fd18e58b0ff",
+      "version": "1.0.5",
+      "state": "published",
+      "price_cny": "9",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "对照校审（基准唯一版）",
+      "type": "skill",
+      "asset_id": "os_0eff5b43a5a7e038",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": null,
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "智能学习陪练",
+      "type": "skill",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "state": "published",
+      "price_cny": "8",
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "自动化任务验真巡检",
+      "type": "skill",
+      "asset_id": "os_6efe644b235b2813",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": null,
+      "source": "https://open.workbuddy.cn/skill/all",
+      "first_published_at": null
+    },
+    {
+      "title": "自动化质量巡检",
+      "type": "expert",
+      "asset_id": "oe_fbd13b93107b105e",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": null,
+      "source": "https://open.workbuddy.cn/expert/all",
+      "first_published_at": null
+    },
+    {
+      "title": "本地美业获客专家",
+      "type": "expert",
+      "asset_id": "oe_a04fff43e6c321af",
+      "version": "1.0.3",
+      "state": "published",
+      "price_cny": null,
+      "source": "https://open.workbuddy.cn/expert/all",
+      "first_published_at": null
+    }
+  ]
+}

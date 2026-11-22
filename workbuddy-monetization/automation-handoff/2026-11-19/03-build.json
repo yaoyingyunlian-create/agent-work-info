@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-19",
+  "stage": "03-build",
+  "generated_at": "2026-11-19T14:32:05.702+08:00",
+  "state": "partial",
+  "items": [
+    {
+      "demand_id": "WB-20261119-01",
+      "type": "skill",
+      "title": "PPT字体回退体检",
+      "state": "prototype_validated",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f19bee9411675",
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f166b7844de9f",
+        "https://github.com/nexu-io/open-design/blob/main/skills/pptx-html-fidelity-audit/references/font-discipline.md",
+        "https://github.com/GoblinEater/PPTX-Font-Audit/blob/main/README.md",
+        "https://github.com/office-kit/pptx/blob/main/CHANGELOG.md",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\pptx-font-audit\\scripts\\audit.py"
+      ],
+      "next_action": "补真实PPTX及嵌入字体关系样本，验证后完善技能包和封面。",
+      "proposed_price_cny": 19,
+      "paid_signal": "unverified",
+      "domestic_gap": "unverified",
+      "overseas_supply": "已有开源字体审计及多语言字体槽位处理。",
+      "scope": "只读解析用户提供的 PPTX：显式字体槽位、主题字体和嵌入关系，中文报告定位到具体 XML 部件。",
+      "action": "prototype",
+      "priority": "P0",
+      "acceptance": "20个构造样本字体引用零漏检；主题继承与未显式ea均标待核实；损坏文件明确报错；输入字节不变。",
+      "dependencies": "本地构造PPTX及可取得的真实样本；无需读系统字体库即可验证提取。",
+      "estimate": "2–4小时",
+      "fallback": "从现有三个已授权本地PPTX抽取字体清单，若无真实样本则用构造样本验证20例并明确覆盖范围。",
+      "pricing_basis": "需求日报建议19元买断；只在完整本地验收通过后进入打包。",
+      "validation": {
+        "synthetic_xml_packages": 20,
+        "font_references_matched": true,
+        "source_unchanged": true,
+        "real_pptx_verified": false,
+        "embedding_relationship_fixtures_tested": false
+      }
+    },
+    {
+      "demand_id": "WB-20261119-02",
+      "type": "skill",
+      "title": "系统行为隐私体检",
+      "state": "observation",
+      "evidence": [
+        "https://mail.google.com/mail/u/?authuser=yaoyingyunlian%40gmail.com#all/1a1f166b7844de9f"
+      ],
+      "next_action": "只保留观察，不当作已确认隐私问题。",
+      "proposed_price_cny": 9.9,
+      "paid_signal": "unverified",
+      "action": "research",
+      "priority": "P3",
+      "scope": "核实公开设置说明与个体反馈",
+      "acceptance": "取得可核对设置字段和独立需求证据",
+      "dependencies": "实际权限或设置入口及独立反馈",
+      "estimate": "本轮不开发",
+      "fallback": null,
+      "pricing_basis": "9.9元为候选建议"
+    },
+    {
+      "demand_id": "ops-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "queued",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-17\\05-review.json",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "为两款成交资产准备可直接填写的草稿，交接原字段和拟改字段。",
+      "orders_observed": 1,
+      "order_date": "2026-11-16",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "net_income": null,
+      "priority": "P1",
+      "action": "research",
+      "baseline": {
+        "observed_orders": null,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "pricing_basis": "本轮不改价。",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null
+    },
+    {
+      "demand_id": "WB-20261113-01",
+      "type": "skill",
+      "asset_id": "os_dbbb2196fba9a727",
+      "version": "1.0.0",
+      "state": "published",
+      "price_cny": 19,
+      "payment_mode": "one_time",
+      "platform_last_edit": "2026-11-18T17:09:00+08:00",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "已上架，继续回查经营状态。",
+      "submitted_this_run": false,
+      "action": "research",
+      "priority": "P3"
+    },
+    {
+      "demand_id": "WB-20261112-01",
+      "type": "skill",
+      "asset_id": "os_cd1ae1518368bb04",
+      "version": "1.0.1",
+      "state": "published",
+      "price_cny": 19,
+      "payment_mode": "one_time",
+      "platform_last_edit": "2026-11-18T17:08:00+08:00",
+      "evidence": [
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "已上架，继续回查经营状态。",
+      "submitted_this_run": false,
+      "action": "research",
+      "priority": "P3"
+    },
+    {
+      "demand_id": "billing-os_52efb5f1213b6d5a",
+      "type": "business_metrics",
+      "state": "queued",
+      "asset_id": "os_52efb5f1213b6d5a",
+      "version": "1.0.1",
+      "title": "智能学习陪练",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "为两款成交资产准备可直接填写的草稿，交接原字段和拟改字段。",
+      "paid_orders_observed": 1,
+      "order_time": "2026-11-16T13:15:26+08:00",
+      "bill_amount_cny": "7.92",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "action": "research",
+      "priority": "P1",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "baseline": {
+        "observed_orders": 1,
+        "pending_bill_cny": "7.92",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null,
+      "pricing_basis": "本轮不改价。"
+    },
+    {
+      "demand_id": "billing-os_0c287fd18e58b0ff",
+      "type": "business_metrics",
+      "state": "queued",
+      "asset_id": "os_0c287fd18e58b0ff",
+      "version": "1.0.5",
+      "title": "学校与培训机构排课",
+      "evidence": [
+        "https://open.workbuddy.cn/monetization",
+        "https://open.workbuddy.cn/skill/all",
+        "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-18\\05-review.json"
+      ],
+      "next_action": "为两款成交资产准备可直接填写的草稿，交接原字段和拟改字段。",
+      "paid_orders_observed": 1,
+      "order_time": "2026-11-18T11:43:51+08:00",
+      "bill_amount_cny": "8.91",
+      "bill_status": "pending_settlement",
+      "impressions": null,
+      "detail_views": null,
+      "installs": null,
+      "action": "research",
+      "priority": "P1",
+      "scope": "优先复盘已成交排课和学习陪练的交付场景，准备一版可测首屏草稿",
+      "baseline": {
+        "observed_orders": 1,
+        "pending_bill_cny": "8.91",
+        "impressions": null,
+        "detail_views": null,
+        "installs": null
+      },
+      "proposed_fields": [
+        "首屏适用场景",
+        "首次交付示例"
+      ],
+      "execution_authorized": false,
+      "estimate": "1小时",
+      "acceptance": "文案有实际功能支撑，保留同口径基线",
+      "dependencies": "商品页内容及已交付功能",
+      "fallback": null,
+      "pricing_basis": "本轮不改价。"
+    }
+  ],
+  "inputs": [
+    "D:\\codex_work\\projects\\wrokbuddy变现开发\\automation-handoff\\2026-11-19\\02-analysis.json"
+  ],
+  "ready_to_release": []
+}

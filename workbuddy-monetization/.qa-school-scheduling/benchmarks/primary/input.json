@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "task_id": "primary-demo",
+  "profile": "primary",
+  "mode": "weekly_template",
+  "timezone": "Asia/Shanghai",
+  "fill_policy": "demand_only",
+  "external_scope_confirmed": true,
+  "external_scope_note": "仅本示例任务，已确认无其他占用",
+  "calendar": {
+    "weekdays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "week_types": [
+      "all"
+    ]
+  },
+  "groups": [
+    {
+      "id": "G1",
+      "name": "示例一组",
+      "size": 20,
+      "conflicts_confirmed": true
+    },
+    {
+      "id": "G2",
+      "name": "示例二组",
+      "size": 20,
+      "conflicts_confirmed": true
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "name": "示例教师1",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    },
+    {
+      "id": "T2",
+      "name": "示例教师2",
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "qualifications": [
+        "general"
+      ]
+    }
+  ],
+  "students": [],
+  "resources": [
+    {
+      "id": "R1",
+      "name": "示例教室",
+      "capacity": 1,
+      "seats": 40,
+      "availability": [
+        {
+          "start": "07:00",
+          "end": "23:00"
+        }
+      ],
+      "campus_id": "A"
+    }
+  ],
+  "slots": [
+    {
+      "id": "P1",
+      "start": "08:00",
+      "end": "08:40",
+      "half_day": "am",
+      "group_ids": [
+        "G1"
+      ]
+    },
+    {
+      "id": "P2",
+      "start": "08:50",
+      "end": "09:30",
+      "half_day": "am"
+    },
+    {
+      "id": "P3",
+      "start": "10:00",
+      "end": "10:40",
+      "half_day": "am"
+    },
+    {
+      "id": "P4",
+      "start": "14:00",
+      "end": "14:40",
+      "half_day": "pm"
+    },
+    {
+      "id": "G2-P1",
+      "start": "08:20",
+      "end": "09:00",
+      "half_day": "am",
+      "group_ids": [
+        "G2"
+      ]
+    }
+  ],
+  "demands": [
+    {
+      "id": "D1",
+      "course_id": "数学",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 3,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "D2",
+      "course_id": "语文",
+      "group_ids": [
+        "G2"
+      ],
+      "teacher_ids": [
+        "T1"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 2,
+        "scope": "week"
+      }
+    },
+    {
+      "id": "D3",
+      "course_id": "课后活动",
+      "group_ids": [
+        "G1"
+      ],
+      "teacher_ids": [
+        "T2"
+      ],
+      "resource_ids": [
+        "R1"
+      ],
+      "duration_options": [
+        40
+      ],
+      "quota": {
+        "unit": "sessions",
+        "value": 1,
+        "scope": "week"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "分布",
+      "type": "daily_distribution",
+      "level": "soft",
+      "demand_ids": [
+        "D1"
+      ],
+      "target": 3,
+      "tier": 2
+    }
+  ],
+  "external_occupancy": [],
+  "locks": [],
+  "expanded_calendar": [
+    {
+      "date": "2000-01-03",
+      "weekday": 0,
+      "actual_weekday": 0,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-04",
+      "weekday": 1,
+      "actual_weekday": 1,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-05",
+      "weekday": 2,
+      "actual_weekday": 2,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-06",
+      "weekday": 3,
+      "actual_weekday": 3,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    },
+    {
+      "date": "2000-01-07",
+      "weekday": 4,
+      "actual_weekday": 4,
+      "week_type": "all",
+      "cycle": "2000-01-03"
+    }
+  ]
+}
