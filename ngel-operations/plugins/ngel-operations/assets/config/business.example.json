@@ -1,13 +1,23 @@
 {
-  "business": "Ngel",
+  "business": "N’gel",
   "platform_accounts": [],
   "reference_videos": [],
   "boss_recipient": null,
   "boss_channel": null,
-  "script_languages": ["zh-CN"],
+  "script_languages": [
+    "zh-CN"
+  ],
   "appointment_system": null,
   "staff": [],
-  "locations": [],
+  "locations": [
+    {
+      "address": "5 Harper Road, #02-01, Singapore 369673",
+      "transport": "Tai Seng MRT Circle Line Exit B, building on the right; parking downstairs"
+    }
+  ],
   "services": [],
-  "human_handoff_contact": null
+  "human_handoff_contact": "Vivian or Charles via WhatsApp; individual accounts not supplied",
+  "report_delivery_mode": "local",
+  "business_reviewer": "Charles",
+  "booking_whatsapp": "85151098"
 }

@@ -1,10 +1,13 @@
 {
   "version": "0.1-draft",
   "status": "not_deployed",
-  "business": "Ngel",
+  "business": "N’gel",
   "timezone": "Asia/Singapore",
   "timezone_confirmed": false,
-  "languages": ["zh-CN", "en"],
+  "languages": [
+    "zh-CN",
+    "en"
+  ],
   "permissions": {
     "external_read": false,
     "draft": true,
@@ -27,7 +30,11 @@
     "match_customer_language": true,
     "public_pii": false,
     "respect_platform_reply_window": true,
-    "idempotency_fields": ["platform", "account_id", "message_id"],
+    "idempotency_fields": [
+      "platform",
+      "account_id",
+      "message_id"
+    ],
     "serialize_per_conversation": true,
     "human_takeover_stops_automation": true,
     "unknown_send_result": "reconcile_before_retry"
@@ -41,13 +48,25 @@
     "move_other_customers_without_consent": false
   },
   "memory_policy": {
-    "business_facts": ["source", "verified_by", "verified_at", "expires_at", "version"],
+    "business_facts": [
+      "source",
+      "verified_by",
+      "verified_at",
+      "expires_at",
+      "version"
+    ],
     "customer_data": "minimum_necessary_tenant_scoped",
-    "task_state": ["cursor", "idempotency_key", "status", "receipt"],
+    "task_state": [
+      "cursor",
+      "idempotency_key",
+      "status",
+      "receipt"
+    ],
     "operating_hypotheses_are_facts": false,
     "retention_days": null,
     "retention_policy_required_before_live": true,
     "write_codex_personal_memory": false,
-    "rule_updates": "administrator_only"
+    "rule_updates": "administrator_only",
+    "retention_mode": "permanent"
   }
 }

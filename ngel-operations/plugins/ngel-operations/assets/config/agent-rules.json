@@ -1,7 +1,7 @@
 {
   "version": "0.1-draft",
   "status": "not_deployed",
-  "business": "Ngel",
+  "business": "N’gel",
   "timezone": "Asia/Singapore",
   "timezone_confirmed": false,
   "languages": [
@@ -66,6 +66,7 @@
     "retention_days": null,
     "retention_policy_required_before_live": true,
     "write_codex_personal_memory": false,
-    "rule_updates": "administrator_only"
+    "rule_updates": "administrator_only",
+    "retention_mode": "permanent"
   }
 }

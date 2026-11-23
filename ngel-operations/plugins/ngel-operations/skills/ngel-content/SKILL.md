@@ -5,6 +5,9 @@ description: 为 Ngel 拆解参考博主和视频结构，优化脚本，生成�
 
 # Ngel 内容运营
 
+当前业务口径先读插件根目录 references/customer-confirmed-policy.md。同事项采用本次客户明确答复。日报只存本地，免订金、永久保留记录等按最新口径执行。具体账号和排班空缺按实际需要补齐。
+
+
 需要品牌图、价目表或案例参考时，读取 assets/media/index.json 与 references/poster-catalog.md。索引路径相对索引所在目录。选图时核对项目和对外使用授权，案例画面只说明其来源。
 
 先确认业务工作区，读取 config/agent-rules.json、config/business.json 和 knowledge/ngel-faq.json。没有工作区时先按 ngel-setup 初始化。不把未核验 source_answer 当作业务事实。读取插件根目录 references/content.md 获取字段和指标定义。

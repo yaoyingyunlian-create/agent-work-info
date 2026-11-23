@@ -41,7 +41,7 @@ def answered(key, business, rules):
     if key == "timezone":
         return rules.get("timezone_confirmed") is True
     if key == "boss_delivery":
-        return bool(business.get("boss_recipient") and business.get("boss_channel"))
+        return business.get("report_delivery_mode") == "local" or bool(business.get("boss_recipient") and business.get("boss_channel"))
     # Template defaults are not user-confirmed answers.
     if key == "script_languages":
         return business.get("script_languages_confirmed") is True

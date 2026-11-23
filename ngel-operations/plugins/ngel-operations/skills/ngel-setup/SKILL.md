@@ -5,6 +5,9 @@ description: 初始化 Ngel 运营插件的业务工作区，核对知识库、�
 
 # Ngel 初始化
 
+当前业务口径先读插件根目录 references/customer-confirmed-policy.md。同事项采用本次客户明确答复。日报只存本地，免订金、永久保留记录等按最新口径执行。具体账号和排班空缺按实际需要补齐。
+
+
 接入网页渠道时读取插件根目录 references/ego-lite.md，用 Ego Lite 验证业务账号、消息列表、预约与日报渠道的可访问性。将测试结果按渠道报告。
 
 插件根目录为本文件所在技能目录的上两级。读取根目录 references/requirements.md，使用 assets/config 和 assets/knowledge 的模板；插件安装目录只读，业务数据写入用户指定工作区。

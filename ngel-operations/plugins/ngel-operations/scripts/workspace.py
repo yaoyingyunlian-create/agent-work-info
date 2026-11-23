@@ -47,11 +47,14 @@ def check(root, strict=False):
         blockers.append("schedule timezone differs from business timezone; synchronize before enabling")
     if not rules.get("timezone_confirmed"):
         blockers.append("business timezone not confirmed")
-    for key in ("platform_accounts", "boss_recipient", "boss_channel", "appointment_system", "staff"):
+    required = ["platform_accounts", "appointment_system", "staff"]
+    if business.get("report_delivery_mode") != "local":
+        required.extend(("boss_recipient", "boss_channel"))
+    for key in required:
         if not business.get(key):
             blockers.append(f"missing business.{key}")
     retention = rules.get("memory_policy", {}).get("retention_days")
-    if type(retention) is not int or retention <= 0:
+    if rules.get("memory_policy", {}).get("retention_mode") != "permanent" and (type(retention) is not int or retention <= 0):
         blockers.append("customer data retention not configured")
     ids = set()
     verified = 0
