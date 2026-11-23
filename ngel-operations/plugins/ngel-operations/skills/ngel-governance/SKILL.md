@@ -5,6 +5,8 @@ description: 管理 Ngel 的中英文知识核验、Agent 权限规则与业务�
 
 # Ngel 规则和记忆
 
+审核新产品证书和护理图时读取 references/products-aftercare.md。逐项核对中英文、药品表述、原始报告、具体产品批次和有效期，保留图片ID及来源版本。
+
 新版海报的原图在 assets/media，提取表及冲突在 references/poster-catalog.md。审核时结合编号证据形成中英文口径，保存到业务工作区。保留旧 FAQ 与各版海报的出处。
 
 读取业务工作区 config/agent-rules.json、knowledge/ngel-faq.json 和 memory/business.json。插件模板不是当前业务状态，不能用升级插件覆盖已维护资料。

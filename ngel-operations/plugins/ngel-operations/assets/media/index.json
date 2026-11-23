@@ -196,6 +196,186 @@
       "bytes": 1535319,
       "external_use": "pending_review",
       "companion_id": null
+    },
+    {
+      "id": 166,
+      "path": "originals/166-brow-aftercare.jpg",
+      "source_file": "微信图片_20261123165907_166_53.jpg",
+      "category": "brow-aftercare",
+      "title": {
+        "zh-CN": "眉毛术后护理",
+        "en": "Brow aftercare"
+      },
+      "sha256": "709aefc82746f70365c849a463ed9d8c79c063b709a840f713375000287c63b0",
+      "bytes": 668075,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 167,
+      "path": "originals/167-brow-healing.jpg",
+      "source_file": "微信图片_20261123165907_167_53.jpg",
+      "category": "brow-healing",
+      "title": {
+        "zh-CN": "眉毛修复过程",
+        "en": "Brow healing"
+      },
+      "sha256": "f2aedc8c2fef77af9f59b07399af26a7641b8b33631c8d1c69a6b808fb7cf48e",
+      "bytes": 629993,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 168,
+      "path": "originals/168-eyeliner-aftercare.jpg",
+      "source_file": "微信图片_20261123165907_168_53.jpg",
+      "category": "eyeliner-aftercare",
+      "title": {
+        "zh-CN": "眼线术后护理",
+        "en": "Eyeliner aftercare"
+      },
+      "sha256": "29f0df7ddc958eccf2449907910b93b7ba93116b03829f2908c2ad15086b34f5",
+      "bytes": 764291,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 169,
+      "path": "originals/169-lip-healing.jpg",
+      "source_file": "微信图片_20261123165907_169_53.jpg",
+      "category": "lip-healing",
+      "title": {
+        "zh-CN": "唇部修复过程",
+        "en": "Lip healing"
+      },
+      "sha256": "5501c716151ded5c4362f193985001a6f1d796142083111f77383d27abd22d3d",
+      "bytes": 659766,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 170,
+      "path": "originals/170-lip-aftercare.jpg",
+      "source_file": "微信图片_20261123165907_170_53.jpg",
+      "category": "lip-aftercare",
+      "title": {
+        "zh-CN": "唇部术后护理含用药待审核",
+        "en": "Lip aftercare requiring medication review"
+      },
+      "sha256": "698d11fe256ec13b73d40a6f9d1986681b9e3681b686d943e29d6d7422bd491c",
+      "bytes": 913616,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 174,
+      "path": "originals/174-certificate-collage.jpg",
+      "source_file": "微信图片_20261123170007_174_53.jpg",
+      "category": "certificate-collage",
+      "title": {
+        "zh-CN": "产品证书拼图",
+        "en": "Product certificate collage"
+      },
+      "sha256": "c1e4951cdbcae02c1007f1ac99d1be38e73a79f04647f6d611678a955c5e6399",
+      "bytes": 1114454,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 175,
+      "path": "originals/175-pigments-brow.jpg",
+      "source_file": "微信图片_20261123170007_175_53.jpg",
+      "category": "pigments-brow",
+      "title": {
+        "zh-CN": "色料展示一",
+        "en": "Pigment display one"
+      },
+      "sha256": "07e14a9b9c4f1107084b7500d6b37144e2337579191aab81637576a9b6e5a664",
+      "bytes": 2264154,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 176,
+      "path": "originals/176-pigments-lip-one.jpg",
+      "source_file": "微信图片_20261123170007_176_53.jpg",
+      "category": "pigments-lip-one",
+      "title": {
+        "zh-CN": "色料展示二",
+        "en": "Pigment display two"
+      },
+      "sha256": "ff5541a53c7005fc978243b93c0f8d4a33fbc8f13b9c64d7cf0e753a62868de4",
+      "bytes": 1712530,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
+    },
+    {
+      "id": 177,
+      "path": "originals/177-pigments-lip-two.jpg",
+      "source_file": "微信图片_20261123170007_177_53.jpg",
+      "category": "pigments-lip-two",
+      "title": {
+        "zh-CN": "色料展示三",
+        "en": "Pigment display three"
+      },
+      "sha256": "47de7eb7a95ea643ed614c67b451ae38471b6a293897ab9f619d6ef1e9eb2c20",
+      "bytes": 2148515,
+      "external_use": "customer_confirmed",
+      "batch": "2026-11-23",
+      "confirmation": {
+        "status": "customer_confirmed",
+        "date": "2026-11-23",
+        "source": "User confirmation in current conversation",
+        "statement": "资料都是客户确认过的"
+      }
     }
   ]
 }
