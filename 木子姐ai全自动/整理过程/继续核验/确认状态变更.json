@@ -1,0 +1,278 @@
+[
+  {
+    "path": "知识库/官网/产品目录.json",
+    "before_sha256": "f01a3d954d17c22883747e2e13a3ba3a1b8384a512113d111262c1eb00208eeb",
+    "after_sha256": "5a94ca6ba6cad7de87fdad8b0d6bfb22f4d96e5e4a582e8ed3667e262a0e2d44",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/amino-acid-cleansing-mousse.md",
+    "before_sha256": "7327b72e05decdb311c43f5ae98069015d4b9b24cb91a6dd2f686a16adcb31c7",
+    "after_sha256": "10f055bca2ea78c30b8a4df262571176b8c30d66beea457748025f35d778f8cc",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/aqua-light-sun-care-no-1.md",
+    "before_sha256": "a875df57ed7cde519e724376dbf052c1a08d2843179be41acd0b0f7c7a9acbb8",
+    "after_sha256": "2fb6df47078192041520a34e0841c43661e8a6d1686a54c9b8fb7c5be8db849c",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/aqua-light-sun-care-no-2.md",
+    "before_sha256": "d23a5db06a5d0e8e3c8ecb1ff57b5a77f364c05b8db2b3dd758aafd75097a302",
+    "after_sha256": "c345a1a74bb9a47690e67846997a854349423e18fbaf52facd3ceb6bf08bf299",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/aqua-light-toner.md",
+    "before_sha256": "a123a621ed88243aec93478705d271ae975064c7a6ae0d097949a3b863e095e4",
+    "after_sha256": "bb5305505825ec0bb76932aa6b23eef659cda9956107eda610c2892d6d5cb057",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/body-cream-efficitur.md",
+    "before_sha256": "aa357c3232a79cfb0a6566ca29d9512399255cd74ddbb6bf037ced6ba9607207",
+    "after_sha256": "8f8ad53c134fc86dc4bcfb47d6d3e2d12c13bbc0abe137acd2313a4eddb2190e",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/body-cream-parturient.md",
+    "before_sha256": "847dcf4cb7f4e779b6456e16021407e28c3e6dcfcec1e0bb3d0458a17ba653fe",
+    "after_sha256": "642977db579a844387561be1c28df716a9f3c1486ccaa475983071d0a16ed41b",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/body-cream-vitae.md",
+    "before_sha256": "7301e59adae7b3b8451e55983a04a532bf83d778aa51f1300064fbb84fede7c1",
+    "after_sha256": "6c21319a1be3c88f2dfde204a9899870a881ee084ca836bfa0d0375e8202d355",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/course-beauty-hair.md",
+    "before_sha256": "f0609d174c48e4a7d9c0639e00c78006cf6d90185af4955f13d60f99073dafee",
+    "after_sha256": "fa0f5b1ad4119ea693f542f7570decffc75ee8c7b4285faf8ae79b43d1563705",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/course-face-skin.md",
+    "before_sha256": "ee5be26fe9bd937dd9b826dea9453dd1fddea62b5bdbf84f686c9ec59fd7a59f",
+    "after_sha256": "4fde3d663186e6eb191485a587cf1fae3ee0f49799215655064004031c447820",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/course-healthy-body.md",
+    "before_sha256": "9cdeab37f1bb7be0b866e1e1c3eb0648a47be90c48bb6142b84d6c5ac7a82fa1",
+    "after_sha256": "04d2e5af4317a1a2d7e501f3263402c890c0381f2f7a3dde8331c38f043293a9",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/face-natural-skin-facisilis.md",
+    "before_sha256": "b96381b3534aaf99c8e973bf2a0b08b7c323bea2370039c9307263094f8f86d3",
+    "after_sha256": "a93ac427b63e627dc24ae3dc8513b96696b46cc051ac10c605bc2176409137e3",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/face-natural-skin-fermentum.md",
+    "before_sha256": "a2df9efb4e35554f6c8e96bcb878b8ce26740eded5f80df9c5f1319149196819",
+    "after_sha256": "1bcea60ec467b5bfa41def172209ba5df65e211b24cf49c48ceb788db4f65a08",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/face-natural-skin-platea.md",
+    "before_sha256": "586d10272b2eb4bd35ec38b08b86c7bfd9b8d4e982a87fe72da486ad5a6d545a",
+    "after_sha256": "c43b6e9c61d07bbd6620215336b908a21398f3190f61e4a80eedb8b0aa1628b9",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hand-cream-soft-dictum.md",
+    "before_sha256": "62489b2bdca0c70af3ca16d2f03a74de906a8873be6dde92150b4244e2de1639",
+    "after_sha256": "b3ffbd2361a284157aca6f27f05b91b6fc94452e0afd29f9e8b67861c1e01edf",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hand-cream-soft-lectus.md",
+    "before_sha256": "b5d1d70a1d8c3763688f74273d44e27f10cff0aab9e7143cfe6cfc6ceea9fd71",
+    "after_sha256": "aadf9063f0faab9d8e10e4afc2e993518f3f68eb59a89ddbcbaa3023d845a393",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hand-cream-soft-letius.md",
+    "before_sha256": "0c8dec525b602f7a008999e8f1f3511fa58c132adfc66b3162aa268adb9616b7",
+    "after_sha256": "8822d2acd826ac2d8ff1ccc95b96f33dda34f7790f44d4e1201d12006d31a57a",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-aqua-boost-concentrate.md",
+    "before_sha256": "95272a6ddd875d54217acc54cf0a5c7875f44f8dabfc83241877268a8a35a6af",
+    "after_sha256": "6b8583170790180ec18065d114697d179cd8b8fb44603c633865c2726a6e4eda",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-dermshield.md",
+    "before_sha256": "2b85543c40a86c7b19d266096661459b9a0c4180335ceeb63d6f2b59c61ff581",
+    "after_sha256": "23627ce11d845326e3e1d9a77506e85759252949c01b3a4f7331deb03c39a1ac",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-kinetic-essence.md",
+    "before_sha256": "3baa88e4d7ccf5507a7051780c2909cac15eb3c5b9ae7f53e81b46b8a14aa60d",
+    "after_sha256": "efeb15d07febd92bef49d4a23dc5450c18250c0700aa4fdc2d15812b5e71cbd5",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-vitality-infusion-essence.md",
+    "before_sha256": "18654af7c32567abdf37750f628aac4c0a1cc53ea6e94ffea23bbe8a7e06f092",
+    "after_sha256": "fb68ce7430ca0c3688d7aff7259a3a0927fabdc4bd8b387110510d1fe7a2f4f5",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydration-skin-care-kit.md",
+    "before_sha256": "fc4c0d5594b4c4c6cababf8af1b7c2d2e142d04bf2fc537dc4faeda0725c032a",
+    "after_sha256": "6aa81860c2d64085dfeb91d69edd7816cfe9be5a0c75a86afd26bdd0825db54d",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydrodna-elixir-essence.md",
+    "before_sha256": "02152affb1a295464a4e69ae9fc77d22d36d30577e9532a526898d142ad6c1ae",
+    "after_sha256": "742eca421be08d5980175abbc47eab186b4ceea3f9249269ae5c96b977fd82aa",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydrodna-quantum-essence.md",
+    "before_sha256": "71bc868bfbb98753d9b0fde2f259352c6af5bc295e1592331b19d74243166678",
+    "after_sha256": "c9aad14ead156a8c3e929d16aad58433b6e63bf37e6781f68448a9d864e77fbd",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydrogel-mask.md",
+    "before_sha256": "1eac9c7f18a4870ecf4826344b95a707b094db733492d386b950912d80ccc66a",
+    "after_sha256": "9ef2eb88b5b6e7169d66dbbd86d0bf3e28cdfced4895e146066fa92dd454ca0d",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/lip-balancing-cream-no-1.md",
+    "before_sha256": "a1be144fe4daf8bbe4b59a435f5dbbe4258f614aad1de846af5b232dbacce552",
+    "after_sha256": "491243fa19112f01806db4da5f299bdb93e245044a5dd5693ea32624995b9df8",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/lip-glow.md",
+    "before_sha256": "40809137fff0b9ee43f17d05045b57db443971c4618ce67631f5e2f8d91838cc",
+    "after_sha256": "bd4cdebdefb90e8832eadcf1196ab7db3841bc768859a58622a625655a40209b",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/make-up-fixer-spray.md",
+    "before_sha256": "88bf3eccee2e717c6541363a6878028f0a0763581c81322bbd283cf5f10cf6ca",
+    "after_sha256": "43d13fe2818f4c0d89948a69fc46ef3fba603e3042031409e9cd499eb3d045af",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/moisturize-cream.md",
+    "before_sha256": "aa05ccff71144aae1a81d69e0cc777681f3230275d9911bca8e262a41c421fde",
+    "after_sha256": "efe5d9b5903e56a2ac00efa0b112a9467c6abbbf5e6011d548f42d5128a1c487",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/moisturize-serum.md",
+    "before_sha256": "ce86f748265b1482adfa1a3e85cdb8d899f90b03766e2ee4a3ed698c2ca1c3fb",
+    "after_sha256": "81710d1ee6eb9ec29e6f04d5c15d42cde020dddbca9e9b4f063fa49dc23f62d1",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/rejuvenating-bio-essence-set.md",
+    "before_sha256": "10ffdb326c2bb262fd301f203a48380591b0c5a0e7006d11e131fce4261c12e3",
+    "after_sha256": "6e584bab2707679e44f01f94b585043ac4c60d1682a82e8c171409408e16113a",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/schampoo-with-algae.md",
+    "before_sha256": "36e785b902a1220c0d6bbe106abe56f1d6ea8030c1e4af1b1fea01e2e868fe14",
+    "after_sha256": "b0b7d30fee0965b2aabe6f55ccddcc8de143b49c94d84c7eb5ef5ca28ee43742",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/schampoo-with-nettle.md",
+    "before_sha256": "c7a8b38ba86d5669ed84acea60f58e8ed7d83f123e8e496195622afe62ad634f",
+    "after_sha256": "7c4de48c210da8ddda8131ea9ddc62af725f12e1871f3076bc4dda806c2b9609",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/schampoo-with-olive.md",
+    "before_sha256": "359bd955fc4d4d3104daa89127372f760f6461eaff39d73837f9fc5006d0813f",
+    "after_sha256": "c696868135d9cdb57b6d23452b21854a0b3e75896cd6ecb0985e69b668589ee3",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/secret-of-pink-light-wave-device.md",
+    "before_sha256": "59568ca2bdc39cf4154619f41ef0b7a371789125c9bff7819685e516f4338f11",
+    "after_sha256": "bf9e8159d46366eb82489af6fa2ede12e2559f686021171bef9ef757336f7f13",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/secret-of-pink-peach-mist.md",
+    "before_sha256": "e9dc714faa95299474753da2cef84e49ae1c124a758599c2ac0ea786e1995b0f",
+    "after_sha256": "65ee81d96d77cf11703c6a756ca2a9945c059df390597d632bc2693af05de4de",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/soothing-essence-lotion.md",
+    "before_sha256": "de94824f107776c2bf571649fd97b80bff0ebd440e7fe33e7f898ebf5be9d4ca",
+    "after_sha256": "ea33f11a837864e2a698849eb78bdd75f683cc921fa92f0e8655d809297dec91",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/tone-up-cream.md",
+    "before_sha256": "0e9cff948c929188ebfb34107e78e4c8802036ff4d9910e4a05182ba363bf8cf",
+    "after_sha256": "64176d0e0e6123bba066f263d87c65747b41d2022c0f19c6160f324b07afafbc",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-2.md",
+    "before_sha256": "5d4549f351312f8e0294deafd4d74ef75daa3b4a8867d35700c7c5bcf33786c6",
+    "after_sha256": "f7f0e01dcb8d4678d30c0048523cea0f6b87945ecdb236e4384f59828a5b7476",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-3.md",
+    "before_sha256": "2018830e2bd301c7520701b10f33e5da14d14bd1ea3cae7538b8790842727fe3",
+    "after_sha256": "59d68e549b05a797f584b0c52146717370a8135373759382e52528534398ec29",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-4.md",
+    "before_sha256": "0187d6fc18a22c55bda86c9952be94fb212e361f814d642bb9ce576e0aec3191",
+    "after_sha256": "136226bd898e96c3f8364350c97264fbd2ba44e70b2b2b9c771e35c9ac3a6333",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品索引.md",
+    "before_sha256": "335856d69329ffe8129a106df454c6756db900faa3edf9b39f61df61ee1e427a",
+    "after_sha256": "72c2ea55ac8e2c22f964494ea2df36c77d90bc3183e5940855f7c676d88e4d16",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "官网资料/2026-11-24/官网资料预览.html",
+    "before_sha256": "a37d850fb9d7a1cff2fe2084d6d9e8efcc5bd711688a4e45c28a7a22ad8d03af",
+    "after_sha256": "642f6d7037bafb30a3fb2cb8c616589e2c3404df91f46e8990303454b08d2f94",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "知识库/官网/产品价格快照.csv",
+    "before_sha256": "e85cae24cbea0ee703a2376b8d254d6f8bc8e601d0df89e81a41286152e36064",
+    "after_sha256": "0b6fbbfe51d71cafbdf0521c7416f41b5057540f9b63b2985fe3209ecb8a27c3",
+    "reason": "记录用户确认；价格、原文来源与原件内容不变"
+  },
+  {
+    "path": "素材库/素材预览.html",
+    "before_sha256": "33b3df15ddd2e5606e1788ef117db1009b4e579ab803111a0f8a28da3ca6cfd6",
+    "after_sha256": "7dfe77bc0e57a0da81082662be6e1bd5d4ffa4079985b32ea072b6f8e0d6439f",
+    "reason": "微信素材预览说明同步用户确认，原卡片备注保留为历史线索"
+  },
+  {
+    "path": "整理过程/官网采集/生成官网资料库.py",
+    "before_sha256": "4b2eb025743ac0892f6220b8d517239a7b7f4669ba5ffc4f8d3e8d732c61dea7",
+    "after_sha256": "1f20d18f4a16ec899f671204a13f7d48486bb239b9d574fa5e43e170dcc730a8",
+    "reason": "后续构建读取用户确认记录，不恢复整批待确认状态；仅编译字符串检查，未运行重建"
+  }
+]

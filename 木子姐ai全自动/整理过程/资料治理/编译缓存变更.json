@@ -1,0 +1,12 @@
+[
+  {
+    "path": "整理过程/官网采集/__pycache__/校验官网资料.cpython-38.pyc",
+    "after_sha256": "5fd3e253cf562b4840e2b45a8c30010f1addfa05c2b83bb34d97297d0cc41498",
+    "reason": "对本轮修复的两份脚本做py_compile语法检查更新的派生缓存"
+  },
+  {
+    "path": "整理过程/官网采集/__pycache__/生成官网资料库.cpython-38.pyc",
+    "after_sha256": "dbd2ca51c087d07d7497dc779b89c405a690a61a953aa0a2581155de9fa55348",
+    "reason": "对本轮修复的两份脚本做py_compile语法检查更新的派生缓存"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "checks": [
+    {
+      "label": "商品搜索",
+      "visible": 1,
+      "count": "显示 1 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "疑似模板",
+      "visible": 15,
+      "count": "显示 15 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "公开媒体记录",
+      "visible": 180,
+      "count": "显示 180 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "视频筛选",
+      "visible": 3,
+      "count": "显示 3 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "原始图片记录含2条同源失效占位图",
+      "visible": 161,
+      "count": "显示 161 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "页面筛选",
+      "visible": 95,
+      "count": "显示 95 项 / 全部 1406 项",
+      "empty": false
+    },
+    {
+      "label": "无匹配",
+      "visible": 0,
+      "count": "显示 0 项 / 全部 1406 项",
+      "empty": true
+    },
+    {
+      "label": "恢复商品视图",
+      "visible": 40,
+      "count": "显示 40 项 / 全部 1406 项",
+      "empty": false
+    }
+  ],
+  "videos": [
+    {
+      "url": "%E7%AB%99%E7%82%B9%E8%B5%84%E6%BA%90/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+      "duration": 27.282789,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "url": "%E7%AB%99%E7%82%B9%E8%B5%84%E6%BA%90/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+      "duration": 23.730136,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "url": "%E7%AB%99%E7%82%B9%E8%B5%84%E6%BA%90/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+      "duration": 24.798254,
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "image_decode": {
+    "count": 159,
+    "all_passed": true
+  },
+  "real_browser": "Ego Lite",
+  "source": "本地HTTP预览"
+}

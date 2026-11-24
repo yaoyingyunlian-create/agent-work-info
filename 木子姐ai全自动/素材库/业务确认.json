@@ -1,0 +1,9 @@
+{
+  "confirmation_date": "2026-11-24",
+  "confirmed_by": "当前用户",
+  "confirmation_quote": "这是确认过的材料",
+  "status": "用户已确认材料",
+  "scope": "本项目现有用户来件及已归档官网材料；不含未获取的未知记录",
+  "record": "知识库/资料确认记录.md",
+  "missing_fields": "保留未提供字段与客观版本差异，不补造数值或结论"
+}

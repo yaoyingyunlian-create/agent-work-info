@@ -1,0 +1,144 @@
+[
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-posts-post-1.xml",
+    "urls": [
+      "https://lareine.com.sg/hello-world/",
+      "https://lareine.com.sg/hello-world/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-posts-page-1.xml",
+    "urls": [
+      "https://lareine.com.sg/shop/",
+      "https://lareine.com.sg/cart-2/",
+      "https://lareine.com.sg/checkout-2/",
+      "https://lareine.com.sg/my-account-2/",
+      "https://lareine.com.sg/about/",
+      "https://lareine.com.sg/about-us/",
+      "https://lareine.com.sg/courses/",
+      "https://lareine.com.sg/inspirations/",
+      "https://lareine.com.sg/contact/",
+      "https://lareine.com.sg/contact/",
+      "https://lareine.com.sg/sales/",
+      "https://lareine.com.sg/wishlist/",
+      "https://lareine.com.sg/products/",
+      "https://lareine.com.sg/cart/",
+      "https://lareine.com.sg/checkout/",
+      "https://lareine.com.sg/my-account/",
+      "https://lareine.com.sg/home/",
+      "https://lareine.com.sg/shop/",
+      "https://lareine.com.sg/cart/",
+      "https://lareine.com.sg/checkout/",
+      "https://lareine.com.sg/my-account/",
+      "https://lareine.com.sg/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-posts-product-1.xml",
+    "urls": [
+      "https://lareine.com.sg/product/schampoo-with-algae/",
+      "https://lareine.com.sg/product/body-cream-vitae/",
+      "https://lareine.com.sg/product/body-cream-efficitur/",
+      "https://lareine.com.sg/product/face-natural-skin-fermentum/",
+      "https://lareine.com.sg/product/hand-cream-soft-lectus/",
+      "https://lareine.com.sg/product/course-face-skin/",
+      "https://lareine.com.sg/product/schampoo-with-olive/",
+      "https://lareine.com.sg/product/body-cream-parturient/",
+      "https://lareine.com.sg/product/course-beauty-hair/",
+      "https://lareine.com.sg/product/hydrogel-mask/",
+      "https://lareine.com.sg/product/amino-acid-cleansing-mousse/",
+      "https://lareine.com.sg/product/make-up-fixer-spray/",
+      "https://lareine.com.sg/product/aqua-light-sun-care-no-1/",
+      "https://lareine.com.sg/product/tone-up-cream/",
+      "https://lareine.com.sg/product/aqua-light-toner/",
+      "https://lareine.com.sg/product/moisturize-serum/",
+      "https://lareine.com.sg/product/soothing-essence-lotion/",
+      "https://lareine.com.sg/product/moisturize-cream/",
+      "https://lareine.com.sg/product/hydradna-aqua-boost-concentrate/",
+      "https://lareine.com.sg/product/hydradna-kinetic-essence/",
+      "https://lareine.com.sg/product/hydradna-vitality-infusion-essence/",
+      "https://lareine.com.sg/product/hydrodna-elixir-essence/",
+      "https://lareine.com.sg/product/hydrodna-quantum-essence/",
+      "https://lareine.com.sg/product/lip-balancing-cream-no-1/",
+      "https://lareine.com.sg/product/lip-glow/",
+      "https://lareine.com.sg/product/rejuvenating-bio-essence-set/",
+      "https://lareine.com.sg/product/secret-of-pink-light-wave-device/",
+      "https://lareine.com.sg/product/hydradna-dermshield/",
+      "https://lareine.com.sg/product/secret-of-pink-peach-mist/",
+      "https://lareine.com.sg/product/whitening-cream-no-2/",
+      "https://lareine.com.sg/product/whitening-cream-no-3/",
+      "https://lareine.com.sg/product/whitening-cream-no-4/",
+      "https://lareine.com.sg/product/aqua-light-sun-care-no-2/",
+      "https://lareine.com.sg/product/hydration-skin-care-kit/",
+      "https://lareine.com.sg/product/face-natural-skin-platea/",
+      "https://lareine.com.sg/product/hand-cream-soft-letius/",
+      "https://lareine.com.sg/product/course-healthy-body/",
+      "https://lareine.com.sg/product/schampoo-with-nettle/",
+      "https://lareine.com.sg/product/face-natural-skin-facisilis/",
+      "https://lareine.com.sg/product/hand-cream-soft-dictum/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-taxonomies-category-1.xml",
+    "urls": [
+      "https://lareine.com.sg/category/uncategorized/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-taxonomies-product_cat-1.xml",
+    "urls": [
+      "https://lareine.com.sg/product-category/home-skincare-series/",
+      "https://lareine.com.sg/product-category/body/",
+      "https://lareine.com.sg/product-category/hands/",
+      "https://lareine.com.sg/product-category/moisturizers/",
+      "https://lareine.com.sg/product-category/cleansers/",
+      "https://lareine.com.sg/product-category/sunscreen/",
+      "https://lareine.com.sg/product-category/treatments/",
+      "https://lareine.com.sg/product-category/body/moisturizers-body/",
+      "https://lareine.com.sg/product-category/hands/soaps-hands/",
+      "https://lareine.com.sg/product-category/professional-aesthetic-water-light-series/",
+      "https://lareine.com.sg/product-category/makeup/",
+      "https://lareine.com.sg/product-category/featured/",
+      "https://lareine.com.sg/product-category/brightening/",
+      "https://lareine.com.sg/product-category/conditioners/",
+      "https://lareine.com.sg/product-category/hair/",
+      "https://lareine.com.sg/product-category/shampoos/",
+      "https://lareine.com.sg/product-category/styling/",
+      "https://lareine.com.sg/product-category/tools/",
+      "https://lareine.com.sg/product-category/vegan/",
+      "https://lareine.com.sg/product-category/bath-shower/",
+      "https://lareine.com.sg/product-category/deodorants/",
+      "https://lareine.com.sg/product-category/gift-sets/",
+      "https://lareine.com.sg/product-category/soaps/",
+      "https://lareine.com.sg/product-category/masks/",
+      "https://lareine.com.sg/product-category/manicure/",
+      "https://lareine.com.sg/product-category/peeling/",
+      "https://lareine.com.sg/product-category/polish/",
+      "https://lareine.com.sg/product-category/tools-hands/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-taxonomies-product_tag-1.xml",
+    "urls": [
+      "https://lareine.com.sg/product-tag/earrings/",
+      "https://lareine.com.sg/product-tag/tonic/",
+      "https://lareine.com.sg/product-tag/schampoo/",
+      "https://lareine.com.sg/product-tag/head/",
+      "https://lareine.com.sg/product-tag/face/",
+      "https://lareine.com.sg/product-tag/hands/",
+      "https://lareine.com.sg/product-tag/care/",
+      "https://lareine.com.sg/product-tag/courses/",
+      "https://lareine.com.sg/product-tag/silver/",
+      "https://lareine.com.sg/product-tag/rings/",
+      "https://lareine.com.sg/product-tag/cream/",
+      "https://lareine.com.sg/product-tag/mask/"
+    ]
+  },
+  {
+    "sitemap": "https://lareine.com.sg/wp-sitemap-users-1.xml",
+    "urls": [
+      "https://lareine.com.sg/author/ephraimdannygmail-com/",
+      "https://lareine.com.sg/author/lareine/"
+    ]
+  }
+]

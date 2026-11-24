@@ -1,0 +1,39 @@
+{
+  "review_date": "2026-11-24",
+  "checks": {
+    "微信原件": 63,
+    "官网资源": 1269,
+    "价格来源独立重算": {
+      "有价": 21,
+      "未提供价格": 5,
+      "明确询价": 14
+    },
+    "完整视频解码": [
+      {
+        "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2--qd92589d6b1.mp4",
+        "whole_video_decode": "通过",
+        "exit_code": 0
+      },
+      {
+        "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816--q870089ac83.mp4",
+        "whole_video_decode": "通过",
+        "exit_code": 0
+      },
+      {
+        "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6--q7b50db1914.mp4",
+        "whole_video_decode": "通过",
+        "exit_code": 0
+      }
+    ],
+    "知识库/文档登记.json": {
+      "rows": 250,
+      "stale": []
+    },
+    "素材库/全项目素材清单.json": {
+      "rows": 1528,
+      "stale": []
+    }
+  },
+  "errors": [],
+  "scope": "独立重算来源价格、文件哈希和全片音视频解码；未更改原件，未转写或评价音频内容"
+}

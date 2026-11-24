@@ -1,0 +1,67 @@
+{
+  "captured_date": "2026-11-24",
+  "timezone": "Asia/Shanghai",
+  "scope": "站点地图与页面链接的公开内容、公开WordPress媒体/内容/Store API、CSS引用资源；不含需授权登录的后台或未公开文件",
+  "page_count": 95,
+  "page_http_statuses": {
+    "200": 95
+  },
+  "page_queue_remaining": [],
+  "product_count": 40,
+  "template_candidates": 15,
+  "products_with_frontend_price": 40,
+  "products_enquiry_only": 0,
+  "public_media_originals": 180,
+  "media_types": {
+    "图片": 161,
+    "视频": 3,
+    "字体": 16
+  },
+  "originals_downloaded": 178,
+  "resource_urls": 1270,
+  "downloaded_resources": 1269,
+  "downloaded_bytes": 221619311,
+  "resource_failures": [
+    {
+      "url": "https://lareine.com.sg/wp-content/uploads/woocommerce-placeholder.png",
+      "status": 404,
+      "error": "HTTP错误或资源返回HTML"
+    }
+  ],
+  "sha256_errors": [],
+  "exact_duplicate_groups": 5,
+  "image_decode_errors": [],
+  "website_browser_check": "已实测首页与Aqua Light Toner中英切换；中文模式仍有共享英文块",
+  "website_screenshots": "官网截图接口两次超时，未生成截图；DOM/HTML及正文已保存",
+  "no_private_data_access": "未登录、未获取订单/客户数据、未提交表单或操作购物车",
+  "binary_scope_note": "公开媒体接口列出0份PDF，当前页面未发现PDF下载链接；原微信批次的2份PDF仍在原始资料",
+  "complete_publicly_discovered_scope": false,
+  "generated_local_link_checks": {
+    "count": 1934,
+    "failures": []
+  },
+  "original_chat_sha256_unchanged": "63/63",
+  "enquiry_price_check": "19个询价商品的规范化成交价格均留空，未按API 0标为免费",
+  "product_category_coverage": {
+    "provided": 39,
+    "missing": [
+      "https://lareine.com.sg/product/course-face-skin/"
+    ],
+    "note": "同时保留前台分类文本与公开API分类；缺失值留空，不推定分类"
+  },
+  "unique_original_source_urls": 179,
+  "unique_original_urls_downloaded": 178,
+  "video_probe": "3/3 MP4均由ffprobe识别，720p H264/AAC，时长见视频文件校验.json",
+  "media_api_total_discrepancy": {
+    "header_reported_total": 205,
+    "unique_records_returned": 180,
+    "not_returned_by_public_api": 25,
+    "pagination_rechecked": "per_page=100与20均返回同一组180个ID；未猜测缺失记录内容或访问受限内容"
+  },
+  "local_preview_browser_check": {
+    "filter_scenarios": 8,
+    "images_decoded": 159,
+    "video_metadata_loaded": 3,
+    "status": "通过；未完成截图布局验收，截图接口超时"
+  }
+}

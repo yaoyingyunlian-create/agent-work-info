@@ -1,0 +1,301 @@
+[
+  {
+    "sha256": "b0ef93e7fbb36136166ad9a7717792a4389662b91c65770943718ed2b608ef48",
+    "bytes_each": 122635,
+    "paths": [
+      "原始资料/YVELISE 抗衰套盒 ¥498/微信图片_20261124202026.jpg",
+      "原始资料/yvelise ｜紧致亮颜焕活精华¥ 198 /微信图片_20261124201900.jpg"
+    ],
+    "recommended_entry": "原始资料/YVELISE 抗衰套盒 ¥498/微信图片_20261124202026.jpg",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "原始资料/YVELISE 抗衰套盒 ¥498/微信图片_20261124202026.jpg": [
+        "素材库/原件清单.json",
+        "素材库/素材目录.json",
+        "素材库/素材索引.md",
+        "素材库/素材预览.html"
+      ],
+      "原始资料/yvelise ｜紧致亮颜焕活精华¥ 198 /微信图片_20261124201900.jpg": [
+        "素材库/原件清单.json",
+        "素材库/素材目录.json",
+        "素材库/素材索引.md",
+        "素材库/素材预览.html"
+      ]
+    }
+  },
+  {
+    "sha256": "7a4d99604677e091740cd43d5954f59377cd79c7f63f665ded6b1f00f766693e",
+    "bytes_each": 8865,
+    "paths": [
+      "官网资料/2026-11-24/公开API/media-3.json",
+      "官网资料/2026-11-24/公开API/media-audit-20-11.json"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/公开API/media-3.json",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/公开API/media-3.json": [],
+      "官网资料/2026-11-24/公开API/media-audit-20-11.json": []
+    }
+  },
+  {
+    "sha256": "e933223a1d38fdea45991242c6d11473a9cd2aee173f217ae9433c4f84f5c233",
+    "bytes_each": 221,
+    "paths": [
+      "官网资料/2026-11-24/公开内容正文/pages-332-checkout.md",
+      "官网资料/2026-11-24/公开内容正文/pages-587-checkout.md"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/公开内容正文/pages-332-checkout.md",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/公开内容正文/pages-332-checkout.md": [],
+      "官网资料/2026-11-24/公开内容正文/pages-587-checkout.md": []
+    }
+  },
+  {
+    "sha256": "111eec36bcd71fa4eb4d615b99f6ea16fd0a1449cea7f3f3301579b84a43131e",
+    "bytes_each": 225,
+    "paths": [
+      "官网资料/2026-11-24/公开内容正文/pages-333-my-account.md",
+      "官网资料/2026-11-24/公开内容正文/pages-588-my-account.md"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/公开内容正文/pages-333-my-account.md",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/公开内容正文/pages-333-my-account.md": [],
+      "官网资料/2026-11-24/公开内容正文/pages-588-my-account.md": []
+    }
+  },
+  {
+    "sha256": "e248148468999e16559b4492cd37668b0bc96be8ba4877b316f99b6742e48681",
+    "bytes_each": 256,
+    "paths": [
+      "官网资料/2026-11-24/公开内容正文/posts-1-hello-world.md",
+      "官网资料/2026-11-24/公开内容正文/posts-329-hello-world.md"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/公开内容正文/posts-1-hello-world.md",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/公开内容正文/posts-1-hello-world.md": [],
+      "官网资料/2026-11-24/公开内容正文/posts-329-hello-world.md": []
+    }
+  },
+  {
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes_each": 2,
+    "paths": [
+      "官网资料/2026-11-24/图片解码异常.json",
+      "官网资料/2026-11-24/资源待处理.json",
+      "官网资料/2026-11-24/页面未处理.json"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/资源待处理.json",
+    "recommendation": "各自保留，不可互换的结构性重复",
+    "basis": "内容相同但分别表示不同状态/来源或提取占位说明，不能相互替代",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/图片解码异常.json": [],
+      "官网资料/2026-11-24/资源待处理.json": [],
+      "官网资料/2026-11-24/页面未处理.json": []
+    }
+  },
+  {
+    "sha256": "2c467b963dab350d8721f434b8366d2688ee3517e2c6bb29a916a3d0272500df",
+    "bytes_each": 4387,
+    "paths": [
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-100x100.png",
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-100x100.png"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-100x100.png",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-100x100.png": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ],
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-100x100.png": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ]
+    }
+  },
+  {
+    "sha256": "d23384fc1d1db008dec927716726972551ed60ddec414439dfbb67df9bb7c38a",
+    "bytes_each": 19699,
+    "paths": [
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-300x300.png",
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-300x300.png"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-300x300.png",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-300x300.png": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ],
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-300x300.png": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ]
+    }
+  },
+  {
+    "sha256": "ec8ea764ecc5a3e4a5897509da6db599d9371d3446caef17f0393566e8173da1",
+    "bytes_each": 28223226,
+    "paths": [
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2--qd92589d6b1.mp4",
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2--qd92589d6b1.mp4": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ],
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4": [
+        "官网资料/2026-11-24/媒体原件索引.json",
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ]
+    }
+  },
+  {
+    "sha256": "357d2f56afd0a01c12979d29e3bd7761ec2c7a2b826c9a4189e1c9f492d8275b",
+    "bytes_each": 13628252,
+    "paths": [
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816--q870089ac83.mp4",
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816--q870089ac83.mp4": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ],
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4": [
+        "官网资料/2026-11-24/媒体原件索引.json",
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ]
+    }
+  },
+  {
+    "sha256": "6b557d5d9da2482ab4a207efb0929e1a22a6a223d1f045ab9a08b1ef9a4e1cca",
+    "bytes_each": 7033548,
+    "paths": [
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6--q7b50db1914.mp4",
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6--q7b50db1914.mp4": [
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ],
+      "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4": [
+        "官网资料/2026-11-24/媒体原件索引.json",
+        "官网资料/2026-11-24/官网资料预览.html",
+        "官网资料/2026-11-24/资源清单.json"
+      ]
+    }
+  },
+  {
+    "sha256": "58b96759f482ef934287e25349c67829663b017cb71b07ade8cc7b4c4dc35dc6",
+    "bytes_each": 85072,
+    "paths": [
+      "官网资料/2026-11-24/页面原始/e78ed0ba80836033.html",
+      "官网资料/2026-11-24/首页原始.html"
+    ],
+    "recommended_entry": "官网资料/2026-11-24/首页原始.html",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "官网资料/2026-11-24/页面原始/e78ed0ba80836033.html": [
+        "官网资料/2026-11-24/页面清单.json"
+      ],
+      "官网资料/2026-11-24/首页原始.html": []
+    }
+  },
+  {
+    "sha256": "c12211b6275a55de7034113a99dec85fa81ef8e625e9de2ed78c80fd6a279c82",
+    "bytes_each": 199,
+    "paths": [
+      "知识库/PDF提取/水光（华文）.txt",
+      "知识库/PDF提取/水光（英文）.txt"
+    ],
+    "recommended_entry": "知识库/PDF提取/水光（华文）.txt",
+    "recommendation": "各自保留，不可互换的结构性重复",
+    "basis": "内容相同但分别表示不同状态/来源或提取占位说明，不能相互替代",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "知识库/PDF提取/水光（华文）.txt": [],
+      "知识库/PDF提取/水光（英文）.txt": []
+    }
+  },
+  {
+    "sha256": "27b050125be9c10957fef8baf9aa5454fbb7a9f17077ac0606390371b32855e1",
+    "bytes_each": 373564,
+    "paths": [
+      "素材库/PDF页面/水光（华文）-1.png",
+      "素材库/PDF页面/水光（英文）-1.png"
+    ],
+    "recommended_entry": "素材库/PDF页面/水光（华文）-1.png",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "素材库/PDF页面/水光（华文）-1.png": [
+        "素材库/素材索引.md",
+        "素材库/素材预览.html"
+      ],
+      "素材库/PDF页面/水光（英文）-1.png": [
+        "素材库/素材索引.md",
+        "素材库/素材预览.html"
+      ]
+    }
+  },
+  {
+    "sha256": "a1a675d599d39d7bbec23e16cdc7a937178a6e04d7320bb272ff1edb8eaa0a42",
+    "bytes_each": 35313,
+    "paths": [
+      "素材库/缩略图/A008.jpg",
+      "素材库/缩略图/A013.jpg"
+    ],
+    "recommended_entry": "素材库/缩略图/A008.jpg",
+    "recommendation": "推荐该路径作为检索入口；所有路径保留",
+    "basis": "优先用户原件，其次无查询参数的官网来源路径；选择仅用于检索与复用入口，不证明业务版本更新",
+    "action": "保留所有路径；已引用文件不得据此直接删除",
+    "references": {
+      "素材库/缩略图/A008.jpg": [
+        "素材库/素材目录.json",
+        "素材库/素材预览.html"
+      ],
+      "素材库/缩略图/A013.jpg": [
+        "素材库/素材目录.json",
+        "素材库/素材预览.html"
+      ]
+    }
+  }
+]

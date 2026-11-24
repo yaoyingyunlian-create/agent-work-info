@@ -1,0 +1,41 @@
+﻿id,wp_id,name,url,categories,price_display,currency,current_api_amount_if_frontend_priced,price_status,classification,captured_at
+W-PROD001,354,Amino Acid Cleansing Mousse,https://lareine.com.sg/product/amino-acid-cleansing-mousse/,SKINCARE,$46.00,SGD,46,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:13+08:00
+W-PROD002,356,Aqua Light Sun Care No.1,https://lareine.com.sg/product/aqua-light-sun-care-no-1/,MAKEUP,$46.00,SGD,46,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:13+08:00
+W-PROD003,416,Aqua Light Sun Care No.2,https://lareine.com.sg/product/aqua-light-sun-care-no-2/,FEATURED / MAKEUP,$46.00,SGD,46,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:15+08:00
+W-PROD004,360,Aqua Light Toner,https://lareine.com.sg/product/aqua-light-toner/,FEATURED / SKINCARE,$58.00,SGD,58,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:13+08:00
+W-PROD005,197,Body Cream efficitur,https://lareine.com.sg/product/body-cream-efficitur/,bath-shower / Body / Moisturizers / deodorants / gift-sets / soaps,$76.00 – $377.00,SGD,76,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:14+08:00
+W-PROD006,218,Body Cream parturient,https://lareine.com.sg/product/body-cream-parturient/,bath-shower / Body / Moisturizers / deodorants / gift-sets / soaps,$68.00 – $377.00,SGD,68,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:15+08:00
+W-PROD007,168,Body Cream vitae,https://lareine.com.sg/product/body-cream-vitae/,bath-shower / Body / Moisturizers / deodorants / gift-sets / soaps,$76.00 – $377.00,SGD,76,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:15+08:00
+W-PROD008,233,Course – Beauty hair,https://lareine.com.sg/product/course-beauty-hair/,hair,"原价$1,200.00；现价$1,000.00",SGD,1000,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:14+08:00
+W-PROD009,212,Course – Face & Skin,https://lareine.com.sg/product/course-face-skin/,,"原价$1,200.00；现价$1,050.00",SGD,1050,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:15+08:00
+W-PROD010,600,Course – Healthy Body,https://lareine.com.sg/product/course-healthy-body/,Body,"原价$1,200.00；现价$980.00",SGD,980,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:15+08:00
+W-PROD011,602,Face natural skin facisilis,https://lareine.com.sg/product/face-natural-skin-facisilis/,Cleansers / masks / Moisturizers / Sunscreen / Treatments,,SGD,,询价；API 0不表示免费,疑似主题模板商品，待业务确认,2026-11-24T20:33:16+08:00
+W-PROD012,202,Face natural skin fermentum,https://lareine.com.sg/product/face-natural-skin-fermentum/,Cleansers / masks / Moisturizers / Sunscreen / Treatments,$35.00 – $65.00,SGD,35,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:16+08:00
+W-PROD013,593,Face natural skin platea,https://lareine.com.sg/product/face-natural-skin-platea/,Cleansers / masks / Moisturizers / Sunscreen / Treatments,,SGD,,询价；API 0不表示免费,疑似主题模板商品，待业务确认,2026-11-24T20:33:16+08:00
+W-PROD014,603,Hand Cream soft dictum,https://lareine.com.sg/product/hand-cream-soft-dictum/,Hands / Soaps / manicure / peeling / polish / tools-hands,,SGD,,询价；API 0不表示免费,疑似主题模板商品，待业务确认,2026-11-24T20:33:15+08:00
+W-PROD015,207,Hand Cream soft lectus,https://lareine.com.sg/product/hand-cream-soft-lectus/,Hands / Soaps / manicure / peeling / polish / tools-hands,$35.00 – $65.00,SGD,35,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:16+08:00
+W-PROD016,599,Hand Cream soft letius,https://lareine.com.sg/product/hand-cream-soft-letius/,Hands / Soaps / manicure / peeling / polish / tools-hands,,SGD,,询价；API 0不表示免费,疑似主题模板商品，待业务确认,2026-11-24T20:33:17+08:00
+W-PROD017,375,HydraDNA Aqua Boost Concentrate,https://lareine.com.sg/product/hydradna-aqua-boost-concentrate/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:16+08:00
+W-PROD018,402,HydraDNA DermShield,https://lareine.com.sg/product/hydradna-dermshield/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:17+08:00
+W-PROD019,394,HydraDNA Kinetic Essence,https://lareine.com.sg/product/hydradna-kinetic-essence/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:17+08:00
+W-PROD020,395,HydraDNA Vitality Infusion Essence,https://lareine.com.sg/product/hydradna-vitality-infusion-essence/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:18+08:00
+W-PROD021,443,Hydration Skin Care Kit,https://lareine.com.sg/product/hydration-skin-care-kit/,FEATURED / SKINCARE,$168.00,SGD,168,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:18+08:00
+W-PROD022,396,HydroDNA Elixir Essence,https://lareine.com.sg/product/hydrodna-elixir-essence/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:19+08:00
+W-PROD023,397,HydroDNA Quantum Essence,https://lareine.com.sg/product/hydrodna-quantum-essence/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:19+08:00
+W-PROD024,346,Hydrogel Mask,https://lareine.com.sg/product/hydrogel-mask/,SKINCARE,$38.00,SGD,38,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:19+08:00
+W-PROD025,398,Lip Balancing Cream No.1,https://lareine.com.sg/product/lip-balancing-cream-no-1/,SKINCARE,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:18+08:00
+W-PROD026,399,Lip Glow,https://lareine.com.sg/product/lip-glow/,MAKEUP,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:19+08:00
+W-PROD027,355,Make-up Fixer Spray,https://lareine.com.sg/product/make-up-fixer-spray/,MAKEUP,$46.00,SGD,46,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:20+08:00
+W-PROD028,363,Moisturize Cream,https://lareine.com.sg/product/moisturize-cream/,SKINCARE,$58.00,SGD,58,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:20+08:00
+W-PROD029,361,Moisturize Serum,https://lareine.com.sg/product/moisturize-serum/,SKINCARE,$58.00,SGD,58,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:20+08:00
+W-PROD030,400,Rejuvenating Bio Essence Set,https://lareine.com.sg/product/rejuvenating-bio-essence-set/,Essence-Professional Aesthetic Water-Light Series,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:20+08:00
+W-PROD031,150,Schampoo with Algae,https://lareine.com.sg/product/schampoo-with-algae/,conditioners / hair / shampoos / styling / tools / vegan,$60.00 – $320.00,SGD,60,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:20+08:00
+W-PROD032,601,Schampoo with Nettle,https://lareine.com.sg/product/schampoo-with-nettle/,conditioners / hair / shampoos / styling / tools / vegan,,SGD,,询价；API 0不表示免费,疑似主题模板商品，待业务确认,2026-11-24T20:33:21+08:00
+W-PROD033,213,Schampoo with Olive,https://lareine.com.sg/product/schampoo-with-olive/,conditioners / hair / shampoos / styling / tools / vegan,$60.00 – $320.00,SGD,60,官网及公开Store API采集快照,疑似主题模板商品，待业务确认,2026-11-24T20:33:22+08:00
+W-PROD034,401,Secret of Pink Light Wave Device,https://lareine.com.sg/product/secret-of-pink-light-wave-device/,BRIGHTENING,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:21+08:00
+W-PROD035,404,Secret of Pink Peach Mist,https://lareine.com.sg/product/secret-of-pink-peach-mist/,BRIGHTENING,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:22+08:00
+W-PROD036,362,Soothing Essence Lotion,https://lareine.com.sg/product/soothing-essence-lotion/,SKINCARE,$58.00,SGD,58,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:22+08:00
+W-PROD037,358,Tone Up Cream,https://lareine.com.sg/product/tone-up-cream/,MAKEUP,$58.00,SGD,58,官网及公开Store API采集快照,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:22+08:00
+W-PROD038,405,Whitening Cream No.2,https://lareine.com.sg/product/whitening-cream-no-2/,BRIGHTENING,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:23+08:00
+W-PROD039,406,Whitening Cream No.3,https://lareine.com.sg/product/whitening-cream-no-3/,BRIGHTENING,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:23+08:00
+W-PROD040,407,Whitening Cream No.4,https://lareine.com.sg/product/whitening-cream-no-4/,BRIGHTENING,,SGD,,询价；API 0不表示免费,LA REINE品牌命名商品，未确认实际可售范围,2026-11-24T20:33:23+08:00

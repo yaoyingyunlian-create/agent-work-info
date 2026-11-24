@@ -1,0 +1,37 @@
+[
+  {
+    "sha256": "2c467b963dab350d8721f434b8366d2688ee3517e2c6bb29a916a3d0272500df",
+    "urls": [
+      "https://lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-100x100.png",
+      "https://lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-100x100.png"
+    ]
+  },
+  {
+    "sha256": "d23384fc1d1db008dec927716726972551ed60ddec414439dfbb67df9bb7c38a",
+    "urls": [
+      "https://lareine.com.sg/wp-content/uploads/2025/08/LA-REINE-Black-300x300.png",
+      "https://lareine.com.sg/wp-content/uploads/2025/08/cropped-LA-REINE-Black-1-300x300.png"
+    ]
+  },
+  {
+    "sha256": "ec8ea764ecc5a3e4a5897509da6db599d9371d3446caef17f0393566e8173da1",
+    "urls": [
+      "https://lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+      "https://lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4?_=5"
+    ]
+  },
+  {
+    "sha256": "357d2f56afd0a01c12979d29e3bd7761ec2c7a2b826c9a4189e1c9f492d8275b",
+    "urls": [
+      "https://lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+      "https://lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4?_=3"
+    ]
+  },
+  {
+    "sha256": "6b557d5d9da2482ab4a207efb0929e1a22a6a223d1f045ab9a08b1ef9a4e1cca",
+    "urls": [
+      "https://lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+      "https://lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4?_=1"
+    ]
+  }
+]

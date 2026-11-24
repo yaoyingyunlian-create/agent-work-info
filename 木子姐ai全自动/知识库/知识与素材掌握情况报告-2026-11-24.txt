@@ -1,0 +1,235 @@
+﻿项目知识库与素材库掌握情况报告
+
+报告日期：2026-11-24。用途：供你检查我对业务、产品、价格、内容及素材的理解是否完整。现有材料按你的确认作为业务资料，依据见资料确认记录（项目相对路径：资料确认记录.md）。本报告中的缺项指尚未收录的具体信息，不表示需要重新确认整批材料。
+
+目前已覆盖LA REINE与Yvelise两条品牌资料线、官网40个商品条目、附件中的抗衰和头皮护理体系，以及中英文水光资料。覆盖了主要业务框架，但各产品的资料深度不同：有的已有成分、规格、步骤和图片，有的只有名称、产品图与询价入口，不能把“已收录”写成“全部细节都掌握”。
+
+一 项目业务与品牌
+
+我的理解是：项目围绕护肤、彩妆、专业水光、头皮养护及相关设备开展产品介绍、内容制作和客户沟通，同时包含头皮护理产品的零售、渠道代理及联创合作资料。当前项目主要是内容与知识资料库，尚不是已经打通发布、客服、预约、订单和支付的全自动运营系统。
+
+业务信息 ｜ 当前掌握内容
+LA REINE ｜ 护肤、彩妆、专业美容水光及部分亮白/唇部产品与设备；官网同时有私人肌肤咨询与到店护理入口
+品牌理念 ｜ LA REINE为“The Queen”；核心表达为“Awakening the sovereignty of skin / 唤醒肌肤的自主权”；强调新加坡生物科技及日常到专业的护理
+Yvelise ｜ 紧致亮颜精华、双乳抗衰套组、头皮双系列、导液梳及渠道合作资料
+人物 ｜ 官网创始人署名MUZI；人物海报使用暖暖 / MU ZI，并有创业、品牌及行业经历叙述
+官网 ｜ https://lareine.com.sg/；展示币种SGD，提供中英切换，部分共享内容仍是英文
+联系方式 ｜ lareinesingapore@gmail.com；WhatsApp +65 8648 5558
+内容渠道 ｜ 小红书/Rednote、Facebook、Instagram、X、TikTok、YouTube；小红书与Rednote是同一平台的两种称呼，共6个平台
+已明确的内容形式 ｜ 小红书图文；其他平台的具体频率、语言组合、账号与执行规则尚未收录
+
+尚未建立LA REINE与Yvelise之间的法律主体、隶属或统一SKU对照，不能从共同人物或同一项目目录推定品牌关系。具体门店地址与营业时间也未形成可直接调用的业务字段。
+
+来源：业务需求（项目相对路径：业务需求与资料边界.md）、品牌与联系资料（项目相对路径：官网/品牌与联系资料.md）、原始图片A038–A039。
+
+二 Yvelise抗衰护肤知识
+
+产品 ｜ 已掌握规格 ｜ 特色与内容方向 ｜ 已有资料
+紧致亮颜焕活精华液 / Peptide Renewal Essence ｜ 100mL ｜ 紧致、提拉、焕亮；双肽与日常护理 ｜ 中文9张、英文9张产品/成分/肤感/步骤海报
+紧致亮颜精华乳 / Radiance & Contour Emulsion ｜ 银瓶，50g ｜ 全脸护理、亮颜和轮廓主题 ｜ 单品、成分、肤感与护理示意
+紧致抗皱精华乳 / Peptide Lift & Firm Emulsion ｜ 金瓶，50g ｜ 抗皱及局部叠加主题 ｜ 单品、成分、质地与局部使用示意
+抗衰双乳礼盒 / Lift & Contour Duo ｜ 50g×2 ｜ 银瓶与金瓶组合 ｜ 包装、礼盒、步骤、系列理念，共10张相关图片
+
+已掌握的成分信息：精华海报包含蓝铜肽（三肽-1铜）、乙酰基六肽-8、肉豆蔻酰五肽-4、烟酰胺、神经酰胺复合物、乳酸杆菌/豆浆发酵产物滤液。银瓶展示二裂酵母发酵产物滤液、羟丙基四氢吡喃三醇、角鲨烷；金瓶不同页分别展示乙酰基六肽-8、棕榈酰四肽-7，以及二裂酵母发酵产物滤液、羟丙基四氢吡喃三醇、牛油果树果脂。这些已按对应页面记录，尚未拼成一份未经材料提供的完整配方。
+
+已掌握的护理顺序：洁面后，精华→银瓶乳1→金瓶乳2。另一张步骤页强调银瓶全脸、金瓶于法令纹和额头纹路等局部叠加；两种表述都保留。
+
+已掌握的价格原值：中文精华文件夹标¥198，英文文件夹及需求文字写$48，双乳礼盒文件夹标¥498。$48没有独立币种说明，官网SGD标识不能自动套到这条Yvelise价格；精华与双乳出现于同一流程图，也不等于礼盒一定包含精华。
+
+来源：产品知识索引（项目相对路径：产品知识索引.md）、素材A001–A028。
+
+三 Yvelise头皮护理与渠道知识
+
+系列或产品 ｜ 已掌握规格/结构 ｜ 资料重点
+Hair Vitality Shampoo ｜ 300mL ｜ 草本强韧/活力防断发洗发水；清洁头皮、蓬松、发丝强韧主题
+Hair Vitality Serum ｜ 50mL ｜ 奢养防断发精华液；草本、屏障、保湿、轻盈水基主题
+Melanin Vitality Shampoo ｜ 300mL ｜ 活力黑发洗发水；黑银系列与白发外观护理主题
+Melanin Vitality Serum ｜ 50mL ｜ 活力奢养黑发精华液；头皮与白发护理主题
+黑金防脱与黑银黑发套装 ｜ 两条系列均有洗发水、精华与设备配合图 ｜ 产品矩阵、不同需求分流、居家护理与套装介绍
+电动导液梳 ｜ 已有设备、导液与模式示意 ｜ 日常养护、清洁/装液/梳理三步；资料写每天5分钟
+可视导液梳 ｜ 已有可视头皮、App及导液功能图 ｜ 头皮观察、三光/EMS、IPX5、Type-C等功能表达
+
+资料中的目标人群包括高压都市人群、产后/内分泌相关女性、早白/压力白发人群，以及重视头皮护理的人群。产品结构、头皮痛点、洗发水/精华组合、设备配合、案例对比和渠道合作均有对应素材。
+
+我还掌握到资料中的品牌与技术表达：200+配方库、10万级GMP、135项SGS、HSA、“28天毛囊蓄养”、98%/92%、头皮前后对比案例，以及新加坡制造/进口等表述；具体原始文件与说明保持关联。
+
+渠道信息 ｜ 材料中的原值或说明
+套装零售 ｜ ¥980/套，黑金防脱或黑银黑发任选其一
+渠道代理拿货 ｜ ¥490/套，图片同时写50%比例
+联创伙伴拿货 ｜ ¥294/套，图片同时写70%比例
+套装设备 ｜ 每套附带标示¥98的智能导液梳；该标示不等于已给出独立售价
+可视导液梳 ｜ ¥298，材料写另购、不包含在套装内
+其他周期描述 ｜ 有980元/套、2个月周期的页面，不能与所有套装配置自动等同
+渠道支持 ｜ 商学院/培训、流量与营销素材、区域保护、合作邀请及扫码区
+
+尚未掌握完整套装SKU数量、合同条款、起订量、各地区税运费、退换条件、设备正式型号和App的完整说明。图片中的比例保留原值，未重新定义其成本或利润计算方式。
+
+来源：素材A031–A060及价格记录（项目相对路径：价格与待核验项.md）。
+
+四 LA REINE官网日常护肤与彩妆
+
+以下为2026-11-24已保存网页的SGD价格。中文用途用于阅读理解，正式名称以英文原名为准。
+
+产品 ｜ 价格SGD ｜ 当前掌握的内容
+Amino Acid Cleansing Mousse ｜ 46 ｜ 氨基酸洁面慕斯、泡沫与洗后舒适；有详细介绍和独立成分字段
+Aqua Light Toner ｜ 58 ｜ 水光爽肤水、补水与干燥紧绷护理；有成分与流程定位
+Moisturize Serum ｜ 58 ｜ 保湿与肤色护理；烟酰胺、传明酸、甘油、依克多因、透明质酸钠等
+Soothing Essence Lotion ｜ 58 ｜ 舒缓保湿精华乳；甘油、乳木果油、角鲨烷、依克多因、胶原等
+Moisturize Cream ｜ 58 ｜ 保湿面霜；乳木果油、角鲨烷、甘油、泛醇、依克多因等
+Hydrogel Mask ｜ 38 ｜ 水凝胶面膜，保湿、泛醇及舒适肤感；有详细介绍和成分字段
+Aqua Light Sun Care No.1 ｜ 46 ｜ 轻盈润色、遮盖修饰及自然妆感；未从已有资料补造SPF/PA等级
+Aqua Light Sun Care No.2 ｜ 46 ｜ 丝滑修饰、均匀肤色与水光妆感；保留与1号分别的资料
+Make-up Fixer Spray ｜ 46 ｜ 定妆喷雾、成膜、细腻喷雾与保湿配方
+Tone Up Cream ｜ 58 ｜ 润色、细小瑕疵修饰，也可作妆前乳
+Hydration Skin Care Kit ｜ 168 ｜ 保湿护肤套装、商品图和组合定位；完整内含SKU与数量未写入独立明细
+
+前10项有独立成分字段和较详细产品说明；保湿套装的说明深度主要在套装定位。官网的完整英文成分原文、中英文介绍块、使用提示及图片已经逐产品保存，不在报告中重复抄写所有INCI。
+
+来源：官网产品索引（项目相对路径：官网/产品索引.md）。
+
+五 专业水光 唇部 亮白与设备
+
+官网另有14个明确询价条目，已掌握名称、归属、产品图和页面介绍。它们不是零价商品：
+
+- 专业水光单品6个：HydraDNA Aqua Boost Concentrate、HydraDNA DermShield、HydraDNA Kinetic Essence、HydraDNA Vitality Infusion Essence、HydroDNA Elixir Essence、HydroDNA Quantum Essence。
+- 专业套装1个：Rejuvenating Bio Essence Set。
+- 唇部2个：Lip Balancing Cream No.1、Lip Glow。
+- 亮白相关3个：Whitening Cream No.2、No.3、No.4。
+- 其他2个：Secret of Pink Light Wave Device、Secret of Pink Peach Mist。
+
+这14个条目的网页介绍多为了解产品、询问配方/规格与用途、确认价格及供应等通用说明，不能认为我已经从这些网页掌握其完整配方、规格、使用疗程或型号。唇部和防晒另有视频补充产品外观与质地画面。
+
+六 两份PDF中的七款水光
+
+两份PDF各8页：1页封面，7页产品介绍；中文和英文均已保留并建立页码对照。
+
+中文资料页主题 ｜ 英文资料名称 ｜ 掌握的定位与内容
+焕颜透亮精华 ｜ HydraMoist Elixir Essence ｜ 暗沉、粗糙、肤色不均与透亮水润主题
+青春动能素 ｜ HydraMoist Kinetic Essence ｜ 保湿、干燥细纹和早期抗衰主题
+III重组胶原蛋白 ｜ HydraMoist Vitality Infusion Essence ｜ 胶原、松弛、纹路和轮廓主题
+紧致抗皱精华 ｜ HydraMoist Quantum Essence ｜ 类蛇毒肽/Syn-Ake、表情纹及紧致主题
+修复水光精华 ｜ HydraMoist Aqua Boost Essence ｜ 干燥、屏障、泛红敏感护理主题
+清颜净肤 ｜ HydraMoist DermShield Essence ｜ 油性、痘肌、毛孔、泛红与痘印主题
+粉红动能素 ｜ HydroDNA Elixir Essence ｜ 25+初老、疲态、维生素B12与活力主题
+
+这里的HydraMoist命名与官网HydraDNA/HydroDNA不是完全一致，当前没有把近似名字强制合并为同一SKU。PDF有7个单品介绍，官网有6个相关单品及另一个套装；我没有把套装当作缺少的第7款。
+
+材料中确有两处版本差异：第2页中英文成分栏不逐项一致；第8页英文成分和Core Positioning与第7页相同，但标题及后续内容指向粉红动能素。两份版本均保留。PDF属于图像型，我已掌握页面标题、主要主题与这些差异；尚不是对所有小字完成逐词OCR审校。
+
+来源：水光双语对照（项目相对路径：水光双语对照.md）、PDF阅读摘要（项目相对路径：PDF阅读摘要.md）。
+
+七 官网其余十五个历史分类条目
+
+另有Body Cream三个、Course三个、Face natural skin三个、Hand Cream soft三个、Schampoo with三个条目，全部收录，没有因为旧“模板候选”标记而删掉，也未从它们的拉丁式示例段落编造具体护理知识。材料已按你的确认保留，该标记只反映之前的整理分类。
+
+这些条目的名称和价格见附录全表。其中5个没有提供价格：Face natural skin facisilis、Face natural skin platea、Hand Cream soft dictum、Hand Cream soft letius、Schampoo with Nettle。Course – Healthy Body没有商品主图，Course – Face & Skin没有分类字段。
+
+官网40条合计为21有价、14明确询价、5缺价，不将接口0记为免费。
+
+八 素材覆盖到什么程度
+
+素材范围 ｜ 数量与内容 ｜ 我已掌握的程度
+微信产品图片 ｜ 60张 ｜ 逐张视觉分类，有A001–A060编号和主题
+微信原文 ｜ 1份 ｜ 品牌/产品资料诉求、小红书图文、渠道和网站
+水光PDF ｜ 2份，共16页 ｜ 保留原件、全部页面预览、双语映射与主要差异
+官网内容 ｜ 95个页面、40个商品地址 ｜ 页面原文、公开接口、产品资料和来源关联
+官网公开媒体 ｜ 返回180条记录，成功下载178条 ｜ 含产品图、品牌/历史视觉、字体和3段视频；不把每条记录等同为不同创意
+官网资源下载 ｜ 1269个成功下载URL，约211MiB ｜ 包括原件、图片尺寸、查询参数副本、字体、CSS/JS等，不等于1269张独立营销图
+全项目素材文件 ｜ 1528个 ｜ 含1490个栅格图片文件、11个矢量/图标、19个字体、2个PDF、6个MP4；缩略图和抽样帧计入文件数
+重复与尺寸关系 ｜ 15组完全相同内容、133组尺寸家族 ｜ 已建立推荐调用入口，未删除原件或不同版本
+
+微信60张图片的内容分布：双乳礼盒10张、中文精华9张、英文精华9张、护肤主题2张、草本洗发水3张、28天头皮护理3张、头皮护理和渠道演示24张。A008与A013是同内容的两份原件记录。
+
+官网有产品白底/包装图、品牌图、日常护理视觉、历史网页配图、Logo/图标和字体。具体内容按来源与商品关联登记；不同分辨率、渲染页和联系表不会被当作新增原始作品。
+
+三段视频
+
+视频主题 ｜ 时长 ｜ 我已看到的内容
+精华套装 ｜ 约24.80秒 ｜ 紫色背景精华瓶与Rejuvenating Bio Essence Set包装
+Aqua Light Sun Care No.1/No.2 ｜ 约23.73秒 ｜ 防晒瓶身、手部肤感和产品陈列
+Lip Glow ｜ 约27.28秒 ｜ 管身、手臂涂抹和唇部产品陈列
+
+6个本地MP4是3段内容及其相同哈希副本。画面内容按每段10%、50%、90%抽帧检查；全片音轨和视频轨均已解码通过，但没有把完整声音转写成知识条目。
+
+入口：素材库首页（项目相对路径：../素材库/README.md）、微信图库（项目相对路径：../素材库/素材预览.html）、官网图库（项目相对路径：../官网资料/2026-11-24/官网资料预览.html）、视频画面复核（项目相对路径：../素材库/内容复核补充.json）。
+
+九 已经能够支持哪些具体工作
+
+1. 按产品名、品牌、中文/英文、主题及编号查资料，并找到对应原图。
+2. 写Yvelise精华与双乳介绍、成分主题、护理顺序和中英文图文提纲。
+3. 写头皮双系列介绍、用户需求分类、产品/设备组合与渠道合作资料摘要。
+4. 为LA REINE日常护肤和彩妆提供产品介绍、页面成分原文及价格快照。
+5. 整理7款PDF水光的双语概要，并保持与官网版本的名称区别。
+6. 用现有素材准备图文或视频选材清单，明确引用原件、尺寸与派生关系。
+
+这些工作以你已确认的材料为基础；本项目未表明已经建立实际账号发布、客服收件、预约排班、支付订单或库存联动。
+
+十 当前还没有掌握完整的信息
+
+领域 ｜ 具体缺项或边界
+品牌与SKU对照 ｜ 两品牌关系；HydraMoist/HydraDNA/HydroDNA与双语SKU的正式对应
+全量产品参数 ｜ 部分条目的完整成分、容量、套内件数、产品型号、色号和设备参数
+精确用法 ｜ 不同水光的完整正式说明、具体使用方式/频率，以及所有产品的完整注意事项
+统一销售规则 ｜ 不同地区/渠道的价格版本、¥与$对应币种、折扣条件、税运费、起订量、退换与售后
+运营信息 ｜ 平台账号、内容排期、语言优先级、审批与发布方式、客户问答/订单流程、门店营业及预约规则
+原始过程记录 ｜ 完整微信对话、独立会议记录、设计编辑源工程与发布成品版本表
+媒体采集缺口 ｜ 接口声明205条却仅返回180条的25个未知记录；1个404占位图URL影响2条记录
+阅读深度 ｜ 全部图片/扫描PDF的小字未逐词OCR审校；视频完整音频未转写；截图接口超时，未完成截图视觉验收
+
+这里没有给出“完整率百分比”，因为尚无一份独立的全业务产品/资料主清单作为分母。当前可以核对的是已经收到与抓取的材料，而不能据目录文件多就宣布整个业务信息完整。
+
+十一 核验结果与资料入口
+
+63份微信原件、1269份官网资源哈希一致；3段视频全片解码通过；两套图库共17项真实浏览器搜索/分类检查通过，图片与16页PDF渲染可加载，本地导航有效，390px与1366px测量无横向溢出。以上是技术结果，与材料的业务确认分别记录。
+
+- 知识库首页（项目相对路径：README.md）：按业务问题查找。
+- 官网产品索引（项目相对路径：官网/产品索引.md）：40个条目及逐产品文档。
+- 全项目素材清单（项目相对路径：../素材库/全项目素材清单.csv）：路径、内容、场景、版本、来源、状态、阶段及哈希。
+- 缺项与版本差异（项目相对路径：待确认问题清单.md）：沿用既有文件路径，材料整体状态已更新。
+- 继续核验报告（项目相对路径：继续核验报告-2026-11-24.md）：实际验证证据。
+
+附录 官网四十个条目全表
+
+以下附录由当前产品目录生成，用于逐条检查是否遗漏；每项均可打开本地产品资料。价格记录为官网采集快照，原币种SGD；旧分类备注只为检索，不否定材料已确认状态。
+
+序号 ｜ 官网产品原名 ｜ 价格记录 ｜ 资料深度
+1 ｜ Amino Acid Cleansing Mousse（项目相对路径：官网/产品/amino-acid-cleansing-mousse.md） ｜ $46.00 ｜ 详细产品说明与独立成分字段
+2 ｜ Aqua Light Sun Care No.1（项目相对路径：官网/产品/aqua-light-sun-care-no-1.md） ｜ $46.00 ｜ 详细产品说明与独立成分字段
+3 ｜ Aqua Light Sun Care No.2（项目相对路径：官网/产品/aqua-light-sun-care-no-2.md） ｜ $46.00 ｜ 详细产品说明与独立成分字段
+4 ｜ Aqua Light Toner（项目相对路径：官网/产品/aqua-light-toner.md） ｜ $58.00 ｜ 详细产品说明与独立成分字段
+5 ｜ Body Cream efficitur（项目相对路径：官网/产品/body-cream-efficitur.md） ｜ $76.00 – $377.00 ｜ 历史分类；原说明为示例式文字
+6 ｜ Body Cream parturient（项目相对路径：官网/产品/body-cream-parturient.md） ｜ $68.00 – $377.00 ｜ 历史分类；原说明为示例式文字
+7 ｜ Body Cream vitae（项目相对路径：官网/产品/body-cream-vitae.md） ｜ $76.00 – $377.00 ｜ 历史分类；原说明为示例式文字
+8 ｜ Course – Beauty hair（项目相对路径：官网/产品/course-beauty-hair.md） ｜ 原价$1,200.00；现价$1,000.00 ｜ 历史分类；原说明为示例式文字
+9 ｜ Course – Face & Skin（项目相对路径：官网/产品/course-face-skin.md） ｜ 原价$1,200.00；现价$1,050.00 ｜ 历史分类；原说明为示例式文字
+10 ｜ Course – Healthy Body（项目相对路径：官网/产品/course-healthy-body.md） ｜ 原价$1,200.00；现价$980.00 ｜ 历史分类；原说明为示例式文字；无商品主图
+11 ｜ Face natural skin facisilis（项目相对路径：官网/产品/face-natural-skin-facisilis.md） ｜ 未提供价格 ｜ 历史分类；原说明为示例式文字
+12 ｜ Face natural skin fermentum（项目相对路径：官网/产品/face-natural-skin-fermentum.md） ｜ $35.00 – $65.00 ｜ 历史分类；原说明为示例式文字
+13 ｜ Face natural skin platea（项目相对路径：官网/产品/face-natural-skin-platea.md） ｜ 未提供价格 ｜ 历史分类；原说明为示例式文字
+14 ｜ Hand Cream soft dictum（项目相对路径：官网/产品/hand-cream-soft-dictum.md） ｜ 未提供价格 ｜ 历史分类；原说明为示例式文字
+15 ｜ Hand Cream soft lectus（项目相对路径：官网/产品/hand-cream-soft-lectus.md） ｜ $35.00 – $65.00 ｜ 历史分类；原说明为示例式文字
+16 ｜ Hand Cream soft letius（项目相对路径：官网/产品/hand-cream-soft-letius.md） ｜ 未提供价格 ｜ 历史分类；原说明为示例式文字
+17 ｜ HydraDNA Aqua Boost Concentrate（项目相对路径：官网/产品/hydradna-aqua-boost-concentrate.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+18 ｜ HydraDNA DermShield（项目相对路径：官网/产品/hydradna-dermshield.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+19 ｜ HydraDNA Kinetic Essence（项目相对路径：官网/产品/hydradna-kinetic-essence.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+20 ｜ HydraDNA Vitality Infusion Essence（项目相对路径：官网/产品/hydradna-vitality-infusion-essence.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+21 ｜ Hydration Skin Care Kit（项目相对路径：官网/产品/hydration-skin-care-kit.md） ｜ $168.00 ｜ 套装概述，未列完整内含SKU
+22 ｜ HydroDNA Elixir Essence（项目相对路径：官网/产品/hydrodna-elixir-essence.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+23 ｜ HydroDNA Quantum Essence（项目相对路径：官网/产品/hydrodna-quantum-essence.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+24 ｜ Hydrogel Mask（项目相对路径：官网/产品/hydrogel-mask.md） ｜ $38.00 ｜ 详细产品说明与独立成分字段
+25 ｜ Lip Balancing Cream No.1（项目相对路径：官网/产品/lip-balancing-cream-no-1.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+26 ｜ Lip Glow（项目相对路径：官网/产品/lip-glow.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+27 ｜ Make-up Fixer Spray（项目相对路径：官网/产品/make-up-fixer-spray.md） ｜ $46.00 ｜ 详细产品说明与独立成分字段
+28 ｜ Moisturize Cream（项目相对路径：官网/产品/moisturize-cream.md） ｜ $58.00 ｜ 详细产品说明与独立成分字段
+29 ｜ Moisturize Serum（项目相对路径：官网/产品/moisturize-serum.md） ｜ $58.00 ｜ 详细产品说明与独立成分字段
+30 ｜ Rejuvenating Bio Essence Set（项目相对路径：官网/产品/rejuvenating-bio-essence-set.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+31 ｜ Schampoo with Algae（项目相对路径：官网/产品/schampoo-with-algae.md） ｜ $60.00 – $320.00 ｜ 历史分类；原说明为示例式文字
+32 ｜ Schampoo with Nettle（项目相对路径：官网/产品/schampoo-with-nettle.md） ｜ 未提供价格 ｜ 历史分类；原说明为示例式文字
+33 ｜ Schampoo with Olive（项目相对路径：官网/产品/schampoo-with-olive.md） ｜ $60.00 – $320.00 ｜ 历史分类；原说明为示例式文字
+34 ｜ Secret of Pink Light Wave Device（项目相对路径：官网/产品/secret-of-pink-light-wave-device.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+35 ｜ Secret of Pink Peach Mist（项目相对路径：官网/产品/secret-of-pink-peach-mist.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+36 ｜ Soothing Essence Lotion（项目相对路径：官网/产品/soothing-essence-lotion.md） ｜ $58.00 ｜ 详细产品说明与独立成分字段
+37 ｜ Tone Up Cream（项目相对路径：官网/产品/tone-up-cream.md） ｜ $58.00 ｜ 详细产品说明与独立成分字段
+38 ｜ Whitening Cream No.2（项目相对路径：官网/产品/whitening-cream-no-2.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+39 ｜ Whitening Cream No.3（项目相对路径：官网/产品/whitening-cream-no-3.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供
+40 ｜ Whitening Cream No.4（项目相对路径：官网/产品/whitening-cream-no-4.md） ｜ 询价 / Enquire about this product ｜ 产品图/归属与询价介绍，详细参数未提供

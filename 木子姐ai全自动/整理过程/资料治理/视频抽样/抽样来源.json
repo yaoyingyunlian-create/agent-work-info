@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+    "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+    "duration": 24.798254,
+    "frames": [
+      {
+        "path": "整理过程/资料治理/视频抽样/视频1-1.jpg",
+        "time_seconds": 2.48
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频1-2.jpg",
+        "time_seconds": 12.4
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频1-3.jpg",
+        "time_seconds": 22.32
+      }
+    ],
+    "scope": "10%、50%、90%抽帧视觉采样；非全片审看，未转写音频"
+  },
+  {
+    "url": "https://lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+    "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+    "duration": 23.730136,
+    "frames": [
+      {
+        "path": "整理过程/资料治理/视频抽样/视频2-1.jpg",
+        "time_seconds": 2.37
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频2-2.jpg",
+        "time_seconds": 11.87
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频2-3.jpg",
+        "time_seconds": 21.36
+      }
+    ],
+    "scope": "10%、50%、90%抽帧视觉采样；非全片审看，未转写音频"
+  },
+  {
+    "url": "https://lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+    "path": "官网资料/2026-11-24/站点资源/lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+    "duration": 27.282789,
+    "frames": [
+      {
+        "path": "整理过程/资料治理/视频抽样/视频3-1.jpg",
+        "time_seconds": 2.73
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频3-2.jpg",
+        "time_seconds": 13.64
+      },
+      {
+        "path": "整理过程/资料治理/视频抽样/视频3-3.jpg",
+        "time_seconds": 24.55
+      }
+    ],
+    "scope": "10%、50%、90%抽帧视觉采样；非全片审看，未转写音频"
+  }
+]

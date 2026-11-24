@@ -1,0 +1,70 @@
+{
+  "checks": [
+    {
+      "name": "全部图片与PDF页",
+      "count": 76,
+      "passed": true
+    },
+    {
+      "name": "图片编号",
+      "count": 1,
+      "passed": true
+    },
+    {
+      "name": "英文图片及PDF页",
+      "count": 17,
+      "passed": true
+    },
+    {
+      "name": "英文PDF页",
+      "count": 8,
+      "passed": true
+    },
+    {
+      "name": "组合无匹配",
+      "count": 0,
+      "passed": true
+    },
+    {
+      "name": "产品分类",
+      "count": 10,
+      "passed": true
+    }
+  ],
+  "images_decoded": 76,
+  "local_navigation": [
+    {
+      "url": "http://127.0.0.1:8774/README.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E4%BA%A7%E5%93%81%E7%9F%A5%E8%AF%86%E7%B4%A2%E5%BC%95.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E6%B0%B4%E5%85%89%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E4%BB%B7%E6%A0%BC%E4%B8%8E%E5%BE%85%E6%A0%B8%E9%AA%8C%E9%A1%B9.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%B4%A0%E6%9D%90%E5%BA%93/%E7%B4%A0%E6%9D%90%E7%9B%AE%E5%BD%95.csv",
+      "status": 200
+    }
+  ],
+  "layout_measurements": [
+    {
+      "viewport": 1366,
+      "contentWidth": 1351
+    },
+    {
+      "viewport": 390,
+      "contentWidth": 375
+    }
+  ],
+  "confirmed_copy_visible": true,
+  "browser": "Ego Lite真实浏览器",
+  "scope": "图片和全部16页PDF渲染图的加载检查；非对PDF成分与功效的重新判定"
+}

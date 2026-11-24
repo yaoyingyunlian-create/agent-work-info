@@ -1,0 +1,24 @@
+{
+  "reviewed_at": "2026-11-24",
+  "method": "每段视频按10%、50%、90%时间抽样；文件头、时长及音视频轨来自已有ffprobe记录。未完整审片，未转写或评价音频。",
+  "items": [
+    {
+      "source_url": "https://lareine.com.sg/wp-content/uploads/2026/02/53f66e730151c1e1db1d13b55bd9f2.mp4",
+      "content": "LA REINE紫色背景精华瓶与Rejuvenating Bio Essence Set包装展示；仅视频抽帧可见信息",
+      "scene": "精华套装产品视觉、品牌产品展示候选；成品状态和授权待确认",
+      "status": "已抽样复核3帧；非全片审看，音频未审；产品身份以画面包装为线索，SKU对应待确认"
+    },
+    {
+      "source_url": "https://lareine.com.sg/wp-content/uploads/2026/02/894836260084bb4dceab1ed6457816.mp4",
+      "content": "LA REINE Aqua Light Sun Care No.1/No.2瓶身、手部肤感与产品陈列画面",
+      "scene": "防晒产品外观、质地演示候选；不据画面确认防晒等级或功效",
+      "status": "已抽样复核3帧；非全片审看，音频未审；拍摄/AI来源及商业授权待确认"
+    },
+    {
+      "source_url": "https://lareine.com.sg/wp-content/uploads/2026/02/a8f1a28f99142b0d5f2f6540cdaab6.mp4",
+      "content": "LA REINE Lip Glow管身、手臂涂抹与唇部产品陈列画面",
+      "scene": "唇部彩妆产品外观、质地演示候选；色号和SKU细分待确认",
+      "status": "已抽样复核3帧；非全片审看，音频未审；拍摄/AI来源及商业授权待确认"
+    }
+  ]
+}

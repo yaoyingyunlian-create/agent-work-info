@@ -1,0 +1,158 @@
+[
+  {
+    "path": "知识库/官网/产品目录.json",
+    "before_sha256": "52caac1a88492ee55d20609af00ed6ecb2daa00856154d1cf3ed6761f220b91e",
+    "after_sha256": "f01a3d954d17c22883747e2e13a3ba3a1b8384a512113d111262c1eb00208eeb",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/face-natural-skin-facisilis.md",
+    "before_sha256": "7fbb7b82a2161ddaf2a4b3ddab53cc2b869038e87b8d5f1108c1eb160dda089e",
+    "after_sha256": "b96381b3534aaf99c8e973bf2a0b08b7c323bea2370039c9307263094f8f86d3",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/face-natural-skin-platea.md",
+    "before_sha256": "bd5c662ec001b4f67b140c493230bee26208004a55f9bb968d321ae4a1eb9e8e",
+    "after_sha256": "586d10272b2eb4bd35ec38b08b86c7bfd9b8d4e982a87fe72da486ad5a6d545a",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hand-cream-soft-dictum.md",
+    "before_sha256": "d08202eeb072cdb2864f057b562303ad5ebf88c0c3952d573d37ce3d5b5f662c",
+    "after_sha256": "62489b2bdca0c70af3ca16d2f03a74de906a8873be6dde92150b4244e2de1639",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hand-cream-soft-letius.md",
+    "before_sha256": "281bb73d92448fc2a39e68c10de36a2d80926c8cbcdb9c49b0d3f24f6d86e21b",
+    "after_sha256": "0c8dec525b602f7a008999e8f1f3511fa58c132adfc66b3162aa268adb9616b7",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-aqua-boost-concentrate.md",
+    "before_sha256": "5c35f1f55617485aa43c2d8de0399115a072cb6937957e296526a9d6606cb25c",
+    "after_sha256": "95272a6ddd875d54217acc54cf0a5c7875f44f8dabfc83241877268a8a35a6af",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-dermshield.md",
+    "before_sha256": "0e11f8ce1e3ef4f7f5b9dfdfe5ebc50035abe9f51c2271a5c88e82abd859183b",
+    "after_sha256": "2b85543c40a86c7b19d266096661459b9a0c4180335ceeb63d6f2b59c61ff581",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-kinetic-essence.md",
+    "before_sha256": "7d03c1448d3149d4caa7deffbe7e6cd971907e8b81f909bf26cb300ea1f948bd",
+    "after_sha256": "3baa88e4d7ccf5507a7051780c2909cac15eb3c5b9ae7f53e81b46b8a14aa60d",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydradna-vitality-infusion-essence.md",
+    "before_sha256": "faa5868a6b2e2b6d313e54a4a41535355f0ba2f856aed35605b2a1dcb2fb970b",
+    "after_sha256": "18654af7c32567abdf37750f628aac4c0a1cc53ea6e94ffea23bbe8a7e06f092",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydrodna-elixir-essence.md",
+    "before_sha256": "5fd9feff1699328c0c19d99e7b49095215f31c76950bef91a4952c86f4e755f5",
+    "after_sha256": "02152affb1a295464a4e69ae9fc77d22d36d30577e9532a526898d142ad6c1ae",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/hydrodna-quantum-essence.md",
+    "before_sha256": "66f540f91f71518f1e4847c98aae85a6b7cc670ea0e13bfc53a33c04a798e390",
+    "after_sha256": "71bc868bfbb98753d9b0fde2f259352c6af5bc295e1592331b19d74243166678",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/lip-balancing-cream-no-1.md",
+    "before_sha256": "c318bceec530619d9fb2b1d16d9af2ee845aca2e02e791d30e41a6e4b912756f",
+    "after_sha256": "a1be144fe4daf8bbe4b59a435f5dbbe4258f614aad1de846af5b232dbacce552",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/lip-glow.md",
+    "before_sha256": "9bfe54131123bc91a6524ebf9a4eac6ac5c055154691684d687a755fa4782754",
+    "after_sha256": "40809137fff0b9ee43f17d05045b57db443971c4618ce67631f5e2f8d91838cc",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/rejuvenating-bio-essence-set.md",
+    "before_sha256": "19dbe37d698c7388f4c96f0ef1fbb762a11b750fcd3bb9fc4fd446936cc3ac58",
+    "after_sha256": "10ffdb326c2bb262fd301f203a48380591b0c5a0e7006d11e131fce4261c12e3",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/schampoo-with-nettle.md",
+    "before_sha256": "af6629dc813943eaa5a7273be0b68ac40dd4af4c9dd0b6e3b7a83af364dfcff6",
+    "after_sha256": "c7a8b38ba86d5669ed84acea60f58e8ed7d83f123e8e496195622afe62ad634f",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/secret-of-pink-light-wave-device.md",
+    "before_sha256": "5d15c985ef98cae3b10b3c56926592e5639ff26545aaf53d348edfb34c6eaf67",
+    "after_sha256": "59568ca2bdc39cf4154619f41ef0b7a371789125c9bff7819685e516f4338f11",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/secret-of-pink-peach-mist.md",
+    "before_sha256": "b16ccf255ab040cd6f720b807abb00d5db80c964704d0f45e0aed6512af0e084",
+    "after_sha256": "e9dc714faa95299474753da2cef84e49ae1c124a758599c2ac0ea786e1995b0f",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-2.md",
+    "before_sha256": "b3054565c6f6b3451882374021a0d2039688e31f65b0bc5e748379bc93523551",
+    "after_sha256": "5d4549f351312f8e0294deafd4d74ef75daa3b4a8867d35700c7c5bcf33786c6",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-3.md",
+    "before_sha256": "ddd57c016fd3e3754c1e27455198519289aadcff5fe8aebc96fe7435a1e934ba",
+    "after_sha256": "2018830e2bd301c7520701b10f33e5da14d14bd1ea3cae7538b8790842727fe3",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品/whitening-cream-no-4.md",
+    "before_sha256": "a456089d7942dd1156fa0240b745c639d1190a7c7cd9ef03c43b5f99d2388ff6",
+    "after_sha256": "0187d6fc18a22c55bda86c9952be94fb212e361f814d642bb9ce576e0aec3191",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品索引.md",
+    "before_sha256": "121b01bf5e02f2ad9d5c43038e13d7a01c0cf53adbebbdc419d6f3f5cd03e5f1",
+    "after_sha256": "335856d69329ffe8129a106df454c6756db900faa3edf9b39f61df61ee1e427a",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "知识库/官网/产品价格快照.csv",
+    "before_sha256": "53263bf3445c0c741b1517abb184e5d39f3a6c7a216a0c99db4595004a8ab709",
+    "after_sha256": "e85cae24cbea0ee703a2376b8d254d6f8bc8e601d0df89e81a41286152e36064",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "官网资料/2026-11-24/官网资料预览.html",
+    "before_sha256": "916bc35168d6db64f635433c5e7ee99bdde65fbff38e59a80b4302f0d788abc4",
+    "after_sha256": "a37d850fb9d7a1cff2fe2084d6d9e8efcc5bd711688a4e45c28a7a22ad8d03af",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "官网资料/2026-11-24/采集校验.json",
+    "before_sha256": "f19d5606d886e8d232622eced2689ed4384d5b18b70ff53245ff60f2e723eaa5",
+    "after_sha256": "05487ce25bcf5c575308f4f61eaa2df86f33445dd15cb7277385c184ca292e8d",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "整理过程/官网采集/生成官网资料库.py",
+    "before_sha256": "1c51d3d7a55ff8fc003400ab232985a4bdd8028f2220287e07a148c9e0c0c826",
+    "after_sha256": "4b2eb025743ac0892f6220b8d517239a7b7f4669ba5ffc4f8d3e8d732c61dea7",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  },
+  {
+    "path": "整理过程/官网采集/校验官网资料.py",
+    "before_sha256": "9408db2f2bf558658a17e33da13afe3b6fecc7044b0ec76edb45bbacb6680993",
+    "after_sha256": "6df67279d30c78f7861a7f7e0fc71f2d11500182ff4f6f2ba5447f279a94ae83",
+    "reason": "修复询价空白/派生统计；原始价格及来源不变"
+  }
+]

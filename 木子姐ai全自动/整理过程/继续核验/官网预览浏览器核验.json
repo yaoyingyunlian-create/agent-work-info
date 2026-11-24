@@ -1,0 +1,126 @@
+{
+  "checks": [
+    {
+      "name": "默认商品",
+      "count": 40,
+      "passed": true
+    },
+    {
+      "name": "明确询价检索",
+      "count": 14,
+      "passed": true
+    },
+    {
+      "name": "缺价检索",
+      "count": 5,
+      "passed": true
+    },
+    {
+      "name": "原分类候选",
+      "count": 15,
+      "passed": true
+    },
+    {
+      "name": "英文品名检索",
+      "count": 1,
+      "passed": true
+    },
+    {
+      "name": "媒体记录",
+      "count": 180,
+      "passed": true
+    },
+    {
+      "name": "视频",
+      "count": 3,
+      "passed": true
+    },
+    {
+      "name": "图片记录",
+      "count": 161,
+      "passed": true
+    },
+    {
+      "name": "归档页面",
+      "count": 95,
+      "passed": true
+    },
+    {
+      "name": "尺寸与技术资源记录",
+      "count": 1091,
+      "passed": true
+    },
+    {
+      "name": "无匹配",
+      "count": 0,
+      "passed": true
+    }
+  ],
+  "product_images_decoded": 39,
+  "original_images_decoded": 159,
+  "video_metadata": [
+    {
+      "ok": true,
+      "duration": 27.282789,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "ok": true,
+      "duration": 23.730136,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "ok": true,
+      "duration": 24.798254,
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "local_navigation": [
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%AE%98%E7%BD%91/%E4%BA%A7%E5%93%81%E7%B4%A2%E5%BC%95.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%AE%98%E7%BD%91/%E5%93%81%E7%89%8C%E4%B8%8E%E8%81%94%E7%B3%BB%E8%B5%84%E6%96%99.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%9F%A5%E8%AF%86%E5%BA%93/%E5%AE%98%E7%BD%91/%E4%B8%8E%E8%81%8A%E5%A4%A9%E8%B5%84%E6%96%99%E7%9A%84%E5%B7%AE%E5%BC%82.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E5%AE%98%E7%BD%91%E8%B5%84%E6%96%99/2026-11-24/%E5%AA%92%E4%BD%93%E5%8E%9F%E4%BB%B6%E7%B4%A2%E5%BC%95.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E5%AE%98%E7%BD%91%E8%B5%84%E6%96%99/2026-11-24/%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.csv",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E5%AE%98%E7%BD%91%E8%B5%84%E6%96%99/2026-11-24/%E9%87%87%E9%9B%86%E6%8A%A5%E5%91%8A.md",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8774/%E7%B4%A0%E6%9D%90%E5%BA%93/%E7%B4%A0%E6%9D%90%E9%A2%84%E8%A7%88.html",
+      "status": 200
+    }
+  ],
+  "layout_measurements": [
+    {
+      "viewport": 1366,
+      "contentWidth": 1351,
+      "visible": 40
+    },
+    {
+      "viewport": 390,
+      "contentWidth": 375,
+      "visible": 40
+    }
+  ],
+  "confirmed_copy_visible": true,
+  "browser": "Ego Lite真实浏览器",
+  "scope": "交互、实际本地HTTP加载、媒体解码、宽度几何检查；未访问官网实时页面"
+}

@@ -1,0 +1,4 @@
+{
+  "error": "CdpRequestTimeoutError: CDP request timed out: Page.captureScreenshot",
+  "scope": "截图视觉验收未完成；交互与图片加载验证已完成"
+}

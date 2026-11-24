@@ -1,0 +1,20 @@
+{
+  "original_files": 63,
+  "original_images": 60,
+  "pdf_files": 2,
+  "pdf_pages": 16,
+  "text_files": 1,
+  "exact_duplicate_images": [
+    {
+      "id": "A013",
+      "duplicate_of": "A008"
+    }
+  ],
+  "sha256_copy_check": true,
+  "html_cards": 76,
+  "browser_interaction": "未验证；仅静态检查",
+  "full_chat_history": "未采集",
+  "pdf_reading": "已视觉检查全部16页标题和主要主题，未做逐字OCR审校",
+  "local_links": "全部本地Markdown/HTML文件链接存在",
+  "search_logic": "Node VM执行实际页面脚本：全部/编号/语言/分类/组合/无匹配/清空恢复断言通过；非真实浏览器验证"
+}
