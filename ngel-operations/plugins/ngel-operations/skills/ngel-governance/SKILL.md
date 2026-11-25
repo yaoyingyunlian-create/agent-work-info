@@ -5,6 +5,8 @@ description: 管理 Ngel 的中英文知识核验、Agent 权限规则与业务�
 
 # Ngel 规则和记忆
 
+纹发与美睫新增中英文图、原始文字和适用范围见 references/smp-lash-aftercare.md，核对原图ID178–181及补睫和整套重做的区别。
+
 当前业务口径先读插件根目录 references/customer-confirmed-policy.md。同事项采用本次客户明确答复。日报只存本地，免订金、永久保留记录等按最新口径执行。具体账号和排班空缺按实际需要补齐。
 
 

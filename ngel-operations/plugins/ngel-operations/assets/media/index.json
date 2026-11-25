@@ -376,6 +376,66 @@
         "source": "User confirmation in current conversation",
         "statement": "资料都是客户确认过的"
       }
+    },
+    {
+      "id": 178,
+      "path": "originals/178-smp-aftercare-zh.jpg",
+      "source_file": "codex-clipboard-1056b66e-02fc-48a6-84ca-1132d94bd26f.jpg",
+      "category": "smp-aftercare-zh",
+      "title": {
+        "zh-CN": "纹发护理中文",
+        "en": "SMP aftercare Chinese"
+      },
+      "sha256": "1a7f590b9391a91b6d5a97296ef5353fb092de1d90aa11c719d1c6408a1ca14b",
+      "bytes": 94851,
+      "batch": "2026-11-25",
+      "external_use": "customer_provided",
+      "companion_id": 179
+    },
+    {
+      "id": 179,
+      "path": "originals/179-smp-aftercare-en.jpg",
+      "source_file": "codex-clipboard-71dfee64-1ecd-4187-ab1c-5d477e918a0a.jpg",
+      "category": "smp-aftercare-en",
+      "title": {
+        "zh-CN": "纹发护理英文",
+        "en": "SMP aftercare English"
+      },
+      "sha256": "29ca45ee03a8848e27ae44595373c682789ab982f74de2318309fec362a3e0c8",
+      "bytes": 133839,
+      "batch": "2026-11-25",
+      "external_use": "customer_provided",
+      "companion_id": 178
+    },
+    {
+      "id": 180,
+      "path": "originals/180-lash-aftercare-zh.jpg",
+      "source_file": "codex-clipboard-389080d7-6e31-4020-be4e-d4e46a4b38cd.jpg",
+      "category": "lash-aftercare-zh",
+      "title": {
+        "zh-CN": "美睫护理中文",
+        "en": "Lash aftercare Chinese"
+      },
+      "sha256": "4fae303bd4514216a5df3a5d6ed721826894880f7671d78e2cb4757b567d51e5",
+      "bytes": 159465,
+      "batch": "2026-11-25",
+      "external_use": "customer_provided",
+      "companion_id": 181
+    },
+    {
+      "id": 181,
+      "path": "originals/181-lash-aftercare-en.jpg",
+      "source_file": "codex-clipboard-5930626c-d713-4919-9022-b7d349cb6514.jpg",
+      "category": "lash-aftercare-en",
+      "title": {
+        "zh-CN": "美睫护理英文",
+        "en": "Lash aftercare English"
+      },
+      "sha256": "eac51793f6c163412e146cc42da189247aae5b8e0ad7ce859d9486e1e17e7a29",
+      "bytes": 172531,
+      "batch": "2026-11-25",
+      "external_use": "customer_provided",
+      "companion_id": 180
     }
   ]
 }
