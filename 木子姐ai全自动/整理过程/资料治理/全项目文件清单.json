@@ -1,10 +1,283 @@
 [
   {
     "path": "README.md",
-    "bytes": 5857,
-    "sha256": "35d19db59c8f95b29c8844ad969a507abf0edc4b8779f7d75fbadb8355f4e85d",
+    "bytes": 6384,
+    "sha256": "79711a32d5ab95a78428e27e06bf09d5456a114353fa7a9b14741c82e4b8aa43",
     "extension": ".md",
-    "filesystem_modified_at": "2026-11-24T20:57:00+08:00"
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215646_111_170.png",
+    "bytes": 1161329,
+    "sha256": "092e1c3c058526e25e236e37c544f8c8bd1ae480157531d790f1da405149a654",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:16+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215647_112_170.png",
+    "bytes": 1305584,
+    "sha256": "004bbbd220dc2b6d73228d64bdfe3a981b77e206281093da70e8f09bcedbc971",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:32+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215649_113_170.png",
+    "bytes": 2758883,
+    "sha256": "3064af99fb2a884636fc787a67f6b348401de822a2abdccc1281398446249c91",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:32+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215650_114_170.png",
+    "bytes": 2048620,
+    "sha256": "a9b83a3cf0be9173d7d4c6fbc84c65b8e006956a54a3989a4a58042bf816587c",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:41+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215651_115_170.png",
+    "bytes": 1840274,
+    "sha256": "87bf068e6e7959c2dee44518e365f0ee5f87acaa104be10bf6316aa09c917210",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:32+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/微信图片_20261124215651_116_170.png",
+    "bytes": 1901561,
+    "sha256": "76b320c7e73de1fcc5899dcc0aa23fe6a2a72537a8d1d42a934ed4600d0829e3",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-24T22:10:32+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 1.png",
+    "bytes": 523331,
+    "sha256": "cd4d7ca5e56b21a4292bfaa44ce593942eb7dc222da6acedb3b254776f28461c",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:37:23+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 2.png",
+    "bytes": 484549,
+    "sha256": "954d3cbe3b16aaa94cfe88c2e3d7891e3a391be43a6c715ab08635b0f554566a",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:37:26+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 3.png",
+    "bytes": 669377,
+    "sha256": "d3feefcdbf967527a21582bf2c91ba917208e34746acb5372b6df97337418fc0",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:37:31+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/01.jpg",
+    "bytes": 1007335,
+    "sha256": "15315d7425835d2edd716332b3d8b57ee293fe609d1af222e2005b1899448c05",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/02.jpg",
+    "bytes": 567929,
+    "sha256": "676d8e5523b9c065e213a31892b520191749f1110c0f493c0ba815342b5e5f55",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/03.jpg",
+    "bytes": 556631,
+    "sha256": "23a68ed88441d31fbb3292aae8c27ef3d97cb728cf230354c581b88d419c8ed8",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/04.jpg",
+    "bytes": 837720,
+    "sha256": "84a34604ff87b8984513e2ea033a04825c3df5544328b5f149c6760744a8f70f",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/05.jpg",
+    "bytes": 571926,
+    "sha256": "69ed4d8b1e9ffb8e8f8a18749ad731f466296f02983c52328d4bd177fe7d8d22",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/06.jpg",
+    "bytes": 487975,
+    "sha256": "1670b621b803985c25ca668ac8158afad67808e8b34db4837db044acd2383866",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:34:47+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页-Hair Vitality Serum.jpg",
+    "bytes": 4286186,
+    "sha256": "a7aedcd5e12ac3b3277381b0411c79e14d9e4521e808416e22cb1b461f2fcfad",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:38:01+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 1.png",
+    "bytes": 609155,
+    "sha256": "2ad5bca51b30e27b83d7e6d1430d3284deeccc69fa4cf7e6a7c82d71c322b914",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:42:38+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 2.png",
+    "bytes": 487357,
+    "sha256": "2e0f96b52315c7b21cd81439e643ea4292af8774b05c0adedb0170c26f10411f",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:42:33+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 3.png",
+    "bytes": 854024,
+    "sha256": "be5b8b5bceed630ebe5f6fe00ef6b242447853b2520eedd5c70d6e3f92711703",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:42:28+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/01.jpg",
+    "bytes": 1085720,
+    "sha256": "6b9c275f4309c38fc3cf506bc88c8fa488c6fff690e85a67b9cb6a6068c90491",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/02.jpg",
+    "bytes": 436496,
+    "sha256": "bf85bfeb8050f80e1cd5454a4c5f4368866d536573e4f08b88d6043a093411f4",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/03.jpg",
+    "bytes": 525730,
+    "sha256": "ad54a3d456b30241a04762b66c79f37d4f54463c07957601d5cbd8b7ab1d0035",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/04.jpg",
+    "bytes": 1531655,
+    "sha256": "36e5eab1064450b3ad9e6b1c6f019ecdc56ae60888b4dd4dc40d34988c0e9c2a",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/05.jpg",
+    "bytes": 579490,
+    "sha256": "c75b55316dd62dbc74a52a1ba5bacf68ebfe8f8a87e5cb0e6acc6b5d5535eaa7",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/06.jpg",
+    "bytes": 443098,
+    "sha256": "4283e474c558d9cb1c87b41fd767a5270c455a7986f06b6c80fe8d0cbc0330ea",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:41:42+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页-Hair Vitality Shampoo.jpg",
+    "bytes": 4842159,
+    "sha256": "26f9ec21dbf9b381d0c69837cea0d166810de2a6343a1bacecc76fa0b94bbdc2",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:44:12+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 1.png",
+    "bytes": 660575,
+    "sha256": "a0e0cd27258c31953f3a78b6025ebd4a86ddab75386e0cc1d555051b86cd3fa9",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:48:44+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 2.png",
+    "bytes": 417827,
+    "sha256": "b97071ea3692d6cdce05c68207bf690252f3cde9552b35c28a9c3f2383f9c534",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:48:40+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 3.png",
+    "bytes": 679678,
+    "sha256": "e5cbe5bb35f02110b393ad9e1df288331d3caef719594d54deabf0122152cfce",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-10T18:48:35+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/01.jpg",
+    "bytes": 1199883,
+    "sha256": "de9c34874a2019b7933ea1cf54bc8cb5f32677df79456065dbe8973c9152e70e",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/02.jpg",
+    "bytes": 569368,
+    "sha256": "f680bd306c34e4d0afab8090d47b8bf86cef574a90dad993e4f2219b37a8c019",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/03.jpg",
+    "bytes": 521156,
+    "sha256": "dc6490e4d147794a4c0cdee141e012a96e4a27fb654ef06ed5fed3dcb0e11179",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/04.jpg",
+    "bytes": 1528318,
+    "sha256": "132e181f90e9acbc26cd22110501c74599d59b1478c63c29c262130b68bbe243",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/05.jpg",
+    "bytes": 557988,
+    "sha256": "653d8ec542bc9961d558b0f425056527e89cd6c6576b2ab49347744f75aac323",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/06.jpg",
+    "bytes": 842039,
+    "sha256": "3a5b043f80e55d48b8d2be488312b5035e700cf0a8072f50eb66a67b81d23c0d",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/07.jpg",
+    "bytes": 566666,
+    "sha256": "18a7d45c65a1b9dd3f402caf279548cd8780e8976c463c84c1923933727a33e7",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:22+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/08.jpg",
+    "bytes": 909853,
+    "sha256": "473dd9ab606f6d72981d5fbb2f4e2a08c22090f0ea544364e741d6511333b269",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:23+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页-洗护组合.jpg",
+    "bytes": 7019552,
+    "sha256": "059149ad6cce596a11dce688342e2f2c971afbf5842ff633180c3a0c9340b342",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-10T18:46:50+08:00"
+  },
+  {
+    "path": "原始资料/2026-11-25新增/粉之密PPT29.pptx",
+    "bytes": 43461800,
+    "sha256": "2c356c2e0a6332c473a81f94d57e77f390b9612ff999e88183155c61d7a81dcb",
+    "extension": ".pptx",
+    "filesystem_modified_at": "2026-11-24T22:09:29+08:00"
   },
   {
     "path": "原始资料/YVELISE 抗衰套盒 ¥498/微信图片_20261124201949.jpg",
@@ -12600,6 +12873,244 @@
     "filesystem_modified_at": "2026-11-24T20:28:39+08:00"
   },
   {
+    "path": "整理过程/新增20261125/PPT联系表-01.jpg",
+    "bytes": 284601,
+    "sha256": "74022a6fef625b21cf5bc9a73c9df6466348a588486a8c8615a27104f4bc16b5",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-02.jpg",
+    "bytes": 260266,
+    "sha256": "9d5bcb6c8c42c2cb21d9ac2e9c40bf1ba6c0bc2dfc64150385598106a700c2fc",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-03.jpg",
+    "bytes": 275360,
+    "sha256": "fd7ae0592990d32a75ccdd951739399e10530808aed4aad6f85f9413ee2c5b82",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-04.jpg",
+    "bytes": 257766,
+    "sha256": "0c256c6fb5386b8215ff9bb09ddd608751f571ecb44a7e1e22f57a5be84a2d8a",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-05.jpg",
+    "bytes": 242448,
+    "sha256": "6e34e960ff9f463cd60816ecb1888b07175bf9775ea2ada75c9ad5ffd9a68967",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-06.jpg",
+    "bytes": 326129,
+    "sha256": "2c161ce580df643e2ef8b19b815201fad5e1e05ef7fac7024756071424b81ae3",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-07.jpg",
+    "bytes": 271135,
+    "sha256": "8658e0118e6c5b0b0d4721a8b1c73e72ce0a06cd596c180d0b5ba1a49b8ff473",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:19+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-08.jpg",
+    "bytes": 219294,
+    "sha256": "856bfbd563a8b4c18adcba849463e643166cd01f3c645d3dbd41c1b12edeaf67",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-09.jpg",
+    "bytes": 237000,
+    "sha256": "ad45ca84b9d9c500779276fce2051b220829958228c3114f0934640a3b55c7cf",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-10.jpg",
+    "bytes": 290866,
+    "sha256": "beb314120f4e10b6945525f34d52596ff557f377e900c2a56670d17afebfa6c9",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-11.jpg",
+    "bytes": 378466,
+    "sha256": "38ee10c672a270f80830a01046642f71270aeeb8f5fe031bc339849895fde441",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-12.jpg",
+    "bytes": 206224,
+    "sha256": "96f2576ca42d2aa1532653d84ba8203350badad8264af98c347c5f5317d930a8",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-13.jpg",
+    "bytes": 205740,
+    "sha256": "4793d3bbeff231300ee429e3f0b42f924c3a094d2a68fde9a0fce3ee971d1ecc",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/PPT联系表-14.jpg",
+    "bytes": 155014,
+    "sha256": "2909e62cdd3b9e0b47fcd4f7022f5f43e2c8ce863ae939f198cbb204d43a10d6",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:32:20+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/入口变更清单.json",
+    "bytes": 1951,
+    "sha256": "674a68fa55ed1a60362d270e7a2320964e7cc016785e089d84346cd531c453af",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/入口更新前/README.md.bin",
+    "bytes": 5857,
+    "sha256": "35d19db59c8f95b29c8844ad969a507abf0edc4b8779f7d75fbadb8355f4e85d",
+    "extension": ".bin",
+    "filesystem_modified_at": "2026-11-26T19:40:55+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/入口更新前/知识库/README.md.bin",
+    "bytes": 4706,
+    "sha256": "b1fda4115d19f4ac1e582e435cae5eb685fb3e685e34dba600598c398cd62f87",
+    "extension": ".bin",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/入口更新前/知识库/待确认问题清单.md.bin",
+    "bytes": 4400,
+    "sha256": "27d7c6c6a2a57b36ebbe20a1bb70781844db0f89a521d2393ecc31ecee9aef8f",
+    "extension": ".bin",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/入口更新前/素材库/README.md.bin",
+    "bytes": 3859,
+    "sha256": "e20a0df77263434ed9854e317b64de8b9505106b1d61fe47193f01eaa6fffc33",
+    "extension": ".bin",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-01.jpg",
+    "bytes": 348150,
+    "sha256": "de1a0d98e53a96d7059485061946ba259212e024ac919aec3e098841acefbcdb",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:32+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-02.jpg",
+    "bytes": 471174,
+    "sha256": "213affdc4ce4545b555f786ff3fe52ea4fed08fc7c88a0ad59d4d40fabaec964",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:32+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-03.jpg",
+    "bytes": 461160,
+    "sha256": "66776d31250c61dfd71e26ea61c807abfe2bc0ea7332fcd5aec1327339e6f1db",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:32+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-04.jpg",
+    "bytes": 514762,
+    "sha256": "cd31e2d62a53003f98f5bc998a7c0109427e0d2e30c01b096689b41aecad5d32",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-05.jpg",
+    "bytes": 468453,
+    "sha256": "6bac361a11f498ccea614836651fd373299bc975ee53773baddaac6498d91fe5",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-06.jpg",
+    "bytes": 539400,
+    "sha256": "dabfafd2e3de50c84ad1930c813f0f12bf8063da2e31e84c7b4fec4465b8b57f",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/图片联系表-07.jpg",
+    "bytes": 128818,
+    "sha256": "69759af2abea80e348d7a2158d0940549f232a7b541be8b2c8e22abbae9f16b1",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/导入前基线.json",
+    "bytes": 415372,
+    "sha256": "ed7a18acb821de0f7ec53c0fa8767f92394f1c87dbd949323e5488b2aa6b0364",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:31:31+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/导入批次.py",
+    "bytes": 4312,
+    "sha256": "dcc2374a3b0dc8bf97e78e0224e9bbccbdb313a1872bf4ee97a04284dca90da8",
+    "extension": ".py",
+    "filesystem_modified_at": "2026-11-26T19:31:00+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/建立批次索引.py",
+    "bytes": 15526,
+    "sha256": "0fd8ee1c4538f9930a82d8f348336b1eaebd77de0e05791f3d1cb58e01d418fa",
+    "extension": ".py",
+    "filesystem_modified_at": "2026-11-26T19:37:29+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/更新入口.py",
+    "bytes": 4592,
+    "sha256": "cdf8f18e4497bd4bb2bf13424f408f4af63218d8e1737eac9941aabff6754419",
+    "extension": ".py",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/校验结果.json",
+    "bytes": 5427,
+    "sha256": "6e88abdc5e6257a0deb3d4db82e282b4322b4be795f258dfd85454473b672d02",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:41:28+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/核验批次.py",
+    "bytes": 6872,
+    "sha256": "5aedbce4b650047d4e73584f2fdc1a567c3ac0741ccd33ddc9524b0a869f91be",
+    "extension": ".py",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/检索逻辑验证.cjs",
+    "bytes": 1455,
+    "sha256": "43032d78841b0b3241da4f4c1e7a9f54cc4b04afd3da21eea922662df16a0815",
+    "extension": ".cjs",
+    "filesystem_modified_at": "2026-11-26T19:41:27+08:00"
+  },
+  {
+    "path": "整理过程/新增20261125/渲染PPT.ps1",
+    "bytes": 1306,
+    "sha256": "babad838de73db5fc852d05c7e88adcea00fab164f286e77ffb13e2a29f18222",
+    "extension": ".ps1",
+    "filesystem_modified_at": "2026-11-26T19:31:00+08:00"
+  },
+  {
     "path": "整理过程/校验检索.cjs",
     "bytes": 2187,
     "sha256": "979d27e0d5ad74d6ff36f4d2746c92c86eea94d2cd16ecd79ac900629b2f0b23",
@@ -13328,6 +13839,13 @@
     "filesystem_modified_at": "2026-11-24T20:51:49+08:00"
   },
   {
+    "path": "整理过程/资料治理/导出掌握报告TXT.py",
+    "bytes": 1637,
+    "sha256": "f13a6cc2e92e3da59ecef29bbb70fabe6c0b689f3671a55724fa8eb0e4ba2784",
+    "extension": ".py",
+    "filesystem_modified_at": "2026-11-24T21:31:53+08:00"
+  },
+  {
     "path": "整理过程/资料治理/整理前基线.json",
     "bytes": 452086,
     "sha256": "182bbe5dc91798dca2dfc21b56c3d9fba29fed28e80cd1bafa7bd6de9afba429",
@@ -13344,16 +13862,16 @@
   {
     "path": "整理过程/资料治理/索引输出哈希.json",
     "bytes": 1270,
-    "sha256": "44c419c2eb713cab2e42e5e5c771efbd6094edb15b8f041d3d0efc9342b7152e",
+    "sha256": "22d2961f79d3e68b7c5cc92177795420c43554d257743e44a44cd8b5e1f8da9c",
     "extension": ".json",
-    "filesystem_modified_at": "2026-11-24T21:10:42+08:00"
+    "filesystem_modified_at": "2026-11-26T19:41:16+08:00"
   },
   {
     "path": "整理过程/资料治理/维护索引.py",
-    "bytes": 27591,
-    "sha256": "de4e5263da0f9b29afa545e704bff4d0bc8149262ac7aac49f1ba51434566ed2",
+    "bytes": 29561,
+    "sha256": "422f317158c3b71701eb5b28e51780dc8b18aa438b4ae06b2730e085584ad637",
     "extension": ".py",
-    "filesystem_modified_at": "2026-11-24T21:06:19+08:00"
+    "filesystem_modified_at": "2026-11-26T19:39:36+08:00"
   },
   {
     "path": "整理过程/资料治理/编译缓存变更.json",
@@ -13468,6 +13986,27 @@
     "filesystem_modified_at": "2026-11-24T20:59:46+08:00"
   },
   {
+    "path": "知识库/20261125待确认问题.md",
+    "bytes": 3024,
+    "sha256": "4f95ec0aadcf653f09c6a0de156fa3fb3936ba51f64d0d8682e8b1bb58a7ed3d",
+    "extension": ".md",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "知识库/20261125新增资料.md",
+    "bytes": 7732,
+    "sha256": "3d2fda524883ed6174852748b9adea8a9eb245fdf80c72b99ec22ca64f8af507",
+    "extension": ".md",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "知识库/20261125新增资料.txt",
+    "bytes": 7802,
+    "sha256": "2ebba0b030b5a678e0e9bb1bd7d009760a6141cbfa1f156f58dbfc7ff6585310",
+    "extension": ".txt",
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
+  },
+  {
     "path": "知识库/PDF提取/水光（华文）.txt",
     "bytes": 199,
     "sha256": "c12211b6275a55de7034113a99dec85fa81ef8e625e9de2ed78c80fd6a279c82",
@@ -13490,10 +14029,10 @@
   },
   {
     "path": "知识库/README.md",
-    "bytes": 4706,
-    "sha256": "b1fda4115d19f4ac1e582e435cae5eb685fb3e685e34dba600598c398cd62f87",
+    "bytes": 5571,
+    "sha256": "9f98ac8224a48c47abd0ddfb9a5334a7a02f152592a9157a443c1228af0c97df",
     "extension": ".md",
-    "filesystem_modified_at": "2026-11-24T21:15:00+08:00"
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
   },
   {
     "path": "知识库/业务需求与资料边界.md",
@@ -13854,10 +14393,10 @@
   },
   {
     "path": "知识库/待确认问题清单.md",
-    "bytes": 4400,
-    "sha256": "27d7c6c6a2a57b36ebbe20a1bb70781844db0f89a521d2393ecc31ecee9aef8f",
+    "bytes": 4844,
+    "sha256": "21a75c896cebca01928264284121b32bff151b1fc008701eee84ccb15eb2b61a",
     "extension": ".md",
-    "filesystem_modified_at": "2026-11-24T21:10:36+08:00"
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
   },
   {
     "path": "知识库/整理记录-2026-11-24.md",
@@ -13865,6 +14404,13 @@
     "sha256": "7d1b2d409e68657cb8d0334a7bf9b59c57da4ca6853b055e69bb45319a711e63",
     "extension": ".md",
     "filesystem_modified_at": "2026-11-24T21:00:45+08:00"
+  },
+  {
+    "path": "知识库/整理记录-2026-11-26.md",
+    "bytes": 2053,
+    "sha256": "e2388113390e13f1a0fdd8ab2d288b3355844ded68d63093fa73481bebd960f7",
+    "extension": ".md",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
   },
   {
     "path": "知识库/水光双语对照.md",
@@ -13879,6 +14425,20 @@
     "sha256": "d86d59d3085bc08382f55cfcf70fe735c1fbb62e67f2221cf7bacf2746ae60f0",
     "extension": ".md",
     "filesystem_modified_at": "2026-11-24T21:14:23+08:00"
+  },
+  {
+    "path": "知识库/知识与素材掌握情况报告-2026-11-24.txt",
+    "bytes": 24741,
+    "sha256": "d901892e8726f504299ea162e279dafa5140c6fdbe924808bf611b2ec8158d1b",
+    "extension": ".txt",
+    "filesystem_modified_at": "2026-11-24T21:33:41+08:00"
+  },
+  {
+    "path": "知识库/粉之密产品与培训索引.md",
+    "bytes": 9099,
+    "sha256": "bfc04faf6488e2e71b4edee7f4a1b41330ed53c331e66932b05b13d2f3026019",
+    "extension": ".md",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
   },
   {
     "path": "知识库/继续核验报告-2026-11-24.md",
@@ -14015,10 +14575,10 @@
   },
   {
     "path": "素材库/README.md",
-    "bytes": 3859,
-    "sha256": "e20a0df77263434ed9854e317b64de8b9505106b1d61fe47193f01eaa6fffc33",
+    "bytes": 4498,
+    "sha256": "165d1a96f30007bf6c52b6eea30d53050f5e34fe1aba3a77cd4dc6d0c5978bca",
     "extension": ".md",
-    "filesystem_modified_at": "2026-11-24T21:04:49+08:00"
+    "filesystem_modified_at": "2026-11-26T19:41:07+08:00"
   },
   {
     "path": "素材库/业务确认.json",
@@ -14054,6 +14614,888 @@
     "sha256": "1f908b96eeeb5bca3c3010665c4ead85a097903485a0edf5bf3eb42b6b7c6a73",
     "extension": ".md",
     "filesystem_modified_at": "2026-11-24T20:41:50+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image1.png",
+    "bytes": 176099,
+    "sha256": "8339a096c07934bdbbe655c885ca0dd7763b391aaeea04279013fe46551d7c25",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image10.jpg",
+    "bytes": 77597,
+    "sha256": "66b00cf942e5345fedba1fed24142ab5cdb8101d20d910829804a48beba90394",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image11.jpeg",
+    "bytes": 240090,
+    "sha256": "21708548379673382f88f31135a160afe2e5236c4ce5f445aa6eb4ed53fb620f",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image12.jpeg",
+    "bytes": 239298,
+    "sha256": "84c368a8f0046e2b68fdae5dfc33187b75f754dc81d29c3b2d177810528e4f7e",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image13.jpeg",
+    "bytes": 161503,
+    "sha256": "91781bf5e25dd5d62beb8721dfcd00438d1bf05cfc079bfefc8820e85b4dc418",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image14.jpeg",
+    "bytes": 248922,
+    "sha256": "db15d0d5a9ec3ce24db28168c1458be0baf5cdf4d1961473f6c391cfbc890f28",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image15.jpeg",
+    "bytes": 242094,
+    "sha256": "5e683b02810a93dee55663edfb821e85537374a10b9e901f45464a8009a6b0cf",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image16.jpeg",
+    "bytes": 163570,
+    "sha256": "0909e2579ea73550a1888ca7599adfd2f1a02dc823fce2087fe95d6ef9d10786",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image17.jpeg",
+    "bytes": 262296,
+    "sha256": "6f3d60323282c21682d9891bff4fa4612a5454ea39e8705ce847ad7eecfa50e8",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image18.jpeg",
+    "bytes": 372530,
+    "sha256": "39e4abd4751603a2180c6f680eabb239d0f4075814d2f08db9325c99cde1f987",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image19.png",
+    "bytes": 831598,
+    "sha256": "e0a77eb88e10ad2ce32f345d58218d119655b1bd2590c3e42f924ca7639746e7",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image2.jpeg",
+    "bytes": 640374,
+    "sha256": "779edb72ba7477e896e77595dfff469da1794df8fd979b9f63cc257cbe4d4f42",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image20.jpeg",
+    "bytes": 2076,
+    "sha256": "555095399fe330ff9ce3cb968c51f4c13b91810079ecd49f8887f1465f8ebbbe",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image21.jpeg",
+    "bytes": 23193,
+    "sha256": "b825e4a962c596b036095b902045505fe33eef931e92f4e98f57e7aa787d12f5",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image22.png",
+    "bytes": 973,
+    "sha256": "0b995a006d1b440b8a10037aac97b7da1fc06299105106d6afda19dd88fd98e6",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image23.jpeg",
+    "bytes": 1764,
+    "sha256": "b2d325eea9221b5f5e4c4f52b96667f69a6702248669c4f85ac71ca8cea26fa3",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image24.jpeg",
+    "bytes": 29170,
+    "sha256": "7eecf3690fce21820d54ca067be1aefce99a956e2b54dfd62de66db811e9020e",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image25.png",
+    "bytes": 258587,
+    "sha256": "8d600cc125f4114fd944549a3b425abd8c23605b755cf59e1be8846eeacb9918",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image26.png",
+    "bytes": 271183,
+    "sha256": "a4ff9dd6c9c39c4550717e4ac7c855fae356c4766665ad7aa6bd10ef30cf46fc",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image27.jpeg",
+    "bytes": 753523,
+    "sha256": "26e90154e7fc47240af05c616fccebaec3fa13aa048354310ba225d87fd3fc48",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image28.jpeg",
+    "bytes": 726319,
+    "sha256": "af574a27c708b3c45457d57b835113f58d50ff3d8515264fbcfb57c945565255",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image29.jpeg",
+    "bytes": 709086,
+    "sha256": "072c2dec391b1680dc6ee33a80746c930549250ba3c3d55fa41d5941cda5a196",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image3.jpeg",
+    "bytes": 720669,
+    "sha256": "eeaa920e3319796425fc6c8f126fc7ba39c33f77dfc25e7a9f2b2881762073ce",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image30.jpeg",
+    "bytes": 734075,
+    "sha256": "2a150355d986adf1b145238a97277c7af209e9413ef1312ac1b5bab91e8baa0b",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image31.jpeg",
+    "bytes": 952258,
+    "sha256": "69af1637d73a6a99afc239640060016620873cb659b7328e92e50097be116125",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image32.png",
+    "bytes": 440340,
+    "sha256": "35fca25195e2b778c5cf63bbf0afd6466b55f81b60c448c1dfa765d1f6d67139",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image33.jpeg",
+    "bytes": 684036,
+    "sha256": "57b4f4d8499817dd9dbcd6dc66894260bf53aff14ce24c64f24baa52dfc76f65",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image34.jpeg",
+    "bytes": 665299,
+    "sha256": "f4ae4d1e0ca7f82554940c37cbf96fe504ecb64a7f6a0dfd14582a128fd0f0c9",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image35.png",
+    "bytes": 299663,
+    "sha256": "dcd10d0227de69e2cb368081a64ab4b726e0a8e31bb8c40679e6492d5bbc9cfd",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image36.jpeg",
+    "bytes": 683947,
+    "sha256": "eaea83656a70b7124fcf4c946118e9e5351048f15fb2958b0b202c2fe1578827",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image37.png",
+    "bytes": 1595497,
+    "sha256": "fcbf31f19626c449c2ec2ceccc2fdb655301af1c48a4623e9c7c78d1c0b60bf8",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image38.png",
+    "bytes": 1620761,
+    "sha256": "9986ae6f22d8a9b88c36da1ed338fd8b28b0ca6dfbc0d3913137ea239b5946a5",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image39.jpeg",
+    "bytes": 648753,
+    "sha256": "d8c090defa7bbea403e44e82d9a412ba677c7d31539a232ead07de63348d9c41",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image4.jpeg",
+    "bytes": 366224,
+    "sha256": "fafbaa03030ffc0b740ef44adfe84451b8c86885973378469fa68c39efaebe24",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image40.jpeg",
+    "bytes": 684317,
+    "sha256": "63c5c04d7ef9bb8e5abdd4c5df44674bdbeb77bb5c78c289aabce2a2527aa69e",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image41.jpeg",
+    "bytes": 617045,
+    "sha256": "514e207321a6a9c7430facabc92324ecb05776423ab4275bab0458bf0e7283ec",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image42.jpeg",
+    "bytes": 617828,
+    "sha256": "8a86d11aaaee7d3a3ce4f642fd62b1c59f209d45ea4e1d6f20845e26c540e65e",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image43.jpeg",
+    "bytes": 577272,
+    "sha256": "7a3489038363bfecd11d4e98e80bfd123bd010736bcd7e1031fbeec891a77939",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image44.jpeg",
+    "bytes": 586303,
+    "sha256": "6e6e941967e1c01002fcc4bdab0882ac042647d29acbeb1e0438cbcfb2dc6536",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image45.jpeg",
+    "bytes": 114391,
+    "sha256": "ece3bb8836413f32ac3a1919bd3e38d03bd94e783ea8983f75768d1a7e1005ee",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image46.jpeg",
+    "bytes": 230502,
+    "sha256": "9cde71f7ac3343e01cd4eeda48d2e53b62e29544e8489ac5d7ebb54c698318d7",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image47.jpeg",
+    "bytes": 1693164,
+    "sha256": "9428836e48e07152d8b6fc00b039d4b95249e83b32569203462f900da9598bc8",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image48.jpeg",
+    "bytes": 404817,
+    "sha256": "f659546383d554bc379db4a429cf42b8da6ad1ef64db1e9803ca8109b23d4b3e",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image49.png",
+    "bytes": 1075791,
+    "sha256": "d2efa5d822248b3221f9a9b3b4f4616b26502215da99d6fdfa99598f1ae866bb",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image5.png",
+    "bytes": 1580285,
+    "sha256": "ded94470505a386e724cfde7b5dbddade56140bd5c39a7401ad321a2cd4bffa8",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image50.jpeg",
+    "bytes": 420371,
+    "sha256": "795b0ea479e6f5db88d900781b8645158b63163bbf424c4fe6aa7965ea343371",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image51.jpeg",
+    "bytes": 458328,
+    "sha256": "53c9a7209409297048b37593fc1ff416a3aa63b1bd167af0d99dd8ccd5febd34",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image52.jpeg",
+    "bytes": 465609,
+    "sha256": "dc6c8bef640b099775cea32143f10be6acd3e80d322d7a07d365460b4dc95550",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image53.jpeg",
+    "bytes": 484974,
+    "sha256": "c652b3819e5dd83a26d18241bb591db2bf1b2e6fc26e3a20511cbf77d3256efa",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image54.jpeg",
+    "bytes": 379697,
+    "sha256": "6900044b72f18a39ab25803dfb3874489bd73cbaaf8066b05da6c7a8372f6c43",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image55.png",
+    "bytes": 1329359,
+    "sha256": "4731bc4fd389fd1bab67eae85b4c76499bb83b07d53975f108dafa297b09966c",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image56.png",
+    "bytes": 1003221,
+    "sha256": "e06d1a5d5c82520dee2443b906e226c5645222556da879089d49fa2a2b449587",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image57.jpg",
+    "bytes": 176549,
+    "sha256": "e6c64150777dabbdc05852bbff407500c15e47f59f40c5932e4b63ede314579c",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image58.jpeg",
+    "bytes": 243503,
+    "sha256": "7fd2e98c96452be3802b5342771690d9d3c78c0f875678d1316c66d47e716344",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image59.jpeg",
+    "bytes": 483935,
+    "sha256": "e898da9328d37a1e43247281a6b33f624df4d4bfbc6681e0e7dbc6b2ec7c08b3",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image6.jpeg",
+    "bytes": 605603,
+    "sha256": "3df0bccffbaa970f75d00a54528976d231a1b3a62814263610c4d6638f5654be",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image60.jpeg",
+    "bytes": 490579,
+    "sha256": "9d34072ad3a026e6d98acabcf98127b92878aa9d5f70a93bb6491814f88d988a",
+    "extension": ".jpeg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image61.png",
+    "bytes": 1523946,
+    "sha256": "2105bd04eb3ecf52637f07dadbffa0068a3dc7c6e8f5c541e5cd2aba0d1852f0",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image7.jpg",
+    "bytes": 7015544,
+    "sha256": "23ba5ca9bb7bd2d31ee7908dae6810956030f04ea8b3d2db7c579529a0b98aa3",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image8.png",
+    "bytes": 1518479,
+    "sha256": "46b1b58792f403ef94337c41ab9b68035ea2d553a3de29f2556bc75a786da6f2",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材/image9.jpg",
+    "bytes": 2654748,
+    "sha256": "714d98095cbd632eed28182b7aa6735235c9911035306d356d671acf0da5dfe2",
+    "extension": ".jpg",
+    "filesystem_modified_at": "2026-11-26T19:31:33+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT嵌入素材清单.json",
+    "bytes": 16783,
+    "sha256": "f1e8540c55fa70ecbc00249e4b9a8ded9c032bf2a5b6d30e2431368ab86eca39",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT逐页文字.json",
+    "bytes": 57307,
+    "sha256": "562ec53ac5294a19f22c99173814385acf2165f0512e4c31db6e8caf4126f79d",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P01.png",
+    "bytes": 1001481,
+    "sha256": "cb9854314465283950924098c7ca64f61b096059b7f5976ec9ac6ef8da313fb2",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:51+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P02.png",
+    "bytes": 1353840,
+    "sha256": "79ac70f22a394196f0e006c3c30340d903cdd084d103459d244a0964e41d932b",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:51+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P03.png",
+    "bytes": 1113179,
+    "sha256": "d4f747588f99a7fc33ce3e525e4ee394d5b8422499c1f6b4f4be7aa7de7144bd",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:51+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P04.png",
+    "bytes": 1131948,
+    "sha256": "3c5064826e8791b43c3f88c6e1457a6bbc9c861f12fd5e2f46d31c8f3d564cdf",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:52+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P05.png",
+    "bytes": 1174557,
+    "sha256": "029dd8689975b6d04fb0db49014a10687840257c37b6f9a1876a4dda6408a80a",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:52+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P06.png",
+    "bytes": 951657,
+    "sha256": "557e7ef4e3dc3245ba9232f61f61a621d1e25f65cfe3ddb29f34926d6e7f5a79",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:52+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P07.png",
+    "bytes": 638154,
+    "sha256": "936182c3cc8616fcd4d6ae8b6f82f82e77e1648ba1758259a7676aa22efd1906",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:53+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P08.png",
+    "bytes": 643510,
+    "sha256": "af051068aaeb3b3799002276f61fe9b5bfa9e0ea363ca058c8fe88d08a2ecb8e",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:53+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P09.png",
+    "bytes": 622727,
+    "sha256": "9934cd5eff0125ce6198519829959326c2626de235fe5f7defc63d0c82d51ad5",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:53+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P10.png",
+    "bytes": 1211827,
+    "sha256": "3d3bc84686070f012c2ae76e532460f27b1f76388d99d4ab9ceace849310b140",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:53+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P11.png",
+    "bytes": 766305,
+    "sha256": "1e69075eae01c46525297159b3eed2ecdf2c6a78ab9928754ea8d29814269756",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:53+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P12.png",
+    "bytes": 1010324,
+    "sha256": "86e3ecb327c6df1762a63c581c1c0436c74eaf195a4d2122222d1fad1e83a102",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P13.png",
+    "bytes": 757435,
+    "sha256": "290857abb223bc6e20769ad2ee1d6cfcbb7d1d2213aca4d075a8953717e06aaa",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P14.png",
+    "bytes": 953834,
+    "sha256": "5dbcba1559e0431c5cfee6cad83926b9b0fe60f4f1e2cb8629b5fe6b1348e702",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P15.png",
+    "bytes": 265390,
+    "sha256": "81faac5086f039bb7d6c56b70da107bb8e3ec7775fc7a88501dee96d6faf785c",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P16.png",
+    "bytes": 949821,
+    "sha256": "73a6b74db219bfb12ae80467c579defc578bd1fdef7e9c08be473417fb9bcfdb",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P17.png",
+    "bytes": 1094120,
+    "sha256": "b6f74c2c5fea452086dc28cbc7b87574522b51f27980792793c3c242edf19f0a",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P18.png",
+    "bytes": 1006607,
+    "sha256": "123d2072a9bc4c365ad599af5d31862e42ba3472879df3075f69ea3e67b470df",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:54+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P19.png",
+    "bytes": 988272,
+    "sha256": "a96c1372538657ce83dc5840f2447db66321c2ef569ecd3e3700a393d3e6b63d",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:55+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P20.png",
+    "bytes": 1046968,
+    "sha256": "25825d8a88105538f5515574ef1f4ac1602c3c820024ed72db2f476a247ab0fb",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:55+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P21.png",
+    "bytes": 1302709,
+    "sha256": "77828a96c5b1069feff8bb481f3b6bf5eb08958e9f87e5a96568d48a7524cb60",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:55+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P22.png",
+    "bytes": 1049557,
+    "sha256": "d8d5aa6a25f1bc784cc0851b98118348a3513a037f76f4b5926476ddd00daba3",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:55+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P23.png",
+    "bytes": 1213517,
+    "sha256": "d59dbaa1df089c45cfa714b4c728b194f09ecbfb3922db352bcfbc9f2cf1b0f0",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:55+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P24.png",
+    "bytes": 1000302,
+    "sha256": "f6d5bbea13ece402e1e57593b7f568c3c2877401715990f6105f0abbc3beece6",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P25.png",
+    "bytes": 766350,
+    "sha256": "d9f66fe5c11ad499bdb43c0d9859429d641ae49fd19dd708a656663e0f1dbd53",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P26.png",
+    "bytes": 1152414,
+    "sha256": "942c117ab2da461cb36de56b0f5252b2425d08e6174463c3b6b3b8ae8c3c008a",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P27.png",
+    "bytes": 1171836,
+    "sha256": "9b08ccc7ecaa89d5754a1a27c8836961d52399bd1c965ce9701aa5854fde758d",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P28.png",
+    "bytes": 980127,
+    "sha256": "d6d81cc1f4d0ac810ad5b31671256d70abd9f3f0c4f97a3edc849df2b54d1639",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P29.png",
+    "bytes": 945324,
+    "sha256": "4e67992de1b317558cdb35ea4fe5b9d69c6d2d6001a9dfe0a47a947c59797fb3",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P30.png",
+    "bytes": 1030239,
+    "sha256": "a544babb8fdbb7d8216d81e2fe14bad877784ae445a0b6a239525b26648a01ff",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P31.png",
+    "bytes": 951223,
+    "sha256": "e694c14c45c7a7a80b9f92c2bbc48e634b50f6f8bf148725b28d87ac8a743a4f",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P32.png",
+    "bytes": 987599,
+    "sha256": "141d974963893613672488816e5399d5a122dcd9cece9f3b8b2581e71842b278",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P33.png",
+    "bytes": 911791,
+    "sha256": "3ced81ba424f589b230fc959754224673f1816faec974b836e0426649da76fe3",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P34.png",
+    "bytes": 915313,
+    "sha256": "9c949dacf261ad2f0e05b4a0831ce1a8a033c6c23fe09b5a484cb9fae7bb77a7",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:57+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P35.png",
+    "bytes": 794097,
+    "sha256": "521ea6b961b7f23c1a85e64eb4383bfd56320e05f9eac92f76da0b3d6c4931b2",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:58+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P36.png",
+    "bytes": 804523,
+    "sha256": "9f8240c1dfdb81563e840cfa4a1b1627e2214a7bd8c6c1728a74b8961c29c1dd",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:58+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P37.png",
+    "bytes": 934819,
+    "sha256": "93fa7508e76e684a6f683495c7b117401afd8efa027c078d6c1b026fc2d8d199",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:58+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P38.png",
+    "bytes": 810905,
+    "sha256": "7501fa6a53950601f6d17f355f0586d383ed3b676aa4bdc1349e516e5f1b0491",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:58+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P39.png",
+    "bytes": 862319,
+    "sha256": "95dd373113101c855e86841bdb18e10b28f4312d9bb6618f3a1b38cfebcd1806",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:58+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P40.png",
+    "bytes": 1029369,
+    "sha256": "10f2f4c43591f9bbfbfefbb734fc3b751be7cd7c5d755103e89f19678ee1214b",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P41.png",
+    "bytes": 1173880,
+    "sha256": "246d8bee7a8c7cbe31dd9443e3256ded7d301edf65621b4367e90685944fb9a4",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P42.png",
+    "bytes": 1114006,
+    "sha256": "880bae0be2b340fc4348b54d5ab3f7326e91f22b48de060885585fa365944036",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P43.png",
+    "bytes": 924429,
+    "sha256": "352480d0837e5c5ccc56ed0b583a301987c13d091d24b8387da5642bb3acdaae",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P44.png",
+    "bytes": 866496,
+    "sha256": "102afe06d9d614c29d4687e8c259993f57a40d27e93e8cfc597f00543b1cb852",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P45.png",
+    "bytes": 1014075,
+    "sha256": "a182840ed8ee43e24e546babd881ce0418cc381e0335b8ab1d7397c016cc8174",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P46.png",
+    "bytes": 629435,
+    "sha256": "57d67827c084797059007612509b758dcc31d53b650af8421a07044c259a0423",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:31:59+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P47.png",
+    "bytes": 642176,
+    "sha256": "9a8d7a19b7209c49bad486da013e8afa75e6d88890a8abc5d452fac3516cb7fd",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P48.png",
+    "bytes": 657921,
+    "sha256": "938ccad40b686da433f1bee845bfefca5e7143abe6287f018f4ddc9d1dd2dd0e",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P49.png",
+    "bytes": 665400,
+    "sha256": "39d4f8e77fc8ce5e7259e5260715bab94501a2009c9de85b0c4dba3cc483f31b",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P50.png",
+    "bytes": 669067,
+    "sha256": "b61f6bb338ebb19e00df3f19c8724e672651f3abe51c3014bd452a0979d389e3",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P51.png",
+    "bytes": 908442,
+    "sha256": "7987fc2984243d15aae386b7c9bd2afbce422b2580befc83c59cdbd095cf9fbe",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P52.png",
+    "bytes": 970515,
+    "sha256": "cbb7f3faa3ef38c42a5f9c214e4f5dd2a2e43610ae5f09ff7c362568a9a14d9b",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P53.png",
+    "bytes": 689008,
+    "sha256": "6f5be6658a36acc4d649fcb7343f1a9fa59031c1658bf6e6af364235c5725a61",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:00+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面/P54.png",
+    "bytes": 1229830,
+    "sha256": "f1cd3ddfaa065a58fb0756a31fedd057eb2895ab4ba8ffb3f83b2ed05a3d4c9a",
+    "extension": ".png",
+    "filesystem_modified_at": "2026-11-26T19:32:01+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/PPT页面索引.json",
+    "bytes": 59705,
+    "sha256": "c4a7bbe85bdcc159e76517239093b42be5d88a2fa50e8a4fa73238d6c283bf02",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/原件清单.json",
+    "bytes": 18235,
+    "sha256": "0fd3077acebd5de30cc1f228dd2d48f8c43fff9904356a1c1ad0c36fd650881d",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:31:32+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/新增素材预览.html",
+    "bytes": 97994,
+    "sha256": "eac9f46317acc7093df0f10da71b5a4c9291067b57b6cb630164922e945c6876",
+    "extension": ".html",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/粉之密PPT逐页原文.txt",
+    "bytes": 16136,
+    "sha256": "3357e4c5d326179b3347084f164aea50b9cd9a702f8295fd68233baa4986e72f",
+    "extension": ".txt",
+    "filesystem_modified_at": "2026-11-26T19:31:34+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/素材目录.csv",
+    "bytes": 89349,
+    "sha256": "a2bcee2b54f11d6f8a91160b3894cb9f4ac39a251921c81ed3b4c484a61c2207",
+    "extension": ".csv",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/素材目录.json",
+    "bytes": 167457,
+    "sha256": "350ea63be01a688cfd159605a1f21026ecb5d13849968eacfc86eb0c9d7bdb03",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/素材索引.md",
+    "bytes": 12357,
+    "sha256": "727ca3a236242ff30786fa777a72291a825e315662d7759a94653f8732c22546",
+    "extension": ".md",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/组合与分片关系.json",
+    "bytes": 2897,
+    "sha256": "ebd4655909e4bdae133480c8cecc9b04c20e9165688830ad10acc46462bcd4c6",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
+  },
+  {
+    "path": "素材库/新增20261125/重复核对.json",
+    "bytes": 172,
+    "sha256": "6a5986dafad0f0675ec98fb19e890e2f0bdfde60b0dde6db784e0fcf73d9f4b9",
+    "extension": ".json",
+    "filesystem_modified_at": "2026-11-26T19:38:56+08:00"
   },
   {
     "path": "素材库/素材目录.csv",

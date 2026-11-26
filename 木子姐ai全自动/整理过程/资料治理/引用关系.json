@@ -115,6 +115,31 @@
     "kind": "Markdown链接"
   },
   {
+    "source": "README.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "README.md",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "README.md",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "README.md",
+    "target": "知识库/20261125待确认问题.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "README.md",
+    "target": "知识库/整理记录-2026-11-26.md",
+    "kind": "Markdown链接"
+  },
+  {
     "source": "官网资料/2026-11-24/官网资料预览.html",
     "target": "知识库/官网/产品索引.md",
     "kind": "HTML href"
@@ -8275,6 +8300,201 @@
     "kind": "脚本文字路径（静态）"
   },
   {
+    "source": "整理过程/新增20261125/导入批次.py",
+    "target": "整理过程/新增20261125/导入前基线.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/原件清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/PPT逐页文字.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/PPT嵌入素材清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/素材目录.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/PPT页面索引.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/素材目录.csv",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/组合与分片关系.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "整理过程/新增20261125/导入前基线.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/重复核对.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "整理过程/新增20261125/../../知识库/20261125新增资料.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/建立批次索引.py",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "整理过程/新增20261125/入口变更清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "README.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "知识库/README.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "素材库/README.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "知识库/待确认问题清单.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "整理过程/新增20261125/导入前基线.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "整理过程/资料治理/维护索引.py",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/更新入口.py",
+    "target": "知识库/20261125新增资料.txt",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/新增20261125/原件清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/新增20261125/PPT嵌入素材清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/新增20261125/素材目录.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "知识库/20261125待确认问题.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "知识库/整理记录-2026-11-26.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/新增20261125/检索逻辑验证.cjs",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/新增20261125/导入前基线.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/新增20261125/入口变更清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/资料治理/索引输出哈希.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/资料治理/校验结果.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "素材库/全项目素材清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/新增20261125/核验批次.py",
+    "target": "整理过程/新增20261125/校验结果.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
     "source": "整理过程/校验检索.cjs",
     "target": "整理校验.json",
     "kind": "脚本文字路径（静态）"
@@ -8427,6 +8647,16 @@
   {
     "source": "整理过程/资料治理/修复询价展示.py",
     "target": "整理过程/资料治理/询价修复清单.json",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/资料治理/导出掌握报告TXT.py",
+    "target": "知识库/知识与素材掌握情况报告-2026-11-24.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/资料治理/导出掌握报告TXT.py",
+    "target": "知识库/官网/产品目录.json",
     "kind": "脚本文字路径（静态）"
   },
   {
@@ -8611,6 +8841,16 @@
   },
   {
     "source": "整理过程/资料治理/维护索引.py",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/资料治理/维护索引.py",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "整理过程/资料治理/维护索引.py",
     "target": "整理过程/资料治理/询价修复验证.json",
     "kind": "脚本文字路径（静态）"
   },
@@ -8623,6 +8863,61 @@
     "source": "整理过程/资料治理/补充报告产品附录.py",
     "target": "知识库/官网/产品目录.json",
     "kind": "脚本文字路径（静态）"
+  },
+  {
+    "source": "知识库/20261125待确认问题.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125待确认问题.md",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125待确认问题.md",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125待确认问题.md",
+    "target": "知识库/官网/产品索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "素材库/新增20261125/原件清单.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "知识库/20261125待确认问题.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "知识库/整理记录-2026-11-26.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/20261125新增资料.md",
+    "target": "整理过程/新增20261125/校验结果.json",
+    "kind": "Markdown链接"
   },
   {
     "source": "知识库/PDF阅读摘要.md",
@@ -8732,6 +9027,31 @@
   {
     "source": "知识库/README.md",
     "target": "整理过程/资料治理/校验结果.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/README.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/README.md",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/README.md",
+    "target": "知识库/20261125待确认问题.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/README.md",
+    "target": "知识库/整理记录-2026-11-26.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/README.md",
+    "target": "知识库/20261125新增资料.txt",
     "kind": "Markdown链接"
   },
   {
@@ -9445,6 +9765,11 @@
     "kind": "Markdown链接"
   },
   {
+    "source": "知识库/待确认问题清单.md",
+    "target": "知识库/20261125待确认问题.md",
+    "kind": "Markdown链接"
+  },
+  {
     "source": "知识库/整理记录-2026-11-24.md",
     "target": "整理过程/资料治理/询价修复清单.json",
     "kind": "Markdown链接"
@@ -9487,6 +9812,31 @@
   {
     "source": "知识库/整理记录-2026-11-24.md",
     "target": "知识库/待确认问题清单.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/整理记录-2026-11-26.md",
+    "target": "整理过程/新增20261125/入口变更清单.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/整理记录-2026-11-26.md",
+    "target": "整理过程/新增20261125/校验结果.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/整理记录-2026-11-26.md",
+    "target": "整理过程/资料治理/校验结果.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/整理记录-2026-11-26.md",
+    "target": "整理过程/新增20261125/核验批次.py",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/整理记录-2026-11-26.md",
+    "target": "知识库/20261125待确认问题.md",
     "kind": "Markdown链接"
   },
   {
@@ -9790,6 +10140,296 @@
     "kind": "Markdown链接"
   },
   {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "原始资料/2026-11-25新增/粉之密PPT29.pptx",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/粉之密PPT逐页原文.txt",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P01.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P02.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P03.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P04.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P05.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P06.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P07.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P08.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P09.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P10.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P11.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P12.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P13.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P14.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P15.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P16.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P17.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P18.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P19.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P20.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P21.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P22.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P23.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P24.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P25.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P26.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P27.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P28.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P29.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P30.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P31.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P32.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P33.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P34.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P35.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P36.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P37.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P38.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P39.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P40.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P41.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P42.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P43.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P44.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P45.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P46.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P47.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P48.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P49.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P50.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P51.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P52.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P53.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "知识库/粉之密产品与培训索引.md",
+    "target": "素材库/新增20261125/PPT页面/P54.png",
+    "kind": "Markdown链接"
+  },
+  {
     "source": "知识库/继续核验报告-2026-11-24.md",
     "target": "知识库/资料确认记录.md",
     "kind": "Markdown链接"
@@ -9910,6 +10550,31 @@
     "kind": "Markdown链接"
   },
   {
+    "source": "素材库/README.md",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/README.md",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/README.md",
+    "target": "素材库/新增20261125/素材目录.csv",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/README.md",
+    "target": "素材库/新增20261125/素材目录.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/README.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
     "source": "素材库/官网素材入口.md",
     "target": "官网资料/2026-11-24/官网资料预览.html",
     "kind": "Markdown链接"
@@ -9932,6 +10597,1186 @@
   {
     "source": "素材库/官网素材入口.md",
     "target": "官网资料/2026-11-24/采集报告.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/素材索引.md",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/素材目录.csv",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/粉之密PPT逐页原文.txt",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215646_111_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215646_111_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215647_112_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215647_112_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215649_113_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215649_113_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215650_114_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215650_114_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_115_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_115_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_116_170.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_116_170.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 1.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 1.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 2.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 2.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 3.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 3.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/01.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/01.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/02.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/02.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/03.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/03.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/04.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/04.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/06.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/06.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页-Hair Vitality Serum.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页-Hair Vitality Serum.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 1.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 1.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 2.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 2.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 3.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 3.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/01.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/01.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/02.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/02.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/03.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/03.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/04.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/04.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/06.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/06.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页-Hair Vitality Shampoo.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页-Hair Vitality Shampoo.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 1.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 1.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 2.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 2.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 3.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 3.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/01.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/01.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/02.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/02.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/03.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/03.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/04.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/04.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/05.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/05.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/06.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/06.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/08.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/08.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页-洗护组合.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页-洗护组合.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P01.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P01.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P02.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P02.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P03.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P03.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P04.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P04.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P05.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P05.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P06.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P06.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P07.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P07.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P08.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P08.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P09.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P09.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P10.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P10.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P11.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P11.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P12.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P12.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P13.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P13.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P14.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P14.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P15.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P15.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P16.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P16.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P17.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P17.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P18.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P18.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P19.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P19.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P20.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P20.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P21.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P21.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P22.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P22.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P23.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P23.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P24.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P24.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P25.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P25.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P26.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P26.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P46.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P46.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P47.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P47.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P48.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P48.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P49.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P49.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P50.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P50.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P51.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P51.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/05.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/05.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/05.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/05.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/07.jpg",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/07.jpg",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "原始资料/2026-11-25新增/粉之密PPT29.pptx",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P27.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P27.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P28.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P28.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P29.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P29.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P30.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P30.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P31.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P31.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P32.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P32.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P33.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P33.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P34.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P34.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P35.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P35.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P36.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P36.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P37.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P37.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P38.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P38.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P39.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P39.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P40.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P40.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P41.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P41.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P42.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P42.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P43.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P43.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P44.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P44.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P45.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P45.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P52.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P52.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P53.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P53.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P54.png",
+    "kind": "HTML href"
+  },
+  {
+    "source": "素材库/新增20261125/新增素材预览.html",
+    "target": "素材库/新增20261125/PPT页面/P54.png",
+    "kind": "HTML src"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/新增素材预览.html",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/素材目录.csv",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/素材目录.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "知识库/20261125新增资料.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/粉之密PPT逐页原文.txt",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215646_111_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215647_112_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215649_113_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215650_114_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_115_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_116_170.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 1.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 2.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 3.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/01.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/02.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/03.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/04.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/05.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/06.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页-Hair Vitality Serum.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 1.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 2.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 3.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/01.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/02.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/03.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/04.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/05.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/06.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页-Hair Vitality Shampoo.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 1.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 2.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 3.png",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/01.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/02.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/03.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/04.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/05.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/06.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/07.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/08.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页-洗护组合.jpg",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "原始资料/2026-11-25新增/粉之密PPT29.pptx",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "知识库/粉之密产品与培训索引.md",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/组合与分片关系.json",
+    "kind": "Markdown链接"
+  },
+  {
+    "source": "素材库/新增20261125/素材索引.md",
+    "target": "素材库/新增20261125/重复核对.json",
     "kind": "Markdown链接"
   },
   {
@@ -21303,5 +23148,775 @@
     "source": "知识库/官网/产品目录.json",
     "target": "知识库/官网/产品/whitening-cream-no-4.md",
     "kind": "JSON字段 knowledge_path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215646_111_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215647_112_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215649_113_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215650_114_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_115_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/微信图片_20261124215651_116_170.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 1.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 2.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/主图 3.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/01.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/02.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/03.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/04.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/05.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页/06.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Serum/详情页-Hair Vitality Serum.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 1.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 2.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/主图 3.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/01.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/02.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/03.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/04.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/05.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页/06.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/Hair Vitality Shampoo/详情页-Hair Vitality Shampoo.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 1.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 2.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/主图 3.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/01.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/02.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/03.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/04.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/05.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/06.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/07.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页/08.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/洗护详情页/洗护组合/详情页-洗护组合.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "原始资料/2026-11-25新增/粉之密PPT29.pptx",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P01.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P02.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P03.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P04.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P05.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P06.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P07.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P08.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P09.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P10.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P11.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P12.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P13.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P14.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P15.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P16.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P17.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P18.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P19.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P20.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P21.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P22.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P23.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P24.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P25.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P26.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P27.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P28.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P29.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P30.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P31.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P32.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P33.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P34.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P35.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P36.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P37.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P38.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P39.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P40.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P41.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P42.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P43.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P44.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P45.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P46.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P47.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P48.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P49.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P50.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P51.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P52.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P53.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT页面/P54.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image50.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image51.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image58.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image57.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image53.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image59.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image56.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image60.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image55.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image54.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image61.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image52.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image37.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image48.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image15.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image14.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image13.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image12.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image16.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image17.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image18.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image19.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image20.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image11.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image10.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image9.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image2.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image1.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image3.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image4.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image5.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image6.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image7.jpg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image8.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image21.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image22.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image23.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image41.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image40.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image39.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image38.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image42.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image43.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image44.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image45.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image46.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image47.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image36.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image35.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image34.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image27.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image26.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image25.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image24.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image49.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image28.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image30.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image33.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image32.png",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image31.jpeg",
+    "kind": "JSON字段 path"
+  },
+  {
+    "source": "素材库/新增20261125/素材目录.json",
+    "target": "素材库/新增20261125/PPT嵌入素材/image29.jpeg",
+    "kind": "JSON字段 path"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "review_date": "2026-11-24",
+  "review_date": "2026-11-26",
   "file_integrity": [
     {
       "source": "chat",
@@ -19,7 +19,7 @@
       "allowed": true,
       "matches_planned_digest": true,
       "before_sha256": "325f2bb55205d57132324da55b35c5b87f2c1bb158e77e007387b2873cb43948",
-      "after_sha256": "35d19db59c8f95b29c8844ad969a507abf0edc4b8779f7d75fbadb8355f4e85d"
+      "after_sha256": "79711a32d5ab95a78428e27e06bf09d5456a114353fa7a9b14741c82e4b8aa43"
     },
     {
       "path": "官网资料/2026-11-24/官网资料预览.html",
@@ -374,7 +374,7 @@
   ],
   "unplanned_changes": [],
   "broken_generated_local_refs": [],
-  "static_reference_edges": 4261,
+  "static_reference_edges": 4784,
   "decode_errors": [],
   "runtime_validation": "本轮未运行历史联网采集/批量重建；历史浏览器验收仅作历史证据，不冒充本轮验收",
   "scope": "静态文档/HTML/已登记JSON路径和脚本文字路径；未运行远端网络、动态脚本调用及全部UI流程",

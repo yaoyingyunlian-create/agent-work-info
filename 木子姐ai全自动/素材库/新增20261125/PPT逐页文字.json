@@ -1,0 +1,1396 @@
+[
+  {
+    "page": 1,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image2.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "text": "LA LEINE 粉之密 品牌創始人\nKOHL 品牌創始人\n慕思睫品牌創始人\n新加坡美睫協會創始人\nAPRETTI 國際美學創始人\n超會染品牌連鎖經營投資人\n新加坡BPC國際大賽創辦人\nINCA 八國聯盟大賽新加坡創辦人\n李暖心/MUZI ",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image3.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "text": "公司简介：\n　　\nA’PRETTI 國際美學 注冊於2013年新加坡，是一家以培訓教育產品結合的公司。\n旗下 LA REINE 為新加坡注冊品牌，擁有多重檢定，新加坡HAS，國際SGS檢測，妝字號備案，资质齐全的國際品牌。\n　　\n“LA LEINE粉之密”女性品牌集产品、技术、加盟、代理、服务于一体，给予女性前所未有女性焦点粉嫩体验。粉之密-是LA REINE旗下粉嫩私密护肤品牌，专为肌肤改善色素问题，為女性打造的粉嫩乳晕、私密、粉唇，祛黑的美丽密籍。产品及技术上有着先天的优势，以独家粉嫩术帮助女性解决肌膚色素问题，提升自信和魅力,使夫妻感情融洽和谐\n。\n　　\n秉承【传递健康文化、呵护私处健康】的品牌核心宗旨，“LA LEINE粉之密” 始终以科学、严谨、专业的态度进行女性焦点粉嫩及抗衰服务。随着品牌不断的发展及经营，“粉之密”不断适应着市场的变化而变化。\n　　\n我们开启了品牌加盟、及产品代理服务,“LA LEINE粉之密”已经与各各美容院加盟商一起，将产品销往全球各地。我们将与东方女性一起，在追寻女性私处粉嫩的道路上不断前行，引领为当代女性由内而外、更细腻的去爱自己。“LA LEINE粉之密”将以完美的品牌姿态、带领女性客户找寻最佳自我。\n　　\n帮助每一个喜欢“LA LEINE 粉之密”产品、信赖我们的客户，由消费者变成品牌主理人。与“粉之初”一起携手，共创美好未来。",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag2.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image5.png"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "text": "粉之密产品：",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image6.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image7.jpg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image9.jpg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image10.jpg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image12.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image11.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image13.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image15.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image14.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image16.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image10.jpg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image17.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image18.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "text": "门店如何选择一个好项目\n的八大標\n準\n1\n.\n安\n全可\n靠\n2.\n高\n效快\n速 \n \n效果好\n3.\n能賺大钱 \n4.\n项\n目简单 市场\n大\n5.\n技\n术易复\n制\n6.\n低\n成本 合作项目投资\n低\n7.\n高\n利润 复购率\n高\n8.\n新\n项\n目  新\n市\n场  新\n奇特",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "text": "黑色素沉淀带来的困扰\n1.\n遗传因素\n天生体内黑色素较多\n2.\n生理因素\n女孩子进入青春期后，随着雌激素分泌增多，乳晕的颜色会慢慢变深，没有那么粉嫩\n这是正常的生理现象，是成长发育的痕迹。\n进入更年期后，女性体内雌激素水平逐渐下降，这些色素沉着会慢慢分解，乳晕也会慢慢变浅。怀孕后体内激素变化，也会加重乳晕的色素沉着。\n3.\n后天因素",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag3.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image19.png"
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "text": "痛点与好处\n \n痛点\n \n \n好处\n \n好处\n \n痛点\n \n \n痛点\n \n \n好处\n性生活和谐\n乳晕少女般粉嫩\n让乳房更健康\n降低男人的性欲\n黑色素堆积影响健康\n黑葡萄、黑木耳不自信",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "text": "市面各类产品\n激光\n纹绣\n打针\n仿品\n嫩红素\n1.\n激光：激光要破皮\n，非常疼痛\n2.\n纹绣：颜色不均匀、疤痕增生\n3.\n打针：价格贵、身体许多组织被破坏\n4.\n仿品：质量差 乳腺增生\n5.\n嫩红素：类似涂口红一样，抹了2小时就没有了\n大多数女人只要有了性生活，还有生了孩子之后\n因为身体激素的原因导致我们的乳晕、私密、腋下、\n腹股沟、大腿根部内侧、膝盖周围慢慢变黑，影响\n美观，影响性生活，使女性失去自信，许多的女性\n对美的要求也越来越高，希望能找到一款能帮她们\n解决粉嫩、祛黑色素问题的方法，从最初的激光方\n式到纹绣方式到私密打粉红针。",
+    "relationships": [
+      {
+        "Id": "rId8",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag11.xml"
+      },
+      {
+        "Id": "rId13",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId18",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image23.jpeg"
+      },
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag6.xml"
+      },
+      {
+        "Id": "rId7",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag10.xml"
+      },
+      {
+        "Id": "rId12",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag15.xml"
+      },
+      {
+        "Id": "rId17",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image22.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag5.xml"
+      },
+      {
+        "Id": "rId16",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image21.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag4.xml"
+      },
+      {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag9.xml"
+      },
+      {
+        "Id": "rId11",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag14.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag8.xml"
+      },
+      {
+        "Id": "rId15",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image20.jpeg"
+      },
+      {
+        "Id": "rId10",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag13.xml"
+      },
+      {
+        "Id": "rId19",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image24.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag7.xml"
+      },
+      {
+        "Id": "rId9",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag12.xml"
+      },
+      {
+        "Id": "rId14",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "text": "常见方式\n疼痛感\n激素成份\n嫩红素\n宝宝粉嫩\n安全\n持续时间\n同类产品\n  \n价格\n激光\n   \n有\n  \n无\n   \n无\n \n达不到\n中等\n  \n无效\n  \n很多\n  2\n万\n纹绣\n   \n有\n  \n有\n   \n无\n达不到\n中等\n  1\n年\n  \n很多\n  1\n万\n打针\n   \n有\n  \n无\n   \n无\n达不到\n高等\n  \n三个月\n   \n多\n  2\n万\n嫩红素\n   \n无\n  \n有\n   \n有\n达不到\n低等\n  2\n小时\n   \n多 \n1000\n右\n粉嫩大师\n   \n无\n  \n无\n   \n无\n  \n可以\n安全\n  2-3\n年\n  \n没有\n8800\n元\n市面各类产品\nPK",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag16.xml"
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "text": "粉嫩焕颜精华套盒\n（多功能套 粉嫩+身体局部美白）\n•纳米透皮无创技术  \n•深入细胞内壁，分解黑色素细胞\n•代谢深层浅层、表皮层黑色素 \n主要成分\n功\n        \n效",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image25.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image26.png"
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "text": "平衡霜\n1\n号",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image27.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "text": "平衡霜2号",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image28.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "text": "平衡霜3号",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image29.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "text": "美白霜4号",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image30.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image31.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "text": "粉之密光波仪\n功能：\n德国进口定制仪器芯片通过与光波的结合，深层渗透至真皮层下达到分解黑色素，分别由淋巴液和表面鳞状角质细胞代谢从而达到粉嫩效果。\n利用光补色原理，促进细胞线粒体和分子级别的修复，降低炎症以及过敏反应，\n促进间脂质细胞的再生，加速细胞的分裂，增加皮肤的弹性。\n· 红光——通过光热作用，让胶原蛋白和真皮乳头层受热，加速血液循环给皮肤输送营养\n· 绿光——光热作用在穿透表皮层的时候，一部分被黑色素基团吸收，破坏了黑色素的“活性”它吸收这个热能，瞬间预热膨胀，粉碎成纳米粉末，\n· 蓝光——光热效应可以很好的杀灭深层的病菌，抑制皮脂腺分泌，抑制炎症（皮肤炎症反应眼观先红，先红再黑）",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag17.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image32.png"
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "text": "国外进口原材料，纯天然植物精华萃取\n，\n零副作用\n全新技术，国内首创乳晕、私密及其他部位粉嫩术，深入细胞内壁，\n溶解排出黑色素，阻断黑色素沉积到表皮层\n1、非针剂、非激光\n2、非纹绣、不动刀不破皮\n3、不反弹、无伤害\n4、无痛、一次成型\n粉之密\n黑科技粉嫩技术\n：",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image33.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "text": "身体多部位能使用",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image34.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag18.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "text": "1.时间短\n（操作全程半小时）\n2.无痛苦\n（零恢复期，不影响正常生活）\n3.粉嫩\n+\n滋润二合一\n（高效同步让年轻不是梦）\n4.安全高效\n（冰活体，零化学添加零排异\n，\n7-15\n天\n自\n然粉嫩））",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag19.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "text": "“\n分解\n”\n:\n加\n速代谢\n,\n让已经存在的多余黑色素尽快代谢掉或者被排出体外。\n“\n阻斷”\n：\n防\n止内源性和外源性的刺激，减少色素形成原料，阻断色素形成\n路径，降低黑色素细胞产生黑素的能力。\n“\n修復”：\n重建皮肤屏障功能和皮脂膜，恢复皮肤结构与健康状态，增加抵\n御外界侵扰和抗过敏的能力。\n                                粉\n嫩技術原理",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag22.xml"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag21.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag20.xml"
+      },
+      {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image36.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "text": "案例展示：",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image37.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image38.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image39.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image40.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image41.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+        "Target": "../notesSlides/notesSlide1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image42.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image43.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image44.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image45.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image47.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image46.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "text": "一\n. \n沟通\n安全\n·\n效果\n·\n价格\n·\n保持时间\n二\n.\n拍照\n正面\n·\n侧面\n·\n坐着的\n·\n躺着的，拍完标注时间日期姓名，让老板娘直接发给顾客\n避免顾客没有比对图片，一天天的转\n变\n就會\n看到效果對比\n三\n.\n准备工作\n生理盐水、棉签、一次性床单、纱布、一次性口罩、一次性手套、粉之密套盒、粉之密光波仪\n、\n少女粉唇术操作流程步骤",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag23.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "text": "1\n、碘伏消毒嘴唇及唇周\n2\n、生理盐水脱\n碘，清洗乾净碘伏\n3\n、棉片隔离口\n腔\n4\n、\n照红灯3分钟\n5\n、经典套3.4号液体配比2:5\n6\n、棉签沾取调配好\n的精\n华液 伸进去两秒出来（不滴水 瓶口压干）\n7\n、一根棉签刷半张唇 刷干为止\n，\n上\n下唇，分開做\n8\n、\n照绿光3分钟\n9\n、涂5/6号修复，\n照蓝光3分钟\n10\n、脱膜期间用保湿效果高的润唇膏或凡士林\n11\n、脱膜后白天用粉唇霜(薄涂1天3次)，晚上使用润唇膏或凡士林\n粉之初·粉唇术",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag24.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image48.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "text": "操作后护理及\n禁忌事项\n唇部操作完注意事项：\n1.\n一周内不要擦唇膏口红，不要亲吻\n2.\n不要吃辣椒 ，辛辣刺激性食物海鲜不要吃 \n3.\n脱膜过程中，自然脱落，不可强行剥落，如果嘴巴干的话，可以用棉片湿敷一下。\n4.\n一周过后擦蛋白霜，每次擦之前嘴巴一定要清理干\n净，不\n要涂口红唇\n膏，\n1\n號蛋\n白霜轻轻擦拭均匀即可。",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag26.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag25.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 39,
+    "text": "①\n孕期 \n/ \n②\n哺乳期\n \n/ \n③\n癌症\n \n/ \n④\n白癜风\n \n——\n不操作\n纹唇\n/\n切割唇\n/\n打针唇\n——\n三个月以后做\n哪些人群不能操作粉唇",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag28.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag27.xml"
+      },
+      {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image49.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 40,
+    "text": "产品调配: 3号和4号调配比例是4:5 ，3号4滴，4号5滴\nSTEP1\n：\n碘伏消\n毒操作部位，生\n理盐水脱碘，清洗乾净碘\n伏，\n照紅燈\n3\n分鐘\nSTEP2\n：\n用调\n配好\n的产\n品,棉签蘸取产品，只要沾一下就可以了\nSTEP3：\n操作的手法就是蘸了产品的棉签来回擦,直到这个棉签擦干为止,来回来回擦10分\n钟\n, \n照\n綠\n燈\n3\n分\n鐘\nSTEP4\n：\n剩下的产品在操作部位拍湿,再盖上保鲜膜等\n待\n5-10\n分鐘，那\n么湿敷完之后再蘸取一下产品,按照我们第二步的操作手法继续在操作部位用棉签操作，等干掉就可以暂停了每个地方都要擦\n到。\nSTEP5：\n操作完技\n术\n用\n5\n号跟6号修复（涂厚点）5号上\n完 用\n6\n号，\n照藍燈\n3\n分鐘\nSTEP6\n：\n我\n们再喷上粉之密蜜桃喷雾(多喷一点)双重修复，修复功效功效会更强,给他吸收干掉就好了\n身体局部美白耗材准备:\n粉之密经典套盒(3号、4号、5号、6号)\n \n粉之密\n蜜桃喷雾(修复消炎止痒的功效)、\n手套、棉签、保鲜膜",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image50.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag29.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 41,
+    "text": "STEP1\n：碘伏消毒乳\n头跟乳\n晕\n \n，\n消毒消完之后我们用生理盐水\n给脱碘完\n之后用干的纱\n布液\n体吸干，然后再开始操\n作\nSTEP2\n：\n用\n套盒的1号清洁液\n把乳\n晕跟乳头每一个地方\n都清洁，再用\n2号隔离把我们的整个乳晕跟正常\n的皮\n肤给它隔离开\n，操\n作的时候就不\n会外\n边缘去，（注意:2号隔离是直接乳晕外边缘往外去涂，把这一圈\n给它保\n护起来\n，\n紅光\n3\n分鐘\n。\nSTEP\n3\n：\n产品调配·3号和4号按照4:1比例调\n配，用\n棉签蘸取调\n配好的\n产品从一个乳晕的边缘往乳头的方向去操作，整个面都要涂均匀薄薄的一层，不需要太多的液体。涂完之后，\n照绿\n光3\n分钟\n，如果没有出现发白皮\n皱，\n在操作第二遍一样\n照3\n分钟，如有以上此现象停止操作，直接涂56号修复\nSTPE\n4\n：\n操作均匀发白之后直接用到5号跟6号修复，5号涂完直接涂6号，不需要时间间隔，\n照蓝光3分钟\n，停留10分钟，之后\n给清\n洁一下穿上内衣就OK了\n粉之密经典套盒、生理盐水、碘伏、纱布、棉签、医用手\n套，一次性托盤，無毛棉花\n粉之\n密\n-\n乳暈操\n作准备:",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image51.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag30.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 42,
+    "text": "第一步：\n准备一个一次性容器:-次性注射器取生理盐水放入一次性容器\n，5\n與\n6\n号各3滴加入一次性容器和生理盐水调配，放纱布(3-4片)\n第二步：\n顾客进行修私处毛发\n（\n剪\n短毛髮留\n0.5-1cm\n）\n熱敷\n5\n分鐘\n第三步：\n碘伏消毒，生理盐水脱碘，擦拭干净\n第四步：\n碘伏消毒部位\n照红光3分\n钟\n \n第五步：\n3\n，\n4\n号液体配比 \n4:1\n，\n棉\n签沾\n取液\n体，2秒速度取液，涂抹在外阴和小阴唇边缘(注:阴蒂不做液均匀平刷）\n绿光照3分钟\n，没出现发白皮皱刺痛现象，重复第二次操作技术。出现发白皮皱刺痛停止操作\n第六步：\n纱布湿敷用\n蓝光照3分钟\n(继续停留15-20分钟\n）\n可以\n使用蜜桃噴霧，\n操\n作\n后\n建\n議\n3-7\n天后才\n性\n生活\n经典\n套私密操作\n你需要知道的流程和注意事项",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image52.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag31.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "text": "做完乳晕粉嫩四个小时可以碰水，但是前三天不要用沐浴露\n没有脱膜之前不要揉搓和亲吻乳头\n私密六个小时不要碰水，三天不要用沐浴露\n七天不过性生活\n私密做完每天\n用\n蜜\n桃噴霧，\n早晚喷，喷完干了再穿内裤，内裤不可穿丁字裤，紧身裤，保护好膜不可用手撕\n一个星期饮食以清淡为主（忌辛辣、酒）\n粉嫩操作后注意事项",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image53.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag32.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "text": "私密：\n坚持一个月每天用百多邦喷，等干了再用霜，用棉签沾绿豆大小涂薄薄一层，等待吸收完穿内裤\n以上方法每天早中晚使用（如果效果出来改早晚使用）\n第二个月每天涂一次\n第三个月两天涂一次\n进入保养期之后定期保养，一周两到三次即可\n乳晕：\n完全脱膜后用平衡霜，用棉签沾米粒大小薄薄涂一层，每天早中晚使用\n以上方法每天早中晚使用（如果效果出来改早晚使用）\n第二个月每天涂一次\n第三个月两天涂一次\n进入保养期之后定期保养，一周两到三次即可\n平衡霜的用法",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag34.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag33.xml"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 45,
+    "text": "STEP1\n：\n技术操作后当天四个小时后即可洗澡前3天不可使用沐浴露)\nSTEP2\n：若第三天颜色会变深一些属于正常现象(深层色素排出体外 此时会有一层薄薄的透明薄膜状)一定不要去抠它，让它正常形成。\nSTEP3\n：第5~10天薄痴脱落期(自然脱落)后开始涂平衡精华\nSTEP4\n：\n平衡第一瓶要求(一天2-3次，浅色2次深色3次)用棉签沾取均匀薄薄涂抹乳晕部位(第二、第三个月\n一\n天一次 )\nSTEP5\n：\n三个月后达到最佳粉嫩状态后改为一星期使用3次，可以起到保养作用和代谢身体分泌黑色素(身体会一直不断形成和产生黑色素)\nSTEP6：\n在薄痴未脱落期间忌亲吻动作，避免导致痂皮提前脱落，这期间有可能会出现轻微皮肤疼痛现象也属于正常情况(每人敏感度不同)新肌肤新生比较矫嫩!\n粉之密操作后注意事项\n特别注意:涂抹平衡霜时不要用手也无需按摩\n, \n这样用量大还影响效果。",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image54.jpeg"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/tags",
+        "Target": "../tags/tag35.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 46,
+    "text": "         \n加\n盟\n方案\n原價格   \n$1500 \n ",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 47,
+    "text": "         \n加\n盟\n方案\n原價格   \n$1500 \n1\n台 機器 \n+ 5\n套產品\n ",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "text": "         \n加\n盟\n方案\n原價格   \n$1500 \n1\n台 機器 \n+ 5\n套產品\n \n今天特別活動 \n$ \n1268\n ",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 49,
+    "text": "         \n加\n盟\n方案\n原價格   \n$1500 \n1\n台 機器 \n+ 5\n套產品\n今\n天特別活動 \n$ \n1268\n送\n打版服務",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 50,
+    "text": "         \n加\n盟\n方案\n原價格   \n$1500 \n1\n台 機器 \n+ 5\n套產品\n今\n天特別活動 \n$ \n1268\n送\n打版服務\n送門票",
+    "relationships": [
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      }
+    ]
+  },
+  {
+    "page": 51,
+    "text": "THANK YOU\n感谢观看 下次再见",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image56.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image55.png"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image35.png"
+      }
+    ]
+  },
+  {
+    "page": 52,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image57.jpg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image58.jpeg"
+      },
+      {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image46.jpeg"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      }
+    ]
+  },
+  {
+    "page": 53,
+    "text": "",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image8.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image59.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout2.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image60.jpeg"
+      }
+    ]
+  },
+  {
+    "page": 54,
+    "text": "案例展示：",
+    "relationships": [
+      {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image61.png"
+      },
+      {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image4.jpeg"
+      },
+      {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+        "Target": "../slideLayouts/slideLayout1.xml"
+      },
+      {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+        "Target": "../media/image1.png"
+      }
+    ]
+  }
+]

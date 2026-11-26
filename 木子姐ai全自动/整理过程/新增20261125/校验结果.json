@@ -1,0 +1,125 @@
+{
+  "checked_at": "2026-11-26 Asia/Shanghai",
+  "originals": 39,
+  "desktop_and_project_hash_checks": 78,
+  "ppt_slides": 54,
+  "rendered_pages": 54,
+  "embedded_members": 61,
+  "catalog_records": 154,
+  "decoded_images": 153,
+  "local_reference_checks": 404,
+  "search_logic": "4 search scenarios passed",
+  "original_vs_old_exact_duplicates": 0,
+  "old_missing": [],
+  "old_changed": [
+    {
+      "path": "README.md",
+      "expected": true,
+      "before_sha256": "35d19db59c8f95b29c8844ad969a507abf0edc4b8779f7d75fbadb8355f4e85d",
+      "after_sha256": "79711a32d5ab95a78428e27e06bf09d5456a114353fa7a9b14741c82e4b8aa43"
+    },
+    {
+      "path": "整理过程/资料治理/全项目文件清单.json",
+      "expected": true,
+      "before_sha256": "dbfcfae03f078311b52e126cf7badd1f7c9bda71c6e10abbb55d4741f69ed175",
+      "after_sha256": "fc60acce06d382bd8d882c4198d8588c56dc46acf787332fd22e8713ec82bb27"
+    },
+    {
+      "path": "整理过程/资料治理/引用关系.json",
+      "expected": true,
+      "before_sha256": "e12284733fd3c58f99d4af8b7d2146d190e51c6f1395a0d846527f5c39233acb",
+      "after_sha256": "728d90f86c7541ad766a71fad14b8e620bce631d22c5708f1fefbd48e2ecbaca"
+    },
+    {
+      "path": "整理过程/资料治理/校验结果.json",
+      "expected": true,
+      "before_sha256": "e98e15c49b92cbdd04446ac474233d91f4db0a9fc534f24991ec81577181c187",
+      "after_sha256": "40add0d92d2be9f8aee29b55b2e8bf33656cdf4ed9568058adce788af67381ad"
+    },
+    {
+      "path": "整理过程/资料治理/盘点结果.json",
+      "expected": true,
+      "before_sha256": "0107d60170ef93e8bf610ee33cefb18dc4130492c9edd94d77e469f7c37fca78",
+      "after_sha256": "650dea223d05b8e24f7e01f816ae349cd08eddb0768bf95270ecb35cb309c857"
+    },
+    {
+      "path": "整理过程/资料治理/索引输出哈希.json",
+      "expected": true,
+      "before_sha256": "172385805a2a26b3d5a802df20c25afe018c9239c06a1a0b837f13dc132f0e24",
+      "after_sha256": "290a011c872f2c964be4e66b67ce0c83bd3e3e1c09faeeb15eb77fbfbedcb4fd"
+    },
+    {
+      "path": "整理过程/资料治理/维护索引.py",
+      "expected": true,
+      "before_sha256": "de4e5263da0f9b29afa545e704bff4d0bc8149262ac7aac49f1ba51434566ed2",
+      "after_sha256": "422f317158c3b71701eb5b28e51780dc8b18aa438b4ae06b2730e085584ad637"
+    },
+    {
+      "path": "知识库/README.md",
+      "expected": true,
+      "before_sha256": "b1fda4115d19f4ac1e582e435cae5eb685fb3e685e34dba600598c398cd62f87",
+      "after_sha256": "9f98ac8224a48c47abd0ddfb9a5334a7a02f152592a9157a443c1228af0c97df"
+    },
+    {
+      "path": "知识库/待确认问题清单.md",
+      "expected": true,
+      "before_sha256": "27d7c6c6a2a57b36ebbe20a1bb70781844db0f89a521d2393ecc31ecee9aef8f",
+      "after_sha256": "21a75c896cebca01928264284121b32bff151b1fc008701eee84ccb15eb2b61a"
+    },
+    {
+      "path": "知识库/文档登记.csv",
+      "expected": true,
+      "before_sha256": "f8329c80228b508458f17889455eb41308e0366aeaad17603e37b9dd5b4c0bfb",
+      "after_sha256": "5ca40674a278cf3062c6116f732114fe3b0043dc8241ba748e65bdf72b0907a9"
+    },
+    {
+      "path": "知识库/文档登记.json",
+      "expected": true,
+      "before_sha256": "de3e1ee1baada46b11ba2040628725fd40559505d818af97ec4ccfd705ec48d3",
+      "after_sha256": "80c6a2c588393155627f2f2c6095bd4716325f1bb533f80b0046ea44d98a9b44"
+    },
+    {
+      "path": "知识库/重复与版本清单.md",
+      "expected": true,
+      "before_sha256": "b82521145ba9280c2825a67c15823b2ed8ce742cf320b75a9fd75ffba1b09fdc",
+      "after_sha256": "a82dcdf24afe7424f9fcda436119c94fa01847cd5b472e5edcc1e0c3a18ca0e3"
+    },
+    {
+      "path": "素材库/README.md",
+      "expected": true,
+      "before_sha256": "e20a0df77263434ed9854e317b64de8b9505106b1d61fe47193f01eaa6fffc33",
+      "after_sha256": "165d1a96f30007bf6c52b6eea30d53050f5e34fe1aba3a77cd4dc6d0c5978bca"
+    },
+    {
+      "path": "素材库/全项目素材清单.csv",
+      "expected": true,
+      "before_sha256": "370e28169a6f4bcfc11dfc620329a8ad3b63230bd6086df3e4e899eeebe5f6aa",
+      "after_sha256": "e1d0994d11fc19a1cb1481ae43502357de1d3fb5fa0c09d2efb15eada032516c"
+    },
+    {
+      "path": "素材库/全项目素材清单.json",
+      "expected": true,
+      "before_sha256": "62a7393a9d4135dffd08ece4fe592c9845ab01b97f7bd0882ebe6627dafbdf41",
+      "after_sha256": "cc3fcbb25cb46e04a20d7f0a9a3044307b5c5b6f3b077f75f00d035e9cd31a5a"
+    }
+  ],
+  "full_library_original_checks": [
+    {
+      "source": "chat",
+      "checked": 63,
+      "errors": []
+    },
+    {
+      "source": "web",
+      "checked": 1269,
+      "errors": []
+    }
+  ],
+  "errors": [],
+  "unverified": [
+    "真实浏览器交互和布局验收",
+    "图片内细小文字完整OCR与逐字审校",
+    "现行资质、现行价格与护理版本的外部核实"
+  ],
+  "git_publication": "本轮未提交或推送"
+}

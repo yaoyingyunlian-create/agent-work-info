@@ -1,0 +1,36 @@
+[
+  {
+    "path": "README.md",
+    "before_sha256": "35d19db59c8f95b29c8844ad969a507abf0edc4b8779f7d75fbadb8355f4e85d",
+    "after_sha256": "79711a32d5ab95a78428e27e06bf09d5456a114353fa7a9b14741c82e4b8aa43",
+    "backup_path": "整理过程/新增20261125/入口更新前/README.md.bin",
+    "reason": "追加20261125导航与范围说明；不改旧报告正文"
+  },
+  {
+    "path": "知识库/README.md",
+    "before_sha256": "b1fda4115d19f4ac1e582e435cae5eb685fb3e685e34dba600598c398cd62f87",
+    "after_sha256": "9f98ac8224a48c47abd0ddfb9a5334a7a02f152592a9157a443c1228af0c97df",
+    "backup_path": "整理过程/新增20261125/入口更新前/知识库/README.md.bin",
+    "reason": "追加20261125导航与范围说明；不改旧报告正文"
+  },
+  {
+    "path": "素材库/README.md",
+    "before_sha256": "e20a0df77263434ed9854e317b64de8b9505106b1d61fe47193f01eaa6fffc33",
+    "after_sha256": "165d1a96f30007bf6c52b6eea30d53050f5e34fe1aba3a77cd4dc6d0c5978bca",
+    "backup_path": "整理过程/新增20261125/入口更新前/素材库/README.md.bin",
+    "reason": "追加20261125导航与范围说明；不改旧报告正文"
+  },
+  {
+    "path": "知识库/待确认问题清单.md",
+    "before_sha256": "27d7c6c6a2a57b36ebbe20a1bb70781844db0f89a521d2393ecc31ecee9aef8f",
+    "after_sha256": "21a75c896cebca01928264284121b32bff151b1fc008701eee84ccb15eb2b61a",
+    "backup_path": "整理过程/新增20261125/入口更新前/知识库/待确认问题清单.md.bin",
+    "reason": "追加20261125导航与范围说明；不改旧报告正文"
+  },
+  {
+    "path": "整理过程/资料治理/维护索引.py",
+    "before_sha256": "de4e5263da0f9b29afa545e704bff4d0bc8149262ac7aac49f1ba51434566ed2",
+    "after_sha256": "422f317158c3b71701eb5b28e51780dc8b18aa438b4ae06b2730e085584ad637",
+    "reason": "支持PPTX及新增批次来源；独立确认范围；刷新复核日期；登记导航变更"
+  }
+]

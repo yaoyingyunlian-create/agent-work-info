@@ -12,8 +12,10 @@ ROOT=Path(__file__).resolve().parents[2]
 HERE=Path(__file__).parent
 WEB=ROOT/'官网资料/2026-11-24'
 DATE='2026-11-24'
+REVIEW_DATE='2026-11-26'
 MEDIA={'.jpg':'图片','.jpeg':'图片','.png':'图片','.webp':'图片','.gif':'图片','.svg':'矢量/图标','.avif':'图片','.ico':'图标','.mp4':'视频','.webm':'视频','.mov':'视频','.mp3':'音频','.wav':'音频','.ogg':'音频','.pdf':'PDF资料','.psd':'设计源文件','.ai':'设计源文件','.fig':'设计源文件','.sketch':'设计源文件','.blend':'设计源文件','.aep':'设计源文件','.prproj':'设计源文件','.woff':'字体','.woff2':'字体','.ttf':'字体','.otf':'字体','.eot':'字体'}
 MANAGED=['素材库/全项目素材清单.json','素材库/全项目素材清单.csv','知识库/文档登记.csv','知识库/文档登记.json','知识库/重复与版本清单.md','整理过程/资料治理/全项目文件清单.json','整理过程/资料治理/引用关系.json','整理过程/资料治理/完全重复清单.json','整理过程/资料治理/尺寸与版本关联.json','整理过程/资料治理/盘点结果.json','整理过程/资料治理/校验结果.json']
+MEDIA['.pptx']='可编辑演示文档'
 manifest_path=HERE/'索引输出哈希.json'
 prior=json.loads(manifest_path.read_text(encoding='utf-8')) if manifest_path.exists() else {}
 
@@ -40,6 +42,8 @@ def main():
     if confirmation_changes.exists():allowed.update({x['path']:x['after_sha256'] for x in json.loads(confirmation_changes.read_text(encoding='utf-8'))})
     cache_record=HERE/'编译缓存变更.json'
     if cache_record.exists():allowed.update({x['path']:x['after_sha256'] for x in json.loads(cache_record.read_text(encoding='utf-8'))})
+    for batch_changes in (ROOT/'整理过程').glob('新增*/入口变更清单.json'):
+        allowed.update({x['path']:x['after_sha256'] for x in json.loads(batch_changes.read_text(encoding='utf-8'))})
     allowed['README.md']=hashlib.sha256((ROOT/'README.md').read_bytes()).hexdigest()
     files=[];decoded={};filemap={}
     for p in sorted(ROOT.rglob('*')):
@@ -85,6 +89,11 @@ def main():
         for video in json.loads(frame_manifest.read_text(encoding='utf-8')):
             for frame in video['frames']:
                 sources[frame['path']]={'content':'视频视觉抽样帧，时间'+str(frame['time_seconds'])+'秒','source':'本机FFmpeg提取；来源见抽样来源JSON','scene':'资料盘点/内容审核，不冒充原始产品照片','stage':'中间产物','version':DATE,'rights':'继承原视频，待确认','derived_from':video['path'],'ai_status':'本机视频抽帧；原视频AI来源待确认','status':'抽样证据，非全片审核'}
+    # 追加批次采用独立来件状态；不继承旧批次的确认日期。
+    batch_manifests=sorted((ROOT/'素材库').glob('新增*/素材目录.json'))
+    for batch_manifest in batch_manifests:
+        for record in json.loads(batch_manifest.read_text(encoding='utf-8')):
+            sources[record['path']]={k:v for k,v in record.items() if k not in ('sha256','bytes','type','width','height','text')}
     # WordPress明确列出的sizes建立同源关系，尺寸变体不认定为重复。
     original_media=load('官网资料/2026-11-24/公开媒体清单.json')['items']
     by_url={r['source_url']:name for name,r in sources.items() if r.get('source_url')}
@@ -140,7 +149,7 @@ def main():
                         try:refs.append({'source':name,'target':rel(candidate),'kind':'脚本文字路径（静态）'})
                         except ValueError:pass
     # 现有JSON的路径字段按其原有约定解析；不展开原始API中不属于本地路径的字段。
-    for source in ['素材库/原件清单.json','素材库/素材目录.json','官网资料/2026-11-24/页面清单.json','官网资料/2026-11-24/资源清单.json','官网资料/2026-11-24/媒体原件索引.json','知识库/官网/产品目录.json']:
+    for source in ['素材库/原件清单.json','素材库/素材目录.json','官网资料/2026-11-24/页面清单.json','官网资料/2026-11-24/资源清单.json','官网资料/2026-11-24/媒体原件索引.json','知识库/官网/产品目录.json']+[rel(p) for p in batch_manifests]:
         def walk(obj):
             if isinstance(obj,list):
                 for v in obj:walk(v)
@@ -175,7 +184,8 @@ def main():
         elif suffix=='.svg':
             raw=(ROOT/name).read_text(encoding='utf-8',errors='replace')
             if '<font ' in raw or '<font\n' in raw:row['type']='字体'
-        if confirmation and name in sources:
+        row['last_reviewed']=REVIEW_DATE
+        if confirmation and name in sources and s.get('inherit_prior_confirmation',True):
             row['previous_review_note']=row['status']
             row['status']=confirmation['status']
             row['business_confirmed_at']=confirmation['confirmation_date']
@@ -210,8 +220,11 @@ def main():
         if name.startswith('整理过程/'):state='过程工具；非产品业务事实'
         if name in ['知识库/业务需求与资料边界.md','知识库/价格与待核验项.md']:state='微信批次记录；需结合官网增补阅读'
         if name.startswith('官网资料/') and '/公开内容正文/' in '/'+name:state='历史接口正文；不保证前台当前展示'
-        confirmed=bool(confirmation and (name.startswith(('原始资料/','官网资料/')) or category=='产品说明'))
+        new_batch_doc=name.startswith('原始资料/2026-11-25新增/') or name in ('知识库/20261125新增资料.md','知识库/粉之密产品与培训索引.md')
+        confirmed=bool(confirmation and not new_batch_doc and (name.startswith(('原始资料/','官网资料/')) or category=='产品说明'))
         docs.append({'path':name,'title':title,'category':category,'purpose':'提供产品信息和来源' if category=='产品说明' else '按分类查证与维护；用途以正文边界为准','source':source,'content_status':confirmation['status'] if confirmed else state,'previous_review_note':state if confirmed else '', 'reviewed_at':DATE,'source_updated_at':next((p['captured_at'] for p in products if '知识库/官网/'+p['knowledge_path']==name),DATE if name.startswith('官网资料/') else '待确认；见正文批次日期'),'filesystem_modified_at':f['filesystem_modified_at'],'business_confirmed_at':confirmation['confirmation_date'] if confirmed else '不适用：过程/维护文档','obsolete_status':'未收到废弃确认；不自动废弃','sha256':f['sha256']})
+        docs[-1]['reviewed_at']=REVIEW_DATE
+        if new_batch_doc:docs[-1].update(content_status='用户新增来件的整理记录；具体差异保留',source='用户提供20261125批次及所链接原件',business_confirmed_at='未继承旧批次确认日期',source_updated_at='2026-11-25来件目录；制作日期待确认')
     old_changes=[];missing=[]
     for name,old in original.items():
         p=ROOT/name
@@ -232,12 +245,15 @@ def main():
         if not p.exists() or hashlib.sha256(p.read_bytes()).hexdigest()!=r['before_sha256']:backup_errors.append(r['path'])
     inventory={'review_date':DATE,'baseline_file_count':len(original),'current_scanned_files':len(files),'asset_file_count':len(assets),'asset_types':dict(Counter(x['type'] for x in assets)),'asset_stages':dict(Counter(x['stage'] for x in assets)),'document_records':len(docs),'exact_duplicate_groups':len(duplicates),'dimension_families':len(families),'inbound_reference_edges':len(refs),'missing_document_types':['未发现独立会议记录','未发现独立产品技术/研发规范','未发现设计编辑源文件；已下载SVG不自动视为原始设计工程','未发现独立音频文件；MP4含音轨不计为独立音频','未发现经业务确认的最终发布成品清单'],'note':'类型和来源综合元数据、文件头/解码、正文及引用；未完整OCR或语义审校全部素材。生成索引及其输出哈希清单不参与自身文件登记，避免递归哈希；修复备份计入全文件盘点但不计入内容重复建议。'}
     report={'review_date':DATE,'file_integrity':baseline_checks,'deleted_existing_files':missing,'changed_existing_files':old_changes,'unplanned_changes':[r for r in old_changes if not r['allowed'] or not r['matches_planned_digest']],'broken_generated_local_refs':broken,'static_reference_edges':len(refs),'decode_errors':decode_errors,'runtime_validation':'本轮未运行历史联网采集/批量重建；历史浏览器验收仅作历史证据，不冒充本轮验收','scope':'静态文档/HTML/已登记JSON路径和脚本文字路径；未运行远端网络、动态脚本调用及全部UI流程'}
+    inventory['review_date']=report['review_date']=REVIEW_DATE
+    inventory['missing_document_types']=[x for x in inventory['missing_document_types'] if '未发现设计编辑源文件' not in x]
+    inventory['editable_document_note']='新增PPTX为可编辑演示文档；仍未发现PSD/AI/Figma/剪辑工程，嵌入栅格图不等于分层设计工程'
     outputs={
       '素材库/全项目素材清单.json':dump(assets),
       '素材库/全项目素材清单.csv':csvtext([{**r,'referenced_by':' | '.join(r['referenced_by'])} for r in assets],['id','path','type','stage','content','scene','version','source','source_url','rights','status','ai_status','derived_from','width','height','duration_seconds','bytes','sha256','referenced_by','last_reviewed','business_confirmed_at']),
       '知识库/文档登记.json':dump(docs),'知识库/文档登记.csv':csvtext(docs,['path','title','category','purpose','source','source_updated_at','reviewed_at','content_status','business_confirmed_at','obsolete_status','filesystem_modified_at','sha256']),
       '整理过程/资料治理/全项目文件清单.json':dump(files),'整理过程/资料治理/引用关系.json':dump(refs),'整理过程/资料治理/完全重复清单.json':dump(duplicates),'整理过程/资料治理/尺寸与版本关联.json':dump(families),'整理过程/资料治理/盘点结果.json':dump(inventory),'整理过程/资料治理/校验结果.json':dump(report)}
-    lines=['# 重复与版本清单','','复核：'+DATE+'。完全重复使用SHA-256确认，不将近似画面、不同尺寸或中英文不同版本当作重复。**仅推荐检索入口，不删除、不移动任何路径。**','',f'全项目非空内容重复{len(duplicates)}组；明确媒体尺寸家族{len(families)}组。修复前备份和Python缓存不参与冗余统计。','','## 完全相同内容','','| 组 | 推荐检索入口 | 相同文件路径 | 依据与动作 |','| --- | --- | --- | --- |']
+    lines=['# 重复与版本清单','','复核：'+REVIEW_DATE+'。完全重复使用SHA-256确认，不将近似画面、不同尺寸或中英文不同版本当作重复。**仅推荐检索入口，不删除、不移动任何路径。**','',f'全项目非空内容重复{len(duplicates)}组；明确媒体尺寸家族{len(families)}组。修复前备份和Python缓存不参与冗余统计。','','新增批次：[组合与分片关系](../素材库/新增20261125/组合与分片关系.json)、[新增重复核对](../素材库/新增20261125/重复核对.json)。3张合成长图及分片全部保留，PPT原件、54页渲染和61嵌入资源按原件/衍生区分。','','## 完全相同内容','','| 组 | 推荐检索入口 | 相同文件路径 | 依据与动作 |','| --- | --- | --- | --- |']
     for i,r in enumerate(duplicates,1):
         paths='<br>'.join('['+Path(p).name+'](../'+link(p)+')' for p in r['paths'])
         entry='各自保留，不可互换' if r['recommendation'].startswith('各自保留') else f'[{Path(r["recommended_entry"]).name}](../{link(r["recommended_entry"])})'
