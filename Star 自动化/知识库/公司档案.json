@@ -19,6 +19,32 @@
   "source_id": "SRC-001",
   "source_type": "user_provided",
   "external_verification_status": "not_verified",
-  "completeness_status": "initial_record_only",
-  "notes": "空字段表示未提供；空列表表示尚未收录，不代表公司没有相应业务或账号。"
+  "completeness_status": "materials_catalogued_business_pending",
+  "notes": "空字段表示未提供；素材所示品牌关系、业务落地、合作、规则与授权待确认。正式产品及服务清单仍为空，不代表没有业务。",
+  "material_source_ids": [
+    "SRC-002"
+  ],
+  "source_ids": [
+    "SRC-001",
+    "SRC-002"
+  ],
+  "material_summary": {
+    "images": 23,
+    "videos": 13,
+    "original_bytes": 321707025,
+    "video_duration_seconds": 1056.864977,
+    "same_media_pairs": [
+      [
+        "V002",
+        "V012"
+      ]
+    ]
+  },
+  "business_directions_in_materials": [
+    "篮球活动方案",
+    "匹克球活动方案",
+    "数字互动球场参考",
+    "STREAK App与排名方案",
+    "品牌及周边设计"
+  ]
 }

@@ -1,0 +1,326 @@
+{
+  "微信图片_20261126170939_22_179.png": {
+    "id": "I001",
+    "type": "I",
+    "title": "SBR 篮球排名与等级说明",
+    "category": "排名与会员方案",
+    "description": "展示 Streak Basketball Ranking、ELO、连胜加成、六档等级及奖励概念；中英文对照，规则尚未确认。",
+    "related": "STREAK / SBR",
+    "language": "中英双语"
+  },
+  "微信图片_20261126170944_23_179.png": {
+    "id": "I002",
+    "type": "I",
+    "title": "商场外篮球活动场景",
+    "category": "场景方案",
+    "description": "商场外篮球场、大屏及观众场景；无法仅凭图片确认真实场地及落地状态。",
+    "related": "STAR ARENA / 商场活动",
+    "language": "英文"
+  },
+  "微信图片_20261126170945_24_179.png": {
+    "id": "I003",
+    "type": "I",
+    "title": "STREAK 球员档案界面",
+    "category": "App 界面方案",
+    "description": "示例 LIN ZE，SBR 1832、12场8胜、5连胜、73%胜率；示例数值不作真实用户数据。",
+    "related": "STREAK / App",
+    "language": "英文"
+  },
+  "微信图片_20261126170947_25_179.png": {
+    "id": "I004",
+    "type": "I",
+    "title": "STREAK 手机 App 总览",
+    "category": "App 界面方案",
+    "description": "球员信息、连胜、比赛和等级模块；示例界面，不证明 App 已上线。",
+    "related": "STREAK / App",
+    "language": "英文"
+  },
+  "微信图片_20261126170949_26_179.png": {
+    "id": "I005",
+    "type": "I",
+    "title": "STREAK 首页与参赛入口",
+    "category": "App 界面方案",
+    "description": "球员概览、下一场比赛、Join Match、成就及导航；仅记录设计意图。",
+    "related": "STREAK / App",
+    "language": "英文"
+  },
+  "微信图片_20261126170950_27_179.png": {
+    "id": "I006",
+    "type": "I",
+    "title": "5与10连胜 T恤系列",
+    "category": "周边设计方案",
+    "description": "5 STREAK、10 STREAK T恤多款正反面与穿着示意；无价格及供货信息。",
+    "related": "STREAK / 周边",
+    "language": "中英双语"
+  },
+  "微信图片_20261126170951_28_179.png": {
+    "id": "I007",
+    "type": "I",
+    "title": "STREAK 品牌视觉合集",
+    "category": "品牌视觉",
+    "description": "红黑白品牌标志、S图形、字标、应用图标及球衣等视觉提案。",
+    "related": "STREAK / 品牌",
+    "language": "英文"
+  },
+  "微信图片_20261126171003_30_179.jpg": {
+    "id": "I008",
+    "type": "I",
+    "title": "STREET FORCE 品牌方向",
+    "category": "品牌视觉",
+    "description": "G010 STREET FORCE 视觉方向，含字标、S图形与应用示例；非最终定稿证明。",
+    "related": "STREAK / 品牌",
+    "language": "英文"
+  },
+  "微信图片_20261126171004_32_179.png": {
+    "id": "I009",
+    "type": "I",
+    "title": "5 STREAK 金项链五款提案",
+    "category": "周边设计方案",
+    "description": "五款金色项链／吊坠及包装展示；不证明材质、价格或已生产。",
+    "related": "STREAK / 周边",
+    "language": "中英双语"
+  },
+  "微信图片_20261126171005_33_179.png": {
+    "id": "I010",
+    "type": "I",
+    "title": "SLAYER 黑色服饰方案",
+    "category": "周边设计方案",
+    "description": "SLAYER 字样T恤、背面与上身效果及视觉细节；未确定销售状态。",
+    "related": "STREAK / 周边",
+    "language": "英文"
+  },
+  "微信图片_20261126171006_34_179.jpg": {
+    "id": "I011",
+    "type": "I",
+    "title": "社交限时动态截图",
+    "category": "社交参考",
+    "description": "带社交界面的夜间场馆／观众截图及表情；账号归属、拍摄地点和转载授权待确认。",
+    "related": "活动传播参考",
+    "language": "英文/表情"
+  },
+  "微信图片_20261126171011_35_179.png": {
+    "id": "I012",
+    "type": "I",
+    "title": "海滩篮球活动全景",
+    "category": "场景方案",
+    "description": "海滩夕阳、篮球球场、观众、大屏与 STAR ARENA 元素；不代表已有海滩场地。",
+    "related": "STAR ARENA / 海滩活动",
+    "language": "英文"
+  },
+  "微信图片_20261126171012_36_179.png": {
+    "id": "I013",
+    "type": "I",
+    "title": "匹克球 Road to Sentosa",
+    "category": "活动路线方案",
+    "description": "社区赛→商场赛→圣淘沙海滩决赛；双打、混双、女子双打、社交新手和企业组概念；合作方及比赛安排未确认。",
+    "related": "STREAK / 匹克球",
+    "language": "英文"
+  },
+  "微信图片_20261126171013_37_179.png": {
+    "id": "I014",
+    "type": "I",
+    "title": "篮球 Road to Sentosa",
+    "category": "活动路线方案",
+    "description": "街区赛→商场赛→圣淘沙海滩决赛；1v1/3v3/5v5、外卡、晋级及球员档案；图中合作文案不代表签约。",
+    "related": "STREAK / 篮球",
+    "language": "英文"
+  },
+  "微信图片_20261126171013_38_179.png": {
+    "id": "I015",
+    "type": "I",
+    "title": "4 STREAK 单挑场景",
+    "category": "场景方案",
+    "description": "户外球场双人对决、大屏球员卡及4连胜／终结连胜叙事；为场景参考。",
+    "related": "STREAK / 单挑",
+    "language": "英文"
+  },
+  "微信图片_20261126171014_39_179.png": {
+    "id": "I016",
+    "type": "I",
+    "title": "STAR ARENA 4v4 比赛界面",
+    "category": "场景方案",
+    "description": "4v4 BATTLE、阵容／排名、比分大屏与现场视觉；不据此新增正式比赛服务。",
+    "related": "STAR ARENA / 比赛",
+    "language": "英文"
+  },
+  "微信图片_20261126171015_40_179.png": {
+    "id": "I017",
+    "type": "I",
+    "title": "STAR ARENA BEACH 场景合集",
+    "category": "场景方案",
+    "description": "海滩篮球、日落、观众、设施及品牌主题拼版；落地状态未确认。",
+    "related": "STAR ARENA / 海滩活动",
+    "language": "英文"
+  },
+  "微信图片_20261126171016_41_179.png": {
+    "id": "I018",
+    "type": "I",
+    "title": "商场数字球场火焰视觉",
+    "category": "场景方案",
+    "description": "商场中庭数字篮球场、火焰式地面效果及球员大屏。",
+    "related": "STAR ARENA / 数字球场",
+    "language": "英文"
+  },
+  "微信图片_20261126171017_42_179.png": {
+    "id": "I019",
+    "type": "I",
+    "title": "商场篮球场品牌场景",
+    "category": "场景方案",
+    "description": "商场中庭篮球比赛、STAR ARENA 标志与计分大屏。",
+    "related": "STAR ARENA / 商场活动",
+    "language": "英文"
+  },
+  "微信图片_20261126171018_44_179.png": {
+    "id": "I020",
+    "type": "I",
+    "title": "城市天际线紫黄球场",
+    "category": "场景方案",
+    "description": "城市天际线背景、紫黄球场、倒计时及品牌围挡；不据此定位地址。",
+    "related": "STAR ARENA / 城市场景",
+    "language": "英文"
+  },
+  "微信图片_20261126171019_45_179.png": {
+    "id": "I021",
+    "type": "I",
+    "title": "1v1 BATTLE 与 ELO 排行",
+    "category": "场景方案",
+    "description": "单挑比赛、球员 SHADOW/FLASH 示例、计时与ELO排名大屏。",
+    "related": "STAR ARENA / 排名",
+    "language": "英文"
+  },
+  "微信图片_20261126171020_46_179.png": {
+    "id": "I022",
+    "type": "I",
+    "title": "商场互动光效球场",
+    "category": "场景方案",
+    "description": "商场中庭球场、人物脚下光圈及地面轨迹、比分计时大屏。",
+    "related": "STAR ARENA / 互动球场",
+    "language": "英文"
+  },
+  "微信图片_20261126171022_47_179.jpg": {
+    "id": "I023",
+    "type": "I",
+    "title": "STAR ARENA 标志图",
+    "category": "品牌视觉",
+    "description": "深色背景、橙白A形标志，标语 WHERE THE CITY COMES TO PLAY；图片不是矢量源文件。",
+    "related": "STAR ARENA / 品牌",
+    "language": "英文"
+  },
+  "3d09823978eabb318f0ffd9ee4c0ccee.mp4": {
+    "id": "V001",
+    "type": "V",
+    "title": "红色灯光篮球活动",
+    "category": "视频参考",
+    "description": "抽帧可见球员入场、红色灯光、球场及观众；带社交平台水印。",
+    "related": "活动氛围参考",
+    "language": "画面少量中英文字；音频未转录"
+  },
+  "544d2f6e74a00c65132eb7cc9eeff0dd.mp4": {
+    "id": "V002",
+    "type": "V",
+    "title": "夜间户外单挑与人群 A",
+    "category": "视频参考",
+    "description": "夜间户外篮球单挑、围观与人群；与 V012 音视频包哈希一致，文件哈希不同。",
+    "related": "单挑与活动参考",
+    "language": "画面少量文字；音频未转录"
+  },
+  "64f81c180d53a22d737867e74d35b9e2.mp4": {
+    "id": "V003",
+    "type": "V",
+    "title": "互动投篮球场横屏",
+    "category": "视频参考",
+    "description": "大屏分数与目标、投篮及地面动态效果；不证明公司拥有该系统。",
+    "related": "互动技术参考",
+    "language": "画面英文/数字；音频未转录"
+  },
+  "6b55caf5b26e5119cdfddc2290bd0ea6.mp4": {
+    "id": "V004",
+    "type": "V",
+    "title": "THE ONE 单挑宣传参考",
+    "category": "视频参考",
+    "description": "抽帧见中文宣传字样、俯拍球场与 THE ONE 片尾；第三方内容。",
+    "related": "宣传结构参考",
+    "language": "画面中英双语；音频未转录"
+  },
+  "72f3705d00893580b8543dde79c85172.mp4": {
+    "id": "V005",
+    "type": "V",
+    "title": "智能光圈篮球场演示",
+    "category": "视频参考",
+    "description": "球员脚下彩色光圈与球场视觉，画面带“大元智能”等水印；不能认定为公司设备。",
+    "related": "互动技术参考",
+    "language": "画面中文；音频未转录"
+  },
+  "8b958bc0968d84cf87d17788cb68034d.mp4": {
+    "id": "V006",
+    "type": "V",
+    "title": "户外单挑短片",
+    "category": "视频参考",
+    "description": "夜间户外篮球对位、持球与围观；人物身份和地点未核验。",
+    "related": "单挑与活动参考",
+    "language": "画面少量文字；音频未转录"
+  },
+  "8d7cdf5cf2c89050fd25c944dbca72f0.mp4": {
+    "id": "V007",
+    "type": "V",
+    "title": "互动投篮竖屏 A",
+    "category": "视频参考",
+    "description": "篮板计分大屏、投篮与地面光效，带联系方式类水印，非公司已确认联系方式。",
+    "related": "互动技术参考",
+    "language": "画面中英/数字；音频未转录"
+  },
+  "9dca0b1cbfe802adb075af03c044e371.mp4": {
+    "id": "V008",
+    "type": "V",
+    "title": "互动投篮竖屏 B",
+    "category": "视频参考",
+    "description": "计时计分、投篮互动场景，画面带 NBA/MACAO 等字样；场地归属未核验。",
+    "related": "互动技术参考",
+    "language": "画面英文/数字；音频未转录"
+  },
+  "a37f30635f13ecf520052f4f8ef89da2.mp4": {
+    "id": "V009",
+    "type": "V",
+    "title": "城市户外人群全景",
+    "category": "视频参考",
+    "description": "白天城市背景与密集围观人群；不据此确定活动名称、地点或公司业绩。",
+    "related": "活动人群参考",
+    "language": "画面少量文字；音频未转录"
+  },
+  "c13b27ec0955a03e14bdf59cf20b525d.mp4": {
+    "id": "V010",
+    "type": "V",
+    "title": "篮球活动人群新闻式短片",
+    "category": "视频参考",
+    "description": "画面含 Chinatown Complex、Singapore 等英文报道文字；仅记录画面，事件真实性与人物身份未核验。",
+    "related": "活动传播参考",
+    "language": "画面英文；音频未转录"
+  },
+  "c971bf40432db8c1691ec62cbb27f40f.mp4": {
+    "id": "V011",
+    "type": "V",
+    "title": "夜间人群与街道记录",
+    "category": "视频参考",
+    "description": "夜间大量观众、球场周边及街道行走场景；拍摄地点与日期未确认。",
+    "related": "活动人群参考",
+    "language": "画面少量文字；音频未转录"
+  },
+  "d9f2194e84ec00aec40256115677eb73.mp4": {
+    "id": "V012",
+    "type": "V",
+    "title": "夜间户外单挑与人群 B",
+    "category": "视频参考",
+    "description": "与 V002 音视频包哈希一致但原文件 SHA-256 不同，保留原件并标记复用关系。",
+    "related": "单挑与活动参考",
+    "language": "画面少量文字；音频未转录"
+  },
+  "e8e0165dcf6f5a38cedf4180cf392ac4.mp4": {
+    "id": "V013",
+    "type": "V",
+    "title": "互动投篮竖屏 C",
+    "category": "视频参考",
+    "description": "球员投篮、计时计分及彩色地面反馈；第三方场景参考。",
+    "related": "互动技术参考",
+    "language": "画面英文/数字；音频未转录"
+  }
+}
