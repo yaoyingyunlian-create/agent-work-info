@@ -1,0 +1,29 @@
+{
+  "id": "WA043",
+  "language": "zh",
+  "engine": "faster-whisper small multilingual, auto language",
+  "status": "机器初稿，未逐字听校，宣传语未独立核实",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "text": "AI智能冲击波理疗机器人 全新开启智慧康崗新时代 融合人体金魔学与AI针起算散发",
+      "avg_logprob": -0.30262451676221996,
+      "no_speech_prob": 0.2454438954591751
+    },
+    {
+      "start": 5.9,
+      "end": 11.9,
+      "text": "智能识别仅定位 力度频率 深度 个性调节 让每次撈的机窗 抗的刻挂装撒胆夫",
+      "avg_logprob": -0.30262451676221996,
+      "no_speech_prob": 0.2454438954591751
+    },
+    {
+      "start": 11.9,
+      "end": 14.9,
+      "text": "AI破栏理疗机器人 智慧康崗户健康",
+      "avg_logprob": -0.30262451676221996,
+      "no_speech_prob": 0.2454438954591751
+    }
+  ]
+}

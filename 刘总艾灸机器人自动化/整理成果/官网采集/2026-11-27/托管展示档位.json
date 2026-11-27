@@ -1,0 +1,1262 @@
+[
+  {
+    "source_id": "W-en-rental-CN-cycle-0",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-0",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-0",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-1",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-1",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-1",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-2",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-2",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-CN-cycle-2",
+    "lang": "en",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-0",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-0",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-0",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-1",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-1",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-1",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-2",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-2",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-HK-cycle-2",
+    "lang": "en",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-0",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-0",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-0",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-1",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-1",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-1",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-2",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-2",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-ID-cycle-2",
+    "lang": "en",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-0",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-0",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-0",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-1",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-1",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-1",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-2",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-2",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-MY-cycle-2",
+    "lang": "en",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-0",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-0",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-0",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-1",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-1",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-1",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-2",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-2",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-PH-cycle-2",
+    "lang": "en",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-0",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-0",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-0",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-1",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-1",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-1",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-2",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-2",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-SG-cycle-2",
+    "lang": "en",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-0",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\nRental Amount:\n3000USD\nDaily Yield:\n0.18%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-0",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.19%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-0",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.2%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-1",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.23%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-1",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.24%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-1",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.25%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-2",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\nRental Amount:\n3000USD\nDaily Yield:\n0.28%\nToday's Quota:\n10\nRental Amount\n3000USD\nSelected",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-2",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\nRental Amount:\n5000USD\nDaily Yield:\n0.29%\nToday's Quota:\n10\nRental Amount\n5000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-en-rental-TH-cycle-2",
+    "lang": "en",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\nRental Amount:\n10000USD\nDaily Yield:\n0.3%\nToday's Quota:\n10\nRental Amount\n10000USD\nSelect",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-0",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-0",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-0",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-1",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-1",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-1",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-2",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-2",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-CN-cycle-2",
+    "lang": "zh",
+    "region": "CN",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-0",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-0",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-0",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-1",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-1",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-1",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-2",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-2",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-HK-cycle-2",
+    "lang": "zh",
+    "region": "HK",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-0",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-0",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-0",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-1",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-1",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-1",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-2",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-2",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-ID-cycle-2",
+    "lang": "zh",
+    "region": "ID",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-0",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-0",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-0",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-1",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-1",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-1",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-2",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-2",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-MY-cycle-2",
+    "lang": "zh",
+    "region": "MY",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-0",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-0",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-0",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-1",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-1",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-1",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-2",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-2",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-PH-cycle-2",
+    "lang": "zh",
+    "region": "PH",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-0",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-0",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-0",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-1",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-1",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-1",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-2",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-2",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-SG-cycle-2",
+    "lang": "zh",
+    "region": "SG",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-0",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.18",
+    "raw_card": "$\ntestttt\n租赁金额:\n3000USD\n日收益率:\n0.18%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-0",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.19",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.19%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-0",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 90,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.2",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.2%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-1",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.23",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.23%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-1",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.24",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.24%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-1",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 180,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.25",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.25%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-2",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 3000,
+    "display_daily_rate_percent": "0.28",
+    "raw_card": "$\n租赁金额:\n3000USD\n日收益率:\n0.28%\n今日名额:\n10个\n租赁金额\n3000USD\n已选择",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-2",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 5000,
+    "display_daily_rate_percent": "0.29",
+    "raw_card": "$\n租赁金额:\n5000USD\n日收益率:\n0.29%\n今日名额:\n10个\n租赁金额\n5000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  },
+  {
+    "source_id": "W-zh-rental-TH-cycle-2",
+    "lang": "zh",
+    "region": "TH",
+    "period_days": 360,
+    "deposit_usd": 10000,
+    "display_daily_rate_percent": "0.3",
+    "raw_card": "$\n租赁金额:\n10000USD\n日收益率:\n0.3%\n今日名额:\n10个\n租赁金额\n10000USD\n选择此档",
+    "status": "官网展示，存在测试数据，不是有效收益政策"
+  }
+]

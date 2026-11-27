@@ -1,0 +1,21 @@
+{
+  "collected_at": "2026-11-27",
+  "sitemap_pages": 22,
+  "sitemap_covered": 22,
+  "snapshots": 159,
+  "assets_url_count": 57,
+  "downloaded": 56,
+  "failed": 1,
+  "unique_asset_contents": 32,
+  "images": 50,
+  "videos": 6,
+  "ocr_images": 50,
+  "rental_card_observations": 126,
+  "original16_hashes": "PASS",
+  "local_links_checked": 578,
+  "asset_hashes": "56/56 PASS",
+  "source_snapshot_hashes": "159/159 PASS",
+  "ocr_mapping": "50/50 PASS",
+  "asr_mapping": "6/6 PASS",
+  "python_ast": "PASS"
+}

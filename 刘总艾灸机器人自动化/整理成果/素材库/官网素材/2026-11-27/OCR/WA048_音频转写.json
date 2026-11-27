@@ -1,0 +1,36 @@
+{
+  "id": "WA048",
+  "language": "zh",
+  "engine": "faster-whisper small multilingual, auto language",
+  "status": "机器初稿，未逐字听校，宣传语未独立核实",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "AI智能挨救机器人,开启智慧挨救先时代。",
+      "avg_logprob": -0.1882408404350281,
+      "no_speech_prob": 0.10964816808700562
+    },
+    {
+      "start": 3.2,
+      "end": 8.0,
+      "text": "融合AI智能算法与传统中医挨救,精准定位血位,智能控温控食。",
+      "avg_logprob": -0.1882408404350281,
+      "no_speech_prob": 0.10964816808700562
+    },
+    {
+      "start": 8.0,
+      "end": 10.1,
+      "text": "无烟,无明火,更安全。",
+      "avg_logprob": -0.1882408404350281,
+      "no_speech_prob": 0.10964816808700562
+    },
+    {
+      "start": 10.1,
+      "end": 15.0,
+      "text": "已经开启专业级挨救体验,让科技传承中医人,找正出健康触手可及。",
+      "avg_logprob": -0.1882408404350281,
+      "no_speech_prob": 0.10964816808700562
+    }
+  ]
+}

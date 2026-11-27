@@ -1,0 +1,128 @@
+Robot Rental Hosting | CUCA AI ROBOT
+C
+CUCA AI ROBOT
+AI ROBOT RENTAL PLATFORM
+Home
+Rental Hosting
+Wallet
+Wealth Rank
+Multi-account
+Franchise
+文A
+English
+▾
+AI
+Choose a rental hosting plan
+
+Select your country/region and hosting period, then confirm the fixed FX and settlement currency.
+
+1
+Select region
+2
+Select period
+① Select country / region
+🇨🇳
+China
+1 USD = 6.8 CNY
+🇸🇬
+Singapore
+1 USD = 1.35 SGD
+🇲🇾
+Malaysia
+1 USD = 4 MYR
+🇭🇰
+Hong Kong
+Local plan
+🇹🇭
+Thailand
+Local plan
+🇮🇩
+Indonesia
+Local plan
+🇵🇭
+Philippines
+Local plan
+Current region
+🇵🇭 Philippines
+Local plan
+Per local plan
+② Select hosting period
+90 days
+90-day lockdown period
+180 days
+180-day lockdown period
+360 days
+360-day lockdown period
+Hosting notes
+Daily yield
+Shown by selected period. Actual settlement follows the signed agreement and backend records.
+Fixed FX
+China, Singapore and Malaysia settle with platform-locked FX rates.
+Lock period
+The selected period is the lock term. Post-maturity handling follows the agreement.
+Business cooperation
+This is a commercial cooperation, not a deposit or principal-guaranteed investment. Returns are not guaranteed.
+Plan summary
+Region
+🇵🇭 Philippines
+Period
+90 days
+Daily Yield
+0.18%
+Rental Amount
+USD 3,000
+USD amount
+$ 3,000.00 USD
+Fixed FX
+Local plan
+Settlement currency
+Local
+Robot deposit
+USD 3,000
+Today's Quota
+10
+Current plan
+Philippines · 90 days · USD 3,000
+③ Select robot rental deposit
+$
+testttt
+Rental Amount:
+3000USD
+Daily Yield:
+0.18%
+Today's Quota:
+10
+Rental Amount
+3000USD
+Selected
+$
+Rental Amount:
+5000USD
+Daily Yield:
+0.19%
+Today's Quota:
+10
+Rental Amount
+5000USD
+Select
+$
+Rental Amount:
+10000USD
+Daily Yield:
+0.2%
+Today's Quota:
+10
+Rental Amount
+10000USD
+Select
+Please carefully read the Hosting Agreement and Risk Disclosure before renting
+I have read and agree to AI Massage Robot Rental Hosting Agreement
+I have read and agree to AI Massage Robot Rental Hosting Risk Disclosure
+Checking means you understand the responsibilities and risks. This is a commercial cooperation and does not guarantee returns.
+Confirm & rent now
+Partner stores
+Direct stores
+Franchise stores
+测试
+1212
+12121
