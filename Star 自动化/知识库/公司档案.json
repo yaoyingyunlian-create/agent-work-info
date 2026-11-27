@@ -1,12 +1,12 @@
 {
-  "updated_date": "2026-11-26",
+  "updated_date": "2026-11-27",
   "timezone": "Asia/Shanghai",
   "company_name": "Star Arena Pte Ltd",
   "company_name_zh": null,
   "address_original": "40A Orchard Road #02-00，Singapore 238838.",
   "address_display": "40A Orchard Road #02-00, Singapore 238838",
   "address_type": null,
-  "industry": null,
+  "industry": "创新型体育娱乐公司（SRC-003用户提供定位，非登记核验）",
   "uen": null,
   "website": null,
   "social_accounts": [],
@@ -19,14 +19,15 @@
   "source_id": "SRC-001",
   "source_type": "user_provided",
   "external_verification_status": "not_verified",
-  "completeness_status": "materials_catalogued_business_pending",
-  "notes": "空字段表示未提供；素材所示品牌关系、业务落地、合作、规则与授权待确认。正式产品及服务清单仍为空，不代表没有业务。",
+  "completeness_status": "brand_brief_and_media_catalogued_implementation_pending",
+  "notes": "品牌关系与荣誉基本定义依据SRC-003；具体业务落地、计分公式、日期、收费、场地与授权仍须最新确认；系统能力为建设要求。",
   "material_source_ids": [
     "SRC-002"
   ],
   "source_ids": [
     "SRC-001",
-    "SRC-002"
+    "SRC-002",
+    "SRC-003"
   ],
   "material_summary": {
     "images": 23,
@@ -46,5 +47,11 @@
     "数字互动球场参考",
     "STREAK App与排名方案",
     "品牌及周边设计"
-  ]
+  ],
+  "current_brand_brief_source_id": "SRC-003",
+  "core_event_ip": "STREAK",
+  "brand_tagline": {
+    "en": "Every Player Deserves a Stage.",
+    "zh": "每一位球员，都值得拥有属于自己的舞台。"
+  }
 }

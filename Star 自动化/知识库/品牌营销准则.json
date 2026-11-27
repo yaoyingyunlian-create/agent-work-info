@@ -1,0 +1,137 @@
+{
+  "source_id": "SRC-003",
+  "received_date": "2026-11-27",
+  "version": "2026-11-27-user-brief",
+  "source_sha256": "c27fe0b257b068ae281138817b2dc880f10065335db90a7e98490787b0a2625e",
+  "status": "user_provided_current_brand_brief",
+  "priority": "品牌定位与营销指导优先于历史图像推断；原文中的计划不转为已落地事实",
+  "company": "Star Arena Pte Ltd",
+  "positioning": "创新型体育娱乐公司，创立于新加坡",
+  "core_ip": "STREAK",
+  "brand_relationship": "STREAK 是 Star Arena 打造的核心体育赛事 IP",
+  "tagline": {
+    "en": "Every Player Deserves a Stage.",
+    "zh": "每一位球员，都值得拥有属于自己的舞台。"
+  },
+  "sports_focus": "篮球优先，其他项目逐步探索",
+  "ecosystem_status": "planned",
+  "ecosystem": [
+    "STREAK by STREET",
+    "STREAK by MALL",
+    "STREAK BEACH FINAL"
+  ],
+  "current_operating_stage": null,
+  "honors": {
+    "5 STREAK": "连续赢得五场比赛",
+    "10 STREAK": "连续赢得十场比赛",
+    "SLAYER": "成功终结一名球员或一支球队五连胜及以上、符合赛事规则的挑战者所获得的专属荣誉。",
+    "KING SLAYER": "成功终结十连胜及以上、符合赛事规则的强者所获得的更高等级荣誉。",
+    "LAST STAND": "具有高度悬念和娱乐性的最终挑战环节；具体规则未提供",
+    "SBR": "Streak Basketball Ranking，专属篮球实力排名及等级系统；具体计算公式未提供"
+  },
+  "primary_language": "en",
+  "secondary_language_policy": "按目标群体制作中文及其他语言版本，中英文关键信息同步核对",
+  "priority_platforms": [
+    "Instagram",
+    "TikTok",
+    "Facebook",
+    "YouTube Shorts",
+    "YouTube"
+  ],
+  "future_platforms": [
+    "小红书",
+    "抖音",
+    "其他区域平台"
+  ],
+  "suggested_content_mix": {
+    "real_event_highlights": 50,
+    "ai_creative_brand": 25,
+    "player_stories_honors": 15,
+    "registration_commercial": 10
+  },
+  "mix_status": "建议且按数据调整；正式运营前不得为凑比例虚构真实赛事",
+  "publishing_authorization": "需相应授权及审核；本纲领不等于账号操作或发布授权",
+  "system_status": "requirements_only_not_implemented",
+  "sections": [
+    {
+      "number": "01",
+      "title": "公司介绍｜Who We Are",
+      "body": "Star Arena Pte Ltd 是一家创立于新加坡的创新型体育娱乐公司，致力于将传统体育运动与数字科技、现场娱乐、社交互动、竞技赛事及数字媒体相结合，创造全新的体育娱乐体验。\n\nStar Arena 并不是一家传统的体育场馆运营公司，也不是一家单纯的体育赛事组织公司。\n\n我们的目标是重新定义大众体育的参与方式、观赏方式和传播方式，让普通体育爱好者也能够体验职业运动员般的竞技舞台、现场氛围、个人荣誉及公众关注。\n\n我们通过大型 LED 屏幕、数字赛事系统、互动游戏、实时排行榜、自动视频录制、音乐、灯光及创新赛事机制，将普通的体育比赛转变为具有娱乐性、观赏性、参与感和社交传播价值的体育娱乐活动。\n\n我们的品牌理念是：\n\nEvery Player Deserves a Stage.\n\n每一位球员，都值得拥有属于自己的舞台。"
+    },
+    {
+      "number": "02",
+      "title": "核心赛事品牌｜What Is STREAK?",
+      "body": "STREAK 是 Star Arena 打造的核心体育赛事 IP，也是公司未来重点发展的体育娱乐品牌。\n\nSTREAK 的核心竞技机制是 Winning Streak，即连续获胜。\n\n与传统联赛、杯赛及淘汰赛不同，STREAK 以胜者留场、持续挑战、累积连胜、终结连胜为核心，创造充满悬念和戏剧性的比赛体验。\n\n球员不仅仅是为了赢得一场比赛而战，更是为了建立自己的连胜纪录、获得专属荣誉、提升个人影响力，以及成为其他球员希望挑战的对象。\n\n在 STREAK 的世界里，每一场比赛都可能产生新的英雄，每一次挑战都可能创造新的故事。\n\nSTREAK 不只是关于谁最强，更是关于：\n\n* 谁能够一直赢下去？\n* 谁能够承受越来越大的挑战和压力？\n* 谁能够终结强者的连胜？\n* 谁能够成为下一个传奇？\n\n我们的目标是让每一场普通人的比赛，都有机会成为值得观看、讨论和分享的体育娱乐内容。"
+    },
+    {
+      "number": "03",
+      "title": "STREAK 的核心荣誉体系",
+      "body": "STREAK 将建立具有品牌辨识度的竞技荣誉体系。\n\n5 STREAK\n\n代表连续赢得五场比赛，是球员获得的重要竞技成就。\n\n10 STREAK\n\n代表连续赢得十场比赛，是更高等级的竞技荣誉，象征卓越的实力和持续获胜的能力。\n\nSLAYER\n\n成功终结一名球员或一支球队五连胜及以上、符合赛事规则的挑战者所获得的专属荣誉。\n\nKING SLAYER\n\n成功终结十连胜及以上、符合赛事规则的强者所获得的更高等级荣誉。\n\nLAST STAND\n\n赛事中具有高度悬念和娱乐性的最终挑战环节，让比赛在紧张、激烈的竞技氛围中迎来高潮。\n\nSBR — Streak Basketball Ranking\n\nSTREAK 专属篮球实力排名及等级系统，用于记录球员竞技表现、实力变化和成长过程。\n\n这些不仅仅是赛事规则，也是 STREAK 品牌的核心故事元素。\n\n营销团队应围绕这些概念持续创造内容，使它们逐渐成为球员群体熟悉、认可并渴望获得的荣誉符号。"
+    },
+    {
+      "number": "04",
+      "title": "赛事生态系统｜The STREAK Ecosystem",
+      "body": "STREAK 计划建立三个相互连接的赛事场景。\n\nSTREAK by STREET\n\n深入社区、街头篮球场及大众体育场地，让更多普通体育爱好者参与 STREAK，发现有潜力的球员，建立本地体育社区。\n\n这是 STREAK 的基层赛事体系，也是品牌接触大众球员的重要入口。\n\nSTREAK by MALL\n\n在购物中心及高人流量商业空间举办具有科技感和娱乐性的体育快闪赛事。\n\n通过大型 LED 屏幕、数字赛事系统、音乐、现场观众和竞技挑战，让体育比赛成为商业空间中的娱乐焦点。\n\n这是 STREAK 的核心商业赛事场景之一。\n\nSTREAK BEACH FINAL\n\n将体育竞技与户外音乐、灯光、DJ、现场娱乐及嘉年华相结合，打造具有节日氛围和社交传播价值的体育娱乐活动。\n\n这是 STREAK 计划发展的高等级赛事舞台及品牌标志性活动。\n\n整体赛事体系：\n\nSTREET → MALL → BEACH FINAL\n\n让普通球员从社区走向更大的舞台，让具有实力、个性和故事的球员获得更多关注。"
+    },
+    {
+      "number": "05",
+      "title": "体育项目及未来发展",
+      "body": "STREAK 将以篮球作为核心品牌切入点，并逐步探索其他适合连胜挑战机制的体育项目。\n\n发展方向包括：\n\n* 1v1 篮球对抗\n* 团队篮球赛事\n* 三分球挑战\n* 篮球技巧挑战\n* 数字互动体育游戏\n* 匹克球\n* 羽毛球\n* 其他具有竞技性和娱乐性的运动项目\n\n不同体育项目可以采用不同的场地设计及运营模式，但应共享 STREAK 的核心品牌文化、竞技精神及连胜荣誉体系。\n\n所有具体赛制、活动日期、收费及场地安排，必须以 Star Arena 最新确认的信息为准。"
+    },
+    {
+      "number": "06",
+      "title": "品牌长期愿景｜Our Vision",
+      "body": "Star Arena 的长期目标并不是依靠出租体育场地或收取赛事报名费成为一家传统体育公司。\n\n我们希望建立一个具有国际影响力的体育娱乐 IP，发展方向类似于 Kings League 等新一代体育娱乐品牌，但拥有 STREAK 自己独特的竞技机制、品牌文化和商业模式。\n\n我们希望将体育赛事转化为持续产生内容、吸引观众、创造明星球员及连接商业品牌的平台。\n\n未来商业价值将来自：\n\n* 品牌赞助\n* 广告及商业合作\n* 赛事直播\n* 数字媒体内容\n* 体育娱乐活动\n* 品牌周边产品\n* 赛事 IP 授权\n* 数字赛事系统及软件服务\n* 全球合作伙伴网络\n\n新加坡是 Star Arena 的起点，而不是最终市场。\n\n未来，我们希望将 STREAK 拓展至东南亚、中国、欧洲及其他国际市场。"
+    },
+    {
+      "number": "07",
+      "title": "目标受众｜Target Audience",
+      "body": "我们的目标受众不仅仅是参加比赛的球员，还包括所有可能喜欢观看、讨论及分享体育娱乐内容的人群。\n\n主要目标群体包括：\n\n* 年轻体育爱好者\n* 街头篮球及大众篮球玩家\n* 学生及年轻上班族\n* 喜欢竞技挑战及游戏文化的人群\n* 体育赛事观众\n* 社交媒体体育内容消费者\n* 体育网红及内容创作者\n* 商业赞助商及合作伙伴\n\n在新加坡市场，我们希望建立一个开放、多元化、具有包容性的体育社区，吸引不同国籍、不同文化背景及不同竞技水平的参与者。"
+    },
+    {
+      "number": "08",
+      "title": "品牌性格｜Brand Personality",
+      "body": "STREAK 应该是一个具有鲜明个性、容易辨认并具有情绪感染力的品牌。\n\n品牌核心关键词：\n\n* Competitive — 竞技\n* Energetic — 活力\n* Bold — 大胆\n* Rebellious — 突破传统\n* Heroic — 英雄主义\n* Dramatic — 戏剧性\n* Futuristic — 未来感\n* Inclusive — 包容\n* Authentic — 真实\n* Entertaining — 娱乐性\n\n品牌视觉及视频内容可以结合职业体育赛事的制作水准、街头篮球文化、电竞赛事的视觉冲击力，以及音乐节的现场娱乐氛围。\n\n但 STREAK 不应简单模仿 NBA、Kings League 或其他体育品牌，而应该建立自己独特的视觉语言、文化符号和品牌识别度。"
+    },
+    {
+      "number": "09",
+      "title": "AI 营销的核心任务｜Marketing Mission",
+      "body": "营销团队及其 AI 系统的核心任务，不是简单地为 Star Arena 制作大量短视频，也不是机械地向社交媒体发布内容。\n\n我们的真正目标是：\n\n将 STREAK 打造成一个人们愿意关注、观看、讨论、参与和分享的体育娱乐品牌。\n\n营销系统需要同时服务于五个目标：\n\n第一，建立 Star Arena 和 STREAK 的品牌知名度。\n\n第二，让市场理解 STREAK 独特的连胜竞技机制。\n\n第三，激发球员的参赛欲望、荣誉感和挑战精神。\n\n第四，吸引非参赛观众关注赛事及球员故事。\n\n第五，建立具有商业价值的媒体影响力，为未来的品牌赞助及商业合作创造条件。"
+    },
+    {
+      "number": "10",
+      "title": "核心内容策略｜Content Strategy",
+      "body": "AI 营销系统应持续围绕以下内容方向进行创意策划。\n\nA. 品牌世界观\n\n展示 STREAK 所代表的新一代体育娱乐文化，让观众理解我们正在创造一个不同于传统体育比赛的全新舞台。\n\nB. 连胜挑战与英雄主义\n\n围绕 Winning Streak、5 STREAK、10 STREAK、SLAYER、KING SLAYER 和 LAST STAND 创造具有悬念、冲突、挑战及荣誉感的内容。\n\n例如：\n\n* How long can you stay undefeated?\n* Everyone wants the crown.\n* Every streak has an enemy.\n* Legends rise. Kings fall.\n* Who will be the next King Slayer?\n\nC. 普通人的明星故事\n\n让普通球员成为内容的主角。\n\n通过球员介绍、成长故事、挑战宣言、历史战绩、比赛对决及个人荣誉，让观众逐渐认识、关注并支持不同的球员。\n\n我们希望未来 STREAK 能够创造属于自己的体育明星和社区英雄。\n\nD. 赛事精彩内容\n\n正式运营后，应以真实赛事素材为核心，利用 AI 自动识别及剪辑：\n\n* 精彩进球\n* 绝杀时刻\n* 连胜纪录\n* 连胜被终结的瞬间\n* 球员庆祝\n* 观众反应\n* 赛前挑战宣言\n* 赛后采访\n* 具有戏剧性的比赛结果\n\n每一场比赛都应该被视为潜在的内容生产机会。\n\nE. 未来科技与现场体验\n\n展示 Star Arena 的 LED 屏幕、互动体育技术、数字排行榜、赛事系统、现场灯光及音乐氛围。\n\n在正式运营前，可以使用 AI 生成概念视频，让观众提前了解未来的体验，但必须明确区分概念演示与真实赛事画面。\n\nF. 社交互动及病毒式传播\n\n策划能够引发观众评论、投票、讨论、分享和挑战朋友的内容。\n\n例如：\n\n* Who would you challenge?\n* Tag someone who thinks they can win 10 in a row.\n* Could you stop a 10-game winning streak?\n* Who deserves the crown?\n* Would you rather be the King or the King Slayer?\n\n内容应该让观众产生参与感，而不是被动接受商业广告。"
+    },
+    {
+      "number": "11",
+      "title": "不同发展阶段的营销策略",
+      "body": "第一阶段：品牌预热期\n\n在正式赛事启动之前，重点建立品牌认知、解释赛事概念、创造期待感及积累第一批社交媒体粉丝。\n\n可以适当提高 AI 创意视频及品牌概念视频的比例。\n\n第二阶段：赛事启动期\n\n重点推广真实活动、球员报名、赛事规则、现场体验及第一批具有代表性的球员。\n\n逐渐增加真实赛事素材的比例。\n\n第三阶段：品牌增长期\n\n重点发展球员故事、赛事剧情、连胜纪录、社区文化、网红合作、直播内容及商业赞助价值。\n\n建议初期内容比例为：\n\n* 50% 真实赛事及精彩集锦\n* 25% AI 创意及品牌宣传\n* 15% 球员故事及荣誉体系\n* 10% 赛事报名及商业推广\n\n具体比例应根据实际营销数据持续调整。"
+    },
+    {
+      "number": "12",
+      "title": "社交媒体运营策略",
+      "body": "重点运营平台包括：\n\n* Instagram\n* TikTok\n* Facebook\n* YouTube Shorts\n* YouTube\n\n未来根据国际市场发展，逐步探索小红书、抖音及其他区域性社交媒体平台。\n\n针对新加坡市场，建议以英文作为主要传播语言，并根据目标群体适当制作中文及其他语言版本。\n\n不同平台应根据用户习惯、视频长度、内容形式及传播特点进行针对性优化，而不是简单重复发布完全相同的内容。"
+    },
+    {
+      "number": "13",
+      "title": "对 AI 营销系统的要求",
+      "body": "我们希望营销公司建立一套以 GPT 或其他先进语言模型为中央决策引擎的 AI 营销系统。\n\n该系统应具备以下能力：\n\n1. 持续理解及学习 Star Arena 的品牌知识、赛事规则及发展战略。\n2. 自动研究体育行业热点、市场趋势及竞争品牌。\n3. 根据品牌定位制定每周及每月的内容计划。\n4. 自动生成创意、脚本、视频、图片、配音及字幕。\n5. 保持 Logo、品牌色彩、视觉风格及语言表达的一致性。\n6. 针对不同社交媒体平台优化内容及发布时间。\n7. 在获得相应授权及审核后自动发布内容。\n8. 收集并分析真实的社交媒体表现数据。\n9. 根据数据反馈持续调整内容策略。\n10. 未来与 STREAK 官方网站、赛事数据库、球员排行榜及真实比赛视频系统进行对接。\n11. 自动发现具有传播潜力的球员、赛事故事及精彩比赛时刻。\n12. 定期向 Star Arena 管理层提供营销报告及下一阶段的策略建议。\n\nAI 系统不应仅仅执行固定指令，而应该在品牌授权范围内，具备主动研究、创意策划、效果分析和持续优化的能力。"
+    },
+    {
+      "number": "14",
+      "title": "营销效果评估｜KPIs",
+      "body": "营销效果不应仅以发布视频的数量作为衡量标准。\n\n重点关注：\n\n* 品牌知名度\n* 有效粉丝增长\n* 视频自然播放量\n* 视频完播率\n* 评论及分享率\n* 用户主动搜索品牌的次数\n* 官网访问量\n* 球员注册及赛事报名转化\n* 社区活跃度\n* 单位营销成本\n* 商业合作及赞助咨询数量\n\nAI 系统应识别哪些内容能够带来真正的品牌增长，而不仅仅是短期播放量。"
+    },
+    {
+      "number": "15",
+      "title": "品牌安全及内容管理原则",
+      "body": "所有营销内容必须遵守以下原则：\n\n* 不得虚构真实赛事、球员成绩、合作伙伴、赞助商或商业数据。\n* 不得将尚未确定的赛事计划宣传为已确认事项。\n* 不得将 AI 生成的虚拟比赛画面冒充真实赛事。\n* 未经授权不得使用真实球员、明星或网红的肖像及声音。\n* 不得购买虚假粉丝、虚假评论或虚假互动。\n* 不得为追求流量而制造恶意冲突、歧视或人身攻击。\n* 必须遵守版权、个人数据保护及各社交媒体平台的相关规定。\n* 重大品牌声明、商业承诺及敏感内容必须经过人工审核。\n* Star Arena 最新批准的品牌资料和赛事规则应优先于历史资料及 AI 自行推断的信息。"
+    },
+    {
+      "number": "16",
+      "title": "最终营销目标｜The Ultimate Goal",
+      "body": "我们不希望 STREAK 只是一个拥有大量社交媒体视频的体育赛事品牌。\n\n我们希望 STREAK 成为一种体育文化。\n\n当球员获得五连胜时，他们会为此感到骄傲。\n\n当球员获得十连胜时，他们会成为其他球员希望挑战的对象。\n\n当一名挑战者终结强者的连胜时，观众会为新的英雄欢呼。\n\n当普通球员站在 STREAK 的舞台上时，他们能够感受到自己就是比赛的主角。\n\n我们希望人们不仅仅为了打球而来到 STREAK，也为了观看比赛、支持球员、体验现场氛围、结交朋友以及成为这一体育文化的一部分而来到 STREAK。\n\nWe are not just organizing games.\n\nWe are creating heroes, rivalries, stories and entertainment.\n\nEvery Player Deserves a Stage.\n\nSTAR ARENA — STREAK"
+    }
+  ]
+}
