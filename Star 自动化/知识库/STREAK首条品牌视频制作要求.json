@@ -1,0 +1,66 @@
+{
+  "updated_date": "2026-11-27",
+  "source_id": "SRC-004",
+  "status": "client_brief_recorded_not_produced",
+  "scope": "first_STREAK_brand_teaser",
+  "supersedes": "STREAK首条品牌视频客户答复-2026-11-27.txt",
+  "topic": "STREAK篮球连胜挑战品牌预热",
+  "market": "Singapore",
+  "audience_age_suggestion": [
+    16,
+    35
+  ],
+  "age_is_entry_eligibility": false,
+  "primary_goals": [
+    "brand_awareness",
+    "followers",
+    "anticipation",
+    "sharing"
+  ],
+  "secondary_cta": {
+    "platforms": [
+      "Instagram",
+      "TikTok"
+    ],
+    "keyword": "STREAK",
+    "official_handles": null
+  },
+  "voiceover_language": "en",
+  "subtitle_language": "en",
+  "chinese_video_required": false,
+  "format_suggestion": "9:16",
+  "duration_seconds_suggestion": [
+    20,
+    30
+  ],
+  "hook_within_seconds": 3,
+  "visual_status": "AI_concept_not_real_event",
+  "concept_label_required": true,
+  "fictional_AI_players_and_audience_allowed": true,
+  "real_people_require_authorization": true,
+  "confirmed_brand_materials_public_use_allowed": true,
+  "blanket_existing_library_public_authorization": false,
+  "final_selected_asset_versions": null,
+  "led_layout": "large_LED_screens_on_both_sides_of_basketball_hoop",
+  "sport": "basketball_1v1",
+  "closing_copy_suggestions": [
+    "EVERY PLAYER DESERVES A STAGE.",
+    "HOW LONG CAN YOU STAY UNDEFEATED?",
+    "STREAK — COMING SOON"
+  ],
+  "pending": [
+    "official_account_handles",
+    "final_logo_S_and_court_LED_reference_versions"
+  ],
+  "exclude": [
+    "unconfirmed_event_date",
+    "unconfirmed_venue",
+    "prices_discounts",
+    "registration_links",
+    "unconfirmed_partners_sponsors",
+    "real_results_claims",
+    "violence_fighting",
+    "gambling",
+    "uncivil_behavior"
+  ]
+}
